@@ -157,13 +157,17 @@ const App = () => {
       <p className="text-center mb-6">Select a chapter to start a practice test:</p>
       <div className="grid md:grid-cols-1 gap-4">
         {chapters.map((chapter) => (
-          <button
-            key={chapter.id}
-            onClick={() => startQuiz(chapter.id)}
-            className="bg-blue-500 hover:bg-blue-600 text-white font-semibold py-3 px-6 rounded-lg transition duration-300 text-lg"
-          >
-            Chapter {chapter.id}: {chapter.title}
-          </button>
+          <div key={chapter.id} className="bg-white p-4 rounded-lg shadow-md flex justify-between items-center">
+            <div className="text-lg font-semibold">
+              Chapter {chapter.id}: {chapter.title}
+            </div>
+            <button
+              onClick={() => startQuiz(chapter.id)}
+              className="bg-blue-500 hover:bg-blue-600 text-white font-semibold py-2 px-4 rounded transition duration-300"
+            >
+              Start Quiz
+            </button>
+          </div>
         ))}
       </div>
     </div>
