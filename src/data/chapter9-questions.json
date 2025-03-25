@@ -1,0 +1,170 @@
+{
+  "9": [
+    {
+      "question": "What is the legal blood alcohol concentration (BAC) limit for drivers 21 years and older?",
+      "options": [
+        { "text": "0.08% or higher", "isCorrect": true },
+        { "text": "0.05% or higher", "isCorrect": false, "explanation": "The legal BAC limit for drivers 21 years and older is 0.08%, not 0.05%." },
+        { "text": "0.01% or higher", "isCorrect": false, "explanation": "0.01% is the legal BAC limit for drivers under 21 years old, not for those 21 and older." },
+        { "text": "0.04% or higher", "isCorrect": false, "explanation": "0.04% is the legal BAC limit for commercial drivers, not for standard drivers 21 and older." }
+      ]
+    },
+    {
+      "question": "What is the legal blood alcohol concentration (BAC) limit for drivers under 21 years old?",
+      "options": [
+        { "text": "0.01% or higher", "isCorrect": true },
+        { "text": "0.08% or higher", "isCorrect": false, "explanation": "0.08% is the legal BAC limit for drivers 21 years and older, not for those under 21." },
+        { "text": "0.05% or higher", "isCorrect": false, "explanation": "The legal BAC limit for drivers under 21 years old is 0.01%, not 0.05%." },
+        { "text": "No alcohol is permitted", "isCorrect": false, "explanation": "While 0.01% is very low, California law specifically states 0.01% or higher as the limit for drivers under 21." }
+      ]
+    },
+    {
+      "question": "What is the legal blood alcohol concentration (BAC) limit for commercial drivers?",
+      "options": [
+        { "text": "0.04% or higher", "isCorrect": true },
+        { "text": "0.08% or higher", "isCorrect": false, "explanation": "0.08% is the legal BAC limit for non-commercial drivers 21 years and older, not for commercial drivers." },
+        { "text": "0.01% or higher", "isCorrect": false, "explanation": "0.01% is the legal BAC limit for drivers under 21 years old, not for commercial drivers." },
+        { "text": "0.05% or higher", "isCorrect": false, "explanation": "The legal BAC limit for commercial drivers is 0.04%, not 0.05%." }
+      ]
+    },
+    {
+      "question": "What happens when you drive with an illegal blood alcohol concentration (BAC)?",
+      "options": [
+        { "text": "A law enforcement officer can charge you with DUI", "isCorrect": true },
+        { "text": "You only receive a warning for first offense", "isCorrect": false, "explanation": "Driving with an illegal BAC can result in a DUI charge, even for first-time offenders." },
+        { "text": "Only a fine is imposed", "isCorrect": false, "explanation": "Driving with an illegal BAC can result in a DUI charge with potential jail time, not just a fine." },
+        { "text": "License suspension only if involved in a collision", "isCorrect": false, "explanation": "You can have your license suspended for a DUI even if not involved in a collision." }
+      ]
+    },
+    {
+      "question": "If a law enforcement officer suspects you of DUI, what are you consenting to by driving in California?",
+      "options": [
+        { "text": "A breath, blood, or urine test", "isCorrect": true },
+        { "text": "Only a field sobriety test", "isCorrect": false, "explanation": "Under California's implied consent law, you consent to chemical tests (breath, blood, or urine), not just field sobriety tests." },
+        { "text": "Only a breath test", "isCorrect": false, "explanation": "You consent to breath, blood, or urine tests, not just a breath test." },
+        { "text": "Vehicle search only", "isCorrect": false, "explanation": "Implied consent in California relates to chemical testing, not vehicle searches." }
+      ]
+    },
+    {
+      "question": "If you refuse to take a chemical test when suspected of DUI, what happens?",
+      "options": [
+        { "text": "DMV will suspend or revoke your driving privilege", "isCorrect": true },
+        { "text": "You will only receive a warning", "isCorrect": false, "explanation": "Refusing a chemical test results in automatic suspension or revocation of your driving privilege, not just a warning." },
+        { "text": "Nothing happens unless you were in a collision", "isCorrect": false, "explanation": "Your driving privilege will be suspended or revoked for refusal regardless of whether you were in a collision." },
+        { "text": "You will only receive a fine", "isCorrect": false, "explanation": "Refusing a chemical test leads to license suspension or revocation, not just a fine." }
+      ]
+    },
+    {
+      "question": "How long do DUI convictions remain on your driver's record?",
+      "options": [
+        { "text": "10 years", "isCorrect": true },
+        { "text": "3 years", "isCorrect": false, "explanation": "DUI convictions remain on your driver's record for 10 years, not 3 years." },
+        { "text": "5 years", "isCorrect": false, "explanation": "DUI convictions remain on your driver's record for 10 years, not 5 years." },
+        { "text": "Forever", "isCorrect": false, "explanation": "DUI convictions remain on your driver's record for 10 years, not permanently." }
+      ]
+    },
+    {
+      "question": "What is the law regarding open containers of alcohol in a vehicle?",
+      "options": [
+        { "text": "It's illegal to carry any open container of alcohol in the passenger area", "isCorrect": true },
+        { "text": "Open containers are allowed if they belong to a passenger", "isCorrect": false, "explanation": "It's illegal for anyone to have an open container in the passenger area, regardless of who it belongs to." },
+        { "text": "Open containers are allowed if they are not being consumed", "isCorrect": false, "explanation": "Having an open container in the passenger area is illegal even if no one is drinking from it." },
+        { "text": "Open containers are only illegal for the driver", "isCorrect": false, "explanation": "Open containers are illegal for anyone in the passenger area of the vehicle." }
+      ]
+    },
+    {
+      "question": "Where must you keep an open container of alcohol in your vehicle if you must transport it?",
+      "options": [
+        { "text": "In the trunk or in a place where passengers do not sit", "isCorrect": true },
+        { "text": "In the glove compartment", "isCorrect": false, "explanation": "It's illegal to keep an open container of alcohol in the glove compartment." },
+        { "text": "Under the driver's seat", "isCorrect": false, "explanation": "An open container must be kept in the trunk or where passengers do not sit, not under the driver's seat." },
+        { "text": "In a cup holder", "isCorrect": false, "explanation": "An open container must be kept in the trunk or where passengers do not sit, not in a cup holder." }
+      ]
+    },
+    {
+      "question": "If you are under 21 years old, what is the penalty for being caught with alcohol in your vehicle?",
+      "options": [
+        { "text": "Fine, vehicle impoundment for up to 30 days, and one-year license suspension", "isCorrect": true },
+        { "text": "Warning only for first offense", "isCorrect": false, "explanation": "Even first offenses can result in fines, vehicle impoundment, and license suspension." },
+        { "text": "License suspension only", "isCorrect": false, "explanation": "The penalties include not just license suspension but also possible fines and vehicle impoundment." },
+        { "text": "Community service only", "isCorrect": false, "explanation": "The penalties include fines, vehicle impoundment, and license suspension, not just community service." }
+      ]
+    },
+    {
+      "question": "For drivers under 21, what happens if you are convicted of driving with a BAC of 0.01% or higher?",
+      "options": [
+        { "text": "DMV may revoke your driving privilege for one year", "isCorrect": true },
+        { "text": "Only a written warning", "isCorrect": false, "explanation": "The consequence is much more serious - revocation of driving privilege for one year." },
+        { "text": "Only a small fine", "isCorrect": false, "explanation": "The consequence is revocation of driving privilege for one year, not just a fine." },
+        { "text": "Nothing for first offense", "isCorrect": false, "explanation": "Even for a first offense, DMV may revoke your driving privilege for one year." }
+      ]
+    },
+    {
+      "question": "What must you do if convicted of a DUI in California?",
+      "options": [
+        { "text": "Complete a DUI program, file SR 22/SR 1P, and pay license reissue fees", "isCorrect": true },
+        { "text": "Only pay a fine", "isCorrect": false, "explanation": "DUI conviction requirements include completing a DUI program and filing SR 22/SR 1P, not just paying a fine." },
+        { "text": "Only complete community service", "isCorrect": false, "explanation": "DUI conviction requirements include completing a DUI program and filing SR 22/SR 1P, not just community service." },
+        { "text": "Only notify your insurance company", "isCorrect": false, "explanation": "You must complete a DUI program, file SR 22/SR 1P, and pay license reissue fees." }
+      ]
+    },
+    {
+      "question": "What is the legal BAC limit for drivers who are on DUI probation?",
+      "options": [
+        { "text": "0.01% or higher", "isCorrect": true },
+        { "text": "0.08% or higher", "isCorrect": false, "explanation": "The legal BAC limit for drivers on DUI probation is 0.01%, not 0.08%." },
+        { "text": "0.04% or higher", "isCorrect": false, "explanation": "The legal BAC limit for drivers on DUI probation is 0.01%, not 0.04%." },
+        { "text": "0.05% or higher", "isCorrect": false, "explanation": "The legal BAC limit for drivers on DUI probation is 0.01%, not 0.05%." }
+      ]
+    },
+    {
+      "question": "What is the legal BAC limit for drivers who are driving a passenger for hire?",
+      "options": [
+        { "text": "0.04% or higher", "isCorrect": true },
+        { "text": "0.08% or higher", "isCorrect": false, "explanation": "The legal BAC limit for drivers of passengers for hire is 0.04%, not 0.08%." },
+        { "text": "0.01% or higher", "isCorrect": false, "explanation": "The legal BAC limit for drivers of passengers for hire is 0.04%, not 0.01%." },
+        { "text": "0.05% or higher", "isCorrect": false, "explanation": "The legal BAC limit for drivers of passengers for hire is 0.04%, not 0.05%." }
+      ]
+    },
+    {
+      "question": "If you are under 21 and a law enforcement officer suspects you of consuming alcohol, what test might they require you to take?",
+      "options": [
+        { "text": "A hand-held breath test (PAS)", "isCorrect": true },
+        { "text": "Only a field sobriety test", "isCorrect": false, "explanation": "Officers can require underage drivers to take a hand-held breath test (PAS)." },
+        { "text": "Only a blood test", "isCorrect": false, "explanation": "Officers typically first use a hand-held breath test (PAS) before requiring blood tests." },
+        { "text": "No tests can be required without a warrant", "isCorrect": false, "explanation": "Under California law, officers can require underage drivers to take a hand-held breath test." }
+      ]
+    },
+    {
+      "question": "If your PAS test as an under-21 driver shows a BAC of 0.05% or higher, what can happen?",
+      "options": [
+        { "text": "The officer may require you to take a breath or blood test", "isCorrect": true },
+        { "text": "Nothing, as 0.05% is legal for drivers under 21", "isCorrect": false, "explanation": "0.05% is well above the 0.01% limit for drivers under 21, and officers can require additional testing." },
+        { "text": "Only a warning for first offense", "isCorrect": false, "explanation": "With a 0.05% BAC, an officer can require further testing and you may face DUI charges." },
+        { "text": "Only a small fine", "isCorrect": false, "explanation": "With a 0.05% BAC, you may face DUI charges and license suspension, not just a small fine." }
+      ]
+    },
+    {
+      "question": "If you are 13 to 20 years old and convicted of operating a bicycle while under the influence of alcohol or drugs, what can happen?",
+      "options": [
+        { "text": "Your driving privilege may be suspended or delayed for one year", "isCorrect": true },
+        { "text": "Nothing, as bicycle laws don't affect driver's licenses", "isCorrect": false, "explanation": "California law specifically allows for suspension or delay of driving privileges for 13-20 year olds convicted of cycling under the influence." },
+        { "text": "Only a small fine", "isCorrect": false, "explanation": "Your driving privilege may be suspended or delayed for one year, which is more serious than just a fine." },
+        { "text": "Only community service", "isCorrect": false, "explanation": "Your driving privilege may be suspended or delayed for one year, not just community service." }
+      ]
+    },
+    {
+      "question": "What does California's Administrative Per Se law require when you are arrested for DUI?",
+      "options": [
+        { "text": "DMV must suspend your driving privilege", "isCorrect": true },
+        { "text": "Only a court can suspend your license", "isCorrect": false, "explanation": "The Administrative Per Se law allows DMV to suspend your driving privilege administratively, independent of court action." },
+        { "text": "You may continue driving until convicted", "isCorrect": false, "explanation": "Under Administrative Per Se, DMV can suspend your license before any court conviction." },
+        { "text": "Only a fine can be imposed", "isCorrect": false, "explanation": "Administrative Per Se law requires DMV to suspend your driving privilege, not just impose a fine." }
+      ]
+    },
+    {
+      "question": "What happens to your driver's license when you are arrested for DUI?",
+      "options": [
+        { "text": "The officer may take your license and give you a temporary license for 30 days", "isCorrect": true },
+        { "text": "Your license is immediately destroyed", "isCorrect": false, "explanation": "The officer takes your license and issues a temporary one, but doesn't destroy your original license." },
+        { "text": "Nothing happens until conviction", "isCorrect": false, "explanation
