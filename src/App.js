@@ -1,21 +1,30 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 
-const App = () => {
-  const [currentView, setCurrentView] = useState('home');
-  const [currentChapter, setCurrentChapter] = useState(null);
-  const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
-  const [selectedAnswers, setSelectedAnswers] = useState({});
-  const [quizSubmitted, setQuizSubmitted] = useState(false);
+// Mock API service to simulate backend calls
+const api = {
+  getChapters: () => {
+    return new Promise((resolve) => {
+      setTimeout(() => {
+        resolve([
+          { id: 1, title: "The California Driver's License" },
+          { id: 5, title: "An Introduction to Driving" },
+          { id: 9, title: "Alcohol and Drugs" }
+        ]);
+      }, 300);
+    });
+  },
+  
+  getQuestionsByChapter: (chapterId) => {
+    return new Promise((resolve) => {
+      setTimeout(() => {
+        resolve(mockQuestionsByChapter[chapterId]);
+      }, 500);
+    });
+  }
+};
 
-  // Define only 3 chapters from the handbook
-  const chapters = [
-    { id: 1, title: "The California Driver's License" },
-    { id: 5, title: "An Introduction to Driving" },
-    { id: 9, title: "Alcohol and Drugs" }
-  ];
-
-  // Questions for each chapter (3 per chapter)
-  const questionsByChapter = {
+// Mock questions data (moved outside the component)
+const mockQuestionsByChapter = {
     1: [
       {
         question: "What does a California driver's license allow you to do?",
@@ -103,14 +112,49 @@ const App = () => {
         ]
       }
     ]
-  };
+};
 
-  const startQuiz = (chapterId) => {
+const App = () => {
+  const [currentView, setCurrentView] = useState('home');
+  const [currentChapter, setCurrentChapter] = useState(null);
+  const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
+  const [selectedAnswers, setSelectedAnswers] = useState({});
+  const [quizSubmitted, setQuizSubmitted] = useState(false);
+  const [chapterScores, setChapterScores] = useState({});
+  const [chapters, setChapters] = useState([]);
+  const [questions, setQuestions] = useState([]);
+  const [loading, setLoading] = useState(false);
+
+  // Fetch chapters on component mount
+  useEffect(() => {
+    const fetchChapters = async () => {
+      try {
+        const data = await api.getChapters();
+        setChapters(data);
+      } catch (error) {
+        console.error("Error fetching chapters:", error);
+      }
+    };
+    
+    fetchChapters();
+  }, []);
+
+  const startQuiz = async (chapterId) => {
     setCurrentChapter(chapterId);
     setCurrentView('quiz');
     setCurrentQuestionIndex(0);
     setSelectedAnswers({});
     setQuizSubmitted(false);
+    setLoading(true);
+    
+    try {
+      const questionData = await api.getQuestionsByChapter(chapterId);
+      setQuestions(questionData);
+    } catch (error) {
+      console.error("Error fetching questions:", error);
+    } finally {
+      setLoading(false);
+    }
   };
 
   const handleAnswerSelect = (questionIndex, optionIndex) => {
@@ -124,6 +168,14 @@ const App = () => {
 
   const submitQuiz = () => {
     setQuizSubmitted(true);
+    const score = calculateScore();
+    setChapterScores({
+      ...chapterScores,
+      [currentChapter]: {
+        score: score,
+        total: questions.length
+      }
+    });
   };
 
   const retakeQuiz = () => {
@@ -139,7 +191,6 @@ const App = () => {
 
   const calculateScore = () => {
     let score = 0;
-    const questions = questionsByChapter[currentChapter];
 
     for (let i = 0; i < questions.length; i++) {
       if (selectedAnswers[i] !== undefined &&
@@ -158,8 +209,15 @@ const App = () => {
       <div className="grid md:grid-cols-1 gap-4">
         {chapters.map((chapter) => (
           <div key={chapter.id} className="bg-white p-4 rounded-lg shadow-md flex justify-between items-center">
-            <div className="text-lg font-semibold">
-              Chapter {chapter.id}: {chapter.title}
+            <div className="flex flex-col">
+              <div className="text-lg font-semibold">
+                Chapter {chapter.id}: {chapter.title}
+              </div>
+              {chapterScores[chapter.id] && (
+                <div className="text-sm text-gray-600 mt-1">
+                  Previous score: {chapterScores[chapter.id].score}/{chapterScores[chapter.id].total}
+                </div>
+              )}
             </div>
             <button
               onClick={() => startQuiz(chapter.id)}
@@ -174,7 +232,14 @@ const App = () => {
   );
 
   const renderQuiz = () => {
-    const questions = questionsByChapter[currentChapter];
+    if (loading) {
+      return (
+        <div className="p-6 max-w-4xl mx-auto flex justify-center items-center h-64">
+          <div className="text-xl">Loading questions...</div>
+        </div>
+      );
+    }
+
     const allQuestionsAnswered = questions.every((_, index) => selectedAnswers[index] !== undefined);
     const score = calculateScore();
 
