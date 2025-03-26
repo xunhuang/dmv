@@ -49,7 +49,12 @@ export const api = {
         // Use questionsLimit from userPreferences, with fallbacks
         const questionsLimit = userPreferences.questionsLimit ||
           (process.env.NODE_ENV === 'development' ? 2 : Infinity);
-        resolve(questions.slice(0, questionsLimit));
+
+        // Randomly shuffle the questions array
+        const shuffledQuestions = [...questions].sort(() => Math.random() - 0.5);
+
+        // Take the requested number of questions from the shuffled array
+        resolve(shuffledQuestions.slice(0, questionsLimit));
       }, 500);
     });
   },
