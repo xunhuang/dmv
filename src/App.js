@@ -73,12 +73,23 @@ const App = () => {
 
     try {
       await api.saveQuizResults(quizData);
-      setChapterScores({
-        ...chapterScores,
-        [currentChapter]: {
-          score: score,
-          total: questions.length
-        }
+      setChapterScores(prevScores => {
+        const currentHistory = prevScores[currentChapter]?.history || [];
+        return {
+          ...prevScores,
+          [currentChapter]: {
+            score: score,
+            total: questions.length,
+            history: [
+              {
+                date: new Date(),
+                score: score,
+                total: questions.length
+              },
+              ...currentHistory
+            ].slice(0, 5) // Keep only the last 5 attempts
+          }
+        };
       });
     } catch (error) {
       console.error("Error saving quiz results:", error);
@@ -114,23 +125,40 @@ const App = () => {
       <p className="text-center mb-6">Select a chapter to start a practice test:</p>
       <div className="grid md:grid-cols-1 gap-4">
         {chapters.map((chapter) => (
-          <div key={chapter.id} className="bg-white p-4 rounded-lg shadow-md flex justify-between items-center">
-            <div className="flex flex-col">
-              <div className="text-lg font-semibold">
-                Chapter {chapter.id}: {chapter.title}
-              </div>
-              {chapterScores[chapter.id] && (
-                <div className="text-sm text-gray-600 mt-1">
-                  Previous score: {chapterScores[chapter.id].score}/{chapterScores[chapter.id].total}
+          <div key={chapter.id} className="bg-white p-4 rounded-lg shadow-md">
+            <div className="flex justify-between items-center mb-4">
+              <div className="flex flex-col">
+                <div className="text-lg font-semibold">
+                  Chapter {chapter.id}: {chapter.title}
                 </div>
-              )}
+                {chapterScores[chapter.id] && (
+                  <div className="text-sm text-gray-600 mt-1">
+                    Latest score: {chapterScores[chapter.id].score}/{chapterScores[chapter.id].total}
+                  </div>
+                )}
+              </div>
+              <button
+                onClick={() => startQuiz(chapter.id)}
+                className="bg-blue-500 hover:bg-blue-600 text-white font-semibold py-2 px-4 rounded transition duration-300"
+              >
+                Start Quiz
+              </button>
             </div>
-            <button
-              onClick={() => startQuiz(chapter.id)}
-              className="bg-blue-500 hover:bg-blue-600 text-white font-semibold py-2 px-4 rounded transition duration-300"
-            >
-              Start Quiz
-            </button>
+
+            {/* Quiz History Section */}
+            {chapterScores[chapter.id]?.history && (
+              <div className="mt-2 border-t pt-2">
+                <div className="text-sm font-medium mb-1">Previous Attempts:</div>
+                <div className="space-y-1">
+                  {chapterScores[chapter.id].history.map((attempt, index) => (
+                    <div key={index} className="text-sm text-gray-600 flex justify-between">
+                      <span>{new Date(attempt.date).toLocaleDateString()}</span>
+                      <span>Score: {attempt.score}/{attempt.total}</span>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            )}
           </div>
         ))}
       </div>
