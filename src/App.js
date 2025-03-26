@@ -4,7 +4,6 @@ import { api } from './mockData';
 const App = () => {
   const [currentView, setCurrentView] = useState('home');
   const [currentChapter, setCurrentChapter] = useState(null);
-  const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [selectedAnswers, setSelectedAnswers] = useState({});
   const [quizSubmitted, setQuizSubmitted] = useState(false);
   const [chapterScores, setChapterScores] = useState({});
@@ -29,7 +28,6 @@ const App = () => {
   const startQuiz = async (chapterId) => {
     setCurrentChapter(chapterId);
     setCurrentView('quiz');
-    setCurrentQuestionIndex(0);
     setSelectedAnswers({});
     setQuizSubmitted(false);
     setLoading(true);
@@ -66,7 +64,6 @@ const App = () => {
   };
 
   const retakeQuiz = () => {
-    setCurrentQuestionIndex(0);
     setSelectedAnswers({});
     setQuizSubmitted(false);
   };
