@@ -2,6 +2,9 @@
 
 let combinedData = null;
 
+// Maximum number of questions to return per chapter
+const QUESTIONS_LIMIT = 2;
+
 // Function to load data either from imported module or from fetch
 export const loadData = async () => {
   if (combinedData) {
@@ -10,7 +13,7 @@ export const loadData = async () => {
 
   try {
     // First try importing the JSON directly (works in development)
-    const importedData = await import('../data/combined-questions.json');
+    const importedData = await import('../data/california-combined-questions.json');
     combinedData = importedData.default || importedData;
   } catch (err) {
     // If import fails, try fetching it as a file (works in production)
@@ -45,7 +48,8 @@ export const api = {
     const data = await loadData();
     return new Promise((resolve) => {
       setTimeout(() => {
-        resolve((data.questionsByChapter && data.questionsByChapter[chapterId]) || []);
+        const questions = (data.questionsByChapter && data.questionsByChapter[chapterId]) || [];
+        resolve(questions.slice(0, QUESTIONS_LIMIT));
       }, 500);
     });
   }
