@@ -53,8 +53,12 @@ export const api = {
         // Randomly shuffle the questions array
         const shuffledQuestions = [...questions].sort(() => Math.random() - 0.5);
 
-        // Take the requested number of questions from the shuffled array
-        resolve(shuffledQuestions.slice(0, questionsLimit));
+        // Randomize the options order for each question
+        const questionsWithRandomizedOptions = shuffledQuestions.slice(0, questionsLimit).map(question => ({
+          ...question,
+          options: [...question.options].sort(() => Math.random() - 0.5)
+        }));
+        resolve(questionsWithRandomizedOptions);
       }, 500);
     });
   },
