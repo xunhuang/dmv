@@ -11,8 +11,17 @@ const App = () => {
   const [questions, setQuestions] = useState([]);
   const [loading, setLoading] = useState(false);
   const [reviewAttempt, setReviewAttempt] = useState(null);
-  const [questionCount, setQuestionCount] = useState(100); // Default to all questions
-  const [showProfileMenu, setShowProfileMenu] = useState(false); // New state for profile menu
+  const [questionCount, setQuestionCount] = useState(() => {
+    // Try to get saved question count from localStorage, default to 100 if not found
+    const savedCount = localStorage.getItem('questionCount');
+    return savedCount ? parseInt(savedCount, 10) : 100;
+  });
+  const [showProfileMenu, setShowProfileMenu] = useState(false);
+
+  // Save questionCount to localStorage whenever it changes
+  useEffect(() => {
+    localStorage.setItem('questionCount', questionCount.toString());
+  }, [questionCount]);
 
   // Fetch chapters on component mount
   useEffect(() => {
@@ -26,6 +35,16 @@ const App = () => {
     };
     
     fetchChapters();
+
+    // Load saved chapter scores from localStorage
+    const savedScores = localStorage.getItem('chapterScores');
+    if (savedScores) {
+      try {
+        setChapterScores(JSON.parse(savedScores));
+      } catch (error) {
+        console.error("Error parsing saved scores:", error);
+      }
+    }
   }, []);
 
   const startQuiz = async (chapterId) => {
@@ -78,7 +97,7 @@ const App = () => {
       await api.saveQuizResults(quizData);
       setChapterScores(prevScores => {
         const currentHistory = prevScores[currentChapter]?.history || [];
-        return {
+        const updatedScores = {
           ...prevScores,
           [currentChapter]: {
             score: score,
@@ -94,6 +113,11 @@ const App = () => {
             ].slice(0, 5) // Keep only the last 5 attempts
           }
         };
+
+        // Save updated scores to localStorage
+        localStorage.setItem('chapterScores', JSON.stringify(updatedScores));
+
+        return updatedScores;
       });
     } catch (error) {
       console.error("Error saving quiz results:", error);
