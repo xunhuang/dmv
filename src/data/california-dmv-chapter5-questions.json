@@ -170,6 +170,6 @@
         { "text": "Only diagnosed mental health conditions", "isCorrect": false, "explanation": "Many health factors, not just diagnosed mental health conditions, can affect driving." },
         { "text": "Only conditions that require prescription medication", "isCorrect": false, "explanation": "Many health factors, including those not requiring medication, can affect driving ability." }
       ]
-    },
-    {
-      "question": "When using your turn signal, what should you
+    }
+  ]
+}

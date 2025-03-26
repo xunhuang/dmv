@@ -170,10 +170,6 @@
         { "text": "Only areas where other vehicles are visible", "isCorrect": false, "explanation": "You need to be aware of all surrounding areas, including blind spots where vehicles might not be visible." },
         { "text": "Only the lanes immediately adjacent to yours", "isCorrect": false, "explanation": "You should be aware of all surrounding areas, including what's ahead and behind you." }
       ]
-    },
-    {
-      "question": "What can cause a vehicle to skid?",
-      "options": [
-        { "text": "Ice, packed snow, wet leaves, oil, or standing water on the road", "isCorrect": true },
-        { "text": "Only driving at high speeds", "isCorrect": false, "explanation": "Skidding can occur at any speed if road conditions are slippery." },
-        { "text": "Only poor quality t
+    }
+  ]
+}

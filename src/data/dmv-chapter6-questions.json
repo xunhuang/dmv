@@ -177,4 +177,12 @@
         { "text": "Where approaching vehicles should yield or stop", "isCorrect": true },
         { "text": "A bicycle crossing", "isCorrect": false, "explanation": "Yield lines indicate where vehicles should yield or stop, not bicycle crossings." },
         { "text": "A pedestrian-only walkway", "isCorrect": false, "explanation": "Yield lines indicate where vehicles should yield or stop, not pedestrian-only walkways." },
-        { "text": "A prohibited driving area", "isCorrect": false, "explanation": "Yield lines indicate where vehicles should yiel
+        {
+          "text": "A prohibited driving area",
+          "isCorrect": false,
+          "explanation": "Yield lines indicate where vehicles should yield or stop, not prohibited driving areas."
+        }
+      ]
+    }
+  ]
+}

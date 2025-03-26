@@ -177,4 +177,12 @@
         { "text": "Stop at least 15 feet from the nearest track and wait until the lights stop flashing", "isCorrect": true },
         { "text": "Slow down, look both ways, and cross carefully", "isCorrect": false, "explanation": "Flashing red lights at a railroad crossing require a complete stop." },
         { "text": "Quickly cross the tracks if no train is visible", "isCorrect": false, "explanation": "You must stop and wait until the red lights stop flashing, even if no train is visible." },
-        { "text": "Stop only if the crossing gate is lowered", "isCorrect":
+        {
+          "text": "Stop only if the crossing gate is lowered",
+          "isCorrect": false,
+          "explanation": "Flashing red lights indicate a train is approaching, not that the gate is lowered."
+        }
+      ]
+    }
+  ]
+}

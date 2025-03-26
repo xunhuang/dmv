@@ -177,4 +177,12 @@
         { "text": "An eight-hour course for drivers 55 years and older covering topics of special interest to mature drivers", "isCorrect": true },
         { "text": "A mandatory annual test for drivers over 70", "isCorrect": false, "explanation": "The program is optional, not mandatory, and it's for drivers 55 and older." },
         { "text": "A restricted license program for seniors", "isCorrect": false, "explanation": "The program is educational, not a license restriction program." },
-        { "text": "A discount program for senior car insurance without any educational requirements", "isCorrect": false, "explanation": "While insurance discounts may be available
+        {
+          "text": "A discount program for senior car insurance without any educational requirements",
+          "isCorrect": false,
+          "explanation": "While insurance discounts may be available"
+        }
+      ]
+    }
+  ]
+}

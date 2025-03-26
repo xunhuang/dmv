@@ -170,9 +170,6 @@
         { "text": "Driving with a parent or guardian", "isCorrect": false, "explanation": "Driving with a parent or guardian is allowed for provisional drivers." },
         { "text": "Driving to work with proper documentation", "isCorrect": false, "explanation": "Driving to work with proper documentation is allowed as an exception to provisional restrictions." }
       ]
-    },
-    {
-      "question": "What if a minor needs to drive immediate family members?",
-      "options": [
-        { "text": "They must carry a note signed by a parent or legal guardian stating the reason, family member, and when the need will end", "isCorrect": true },
-        { "text": "They can drive family members without
+    }
+  ]
+}

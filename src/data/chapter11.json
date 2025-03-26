@@ -170,10 +170,6 @@
         { "text": "Only to track vehicle locations", "isCorrect": false, "explanation": "Registration primarily ensures vehicles meet standards and establishes legal ownership, not just tracking locations." },
         { "text": "Only to provide identification plates", "isCorrect": false, "explanation": "While plates are issued during registration, the primary purpose includes ensuring vehicles meet standards and establishing legal ownership." }
       ]
-    },
-    {
-      "question": "What does DMV require for registering a vehicle in California regarding emissions?",
-      "options": [
-        { "text": "The vehicle must meet California clean air standards", "isCorrect": true },
-        { "text": "Only diesel vehicles need to meet emissions requirements", "isCorrect": false, "explanation": "All vehicles must meet California clean air standards, not just diesel vehicles." },
-        { "text": "Emissions testing is only required every five years", "
+    }
+  ]
+}

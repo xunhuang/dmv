@@ -161,10 +161,6 @@
         { "text": "You may continue driving until convicted", "isCorrect": false, "explanation": "Under Administrative Per Se, DMV can suspend your license before any court conviction." },
         { "text": "Only a fine can be imposed", "isCorrect": false, "explanation": "Administrative Per Se law requires DMV to suspend your driving privilege, not just impose a fine." }
       ]
-    },
-    {
-      "question": "What happens to your driver's license when you are arrested for DUI?",
-      "options": [
-        { "text": "The officer may take your license and give you a temporary license for 30 days", "isCorrect": true },
-        { "text": "Your license is immediately destroyed", "isCorrect": false, "explanation": "The officer takes your license and issues a temporary one, but doesn't destroy your original license." },
-        { "text": "Nothing happens until conviction", "isCorrect": false, "explanation
+    }
+  ]
+}
