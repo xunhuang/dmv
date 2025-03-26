@@ -1,24 +1,11 @@
-// Import the combined questions data
-import combinedData from './data/combined-questions.json';
+// Use the more robust data loader utility
+import { api, loadData } from './utils/dataLoader';
 
-// Mock API service to simulate backend calls
-export const api = {
-  getChapters: () => {
-    return new Promise((resolve) => {
-      setTimeout(() => {
-        resolve(combinedData.chapters);
-      }, 300);
-    });
-  },
-  
-  getQuestionsByChapter: (chapterId) => {
-    return new Promise((resolve) => {
-      setTimeout(() => {
-        resolve(combinedData.questionsByChapter[chapterId]);
-      }, 500);
-    });
-  }
-};
+// Initialize data loading immediately
+loadData();
 
-// Export the question data for direct access if needed
-export const mockQuestionsByChapter = combinedData.questionsByChapter;
+// Export the API
+export { api };
+
+// Export mockQuestionsByChapter for backward compatibility
+export const mockQuestionsByChapter = {};

@@ -1,0 +1,14 @@
+# All paths
+/*
+  # Security headers
+  X-Frame-Options: DENY
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: no-referrer
+  
+  # Cache control for static assets
+  Cache-Control: public, max-age=3600
+
+# JSON files
+/*.json
+  Content-Type: application/json
+  Cache-Control: public, max-age=3600
