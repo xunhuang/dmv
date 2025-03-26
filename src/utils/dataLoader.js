@@ -2,8 +2,8 @@
 
 let combinedData = null;
 
-// Maximum number of questions to return per chapter
-const QUESTIONS_LIMIT = 2;
+// Maximum number of questions to return per chapter - only limited in development
+const QUESTIONS_LIMIT = process.env.NODE_ENV === 'development' ? 2 : Infinity;
 
 // Function to load data either from imported module or from fetch
 export const loadData = async () => {
