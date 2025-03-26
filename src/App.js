@@ -17,6 +17,11 @@ const App = () => {
     return savedCount ? parseInt(savedCount, 10) : 100;
   });
   const [showProfileMenu, setShowProfileMenu] = useState(false);
+  const [comprehensiveTestScores, setComprehensiveTestScores] = useState(() => {
+    // Load comprehensive test scores from localStorage
+    const savedScores = localStorage.getItem('comprehensiveTestScores');
+    return savedScores ? JSON.parse(savedScores) : { history: [] };
+  });
 
   // Save questionCount to localStorage whenever it changes
   useEffect(() => {
@@ -73,6 +78,26 @@ const App = () => {
     });
   };
 
+  const startComprehensiveTest = async () => {
+    setCurrentChapter('comprehensive');
+    setCurrentView('quiz');
+    setSelectedAnswers({});
+    setQuizSubmitted(false);
+    setLoading(true);
+
+    try {
+      const questionData = await api.getComprehensiveQuestions({
+        questionsLimit: questionCount * chapters.length,
+        chapters: chapters
+      });
+      setQuestions(questionData);
+    } catch (error) {
+      console.error("Error fetching questions for comprehensive test:", error);
+    } finally {
+      setLoading(false);
+    }
+  };
+
   const submitQuiz = async () => {
     setQuizSubmitted(true);
     const score = calculateScore();
@@ -95,11 +120,12 @@ const App = () => {
 
     try {
       await api.saveQuizResults(quizData);
-      setChapterScores(prevScores => {
-        const currentHistory = prevScores[currentChapter]?.history || [];
-        const updatedScores = {
-          ...prevScores,
-          [currentChapter]: {
+
+      if (currentChapter === 'comprehensive') {
+        // Handle comprehensive test scores
+        setComprehensiveTestScores(prevScores => {
+          const currentHistory = prevScores.history || [];
+          const updatedScores = {
             score: score,
             total: questions.length,
             history: [
@@ -111,14 +137,40 @@ const App = () => {
               },
               ...currentHistory
             ].slice(0, 5) // Keep only the last 5 attempts
-          }
-        };
+          };
 
-        // Save updated scores to localStorage
-        localStorage.setItem('chapterScores', JSON.stringify(updatedScores));
+          // Save updated scores to localStorage
+          localStorage.setItem('comprehensiveTestScores', JSON.stringify(updatedScores));
 
-        return updatedScores;
-      });
+          return updatedScores;
+        });
+      } else {
+      // Handle chapter-specific scores (existing code)
+        setChapterScores(prevScores => {
+          const currentHistory = prevScores[currentChapter]?.history || [];
+          const updatedScores = {
+            ...prevScores,
+            [currentChapter]: {
+              score: score,
+              total: questions.length,
+              history: [
+                {
+                  date: new Date(),
+                  score: score,
+                  total: questions.length,
+                  questions: quizData.questions
+                },
+                ...currentHistory
+              ].slice(0, 5) // Keep only the last 5 attempts
+            }
+          };
+
+          // Save updated scores to localStorage
+          localStorage.setItem('chapterScores', JSON.stringify(updatedScores));
+
+          return updatedScores;
+        });
+      }
     } catch (error) {
       console.error("Error saving quiz results:", error);
     }
@@ -171,7 +223,9 @@ const App = () => {
         </div>
 
         <h2 className="text-2xl font-bold mb-6">
-          Review - Chapter {currentChapter}: {chapters.find(c => c.id === currentChapter)?.title}
+          {currentChapter === 'comprehensive'
+            ? 'Review - Comprehensive DMV Test'
+            : `Review - Chapter ${currentChapter}: ${chapters.find(c => c.id === currentChapter)?.title}`}
         </h2>
         <p className="text-gray-600 mb-6">
           Attempt from {new Date(reviewAttempt.date).toLocaleString()}
@@ -298,6 +352,54 @@ const App = () => {
             )}
           </div>
         ))}
+
+        {/* Comprehensive Test Section */}
+        <div className="bg-white p-4 rounded-lg shadow-md border-2 border-blue-500 mt-8">
+          <div className="flex justify-between items-center mb-4">
+            <div className="flex flex-col">
+              <div className="text-lg font-semibold text-blue-700">
+                Comprehensive DMV Test
+              </div>
+              <div className="text-sm text-gray-600">
+                Test your knowledge across all chapters
+              </div>
+              {comprehensiveTestScores.score !== undefined && (
+                <div className="text-sm text-gray-600 mt-1">
+                  Latest score: {comprehensiveTestScores.score}/{comprehensiveTestScores.total}
+                </div>
+              )}
+            </div>
+            <button
+              onClick={startComprehensiveTest}
+              className="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded transition duration-300"
+            >
+              Start Test
+            </button>
+          </div>
+
+          {/* Comprehensive Test History Section */}
+          {comprehensiveTestScores.history && comprehensiveTestScores.history.length > 0 && (
+            <div className="mt-2 border-t pt-2">
+              <div className="text-sm font-medium mb-1">Previous Attempts:</div>
+              <div className="space-y-1">
+                {comprehensiveTestScores.history.map((attempt, index) => (
+                  <div key={index} className="text-sm text-gray-600 flex justify-between items-center">
+                    <span>{new Date(attempt.date).toLocaleString()}</span>
+                    <div>
+                      <span className="mr-4">Score: {attempt.score}/{attempt.total}</span>
+                      <button
+                        onClick={() => viewAttemptReview('comprehensive', attempt)}
+                        className="text-blue-500 hover:text-blue-600 underline"
+                      >
+                        Review
+                      </button>
+                    </div>
+                  </div>
+                ))}
+              </div>
+            </div>
+          )}
+        </div>
       </div>
     </div>
   );
@@ -330,7 +432,11 @@ const App = () => {
           )}
         </div>
 
-        <h2 className="text-2xl font-bold mb-6">Chapter {currentChapter}: {chapters.find(c => c.id === currentChapter)?.title}</h2>
+        <h2 className="text-2xl font-bold mb-6">
+          {currentChapter === 'comprehensive'
+            ? 'Comprehensive DMV Test'
+            : `Chapter ${currentChapter}: ${chapters.find(c => c.id === currentChapter)?.title}`}
+        </h2>
 
         {questions.map((question, questionIndex) => (
           <div key={questionIndex} className="bg-white p-6 rounded-lg shadow-md mb-6">

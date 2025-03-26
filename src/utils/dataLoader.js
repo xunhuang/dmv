@@ -87,5 +87,32 @@ export const api = {
         }
       }, 600);
     });
+  },
+
+  // Add the comprehensive questions method to the api object
+  getComprehensiveQuestions: async ({ questionsLimit, chapters }) => {
+    try {
+      // Create an array of promises for all chapter question requests
+      const questionPromises = chapters.map(chapter =>
+        api.getQuestionsByChapter(chapter.id, {
+          questionsLimit: Math.ceil(questionsLimit / chapters.length)
+        })
+      );
+
+      // Wait for all promises to resolve in parallel
+      const chapterQuestionsArrays = await Promise.all(questionPromises);
+
+      // Flatten the array of arrays into a single array of questions
+      const allQuestions = chapterQuestionsArrays.flat();
+
+      // Shuffle and limit the questions
+      const shuffled = allQuestions.sort(() => 0.5 - Math.random());
+      const selected = shuffled.slice(0, questionsLimit);
+
+      return selected;
+    } catch (error) {
+      console.error("Error in getComprehensiveQuestions:", error);
+      return [];
+    }
   }
 };
