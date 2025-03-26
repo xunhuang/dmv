@@ -51,16 +51,38 @@ const App = () => {
     });
   };
 
-  const submitQuiz = () => {
+  const submitQuiz = async () => {
     setQuizSubmitted(true);
     const score = calculateScore();
-    setChapterScores({
-      ...chapterScores,
-      [currentChapter]: {
-        score: score,
-        total: questions.length
-      }
-    });
+    const quizData = {
+      chapterId: currentChapter,
+      score: score,
+      totalQuestions: questions.length,
+      answers: selectedAnswers,
+      questions: questions.map((q, index) => ({
+        question: q.question,
+        selectedAnswer: selectedAnswers[index],
+        correctAnswer: q.options.findIndex(opt => opt.isCorrect),
+        options: q.options.map(opt => ({
+          text: opt.text,
+          isCorrect: opt.isCorrect,
+          explanation: opt.explanation || null
+        }))
+      }))
+    };
+
+    try {
+      await api.saveQuizResults(quizData);
+      setChapterScores({
+        ...chapterScores,
+        [currentChapter]: {
+          score: score,
+          total: questions.length
+        }
+      });
+    } catch (error) {
+      console.error("Error saving quiz results:", error);
+    }
   };
 
   const retakeQuiz = () => {

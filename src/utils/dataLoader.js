@@ -52,5 +52,31 @@ export const api = {
         resolve(questions.slice(0, QUESTIONS_LIMIT));
       }, 500);
     });
+  },
+
+  // New function to save quiz results
+  saveQuizResults: async (quizData) => {
+    // Mock API call to save quiz results
+    return new Promise((resolve, reject) => {
+      setTimeout(() => {
+        try {
+          // Log the data that would be saved to the backend
+          console.log('Saving quiz results:', quizData);
+
+          // Simulate successful save
+          resolve({
+            success: true,
+            message: 'Quiz results saved successfully',
+            timestamp: new Date().toISOString(),
+          });
+        } catch (error) {
+          reject({
+            success: false,
+            message: 'Failed to save quiz results',
+            error: error.message
+          });
+        }
+      }, 600);
+    });
   }
 };
