@@ -1,0 +1,184 @@
+{
+  "1": [
+    {
+      "question": "What does a California driver's license allow you to do?",
+      "options": [
+        { "text": "Drive on public roads with the correct license for your vehicle", "isCorrect": true },
+        { "text": "Drive any vehicle regardless of class", "isCorrect": false, "explanation": "You must have the correct license for the specific type of vehicle you're driving." },
+        { "text": "Drive on private roads only", "isCorrect": false, "explanation": "A California driver's license allows you to drive on public roads, not just private ones." },
+        { "text": "Drive only during daylight hours", "isCorrect": false, "explanation": "A standard driver's license doesn't restrict driving to daylight hours only." }
+      ]
+    },
+    {
+      "question": "When will you need a REAL ID compliant driver's license?",
+      "options": [
+        { "text": "Beginning May 2025 to board domestic flights or enter federal facilities", "isCorrect": true },
+        { "text": "Only when traveling internationally", "isCorrect": false, "explanation": "REAL ID is for domestic flights and entering federal facilities, not international travel." },
+        { "text": "Beginning January 2024 for all driving purposes", "isCorrect": false, "explanation": "A REAL ID is not required for driving, only for boarding domestic flights and entering federal facilities." },
+        { "text": "Only when driving commercial vehicles", "isCorrect": false, "explanation": "A REAL ID is not specifically for commercial driving." }
+      ]
+    },
+    {
+      "question": "What type of card is issued for identification purposes to eligible persons of any age?",
+      "options": [
+        { "text": "ID card", "isCorrect": true },
+        { "text": "Driver's license", "isCorrect": false, "explanation": "A driver's license permits you to drive, while an ID card is for identification only." },
+        { "text": "REAL ID card", "isCorrect": false, "explanation": "While a REAL ID can be either a driver's license or ID card, not all ID cards are REAL ID compliant." },
+        { "text": "Veteran designation card", "isCorrect": false, "explanation": "A Veteran designation is a feature that can be added to a driver's license or ID card, not a separate type of card." }
+      ]
+    },
+    {
+      "question": "What class of driver's license do most people need?",
+      "options": [
+        { "text": "Noncommercial Class C", "isCorrect": true },
+        { "text": "Commercial Class A", "isCorrect": false, "explanation": "Commercial Class A licenses are for specific commercial vehicles, not for most drivers." },
+        { "text": "Noncommercial Class M", "isCorrect": false, "explanation": "Class M licenses are for motorcycles, not for standard passenger vehicles." },
+        { "text": "Commercial Class B", "isCorrect": false, "explanation": "Commercial Class B licenses are for specific commercial vehicles, not for most drivers." }
+      ]
+    },
+    {
+      "question": "What is required to get a REAL ID driver's license?",
+      "options": [
+        { "text": "Proof of identity, residency documents, and social security number", "isCorrect": true },
+        { "text": "Only proof of California residency", "isCorrect": false, "explanation": "You also need proof of identity and your social security number." },
+        { "text": "Only a valid passport", "isCorrect": false, "explanation": "While a passport may serve as proof of identity, you also need residency documents and social security number." },
+        { "text": "Only a birth certificate", "isCorrect": false, "explanation": "A birth certificate alone is not sufficient; you also need residency documents and social security number." }
+      ]
+    },
+    {
+      "question": "What federal facilities will require a REAL ID beginning May 2025?",
+      "options": [
+        { "text": "Military bases and most federal facilities", "isCorrect": true },
+        { "text": "Only post offices", "isCorrect": false, "explanation": "Post offices are not among the federal facilities requiring REAL ID for entry." },
+        { "text": "Only federal courts", "isCorrect": false, "explanation": "While federal courts may require REAL ID, the requirement applies to most federal facilities, not just courts." },
+        { "text": "Only federal prisons", "isCorrect": false, "explanation": "While federal prisons may require REAL ID, the requirement applies to most federal facilities, not just prisons." }
+      ]
+    },
+    {
+      "question": "Does California offer driver's licenses for undocumented residents?",
+      "options": [
+        { "text": "Yes, California offers driver's licenses regardless of immigration status", "isCorrect": true },
+        { "text": "No, a valid visa is required", "isCorrect": false, "explanation": "California offers driver's licenses to all residents regardless of immigration status." },
+        { "text": "Only if they have a pending green card application", "isCorrect": false, "explanation": "California offers driver's licenses to all residents regardless of immigration status or pending applications." },
+        { "text": "Only for seasonal agricultural workers", "isCorrect": false, "explanation": "California offers driver's licenses to all residents regardless of occupation or immigration status." }
+      ]
+    },
+    {
+      "question": "Where can you find more information about applying for a REAL ID?",
+      "options": [
+        { "text": "dmv.ca.gov/realid", "isCorrect": true },
+        { "text": "realid.ca.gov", "isCorrect": false, "explanation": "The correct website is dmv.ca.gov/realid, not realid.ca.gov." },
+        { "text": "cadmv.org/realid", "isCorrect": false, "explanation": "The correct website is dmv.ca.gov/realid, not cadmv.org/realid." },
+        { "text": "ca.gov/id", "isCorrect": false, "explanation": "The correct website is dmv.ca.gov/realid, not ca.gov/id." }
+      ]
+    },
+    {
+      "question": "What designation can veterans add to their California driver's license?",
+      "options": [
+        { "text": "Veteran designation", "isCorrect": true },
+        { "text": "Military service badge", "isCorrect": false, "explanation": "California offers a 'Veteran designation,' not a military service badge." },
+        { "text": "Armed forces emblem", "isCorrect": false, "explanation": "California offers a 'Veteran designation,' not an armed forces emblem." },
+        { "text": "Service branch insignia", "isCorrect": false, "explanation": "California offers a 'Veteran designation,' not service branch insignia." }
+      ]
+    },
+    {
+      "question": "What information can you find at donateLIFEcalifornia.org?",
+      "options": [
+        { "text": "Information about becoming an organ and tissue donor", "isCorrect": true },
+        { "text": "Information about blood donation centers", "isCorrect": false, "explanation": "donateLIFEcalifornia.org provides information about organ and tissue donation, not blood donation." },
+        { "text": "Information about donating to driver education programs", "isCorrect": false, "explanation": "donateLIFEcalifornia.org provides information about organ and tissue donation, not driver education donations." },
+        { "text": "Information about donating used vehicles", "isCorrect": false, "explanation": "donateLIFEcalifornia.org provides information about organ and tissue donation, not vehicle donations." }
+      ]
+    },
+    {
+      "question": "Can an ID card be used to drive a vehicle?",
+      "options": [
+        { "text": "No, ID cards are for identification purposes only", "isCorrect": true },
+        { "text": "Yes, but only during daylight hours", "isCorrect": false, "explanation": "ID cards cannot be used to legally drive a vehicle at any time." },
+        { "text": "Yes, but only for vehicles under 1,500 pounds", "isCorrect": false, "explanation": "ID cards cannot be used to legally drive any vehicle regardless of weight." },
+        { "text": "Yes, but only on private property", "isCorrect": false, "explanation": "ID cards are for identification only and do not permit driving, even on private property." }
+      ]
+    },
+    {
+      "question": "Where can you find information about reduced-fee or no-fee ID cards?",
+      "options": [
+        { "text": "dmv.ca.gov/id-cards", "isCorrect": true },
+        { "text": "idcards.ca.gov", "isCorrect": false, "explanation": "The correct website is dmv.ca.gov/id-cards, not idcards.ca.gov." },
+        { "text": "ca.gov/discount-ids", "isCorrect": false, "explanation": "The correct website is dmv.ca.gov/id-cards, not ca.gov/discount-ids." },
+        { "text": "freeid.dmv.ca.gov", "isCorrect": false, "explanation": "The correct website is dmv.ca.gov/id-cards, not freeid.dmv.ca.gov." }
+      ]
+    },
+    {
+      "question": "What must you do before you can get a driver's license in California?",
+      "options": [
+        { "text": "Pass knowledge and behind-the-wheel drive tests", "isCorrect": true },
+        { "text": "Only complete an online application", "isCorrect": false, "explanation": "You must also pass knowledge and behind-the-wheel drive tests." },
+        { "text": "Only have a license from another state", "isCorrect": false, "explanation": "Even with a license from another state, you must pass California's tests." },
+        { "text": "Only pay the application fee", "isCorrect": false, "explanation": "Paying the fee is required, but you must also pass knowledge and behind-the-wheel drive tests." }
+      ]
+    },
+    {
+      "question": "What website should you visit to complete an ID card application?",
+      "options": [
+        { "text": "dmv.ca.gov/id-cards", "isCorrect": true },
+        { "text": "ca.gov/identification", "isCorrect": false, "explanation": "The correct website is dmv.ca.gov/id-cards, not ca.gov/identification." },
+        { "text": "identification.dmv.ca.gov", "isCorrect": false, "explanation": "The correct website is dmv.ca.gov/id-cards, not identification.dmv.ca.gov." },
+        { "text": "id-application.ca.gov", "isCorrect": false, "explanation": "The correct website is dmv.ca.gov/id-cards, not id-application.ca.gov." }
+      ]
+    },
+    {
+      "question": "What happens if you don't have the correct license for your vehicle type?",
+      "options": [
+        { "text": "You would be driving illegally", "isCorrect": true },
+        { "text": "You would receive a warning letter from DMV", "isCorrect": false, "explanation": "Driving without the correct license class is illegal and can result in a citation, not just a warning letter." },
+        { "text": "Your insurance would still cover any accidents", "isCorrect": false, "explanation": "Your insurance may not cover accidents if you're driving without the proper license class." },
+        { "text": "You would need to pay a small upgrade fee", "isCorrect": false, "explanation": "You need to apply for and obtain the correct license class before driving that type of vehicle, not just pay a fee." }
+      ]
+    },
+    {
+      "question": "What website should you visit for information about the driver's license classes?",
+      "options": [
+        { "text": "dmv.ca.gov/dl", "isCorrect": true },
+        { "text": "license-classes.ca.gov", "isCorrect": false, "explanation": "The correct website is dmv.ca.gov/dl, not license-classes.ca.gov." },
+        { "text": "ca.gov/license-types", "isCorrect": false, "explanation": "The correct website is dmv.ca.gov/dl, not ca.gov/license-types." },
+        { "text": "dl-classes.dmv.ca.gov", "isCorrect": false, "explanation": "The correct website is dmv.ca.gov/dl, not dl-classes.dmv.ca.gov." }
+      ]
+    },
+    {
+      "question": "What is a Card Designation on a California driver's license?",
+      "options": [
+        { "text": "A special marking or indicator on the license such as REAL ID or Veteran status", "isCorrect": true },
+        { "text": "The holographic security feature", "isCorrect": false, "explanation": "A Card Designation refers to special markings like REAL ID or Veteran status, not security features." },
+        { "text": "The license number format", "isCorrect": false, "explanation": "A Card Designation refers to special markings like REAL ID or Veteran status, not the number format." },
+        { "text": "The color of the card background", "isCorrect": false, "explanation": "A Card Designation refers to special markings like REAL ID or Veteran status, not the card background color." }
+      ]
+    },
+    {
+      "question": "What is required to register to vote through the DMV?",
+      "options": [
+        { "text": "Visit the California Secretary of State website at sos.ca.gov", "isCorrect": true },
+        { "text": "Pay an additional $5 fee", "isCorrect": false, "explanation": "There is no fee to register to vote in California." },
+        { "text": "Provide proof of property ownership", "isCorrect": false, "explanation": "Property ownership is not required to register to vote in California." },
+        { "text": "Complete a separate in-person interview", "isCorrect": false, "explanation": "No separate interview is required to register to vote in California." }
+      ]
+    },
+    {
+      "question": "What should seniors look for when applying for an ID card?",
+      "options": [
+        { "text": "Information about reduced-fee or no-fee senior ID cards", "isCorrect": true },
+        { "text": "Special senior driving courses", "isCorrect": false, "explanation": "When applying for an ID card, seniors should look for information about reduced-fee or no-fee ID cards, not driving courses." },
+        { "text": "Senior license renewal options", "isCorrect": false, "explanation": "ID cards are for identification only and don't require renewal in the same way as licenses." },
+        { "text": "Senior driving restrictions", "isCorrect": false, "explanation": "ID cards don't permit driving, so there are no driving restrictions associated with them." }
+      ]
+    },
+    {
+      "question": "What is the function of an ID card?",
+      "options": [
+        { "text": "Identification purposes only", "isCorrect": true },
+        { "text": "Driving and identification", "isCorrect": false, "explanation": "ID cards are for identification purposes only and do not permit driving." },
+        { "text": "International travel only", "isCorrect": false, "explanation": "ID cards are for general identification purposes, not specifically for international travel." },
+        { "text": "Voting purposes only", "isCorrect": false, "explanation": "While ID cards can be used for voter identification, they serve general identification purposes." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "2": [
+    {
+      "question": "What must you provide when applying for an instruction permit or driver's license?",
+      "options": [
+        { "text": "Proof of identity, two proofs of residency, legal full name document, and social security number", "isCorrect": true },
+        { "text": "Only proof of identity and age", "isCorrect": false, "explanation": "You also need to provide proof of residency, legal full name document, and social security number." },
+        { "text": "Only a birth certificate and passport", "isCorrect": false, "explanation": "While these might satisfy some requirements, you also need proof of residency and social security number." },
+        { "text": "Only a previous driver's license from another state", "isCorrect": false, "explanation": "Even with a driver's license from another state, you still need to provide proof of identity, residency, and social security number." }
+      ]
+    },
+    {
+      "question": "If you are under 18 years old, what additional requirements must you meet to get an instruction permit?",
+      "options": [
+        { "text": "Be at least 15½ years old, complete driver education, and have parent/guardian signature", "isCorrect": true },
+        { "text": "Be at least 16 years old and pass a drug test", "isCorrect": false, "explanation": "You can get an instruction permit at 15½, and a drug test is not required." },
+        { "text": "Only need to pass the vision and knowledge tests", "isCorrect": false, "explanation": "Minors also need to complete driver education and have parent/guardian approval." },
+        { "text": "Be at least 17 years old with proof of employment", "isCorrect": false, "explanation": "You can get an instruction permit at 15½, and proof of employment is not required." }
+      ]
+    },
+    {
+      "question": "What restriction applies to provisional drivers under 18 during the first 12 months?",
+      "options": [
+        { "text": "Cannot drive between 11 p.m. and 5 a.m.", "isCorrect": true },
+        { "text": "Cannot drive on freeways", "isCorrect": false, "explanation": "Provisional drivers are allowed to drive on freeways." },
+        { "text": "Cannot drive more than 25 miles from home", "isCorrect": false, "explanation": "There is no mileage restriction for provisional drivers." },
+        { "text": "Cannot drive without a parent at any time", "isCorrect": false, "explanation": "Provisional drivers can drive without parents, but with restrictions on passengers and hours." }
+      ]
+    },
+    {
+      "question": "When applying for a driver's license after having an instruction permit, what must you do?",
+      "options": [
+        { "text": "Practice driving with a California-licensed driver who is at least 18 years old and pass a behind-the-wheel drive test", "isCorrect": true },
+        { "text": "Only pass a knowledge test", "isCorrect": false, "explanation": "You need to pass a behind-the-wheel drive test, not just a knowledge test." },
+        { "text": "Complete 100 hours of driving practice", "isCorrect": false, "explanation": "While practice is required, the handbook specifies 50 hours for minors, not 100 hours." },
+        { "text": "Graduate from high school", "isCorrect": false, "explanation": "High school graduation is not a requirement for obtaining a driver's license." }
+      ]
+    },
+    {
+      "question": "For drivers under 18 years old, how many hours of driving practice are required before taking the behind-the-wheel test?",
+      "options": [
+        { "text": "At least 50 hours, with 10 hours at night", "isCorrect": true },
+        { "text": "At least 30 hours, with 5 hours at night", "isCorrect": false, "explanation": "The requirement is 50 hours total with 10 hours at night." },
+        { "text": "At least 20 hours, with no night requirement", "isCorrect": false, "explanation": "The requirement is 50 hours total with 10 hours at night." },
+        { "text": "At least 100 hours total", "isCorrect": false, "explanation": "The requirement is 50 hours total with 10 hours at night." }
+      ]
+    },
+    {
+      "question": "What age must a supervising driver be for a driver under 18 practicing with an instruction permit?",
+      "options": [
+        { "text": "At least 25 years old", "isCorrect": true },
+        { "text": "At least 18 years old", "isCorrect": false, "explanation": "For minors, the supervising driver must be at least 25 years old." },
+        { "text": "At least 21 years old", "isCorrect": false, "explanation": "For minors, the supervising driver must be at least 25 years old." },
+        { "text": "Any age as long as they have a valid license", "isCorrect": false, "explanation": "For minors, the supervising driver must be at least 25 years old." }
+      ]
+    },
+    {
+      "question": "What passenger restrictions apply to provisional drivers during the first 12 months?",
+      "options": [
+        { "text": "Cannot drive with passengers under 20 years old unless accompanied by a California-licensed driver at least 25 years old", "isCorrect": true },
+        { "text": "Cannot drive with more than one passenger of any age", "isCorrect": false, "explanation": "The restriction applies to passengers under 20 years old, not all passengers." },
+        { "text": "Cannot drive with passengers under 18 years old", "isCorrect": false, "explanation": "The restriction applies to passengers under 20 years old, not just under 18." },
+        { "text": "Cannot drive with anyone except immediate family members", "isCorrect": false, "explanation": "The restriction prohibits passengers under 20 unless accompanied by a California-licensed driver at least 25 years old." }
+      ]
+    },
+    {
+      "question": "How long must a driver under 18 have an instruction permit before being eligible for a behind-the-wheel test?",
+      "options": [
+        { "text": "At least 6 months", "isCorrect": true },
+        { "text": "At least 3 months", "isCorrect": false, "explanation": "The instruction permit must be held for at least 6 months." },
+        { "text": "At least 1 year", "isCorrect": false, "explanation": "The instruction permit must be held for at least 6 months, not a full year." },
+        { "text": "At least 30 days", "isCorrect": false, "explanation": "The instruction permit must be held for at least 6 months, not just 30 days." }
+      ]
+    },
+    {
+      "question": "What instruction must be completed before you can use your instruction permit if you are under 18?",
+      "options": [
+        { "text": "You must start behind-the-wheel driver training with an instructor who will validate the permit", "isCorrect": true },
+        { "text": "You must pass the vision test", "isCorrect": false, "explanation": "The vision test is required before getting the permit, not before using it." },
+        { "text": "You must complete additional knowledge tests", "isCorrect": false, "explanation": "You need to start behind-the-wheel driver training with an instructor who will validate the permit." },
+        { "text": "You must practice with a parent for 10 hours", "isCorrect": false, "explanation": "You need to start behind-the-wheel driver training with an instructor who will validate the permit." }
+      ]
+    },
+    {
+      "question": "Which of these is required when applying for an instruction permit?",
+      "options": [
+        { "text": "Pay a non-refundable application fee", "isCorrect": true },
+        { "text": "Show proof of car insurance", "isCorrect": false, "explanation": "Proof of car insurance is not required when applying for an instruction permit." },
+        { "text": "Complete a driving test", "isCorrect": false, "explanation": "A driving test is not required for an instruction permit, only for a driver's license." },
+        { "text": "Register to vote", "isCorrect": false, "explanation": "While information about voter registration is provided, it is not required for an instruction permit." }
+      ]
+    },
+    {
+      "question": "What tests must you pass to get an instruction permit?",
+      "options": [
+        { "text": "Knowledge test and vision test", "isCorrect": true },
+        { "text": "Behind-the-wheel driving test", "isCorrect": false, "explanation": "A behind-the-wheel test is not required for an instruction permit, only for a driver's license." },
+        { "text": "Physical fitness test", "isCorrect": false, "explanation": "A physical fitness test is not required for an instruction permit." },
+        { "text": "Drug and alcohol screening", "isCorrect": false, "explanation": "Drug and alcohol screening is not required for an instruction permit." }
+      ]
+    },
+    {
+      "question": "What is required if parents share joint custody of a minor applying for an instruction permit?",
+      "options": [
+        { "text": "Both parents must sign to approve the application", "isCorrect": true },
+        { "text": "Only one parent needs to sign", "isCorrect": false, "explanation": "If parents share joint custody, both must sign to approve the application." },
+        { "text": "A court order must be provided", "isCorrect": false, "explanation": "A court order is not specifically required; both parents must sign if they share joint custody." },
+        { "text": "The minor must be at least 16 years old", "isCorrect": false, "explanation": "The age requirement is 15½, not 16, and both parents must sign if they share joint custody." }
+      ]
+    },
+    {
+      "question": "What does the term 'provisional' on a driver's license mean?",
+      "options": [
+        { "text": "The driver is under 18 years old", "isCorrect": true },
+        { "text": "The license is temporary and expires in 60 days", "isCorrect": false, "explanation": "A provisional license means the driver is under 18, not that it expires soon." },
+        { "text": "The driver can only operate certain types of vehicles", "isCorrect": false, "explanation": "A provisional license indicates the driver is under 18, not a limitation on vehicle types." },
+        { "text": "The driver must always be accompanied by an adult", "isCorrect": false, "explanation": "A provisional license has specific restrictions but doesn't require an adult supervisor at all times." }
+      ]
+    },
+    {
+      "question": "Which of these is NOT an exception to the provisional license restrictions?",
+      "options": [
+        { "text": "Wanting to attend a social event after 11 p.m.", "isCorrect": true },
+        { "text": "Medical necessity with a note from a physician", "isCorrect": false, "explanation": "Medical necessity with a note is a valid exception to provisional license restrictions." },
+        { "text": "School or school-authorized activities with a note", "isCorrect": false, "explanation": "School activities with proper documentation are valid exceptions." },
+        { "text": "Employment necessity with a note from employer", "isCorrect": false, "explanation": "Employment necessity with documentation is a valid exception." }
+      ]
+    },
+    {
+      "question": "What happens if you turn 18 while you have a provisional driver's license?",
+      "options": [
+        { "text": "The restrictions, suspensions, or probation sentences do not end when you turn 18", "isCorrect": true },
+        { "text": "All restrictions immediately end on your 18th birthday", "isCorrect": false, "explanation": "Turning 18 does not automatically end existing restrictions, suspensions, or probation sentences." },
+        { "text": "You must apply for a new adult license", "isCorrect": false, "explanation": "While you may want to get a new license without the 'provisional' mark, existing restrictions don't automatically end." },
+        { "text": "You must retake the behind-the-wheel test", "isCorrect": false, "explanation": "Retaking the behind-the-wheel test is not required when turning 18." }
+      ]
+    },
+    {
+      "question": "If a parent or guardian wants to cancel a minor's license, what must they do?",
+      "options": [
+        { "text": "Complete a Request for Cancellation or Surrender of a Driver License or ID Card form", "isCorrect": true },
+        { "text": "Send a letter to DMV explaining the reason", "isCorrect": false, "explanation": "They must complete the specific Request for Cancellation or Surrender form." },
+        { "text": "Appear in person at DMV with the minor", "isCorrect": false, "explanation": "While they may do this, the form is what's specifically mentioned in the handbook." },
+        { "text": "Call the DMV to request cancellation", "isCorrect": false, "explanation": "They must complete the Request for Cancellation or Surrender form." }
+      ]
+    },
+    {
+      "question": "What driving experience must you have before getting a driver's license?",
+      "options": [
+        { "text": "Practice driving with a California-licensed driver who is at least 18 years old", "isCorrect": true },
+        { "text": "Only complete a driver education course", "isCorrect": false, "explanation": "You also need actual practice driving with a licensed driver." },
+        { "text": "Only pass a behind-the-wheel drive test", "isCorrect": false, "explanation": "You need practice driving experience before taking the behind-the-wheel test." },
+        { "text": "Complete driver training in another state", "isCorrect": false, "explanation": "You need practice driving with a California-licensed driver who is at least 18 years old." }
+      ]
+    },
+    {
+      "question": "What must minors prove when applying for a driver's license?",
+      "options": [
+        { "text": "That they completed both driver education and driver training", "isCorrect": true },
+        { "text": "That they have a high school diploma", "isCorrect": false, "explanation": "A high school diploma is not required to get a driver's license." },
+        { "text": "That they have permission from their school", "isCorrect": false, "explanation": "School permission is not required to get a driver's license." },
+        { "text": "That they have an after-school job", "isCorrect": false, "explanation": "Having a job is not required to get a driver's license." }
+      ]
+    },
+    {
+      "question": "What is NOT allowed for provisional drivers?",
+      "options": [
+        { "text": "Operating vehicles that require a commercial Class A, B, or C license", "isCorrect": true },
+        { "text": "Driving to school during daytime hours", "isCorrect": false, "explanation": "Provisional drivers can drive to school during daytime hours." },
+        { "text": "Driving with a parent or guardian", "isCorrect": false, "explanation": "Driving with a parent or guardian is allowed for provisional drivers." },
+        { "text": "Driving to work with proper documentation", "isCorrect": false, "explanation": "Driving to work with proper documentation is allowed as an exception to provisional restrictions." }
+      ]
+    }
+  ]
+}

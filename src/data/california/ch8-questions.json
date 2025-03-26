@@ -1,0 +1,175 @@
+{
+  "8": [
+    {
+      "question": "What is the three-second rule used for?",
+      "options": [
+        { "text": "To ensure a safe following distance and avoid a collision", "isCorrect": true },
+        { "text": "To determine how long to wait at a stop sign", "isCorrect": false, "explanation": "The three-second rule is for maintaining safe following distance, not for stop signs." },
+        { "text": "To know how long to signal before changing lanes", "isCorrect": false, "explanation": "You should signal for at least 100 feet before turning, not 3 seconds." },
+        { "text": "To calculate stopping time in wet weather", "isCorrect": false, "explanation": "While stopping time is important in wet weather, the three-second rule specifically helps maintain safe following distance." }
+      ]
+    },
+    {
+      "question": "What should you do if another vehicle is tailgating you?",
+      "options": [
+        { "text": "Maintain your course and speed, then merge right when safe to allow them to pass", "isCorrect": true },
+        { "text": "Speed up to increase distance from the tailgater", "isCorrect": false, "explanation": "Speeding up can be dangerous and doesn't solve the tailgating problem." },
+        { "text": "Tap your brakes to warn the tailgater", "isCorrect": false, "explanation": "Tapping brakes to warn a tailgater can escalate the situation and potentially cause a collision." },
+        { "text": "Slow down abruptly to force them to back off", "isCorrect": false, "explanation": "Slowing down abruptly could cause the tailgater to crash into you." }
+      ]
+    },
+    {
+      "question": "When checking your blind spots, what is the proper technique?",
+      "options": [
+        { "text": "Turn your head to look over your shoulders, not your whole body or steering wheel", "isCorrect": true },
+        { "text": "Use only your side mirrors", "isCorrect": false, "explanation": "Side mirrors alone cannot show blind spots completely." },
+        { "text": "Use only your rearview mirror", "isCorrect": false, "explanation": "The rearview mirror doesn't show the blind spots on the sides of your vehicle." },
+        { "text": "Turn your whole body to get a complete view", "isCorrect": false, "explanation": "Turning your whole body can cause you to turn the steering wheel unintentionally." }
+      ]
+    },
+    {
+      "question": "What is hydroplaning?",
+      "options": [
+        { "text": "When a vehicle rides on water because the tires lose all contact with the road", "isCorrect": true },
+        { "text": "When water enters the engine causing it to stall", "isCorrect": false, "explanation": "Hydroplaning refers to tires losing contact with the road, not water in the engine." },
+        { "text": "When brakes fail due to water on the brake pads", "isCorrect": false, "explanation": "Hydroplaning is about tire traction on wet roads, not brake function." },
+        { "text": "When windshield wipers fail during heavy rain", "isCorrect": false, "explanation": "Hydroplaning involves tire traction, not windshield wiper function." }
+      ]
+    },
+    {
+      "question": "What should you do if your vehicle starts to hydroplane?",
+      "options": [
+        { "text": "Slow down gradually and do not use the brakes", "isCorrect": true },
+        { "text": "Apply the brakes firmly to regain control", "isCorrect": false, "explanation": "Applying brakes during hydroplaning can cause you to lose further control." },
+        { "text": "Turn the steering wheel quickly in the opposite direction", "isCorrect": false, "explanation": "Quick steering movements during hydroplaning can cause skidding." },
+        { "text": "Accelerate to push through the water", "isCorrect": false, "explanation": "Accelerating makes hydroplaning worse as it reduces tire contact with the road." }
+      ]
+    },
+    {
+      "question": "What is the recommended action if your wheels drift off the pavement?",
+      "options": [
+        { "text": "Grip the steering wheel firmly, remove foot from accelerator, brake gently, and carefully steer back", "isCorrect": true },
+        { "text": "Slam on the brakes immediately", "isCorrect": false, "explanation": "Slamming the brakes can cause loss of control." },
+        { "text": "Turn the steering wheel sharply to return to the pavement", "isCorrect": false, "explanation": "Turning sharply can cause your vehicle to flip or veer into oncoming traffic." },
+        { "text": "Accelerate to gain traction before returning to the road", "isCorrect": false, "explanation": "Accelerating makes it harder to control your return to the pavement safely." }
+      ]
+    },
+    {
+      "question": "When driving in fog or heavy smoke, what should you do?",
+      "options": [
+        { "text": "Use low-beam headlights, drive slowly, and increase following distance", "isCorrect": true },
+        { "text": "Use high-beam headlights for better visibility", "isCorrect": false, "explanation": "High-beams reflect back in fog, reducing visibility." },
+        { "text": "Use only fog lights if available, not headlights", "isCorrect": false, "explanation": "Never drive using only fog lights; low-beam headlights should be used." },
+        { "text": "Drive at normal speed but keep flashers on", "isCorrect": false, "explanation": "You should reduce speed in fog and only use flashers for emergency situations." }
+      ]
+    },
+    {
+      "question": "What should you do in a slippery surface skid?",
+      "options": [
+        { "text": "Remove foot from accelerator, don't use brakes, turn steering wheel in direction of skid", "isCorrect": true },
+        { "text": "Apply brakes firmly to stop the skid", "isCorrect": false, "explanation": "Applying brakes can make a skid worse." },
+        { "text": "Accelerate to gain control", "isCorrect": false, "explanation": "Accelerating during a skid will likely make it worse." },
+        { "text": "Turn the steering wheel in the opposite direction of the skid", "isCorrect": false, "explanation": "Turning opposite of the skid direction can cause you to spin out of control." }
+      ]
+    },
+    {
+      "question": "What should you do if you are caught driving in a heavy rainstorm?",
+      "options": [
+        { "text": "Turn on windshield wipers, low-beam headlights, and defroster, and slow down", "isCorrect": true },
+        { "text": "Continue at normal speed but increase following distance", "isCorrect": false, "explanation": "You should reduce speed in heavy rain, not maintain normal speed." },
+        { "text": "Pull over immediately until the storm passes", "isCorrect": false, "explanation": "While pulling over is an option in extremely heavy rain, it's not always necessary if you can drive safely at reduced speed." },
+        { "text": "Turn on high-beam headlights for better visibility", "isCorrect": false, "explanation": "High-beams can reflect off rain, reducing visibility." }
+      ]
+    },
+    {
+      "question": "How should you adjust your driving speed on a wet road?",
+      "options": [
+        { "text": "Reduce your speed by 5 to 10 mph", "isCorrect": true },
+        { "text": "Maintain the same speed as on dry roads", "isCorrect": false, "explanation": "You should reduce speed on wet roads for safety." },
+        { "text": "Drive at half the posted speed limit", "isCorrect": false, "explanation": "Reducing by 5-10 mph is typically sufficient for wet roads, unless conditions are severe." },
+        { "text": "Drive no faster than 25 mph regardless of the speed limit", "isCorrect": false, "explanation": "The appropriate speed depends on conditions, not a fixed 25 mph limit." }
+      ]
+    },
+    {
+      "question": "When driving in high winds, what should you do?",
+      "options": [
+        { "text": "Reduce your speed and maintain a firm hand position on the steering wheel", "isCorrect": true },
+        { "text": "Increase your speed to drive through gusts faster", "isCorrect": false, "explanation": "Increasing speed in high winds reduces control and increases danger." },
+        { "text": "Use cruise control to maintain steady speed", "isCorrect": false, "explanation": "Cruise control should not be used in high winds as you need maximum control of acceleration." },
+        { "text": "Loosen your grip on the steering wheel to absorb wind gusts", "isCorrect": false, "explanation": "A firm grip is necessary to maintain control in high winds." }
+      ]
+    },
+    {
+      "question": "What should you do when choosing between hazards on both sides of the road?",
+      "options": [
+        { "text": "Give more space to the most dangerous situation", "isCorrect": true },
+        { "text": "Always favor the right side over the left", "isCorrect": false, "explanation": "The decision should be based on which hazard is more dangerous, not a fixed rule about sides." },
+        { "text": "Split the difference and drive down the middle", "isCorrect": false, "explanation": "Taking one hazard at a time is safer than attempting to split the difference." },
+        { "text": "Always prioritize avoiding oncoming traffic", "isCorrect": false, "explanation": "While avoiding oncoming traffic is important, the most dangerous hazard should be given more space." }
+      ]
+    },
+    {
+      "question": "What should you do if your vehicle gets stuck in snow or mud?",
+      "options": [
+        { "text": "Use a forward-backward rocking motion in low gear", "isCorrect": true },
+        { "text": "Spin the wheels at high speed to dig out", "isCorrect": false, "explanation": "Spinning wheels can dig you deeper into snow or mud." },
+        { "text": "Call for help immediately without attempting to free the vehicle", "isCorrect": false, "explanation": "You should first try to free your vehicle using proper techniques." },
+        { "text": "Keep the vehicle in drive and press the accelerator hard", "isCorrect": false, "explanation": "This approach will likely cause the wheels to spin and dig in deeper." }
+      ]
+    },
+    {
+      "question": "When is it best to avoid driving in fog?",
+      "options": [
+        { "text": "When the fog is so thick you cannot see ahead", "isCorrect": true },
+        { "text": "Only during nighttime hours", "isCorrect": false, "explanation": "Fog can be dangerous at any time of day if visibility is severely reduced." },
+        { "text": "Only on unfamiliar roads", "isCorrect": false, "explanation": "Heavy fog is dangerous even on familiar roads." },
+        { "text": "Only when traveling long distances", "isCorrect": false, "explanation": "Even short trips can be dangerous in heavy fog." }
+      ]
+    },
+    {
+      "question": "What should you do during a law enforcement traffic break?",
+      "options": [
+        { "text": "Turn on emergency flashers, decrease speed, and don't pass the patrol vehicle", "isCorrect": true },
+        { "text": "Pass the patrol vehicle when there's an opening", "isCorrect": false, "explanation": "Never pass the patrol vehicle during a traffic break." },
+        { "text": "Maintain normal speed until told otherwise", "isCorrect": false, "explanation": "You should decrease your speed to match the patrol vehicle." },
+        { "text": "Change lanes to get around the slowed traffic", "isCorrect": false, "explanation": "You should stay behind the patrol vehicle and not attempt to change lanes to get around the traffic break." }
+      ]
+    },
+    {
+      "question": "What is the proper technique if you experience a tire blowout?",
+      "options": [
+        { "text": "Hold the steering wheel firmly, maintain vehicle speed if possible, and gradually release the accelerator", "isCorrect": true },
+        { "text": "Brake hard immediately to stop quickly", "isCorrect": false, "explanation": "Braking hard during a blowout can cause you to lose control of the vehicle." },
+        { "text": "Pull hard on the steering wheel to counteract the pull", "isCorrect": false, "explanation": "Pulling hard can cause over-correction and loss of control." },
+        { "text": "Accelerate to stabilize the vehicle", "isCorrect": false, "explanation": "Accelerating during a blowout is dangerous and can cause further loss of control." }
+      ]
+    },
+    {
+      "question": "What should you do if your vehicle becomes disabled on the freeway?",
+      "options": [
+        { "text": "Safely pull over to the right shoulder and exit on the right side away from traffic", "isCorrect": true },
+        { "text": "Stay in your lane and put on your emergency flashers", "isCorrect": false, "explanation": "Remaining in a traffic lane is extremely dangerous. You should attempt to pull over to the shoulder." },
+        { "text": "Exit your vehicle immediately to set up warning triangles", "isCorrect": false, "explanation": "You should first ensure it's safe to exit the vehicle, and only exit if necessary." },
+        { "text": "Stop in the center median if it's closer than the right shoulder", "isCorrect": false, "explanation": "The right shoulder is generally safer than the center median on most freeways." }
+      ]
+    },
+    {
+      "question": "How should you wear the seat belt correctly?",
+      "options": [
+        { "text": "Shoulder harness across shoulder and chest, lap belt snug across hips", "isCorrect": true },
+        { "text": "Shoulder harness under your arm to avoid chest pressure", "isCorrect": false, "explanation": "The shoulder harness should never be worn under your arm as this can cause serious injury in a crash." },
+        { "text": "Lap belt across your stomach for comfort", "isCorrect": false, "explanation": "The lap belt should be worn low across your hips, not your stomach, to prevent internal injuries." },
+        { "text": "Shoulder harness behind your back if it's uncomfortable", "isCorrect": false, "explanation": "Never wear the shoulder harness behind your back as it won't protect you in a collision." }
+      ]
+    },
+    {
+      "question": "What areas around your vehicle should you be aware of when driving?",
+      "options": [
+        { "text": "Areas ahead, to your sides, blind spots, and behind you", "isCorrect": true },
+        { "text": "Only the area directly in front of you", "isCorrect": false, "explanation": "You need to be aware of all areas around your vehicle, not just what's in front." },
+        { "text": "Only areas where other vehicles are visible", "isCorrect": false, "explanation": "You need to be aware of all surrounding areas, including blind spots where vehicles might not be visible." },
+        { "text": "Only the lanes immediately adjacent to yours", "isCorrect": false, "explanation": "You should be aware of all surrounding areas, including what's ahead and behind you." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "7": [
+    {
+      "question": "What does a solid red traffic signal light mean?",
+      "options": [
+        { "text": "STOP until a green light appears", "isCorrect": true },
+        { "text": "Slow down and proceed with caution", "isCorrect": false, "explanation": "A solid red light means you must come to a complete stop, not slow down." },
+        { "text": "Stop only if other vehicles are present", "isCorrect": false, "explanation": "You must stop at a solid red light regardless of whether other vehicles are present." },
+        { "text": "Yield to oncoming traffic", "isCorrect": false, "explanation": "A solid red light requires a complete stop, not just yielding." }
+      ]
+    },
+    {
+      "question": "When can you make a right turn at a red light?",
+      "options": [
+        { "text": "After stopping completely, if there is no 'No Turn On Red' sign and it is safe", "isCorrect": true },
+        { "text": "Without stopping if no vehicles are coming", "isCorrect": false, "explanation": "You must come to a complete stop before turning right on red." },
+        { "text": "Only when a green arrow appears", "isCorrect": false, "explanation": "A green arrow indicates a protected turn; right turns on red are allowed after stopping if not prohibited by signs." },
+        { "text": "Never, it's always illegal", "isCorrect": false, "explanation": "Right turns on red are legal after stopping completely unless specifically prohibited." }
+      ]
+    },
+    {
+      "question": "What does a flashing yellow arrow at an intersection mean?",
+      "options": [
+        { "text": "You can turn but your turn is not protected from other traffic", "isCorrect": true },
+        { "text": "You must come to a complete stop before turning", "isCorrect": false, "explanation": "A flashing yellow arrow does not require you to stop, but to yield to oncoming traffic." },
+        { "text": "You have the right-of-way over all other traffic", "isCorrect": false, "explanation": "A flashing yellow arrow means your turn is not protected and you must yield." },
+        { "text": "Pedestrians have the right-of-way only", "isCorrect": false, "explanation": "While you must yield to pedestrians, you must also yield to oncoming vehicles." }
+      ]
+    },
+    {
+      "question": "When a traffic light is not working, how should you proceed through the intersection?",
+      "options": [
+        { "text": "Stop as if the intersection is controlled by STOP signs in all directions", "isCorrect": true },
+        { "text": "Proceed without stopping if no other vehicles are present", "isCorrect": false, "explanation": "You must treat a non-functioning traffic light as an all-way stop." },
+        { "text": "Yield to vehicles on your right only", "isCorrect": false, "explanation": "You must first stop completely, then follow right-of-way rules." },
+        { "text": "Drive through quickly to clear the intersection", "isCorrect": false, "explanation": "Speeding through a non-functioning traffic light intersection is dangerous and illegal." }
+      ]
+    },
+    {
+      "question": "What does a flashing DON'T WALK or flashing raised hand pedestrian signal mean?",
+      "options": [
+        { "text": "Do not start crossing the street", "isCorrect": true },
+        { "text": "Cross the street quickly", "isCorrect": false, "explanation": "A flashing DON'T WALK signal indicates you should not begin crossing." },
+        { "text": "Return to the sidewalk immediately", "isCorrect": false, "explanation": "If you've already started crossing, you should continue to the other side." },
+        { "text": "Pedestrians must yield to all vehicles", "isCorrect": false, "explanation": "Drivers must still yield to pedestrians already in the crosswalk, even when the signal is flashing." }
+      ]
+    },
+    {
+      "question": "At an intersection with no STOP or YIELD signs, who has the right-of-way?",
+      "options": [
+        { "text": "The vehicle that arrives at the intersection first", "isCorrect": true },
+        { "text": "The vehicle on the right always has the right-of-way", "isCorrect": false, "explanation": "The vehicle on the right only has right-of-way if both vehicles arrive at the same time." },
+        { "text": "The vehicle traveling faster", "isCorrect": false, "explanation": "Speed does not determine right-of-way at intersections." },
+        { "text": "The vehicle traveling on the wider road", "isCorrect": false, "explanation": "The size of the road doesn't determine right-of-way at uncontrolled intersections." }
+      ]
+    },
+    {
+      "question": "What should you do when entering a roundabout?",
+      "options": [
+        { "text": "Yield to all traffic already in the roundabout", "isCorrect": true },
+        { "text": "Enter at full speed to merge with traffic", "isCorrect": false, "explanation": "You should slow down as you approach a roundabout and yield to traffic already in it." },
+        { "text": "Stop completely before entering", "isCorrect": false, "explanation": "Roundabouts require yielding, not stopping, unless necessary for safety." },
+        { "text": "Vehicles on the right have the right-of-way", "isCorrect": false, "explanation": "Traffic already in the roundabout has the right-of-way, regardless of direction." }
+      ]
+    },
+    {
+      "question": "When is it legal to pass on the right?",
+      "options": [
+        { "text": "When the vehicle ahead is turning left and there is room to pass safely on the right", "isCorrect": true },
+        { "text": "Only when driving on a multilane highway", "isCorrect": false, "explanation": "Passing on the right is also legal when the vehicle ahead is turning left." },
+        { "text": "Only when the vehicle ahead is moving slower than the speed limit", "isCorrect": false, "explanation": "Speed difference alone doesn't make passing on the right legal." },
+        { "text": "Never, it is always illegal to pass on the right", "isCorrect": false, "explanation": "Passing on the right is legal in certain situations, including when a vehicle ahead is turning left." }
+      ]
+    },
+    {
+      "question": "What should you do if a pedestrian with a white cane or guide dog is crossing the street?",
+      "options": [
+        { "text": "Always yield the right-of-way", "isCorrect": true },
+        { "text": "Honk your horn to alert them of your presence", "isCorrect": false, "explanation": "Do not honk at blind pedestrians as it may confuse or disorient them." },
+        { "text": "Proceed if they are not in a crosswalk", "isCorrect": false, "explanation": "Blind pedestrians with white canes or guide dogs have the right-of-way at all times." },
+        { "text": "Drive around them quickly", "isCorrect": false, "explanation": "This is dangerous and fails to yield the right-of-way to the blind pedestrian." }
+      ]
+    },
+    {
+      "question": "What does a 5-sided sign indicate?",
+      "options": [
+        { "text": "School zone", "isCorrect": true },
+        { "text": "Railroad crossing", "isCorrect": false, "explanation": "Railroad crossings are marked with round or X-shaped signs." },
+        { "text": "Construction area", "isCorrect": false, "explanation": "Construction areas are typically marked with orange diamond-shaped signs." },
+        { "text": "Hospital zone", "isCorrect": false, "explanation": "Hospital zones are not indicated by 5-sided signs." }
+      ]
+    },
+    {
+      "question": "What is the speed limit in a school zone when children are present?",
+      "options": [
+        { "text": "25 mph", "isCorrect": true },
+        { "text": "35 mph", "isCorrect": false, "explanation": "The speed limit in a school zone when children are present is 25 mph, not 35 mph." },
+        { "text": "15 mph only when children are crossing", "isCorrect": false, "explanation": "While some school zones may have 15 mph limits, the standard is 25 mph when children are present." },
+        { "text": "The posted speed limit does not change", "isCorrect": false, "explanation": "The speed limit is reduced to 25 mph in school zones when children are present." }
+      ]
+    },
+    {
+      "question": "When two vehicles meet on a steep narrow road and neither vehicle can pass, which vehicle has the right-of-way?",
+      "options": [
+        { "text": "The vehicle facing uphill", "isCorrect": true },
+        { "text": "The vehicle facing downhill", "isCorrect": false, "explanation": "The vehicle facing uphill has the right-of-way because it's more difficult to back up a hill." },
+        { "text": "The vehicle that arrived first", "isCorrect": false, "explanation": "On steep narrow roads, the vehicle facing uphill has the right-of-way regardless of arrival time." },
+        { "text": "The vehicle with more passengers", "isCorrect": false, "explanation": "The number of passengers does not determine right-of-way on steep narrow roads." }
+      ]
+    },
+    {
+      "question": "What should you do when you see a school bus with flashing red lights ahead of you?",
+      "options": [
+        { "text": "Stop from either direction until the children are safely across and the lights stop flashing", "isCorrect": true },
+        { "text": "Slow down and proceed with caution", "isCorrect": false, "explanation": "You must stop completely when a school bus has flashing red lights, not just slow down." },
+        { "text": "Stop only if you're behind the bus", "isCorrect": false, "explanation": "You must stop from either direction unless on a divided highway." },
+        { "text": "Pass quickly before children exit", "isCorrect": false, "explanation": "This is extremely dangerous and illegal. You must stop when a school bus has flashing red lights." }
+      ]
+    },
+    {
+      "question": "What is the speed limit at a blind intersection with no posted speed limit sign?",
+      "options": [
+        { "text": "15 mph", "isCorrect": true },
+        { "text": "25 mph", "isCorrect": false, "explanation": "The speed limit at a blind intersection is 15 mph, not 25 mph." },
+        { "text": "35 mph", "isCorrect": false, "explanation": "The speed limit at a blind intersection is 15 mph, not 35 mph." },
+        { "text": "The default speed limit for the type of road", "isCorrect": false, "explanation": "Blind intersections have a specific 15 mph speed limit regardless of the default for that road type." }
+      ]
+    },
+    {
+      "question": "What does a double solid yellow line in the center of the road mean?",
+      "options": [
+        { "text": "Do not pass or cross over except in specific situations like turning left into a driveway", "isCorrect": true },
+        { "text": "Passing is allowed when safe", "isCorrect": false, "explanation": "Double solid yellow lines prohibit passing from either direction." },
+        { "text": "Only vehicles in the left lane may pass", "isCorrect": false, "explanation": "Double solid yellow lines prohibit passing from either direction." },
+        { "text": "No left turns allowed under any circumstances", "isCorrect": false, "explanation": "Left turns across double yellow lines are permitted in specific situations like entering driveways." }
+      ]
+    },
+    {
+      "question": "When should you use your headlights?",
+      "options": [
+        { "text": "30 minutes after sunset until 30 minutes before sunrise, and when visibility is poor", "isCorrect": true },
+        { "text": "Only when driving at night", "isCorrect": false, "explanation": "Headlights are also required during poor visibility, foggy conditions, and when using windshield wipers in rain." },
+        { "text": "Only when you cannot see other vehicles", "isCorrect": false, "explanation": "Headlights should be used during specific times and conditions, not just when you can't see others." },
+        { "text": "Whenever you want other drivers to see you", "isCorrect": false, "explanation": "While headlights help others see you, they're required at specific times and in specific conditions." }
+      ]
+    },
+    {
+      "question": "What must you do when you hear a siren and see emergency vehicle lights behind you?",
+      "options": [
+        { "text": "Drive to the right edge of the road and stop until the emergency vehicle passes", "isCorrect": true },
+        { "text": "Speed up to get out of the way", "isCorrect": false, "explanation": "Speeding up can be dangerous and interfere with emergency response." },
+        { "text": "Stop immediately where you are", "isCorrect": false, "explanation": "You should pull to the right edge of the road, not stop in your current lane." },
+        { "text": "Move to the left lane to allow passing on the right", "isCorrect": false, "explanation": "You should move to the right edge of the road, not to the left lane." }
+      ]
+    },
+    {
+      "question": "What is the minimum safe distance to maintain when passing a bicyclist?",
+      "options": [
+        { "text": "At least three feet", "isCorrect": true },
+        { "text": "At least one foot", "isCorrect": false, "explanation": "One foot is not enough space to safely pass a bicyclist; three feet is the minimum." },
+        { "text": "At least six feet", "isCorrect": false, "explanation": "While more space is better, the legal minimum is three feet." },
+        { "text": "There is no minimum distance requirement", "isCorrect": false, "explanation": "California law requires at least three feet when passing a bicyclist." }
+      ]
+    },
+    {
+      "question": "At a T-intersection with no signs or signals, who has the right-of-way?",
+      "options": [
+        { "text": "Traffic traveling on the through road", "isCorrect": true },
+        { "text": "Traffic turning right from the terminating road", "isCorrect": false, "explanation": "At a T-intersection, vehicles on the through road have the right-of-way." },
+        { "text": "Traffic turning left from the terminating road", "isCorrect": false, "explanation": "At a T-intersection, vehicles on the through road have the right-of-way." },
+        { "text": "The vehicle that arrives first", "isCorrect": false, "explanation": "At a T-intersection, the right-of-way rule gives priority to traffic on the through road." }
+      ]
+    },
+    {
+      "question": "When approaching a railroad crossing with flashing red lights, what should you do?",
+      "options": [
+        { "text": "Stop at least 15 feet from the nearest track and wait until the lights stop flashing", "isCorrect": true },
+        { "text": "Slow down, look both ways, and cross carefully", "isCorrect": false, "explanation": "Flashing red lights at a railroad crossing require a complete stop." },
+        { "text": "Quickly cross the tracks if no train is visible", "isCorrect": false, "explanation": "You must stop and wait until the red lights stop flashing, even if no train is visible." },
+        {
+          "text": "Stop only if the crossing gate is lowered",
+          "isCorrect": false,
+          "explanation": "Flashing red lights indicate a train is approaching, not that the gate is lowered."
+        }
+      ]
+    }
+  ]
+}
