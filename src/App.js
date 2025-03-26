@@ -148,7 +148,7 @@ const App = () => {
           Review - Chapter {currentChapter}: {chapters.find(c => c.id === currentChapter)?.title}
         </h2>
         <p className="text-gray-600 mb-6">
-          Attempt from {new Date(reviewAttempt.date).toLocaleDateString()}
+          Attempt from {new Date(reviewAttempt.date).toLocaleString()}
         </p>
 
         {reviewAttempt.questions.map((question, index) => (
@@ -216,7 +216,7 @@ const App = () => {
                 <div className="space-y-1">
                   {chapterScores[chapter.id].history.map((attempt, index) => (
                     <div key={index} className="text-sm text-gray-600 flex justify-between items-center">
-                      <span>{new Date(attempt.date).toLocaleDateString()}</span>
+                      <span>{new Date(attempt.date).toLocaleString()}</span>
                       <div>
                         <span className="mr-4">Score: {attempt.score}/{attempt.total}</span>
                         <button
