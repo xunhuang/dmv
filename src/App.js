@@ -10,6 +10,7 @@ const App = () => {
   const [chapters, setChapters] = useState([]);
   const [questions, setQuestions] = useState([]);
   const [loading, setLoading] = useState(false);
+  const [reviewAttempt, setReviewAttempt] = useState(null);
 
   // Fetch chapters on component mount
   useEffect(() => {
@@ -84,7 +85,8 @@ const App = () => {
               {
                 date: new Date(),
                 score: score,
-                total: questions.length
+                total: questions.length,
+                questions: quizData.questions
               },
               ...currentHistory
             ].slice(0, 5) // Keep only the last 5 attempts
@@ -119,6 +121,68 @@ const App = () => {
     return score;
   };
 
+  const viewAttemptReview = (chapterId, attempt) => {
+    setCurrentChapter(chapterId);
+    setReviewAttempt(attempt);
+    setCurrentView('review');
+  };
+
+  const renderReview = () => {
+    if (!reviewAttempt) return null;
+
+    return (
+      <div className="p-6 max-w-4xl mx-auto">
+        <div className="mb-6 flex justify-between items-center">
+          <button
+            onClick={returnToChapters}
+            className="bg-gray-300 hover:bg-gray-400 text-gray-800 font-semibold py-2 px-4 rounded transition duration-300"
+          >
+            ← Back to Chapters
+          </button>
+          <div className="text-xl font-bold">
+            Score: {reviewAttempt.score}/{reviewAttempt.total}
+          </div>
+        </div>
+
+        <h2 className="text-2xl font-bold mb-6">
+          Review - Chapter {currentChapter}: {chapters.find(c => c.id === currentChapter)?.title}
+        </h2>
+        <p className="text-gray-600 mb-6">
+          Attempt from {new Date(reviewAttempt.date).toLocaleDateString()}
+        </p>
+
+        {reviewAttempt.questions.map((question, index) => (
+          <div key={index} className="bg-white p-6 rounded-lg shadow-md mb-6">
+            <h3 className="text-xl font-semibold mb-4">Question {index + 1}: {question.question}</h3>
+            <div className="space-y-3">
+              {question.options.map((option, optIndex) => (
+                <div
+                  key={optIndex}
+                  className={`p-3 rounded-md border ${question.selectedAnswer === optIndex
+                    ? option.isCorrect
+                      ? 'bg-green-100 border-green-500'
+                      : 'bg-red-100 border-red-500'
+                    : option.isCorrect
+                      ? 'bg-green-50 border-green-300'
+                      : 'bg-gray-50 border-gray-300'
+                    }`}
+                >
+                  <div className="flex items-start">
+                    <div className="mr-2 font-bold">{String.fromCharCode(65 + optIndex)}.</div>
+                    <div>{option.text}</div>
+                  </div>
+                  {question.selectedAnswer === optIndex && !option.isCorrect && (
+                    <div className="mt-2 text-red-600 text-sm">{option.explanation}</div>
+                  )}
+                </div>
+              ))}
+            </div>
+          </div>
+        ))}
+      </div>
+    );
+  };
+
   const renderHome = () => (
     <div className="p-6 max-w-4xl mx-auto">
       <h1 className="text-3xl font-bold text-center mb-8">California DMV Handbook Practice Tests</h1>
@@ -151,9 +215,17 @@ const App = () => {
                 <div className="text-sm font-medium mb-1">Previous Attempts:</div>
                 <div className="space-y-1">
                   {chapterScores[chapter.id].history.map((attempt, index) => (
-                    <div key={index} className="text-sm text-gray-600 flex justify-between">
+                    <div key={index} className="text-sm text-gray-600 flex justify-between items-center">
                       <span>{new Date(attempt.date).toLocaleDateString()}</span>
-                      <span>Score: {attempt.score}/{attempt.total}</span>
+                      <div>
+                        <span className="mr-4">Score: {attempt.score}/{attempt.total}</span>
+                        <button
+                          onClick={() => viewAttemptReview(chapter.id, attempt)}
+                          className="text-blue-500 hover:text-blue-600 underline"
+                        >
+                          Review
+                        </button>
+                      </div>
                     </div>
                   ))}
                 </div>
@@ -252,7 +324,8 @@ const App = () => {
 
   return (
     <div className="min-h-screen bg-gray-100">
-      {currentView === 'home' ? renderHome() : renderQuiz()}
+      {currentView === 'home' ? renderHome() :
+        currentView === 'review' ? renderReview() : renderQuiz()}
     </div>
   );
 };
