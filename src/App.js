@@ -11,6 +11,8 @@ const App = () => {
   const [questions, setQuestions] = useState([]);
   const [loading, setLoading] = useState(false);
   const [reviewAttempt, setReviewAttempt] = useState(null);
+  const [questionCount, setQuestionCount] = useState(100); // Default to all questions
+  const [showProfileMenu, setShowProfileMenu] = useState(false); // New state for profile menu
 
   // Fetch chapters on component mount
   useEffect(() => {
@@ -34,7 +36,7 @@ const App = () => {
     setLoading(true);
     
     try {
-      const questionData = await api.getQuestionsByChapter(chapterId);
+      const questionData = await api.getQuestionsByChapter(chapterId, { questionsLimit: questionCount });
       setQuestions(questionData);
     } catch (error) {
       console.error("Error fetching questions:", error);
@@ -185,7 +187,46 @@ const App = () => {
 
   const renderHome = () => (
     <div className="p-6 max-w-4xl mx-auto">
+      {/* Profile Button */}
+      <div className="absolute top-4 right-4">
+        <button
+          onClick={() => setShowProfileMenu(!showProfileMenu)}
+          className="bg-blue-500 hover:bg-blue-600 text-white font-semibold py-2 px-4 rounded-full transition duration-300 flex items-center"
+        >
+          <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 mr-1" viewBox="0 0 20 20" fill="currentColor">
+            <path fillRule="evenodd" d="M10 9a3 3 0 100-6 3 3 0 000 6zm-7 9a7 7 0 1114 0H3z" clipRule="evenodd" />
+          </svg>
+        </button>
+
+        {/* Profile Menu Dropdown */}
+        {showProfileMenu && (
+          <div className="absolute right-0 mt-2 w-64 bg-white rounded-md shadow-lg z-10">
+            <div className="p-4 border-b">
+              <h3 className="font-medium text-gray-700 mb-2">User Preferences</h3>
+              <div className="flex flex-col">
+                <label htmlFor="questionCount" className="text-sm text-gray-600 mb-1">
+                  Questions per quiz:
+                </label>
+                <select
+                  id="questionCount"
+                  value={questionCount}
+                  onChange={(e) => setQuestionCount(Number(e.target.value))}
+                  className="border border-gray-300 rounded-md px-3 py-2 focus:outline-none focus:ring-2 focus:ring-blue-500"
+                >
+                  <option value={2}>2 questions</option>
+                  <option value={5}>5 questions</option>
+                  <option value={10}>10 questions</option>
+                  <option value={15}>15 questions</option>
+                  <option value={100}>All questions</option>
+                </select>
+              </div>
+            </div>
+          </div>
+        )}
+      </div>
+
       <h1 className="text-3xl font-bold text-center mb-8">California DMV Handbook Practice Tests</h1>
+
       <p className="text-center mb-6">Select a chapter to start a practice test:</p>
       <div className="grid md:grid-cols-1 gap-4">
         {chapters.map((chapter) => (

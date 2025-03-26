@@ -2,9 +2,6 @@
 
 let combinedData = null;
 
-// Maximum number of questions to return per chapter - only limited in development
-const QUESTIONS_LIMIT = process.env.NODE_ENV === 'development' ? 2 : Infinity;
-
 // Function to load data either from imported module or from fetch
 export const loadData = async () => {
   if (combinedData) {
@@ -44,12 +41,15 @@ export const api = {
     });
   },
   
-  getQuestionsByChapter: async (chapterId) => {
+  getQuestionsByChapter: async (chapterId, userPreferences = {}) => {
     const data = await loadData();
     return new Promise((resolve) => {
       setTimeout(() => {
         const questions = (data.questionsByChapter && data.questionsByChapter[chapterId]) || [];
-        resolve(questions.slice(0, QUESTIONS_LIMIT));
+        // Use questionsLimit from userPreferences, with fallbacks
+        const questionsLimit = userPreferences.questionsLimit ||
+          (process.env.NODE_ENV === 'development' ? 2 : Infinity);
+        resolve(questions.slice(0, questionsLimit));
       }, 500);
     });
   },
