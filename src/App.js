@@ -17,6 +17,11 @@ const App = () => {
     return savedCount ? parseInt(savedCount, 10) : 100;
   });
   const [showProfileMenu, setShowProfileMenu] = useState(false);
+  const [darkMode, setDarkMode] = useState(() => {
+    // Load dark mode setting from localStorage
+    const savedMode = localStorage.getItem('darkMode');
+    return savedMode ? JSON.parse(savedMode) : true;
+  });
   const [comprehensiveTestScores, setComprehensiveTestScores] = useState(() => {
     // Load comprehensive test scores from localStorage
     const savedScores = localStorage.getItem('comprehensiveTestScores');
@@ -27,6 +32,11 @@ const App = () => {
   useEffect(() => {
     localStorage.setItem('questionCount', questionCount.toString());
   }, [questionCount]);
+  
+  // Save darkMode to localStorage whenever it changes
+  useEffect(() => {
+    localStorage.setItem('darkMode', JSON.stringify(darkMode));
+  }, [darkMode]);
 
   // Fetch chapters on component mount
   useEffect(() => {
@@ -222,7 +232,7 @@ const App = () => {
           </div>
         </div>
 
-        <h2 className="text-2xl font-bold mb-6">
+        <h2 className={`text-2xl font-bold mb-6 ${darkMode ? '' : 'text-gray-900'}`}>
           {currentChapter === 'comprehensive'
             ? 'Review - Comprehensive DMV Test'
             : `Review - Chapter ${currentChapter}: ${chapters.find(c => c.id === currentChapter)?.title}`}
@@ -232,8 +242,8 @@ const App = () => {
         </p>
 
         {reviewAttempt.questions.map((question, index) => (
-          <div key={index} className="bg-white p-6 rounded-lg shadow-md mb-6">
-            <h3 className="text-xl font-semibold mb-4">Question {index + 1}: {question.question}</h3>
+          <div key={index} className={`p-6 rounded-lg shadow-md mb-6 border ${darkMode ? 'bg-gray-800 border-gray-700' : 'bg-white border-gray-300'}`}>
+            <h3 className={`text-xl font-semibold mb-4 ${darkMode ? '' : 'text-gray-900'}`}>Question {index + 1}: {question.question}</h3>
             <div className="space-y-3">
               {question.options.map((option, optIndex) => (
                 <div
@@ -243,16 +253,16 @@ const App = () => {
                       ? 'bg-green-100 border-green-500'
                       : 'bg-red-100 border-red-500'
                     : option.isCorrect
-                      ? 'bg-green-50 border-green-300'
-                      : 'bg-gray-50 border-gray-300'
+                      ? 'bg-green-900 border-green-600'
+                      : 'bg-gray-100 border-gray-300'
                     }`}
                 >
                   <div className="flex items-start">
                     <div className="mr-2 font-bold">{String.fromCharCode(65 + optIndex)}.</div>
-                    <div>{option.text}</div>
+                    <div className={darkMode ? '' : 'text-gray-900'}>{option.text}</div>
                   </div>
                   {question.selectedAnswer === optIndex && !option.isCorrect && (
-                    <div className="mt-2 text-red-600 text-sm">{option.explanation}</div>
+                    <div className="mt-2 text-red-400 text-sm">{option.explanation}</div>
                   )}
                 </div>
               ))}
@@ -278,44 +288,69 @@ const App = () => {
 
         {/* Profile Menu Dropdown */}
         {showProfileMenu && (
-          <div className="absolute right-0 mt-2 w-64 bg-white rounded-md shadow-lg z-10">
-            <div className="p-4 border-b">
-              <h3 className="font-medium text-gray-700 mb-2">User Preferences</h3>
-              <div className="flex flex-col">
-                <label htmlFor="questionCount" className="text-sm text-gray-600 mb-1">
-                  Questions per quiz:
-                </label>
-                <select
-                  id="questionCount"
-                  value={questionCount}
-                  onChange={(e) => setQuestionCount(Number(e.target.value))}
-                  className="border border-gray-300 rounded-md px-3 py-2 focus:outline-none focus:ring-2 focus:ring-blue-500"
-                >
-                  <option value={2}>2 questions</option>
-                  <option value={5}>5 questions</option>
-                  <option value={10}>10 questions</option>
-                  <option value={15}>15 questions</option>
-                  <option value={100}>All questions</option>
-                </select>
+          <div className={`absolute right-0 mt-2 w-64 ${darkMode ? 'bg-gray-800 border-gray-700' : 'bg-white border-gray-300'} rounded-md shadow-lg z-10 border`}>
+            <div className={`p-4 border-b ${darkMode ? 'border-gray-700' : 'border-gray-300'}`}>
+              <h3 className={`font-medium ${darkMode ? 'text-gray-200' : 'text-gray-700'} mb-2`}>User Preferences</h3>
+              <div className="flex flex-col gap-3">
+                <div>
+                  <label htmlFor="questionCount" className={`text-sm ${darkMode ? 'text-gray-300' : 'text-gray-600'} mb-1`}>
+                    Questions per quiz:
+                  </label>
+                  <select
+                    id="questionCount"
+                    value={questionCount}
+                    onChange={(e) => setQuestionCount(Number(e.target.value))}
+                    className={`border ${darkMode ? 'border-gray-600 bg-gray-700 text-white' : 'border-gray-300 bg-white text-gray-900'} rounded-md px-3 py-2 focus:outline-none focus:ring-2 focus:ring-blue-500 w-full mt-1`}
+                  >
+                    <option value={2}>2 questions</option>
+                    <option value={5}>5 questions</option>
+                    <option value={10}>10 questions</option>
+                    <option value={15}>15 questions</option>
+                    <option value={100}>All questions</option>
+                  </select>
+                </div>
+                <div>
+                  <label className={`text-sm ${darkMode ? 'text-gray-300' : 'text-gray-600'} mb-1`}>
+                    Display Mode:
+                  </label>
+                  <div className="flex items-center space-x-2 mt-1">
+                    <button 
+                      onClick={() => setDarkMode(false)}
+                      className={`px-3 py-1 rounded ${!darkMode 
+                        ? 'bg-blue-500 text-white' 
+                        : darkMode ? 'bg-gray-600 text-gray-300' : 'bg-gray-200 text-gray-700'}`}
+                    >
+                      Light
+                    </button>
+                    <button 
+                      onClick={() => setDarkMode(true)}
+                      className={`px-3 py-1 rounded ${darkMode 
+                        ? 'bg-blue-500 text-white' 
+                        : darkMode ? 'bg-gray-600 text-gray-300' : 'bg-gray-200 text-gray-700'}`}
+                    >
+                      Dark
+                    </button>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
         )}
       </div>
 
-      <h1 className="text-3xl font-bold text-center mb-8">California DMV Handbook Practice Tests</h1>
+      <h1 className={`text-3xl font-bold text-center mb-8 ${darkMode ? 'text-blue-300' : 'text-blue-700'}`}>California DMV Handbook Practice Tests</h1>
 
-      <p className="text-center mb-6">Select a chapter to start a practice test:</p>
+      <p className={`text-center mb-6 ${darkMode ? 'text-gray-300' : 'text-gray-600'}`}>Select a chapter to start a practice test:</p>
       <div className="grid md:grid-cols-1 gap-4">
         {chapters.map((chapter) => (
-          <div key={chapter.id} className="bg-white p-4 rounded-lg shadow-md">
+          <div key={chapter.id} className={`p-4 rounded-lg shadow-md border ${darkMode ? 'bg-gray-800 border-gray-700' : 'bg-white border-gray-300'}`}>
             <div className="flex justify-between items-center mb-4">
               <div className="flex flex-col">
-                <div className="text-lg font-semibold">
+                <div className={`text-lg font-semibold ${darkMode ? 'text-blue-300' : 'text-blue-700'}`}>
                   Chapter {chapter.id}: {chapter.title}
                 </div>
                 {chapterScores[chapter.id] && (
-                  <div className="text-sm text-gray-600 mt-1">
+                  <div className={`text-sm mt-1 ${darkMode ? 'text-gray-400' : 'text-gray-600'}`}>
                     Latest score: {chapterScores[chapter.id].score}/{chapterScores[chapter.id].total}
                   </div>
                 )}
@@ -354,17 +389,17 @@ const App = () => {
         ))}
 
         {/* Comprehensive Test Section */}
-        <div className="bg-white p-4 rounded-lg shadow-md border-2 border-blue-500 mt-8">
+        <div className={`p-4 rounded-lg shadow-md border-2 border-blue-500 mt-8 ${darkMode ? 'bg-gray-800' : 'bg-white'}`}>
           <div className="flex justify-between items-center mb-4">
             <div className="flex flex-col">
-              <div className="text-lg font-semibold text-blue-700">
+              <div className={`text-lg font-semibold ${darkMode ? 'text-blue-300' : 'text-blue-700'}`}>
                 Comprehensive DMV Test
               </div>
-              <div className="text-sm text-gray-600">
+              <div className={`text-sm ${darkMode ? 'text-gray-400' : 'text-gray-600'}`}>
                 Test your knowledge across all chapters
               </div>
               {comprehensiveTestScores.score !== undefined && (
-                <div className="text-sm text-gray-600 mt-1">
+                <div className={`text-sm mt-1 ${darkMode ? 'text-gray-400' : 'text-gray-600'}`}>
                   Latest score: {comprehensiveTestScores.score}/{comprehensiveTestScores.total}
                 </div>
               )}
@@ -432,15 +467,15 @@ const App = () => {
           )}
         </div>
 
-        <h2 className="text-2xl font-bold mb-6">
+        <h2 className={`text-2xl font-bold mb-6 ${darkMode ? '' : 'text-gray-900'}`}>
           {currentChapter === 'comprehensive'
             ? 'Comprehensive DMV Test'
             : `Chapter ${currentChapter}: ${chapters.find(c => c.id === currentChapter)?.title}`}
         </h2>
 
         {questions.map((question, questionIndex) => (
-          <div key={questionIndex} className="bg-white p-6 rounded-lg shadow-md mb-6">
-            <h3 className="text-xl font-semibold mb-4">Question {questionIndex + 1}: {question.question}</h3>
+          <div key={questionIndex} className={`p-6 rounded-lg shadow-md mb-6 border ${darkMode ? 'bg-gray-800 border-gray-700' : 'bg-white border-gray-300'}`}>
+            <h3 className={`text-xl font-semibold mb-4 ${darkMode ? '' : 'text-gray-900'}`}>Question {questionIndex + 1}: {question.question}</h3>
 
             <div className="space-y-3">
               {question.options.map((option, optionIndex) => (
@@ -450,19 +485,19 @@ const App = () => {
                   className={`p-3 rounded-md cursor-pointer border ${selectedAnswers[questionIndex] === optionIndex
                       ? quizSubmitted
                         ? option.isCorrect
-                          ? 'bg-green-100 border-green-500'
-                          : 'bg-red-100 border-red-500'
-                        : 'bg-blue-100 border-blue-500'
-                      : 'bg-gray-50 border-gray-300 hover:bg-gray-100'
+                          ? 'bg-green-900 border-green-500'
+                          : 'bg-red-900 border-red-500'
+                        : 'bg-blue-900 border-blue-500'
+                      : 'bg-gray-100 border-gray-300 hover:bg-gray-200'
                     }`}
                 >
                   <div className="flex items-start">
                     <div className="mr-2 font-bold">{String.fromCharCode(65 + optionIndex)}.</div>
-                    <div>{option.text}</div>
+                    <div className={darkMode ? '' : 'text-gray-900'}>{option.text}</div>
                   </div>
 
                   {quizSubmitted && selectedAnswers[questionIndex] === optionIndex && !option.isCorrect && (
-                    <div className="mt-2 text-red-600 text-sm">{option.explanation}</div>
+                    <div className="mt-2 text-red-400 text-sm">{option.explanation}</div>
                   )}
                 </div>
               ))}
@@ -494,7 +529,7 @@ const App = () => {
   };
 
   return (
-    <div className="min-h-screen bg-gray-100">
+    <div className={`min-h-screen ${darkMode ? 'bg-gray-900 text-gray-100' : 'bg-gray-100 text-gray-900'}`}>
       {currentView === 'home' ? renderHome() :
         currentView === 'review' ? renderReview() : renderQuiz()}
     </div>
