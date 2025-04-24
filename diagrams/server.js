@@ -137,6 +137,62 @@ app.get('/api/images', (req, res) => {
   }
 });
 
+// API endpoint to delete images
+app.post('/api/delete-images', async (req, res) => {
+  try {
+    const { images } = req.body;
+    
+    if (!images || !Array.isArray(images) || images.length === 0) {
+      return res.status(400).json({ error: 'No images provided for deletion' });
+    }
+    
+    const imagesDir = path.join(__dirname, 'public/images/renamed');
+    const results = { success: [], failed: [] };
+    
+    // Process each image
+    for (const image of images) {
+      // Validate the filename for security
+      if (!image || typeof image !== 'string' || !image.endsWith('.png')) {
+        results.failed.push({ file: image, reason: 'Invalid filename' });
+        continue;
+      }
+      
+      // Ensure no directory traversal
+      const imagePath = path.join(imagesDir, image);
+      if (!imagePath.startsWith(imagesDir)) {
+        results.failed.push({ file: image, reason: 'Invalid path' });
+        continue;
+      }
+      
+      // Check if file exists
+      if (!fs.existsSync(imagePath)) {
+        results.failed.push({ file: image, reason: 'File not found' });
+        continue;
+      }
+      
+      // Delete the file
+      try {
+        fs.unlinkSync(imagePath);
+        results.success.push(image);
+      } catch (error) {
+        console.error(`Error deleting ${image}:`, error);
+        results.failed.push({ file: image, reason: error.message });
+      }
+    }
+    
+    res.json({
+      message: `Deleted ${results.success.length} images, ${results.failed.length} failures`,
+      results
+    });
+  } catch (error) {
+    console.error('Error deleting images:', error);
+    res.status(500).json({
+      error: 'Error deleting images',
+      message: error.message
+    });
+  }
+});
+
 // API endpoint to annotate images with Claude
 app.post('/api/annotate', async (req, res) => {
   try {
@@ -236,9 +292,10 @@ app.post('/api/generate-question', async (req, res) => {
       return res.status(500).json({ error: 'OpenAI API key not configured' });
     }
 
+    console.log("making openai call to generate question");
     // OpenAI API Call
     const openaiResponse = await openai.chat.completions.create({
-      model: "o4-mini",
+      model: "gpt-4o",
         messages: [
           {
             "role": "developer",
@@ -277,8 +334,8 @@ app.post('/api/generate-question', async (req, res) => {
       response_format: {
         "type": "json_object"
       },
-      reasoning_effort: "medium",
-      store: false,
+      // reasoning_effort: "medium",
+      // store: false,
     });
 
     console.log(openaiResponse);

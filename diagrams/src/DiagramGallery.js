@@ -56,6 +56,7 @@ const DiagramGallery = () => {
     const saved = localStorage.getItem('hiddenImages');
     return saved ? JSON.parse(saved) : [];
   });
+  const [isDeletingImages, setIsDeletingImages] = useState(false);
   const [isAnnotating, setIsAnnotating] = useState(false);
   const [batchAnnotating, setBatchAnnotating] = useState(false);
   const [annotationProgress, setAnnotationProgress] = useState({ current: 0, total: 0 });
@@ -63,6 +64,8 @@ const DiagramGallery = () => {
   // Question generation state
   const [isGeneratingQuestion, setIsGeneratingQuestion] = useState(false);
   const [generatedQuestion, setGeneratedQuestion] = useState(null);
+  const [batchGeneratingQuestions, setBatchGeneratingQuestions] = useState(false);
+  const [questionProgress, setQuestionProgress] = useState({ current: 0, total: 0 });
   
   // For importing data
   const jsonInputRef = useRef(null);
@@ -364,6 +367,85 @@ const DiagramGallery = () => {
     setHiddenImages([]);
   };
   
+  // Function to permanently delete all hidden images
+  const deleteHiddenImages = async () => {
+    if (hiddenImages.length === 0) {
+      alert('No hidden images to delete.');
+      return;
+    }
+    
+    // Ask for confirmation
+    const confirmed = window.confirm(
+      `Are you sure you want to permanently delete ${hiddenImages.length} hidden images? This action cannot be undone.`
+    );
+    
+    if (!confirmed) {
+      return;
+    }
+    
+    try {
+      setIsDeletingImages(true);
+      
+      // Call the API to delete the images
+      const response = await fetch('/api/delete-images', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({
+          images: hiddenImages
+        })
+      });
+      
+      if (!response.ok) {
+        const errorData = await response.json();
+        throw new Error(errorData.error || 'Failed to delete images');
+      }
+      
+      const data = await response.json();
+      
+      // Clean up descriptions and questions for deleted images
+      const newDescriptions = { ...descriptions };
+      const newQuestions = { ...questions };
+      
+      data.results.success.forEach(image => {
+        // Remove from descriptions
+        if (newDescriptions[image]) {
+          delete newDescriptions[image];
+        }
+        
+        // Remove from questions
+        if (newQuestions[image]) {
+          delete newQuestions[image];
+        }
+      });
+      
+      // Update state
+      setDescriptions(newDescriptions);
+      setQuestions(newQuestions);
+      
+      // Clear the hidden images list
+      setHiddenImages([]);
+      
+      // Save changes to localStorage
+      localStorage.setItem('imageDescriptions', JSON.stringify(newDescriptions));
+      localStorage.setItem('imageQuestions', JSON.stringify(newQuestions));
+      localStorage.setItem('hiddenImages', JSON.stringify([]));
+      
+      // Refresh the image list
+      await refreshImages();
+      
+      // Notify the user
+      alert(`Successfully deleted ${data.results.success.length} images.\n${data.results.failed.length > 0 ? `Failed to delete ${data.results.failed.length} images.` : ''}`);
+      
+    } catch (error) {
+      console.error('Error deleting images:', error);
+      alert(`Failed to delete images: ${error.message}`);
+    } finally {
+      setIsDeletingImages(false);
+    }
+  };
+  
   const importData = () => {
     jsonInputRef.current?.click();
   };
@@ -419,6 +501,94 @@ const DiagramGallery = () => {
     setBatchAnnotating(false);
     alert(`Annotations complete! Added descriptions for ${imagesToAnnotate.length} images.`);
   }, [descriptions, imageFiles]);
+  
+  // Function to batch generate questions for all images with descriptions but no questions
+  const batchGenerateQuestions = useCallback(async () => {
+    // Filter images that have descriptions but no questions yet
+    // More robust check for existing questions
+    const imagesToProcess = imageFiles.filter(image => {
+      // Must have a description
+      if (!descriptions[image]) return false;
+      
+      // Check if there's no question for this image
+      if (!questions[image]) return true;
+      
+      // If there is a question but it's empty or invalid, include it
+      if (typeof questions[image] === 'string' && questions[image].trim() === '') return true;
+      
+      // If it's an object but doesn't have proper structure, include it
+      if (typeof questions[image] === 'object' && 
+          (!questions[image].question || !questions[image].options)) return true;
+      
+      // Otherwise, skip it because it already has a valid question
+      return false;
+    });
+    
+    if (imagesToProcess.length === 0) {
+      alert('No images with descriptions but without questions found!');
+      return;
+    }
+    
+    setBatchGeneratingQuestions(true);
+    setQuestionProgress({ current: 0, total: imagesToProcess.length });
+    
+    const newQuestions = { ...questions };
+    
+    // Process images sequentially to avoid overwhelming the API
+    for (let i = 0; i < imagesToProcess.length; i++) {
+      try {
+        const currentImage = imagesToProcess[i];
+        setQuestionProgress({ current: i + 1, total: imagesToProcess.length });
+        
+        // Skip if we already have a question (might have been added in a previous iteration)
+        if (newQuestions[currentImage]) {
+          continue;
+        }
+        
+        // Call the API to generate a question
+        const response = await fetch('/api/generate-question', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json'
+          },
+          body: JSON.stringify({
+            imageFile: currentImage,
+            description: descriptions[currentImage]
+          })
+        });
+        
+        if (!response.ok) {
+          throw new Error(`Failed to generate question for ${currentImage}`);
+        }
+        
+        const data = await response.json();
+        
+        // Parse the question data as JSON
+        const questionData = JSON.parse(data.question);
+        
+        // Update questions object
+        newQuestions[currentImage] = questionData;
+        
+        // Update state every few images to show progress
+        if (i % 3 === 0 || i === imagesToProcess.length - 1) {
+          setQuestions({ ...newQuestions });
+          localStorage.setItem('imageQuestions', JSON.stringify(newQuestions));
+        }
+        
+        // Small delay to avoid overwhelming the API
+        await new Promise(r => setTimeout(r, 2000));
+      } catch (error) {
+        console.error(`Error generating question for image ${imagesToProcess[i]}:`, error);
+      }
+    }
+    
+    // Final update to ensure all questions are saved
+    setQuestions(newQuestions);
+    localStorage.setItem('imageQuestions', JSON.stringify(newQuestions));
+    
+    setBatchGeneratingQuestions(false);
+    alert(`Question generation complete! Added questions for ${imagesToProcess.length} images.`);
+  }, [descriptions, questions, imageFiles]);
   
   const handleFileUpload = (event) => {
     const file = event.target.files[0];
@@ -790,6 +960,7 @@ const DiagramGallery = () => {
             <button 
               onClick={batchAnnotateAll}
               className="bg-indigo-500 text-white px-4 py-2 rounded hover:bg-indigo-600 transition flex items-center"
+              disabled={batchGeneratingQuestions}
             >
               <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 mr-1" viewBox="0 0 20 20" fill="currentColor">
                 <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm1-11a1 1 0 10-2 0v2H7a1 1 0 100 2h2v2a1 1 0 102 0v-2h2a1 1 0 100-2h-2V7z" clipRule="evenodd" />
@@ -798,10 +969,31 @@ const DiagramGallery = () => {
             </button>
           )}
           
+          {batchGeneratingQuestions ? (
+            <div className="bg-teal-100 border border-teal-400 text-teal-700 px-4 py-2 rounded flex items-center">
+              <svg className="animate-spin h-5 w-5 mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
+                <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+              </svg>
+              Generating Questions {questionProgress.current}/{questionProgress.total}...
+            </div>
+          ) : (
+            <button 
+              onClick={batchGenerateQuestions}
+              className="bg-teal-500 text-white px-4 py-2 rounded hover:bg-teal-600 transition flex items-center"
+              disabled={batchAnnotating}
+            >
+              <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 mr-1" viewBox="0 0 20 20" fill="currentColor">
+                <path fillRule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-8-3a1 1 0 00-.867.5 1 1 0 11-1.731-1A3 3 0 0113 8a3.001 3.001 0 01-2 2.83V11a1 1 0 11-2 0v-1a1 1 0 011-1 1 1 0 100-2zm0 8a1 1 0 100-2 1 1 0 000 2z" clipRule="evenodd" />
+              </svg>
+              Generate All Questions
+            </button>
+          )}
+          
           <button 
             onClick={() => setShowUploader(true)}
             className="bg-pink-500 text-white px-4 py-2 rounded hover:bg-pink-600 transition flex items-center"
-            disabled={batchAnnotating || uploading}
+            disabled={batchAnnotating || batchGeneratingQuestions || uploading}
           >
             <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 mr-1" viewBox="0 0 20 20" fill="currentColor">
               <path fillRule="evenodd" d="M3 17a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM6.293 6.707a1 1 0 010-1.414l3-3a1 1 0 011.414 0l3 3a1 1 0 01-1.414 1.414L11 5.414V13a1 1 0 11-2 0V5.414L7.707 6.707a1 1 0 01-1.414 0z" clipRule="evenodd" />
@@ -812,8 +1004,8 @@ const DiagramGallery = () => {
           
           <button 
             onClick={refreshImages}
-            className="bg-teal-500 text-white px-4 py-2 rounded hover:bg-teal-600 transition flex items-center"
-            disabled={batchAnnotating || loading}
+            className="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600 transition flex items-center"
+            disabled={batchAnnotating || batchGeneratingQuestions || loading}
           >
             <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 mr-1" viewBox="0 0 20 20" fill="currentColor">
               <path fillRule="evenodd" d="M4 2a1 1 0 011 1v2.101a7.002 7.002 0 0111.601 2.566 1 1 0 11-1.885.666A5.002 5.002 0 005.999 7H9a1 1 0 010 2H4a1 1 0 01-1-1V3a1 1 0 011-1zm.008 9.057a1 1 0 011.276.61A5.002 5.002 0 0014.001 13H11a1 1 0 110-2h5a1 1 0 011 1v5a1 1 0 11-2 0v-2.101a7.002 7.002 0 01-11.601-2.566 1 1 0 01.61-1.276z" clipRule="evenodd" />
@@ -824,7 +1016,7 @@ const DiagramGallery = () => {
           <button 
             onClick={exportData}
             className="bg-green-500 text-white px-4 py-2 rounded hover:bg-green-600 transition flex items-center"
-            disabled={batchAnnotating}
+            disabled={batchAnnotating || batchGeneratingQuestions}
           >
             <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 mr-1" viewBox="0 0 20 20" fill="currentColor">
               <path fillRule="evenodd" d="M3 17a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zm3.293-7.707a1 1 0 011.414 0L9 10.586V3a1 1 0 112 0v7.586l1.293-1.293a1 1 0 111.414 1.414l-3 3a1 1 0 01-1.414 0l-3-3a1 1 0 010-1.414z" clipRule="evenodd" />
@@ -835,7 +1027,7 @@ const DiagramGallery = () => {
           <button 
             onClick={importData}
             className="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600 transition flex items-center"
-            disabled={batchAnnotating}
+            disabled={batchAnnotating || batchGeneratingQuestions}
           >
             <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 mr-1" viewBox="0 0 20 20" fill="currentColor">
               <path fillRule="evenodd" d="M3 17a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zm3.707-8.707a1 1 0 00-1.414 0L3 10.586V3a1 1 0 00-2 0v7.586l-1.293-1.293a1 1 0 00-1.414 1.414l3 3a1 1 0 001.414 0l3-3a1 1 0 000-1.414z" clipRule="evenodd" transform="translate(20, 0) scale(-1, 1)" />
@@ -853,13 +1045,36 @@ const DiagramGallery = () => {
           />
           
           {hiddenImages.length > 0 && (
-            <button 
-              onClick={restoreAllImages}
-              className="bg-purple-500 text-white px-4 py-2 rounded hover:bg-purple-600 transition"
-              disabled={batchAnnotating}
-            >
-              Restore Hidden Images ({hiddenImages.length})
-            </button>
+            <>
+              <button 
+                onClick={restoreAllImages}
+                className="bg-purple-500 text-white px-4 py-2 rounded hover:bg-purple-600 transition"
+                disabled={batchAnnotating || batchGeneratingQuestions || isDeletingImages}
+              >
+                Restore Hidden Images ({hiddenImages.length})
+              </button>
+              
+              {isDeletingImages ? (
+                <div className="bg-red-100 border border-red-400 text-red-700 px-4 py-2 rounded flex items-center">
+                  <svg className="animate-spin h-5 w-5 mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                    <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
+                    <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+                  </svg>
+                  Deleting images...
+                </div>
+              ) : (
+                <button 
+                  onClick={deleteHiddenImages}
+                  className="bg-red-500 text-white px-4 py-2 rounded hover:bg-red-600 transition flex items-center"
+                  disabled={batchAnnotating || batchGeneratingQuestions || hiddenImages.length === 0}
+                >
+                  <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 mr-1" viewBox="0 0 20 20" fill="currentColor">
+                    <path fillRule="evenodd" d="M9 2a1 1 0 00-.894.553L7.382 4H4a1 1 0 000 2v10a2 2 0 002 2h8a2 2 0 002-2V6a1 1 0 100-2h-3.382l-.724-1.447A1 1 0 0011 2H9zM7 8a1 1 0 012 0v6a1 1 0 11-2 0V8zm5-1a1 1 0 00-1 1v6a1 1 0 102 0V8a1 1 0 00-1-1z" clipRule="evenodd" />
+                  </svg>
+                  Delete Hidden Images
+                </button>
+              )}
+            </>
           )}
         </div>
       </div>
@@ -1182,13 +1397,14 @@ const DiagramGallery = () => {
                           e.stopPropagation();
                           generateQuestion(selectedImage);
                         }}
-                        disabled={isGeneratingQuestion || !descriptions[selectedImage]}
+                        disabled={isGeneratingQuestion || !descriptions[selectedImage] || batchGeneratingQuestions}
                         className={`flex-1 py-2 px-3 rounded flex items-center justify-center ${
-                          isGeneratingQuestion || !descriptions[selectedImage]
+                          isGeneratingQuestion || !descriptions[selectedImage] || batchGeneratingQuestions
                             ? 'bg-gray-400 cursor-not-allowed' 
                             : 'bg-teal-600 hover:bg-teal-700 text-white'
                         }`}
-                        title={!descriptions[selectedImage] ? "Description required to generate a question" : ""}
+                        title={!descriptions[selectedImage] ? "Description required to generate a question" : 
+                              batchGeneratingQuestions ? "Cannot generate question while batch processing" : ""}
                       >
                         {isGeneratingQuestion ? (
                           <>
