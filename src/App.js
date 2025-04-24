@@ -244,6 +244,17 @@ const App = () => {
         {reviewAttempt.questions.map((question, index) => (
           <div key={index} className={`p-6 rounded-lg shadow-md mb-6 border ${darkMode ? 'bg-gray-800 border-gray-700' : 'bg-white border-gray-300'}`}>
             <h3 className={`text-xl font-semibold mb-4 ${darkMode ? '' : 'text-gray-900'}`}>Question {index + 1}: {question.question}</h3>
+            
+            {question.imgFileName && (
+              <div className="mb-4">
+                <img 
+                  src={`/images/${question.imgFileName}`} 
+                  alt={`Question ${index + 1} diagram`} 
+                  className="max-w-full rounded-md border border-gray-300 mx-auto"
+                />
+              </div>
+            )}
+            
             <div className="space-y-3">
               {question.options.map((option, optIndex) => (
                 <div
@@ -476,6 +487,16 @@ const App = () => {
         {questions.map((question, questionIndex) => (
           <div key={questionIndex} className={`p-6 rounded-lg shadow-md mb-6 border ${darkMode ? 'bg-gray-800 border-gray-700' : 'bg-white border-gray-300'}`}>
             <h3 className={`text-xl font-semibold mb-4 ${darkMode ? '' : 'text-gray-900'}`}>Question {questionIndex + 1}: {question.question}</h3>
+            
+            {question.imgFileName && (
+              <div className="mb-4">
+                <img 
+                  src={`/images/${question.imgFileName}`} 
+                  alt={`Question ${questionIndex + 1} diagram`} 
+                  className="max-w-full rounded-md border border-gray-300 mx-auto"
+                />
+              </div>
+            )}
 
             <div className="space-y-3">
               {question.options.map((option, optionIndex) => (

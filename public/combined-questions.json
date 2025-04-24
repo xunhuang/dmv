@@ -13,6 +13,7 @@
     { "id": 11, "title": "Vehicle Registration Requirements" },
     { "id": 12, "title": "Driver Safety" },
     { "id": 13, "title": "Seniors and Driving" }
+    { "id": 14, "title": "Signs" }
   ],
   "questionsByChapter": {
     "1": [
@@ -634,6 +635,1024 @@
           { "text": "A mandatory medical examination for drivers over 65", "isCorrect": false, "explanation": "The program is an educational course, not a medical examination requirement." }
         ]
       }
-    ]
+    ],
+"14" :[
+  {
+    "question": "What does a driver indicate by extending their left arm straight out of the vehicle window?",
+    "options": [
+      {
+        "text": "The driver intends to make a left turn.",
+        "isCorrect": true
+      },
+      {
+        "text": "The driver intends to make a right turn.",
+        "isCorrect": false
+      },
+      {
+        "text": "The driver is signaling to stop.",
+        "isCorrect": false
+      },
+      {
+        "text": "The driver intends to proceed straight.",
+        "isCorrect": false
+      }
+    ],
+    "imgFileName": "diagram-unknown.png"
+  },
+  {
+    "question": "What does it indicate when a driver extends their left arm upward out of the window?",
+    "options": [
+      {
+        "text": "The driver is signaling to make a right turn.",
+        "isCorrect": true
+      },
+      {
+        "text": "The driver is signaling to make a left turn.",
+        "isCorrect": false
+      },
+      {
+        "text": "The driver is signaling to slow down or stop.",
+        "isCorrect": false
+      },
+      {
+        "text": "The driver is signaling for a lane change to the left.",
+        "isCorrect": false
+      }
+    ],
+    "imgFileName": "diagram-1.png"
+  },
+  "What should you do when you are in a dedicated right turn lane and there is a red light for vehicles going straight through the intersection?\n\nA) Stop and wait until the light turns green before making a right turn.\nB) Make the right turn without stopping, unless there is a red arrow or sign indicating otherwise.\nC) Merge into the straight lane before turning if there is a red light.\nD) Wait for oncoming traffic to clear before making a turn, regardless of the traffic light.\n\nCorrect Answer: B) Make the right turn without stopping, unless there is a red arrow or sign indicating otherwise.",
+  {
+    "question": "You approach an intersection displaying this “No U-Turn” sign. Which of the following is the correct action?",
+    "options": [
+      {
+        "text": "Signal left and complete a U-turn once oncoming traffic clears",
+        "isCorrect": false,
+        "explanation": "A U-turn at this location is prohibited at all times."
+      },
+      {
+        "text": "Continue through the intersection and find another legal location to turn around",
+        "isCorrect": true
+      },
+      {
+        "text": "Slow down and perform a three-point turn in the intersection",
+        "isCorrect": false,
+        "explanation": "Three-point turns within an intersection are not permitted and the sign specifically bans U-turns."
+      },
+      {
+        "text": "Turn right immediately and then turn left to reverse direction",
+        "isCorrect": false,
+        "explanation": "While a two-turn maneuver may be legal, the safest and correct response is to proceed straight and locate a posted area where turns are allowed."
+      }
+    ],
+    "imgFileName": "pasted-graphic-1.png"
+  },
+  {
+    "question": "You see a driver with their left arm extended out the window and bent downward at the elbow, as shown. What does this hand signal mean?",
+    "options": [
+      {
+        "text": "A. The driver intends to make a U-turn",
+        "isCorrect": false
+      },
+      {
+        "text": "B. The driver will turn right",
+        "isCorrect": false
+      },
+      {
+        "text": "C. The driver is slowing down or stopping",
+        "isCorrect": true
+      },
+      {
+        "text": "D. The driver plans to change lanes to the left",
+        "isCorrect": false
+      }
+    ],
+    "imgFileName": "diagram-2.png"
+  },
+  {
+    "question": "You approach an intersection displaying this sign. What is the correct way to proceed?",
+    "options": [
+      {
+        "text": "You may only make a left turn from the lane under the arrow.",
+        "isCorrect": false,
+        "explanation": "The sign allows both a left turn and a U-turn from the designated lane, not just a left turn."
+      },
+      {
+        "text": "You may make a U-turn or a left turn from the lane under the arrow, provided it is safe.",
+        "isCorrect": true
+      },
+      {
+        "text": "You may make a U-turn only after first proceeding straight through the intersection.",
+        "isCorrect": false,
+        "explanation": "The sign explicitly permits U-turns and left turns directly from the lane."
+      },
+      {
+        "text": "You may only make a U-turn if no other vehicles are present, but cannot turn left.",
+        "isCorrect": false,
+        "explanation": "Left turns are also permitted; the sign does not restrict you to U-turns only."
+      }
+    ],
+    "imgFileName": "pasted-graphic-2.png"
+  },
+  {
+    "question": "You see a freeway lane marked with this sign (white diamond symbol and the words “CARPOOLS 3 OR MORE ONLY”). During its hours of operation, what is the minimum number of people that must be in your vehicle to legally use this lane?",
+    "options": [
+      {
+        "label": "A",
+        "text": "1 person (you alone)",
+        "isCorrect": false
+      },
+      {
+        "label": "B",
+        "text": "2 persons",
+        "isCorrect": false
+      },
+      {
+        "label": "C",
+        "text": "3 persons",
+        "isCorrect": true
+      },
+      {
+        "label": "D",
+        "text": "4 persons",
+        "isCorrect": false
+      }
+    ],
+    "imgFileName": "diagram-6.png"
+  },
+  {
+    "question": "You see this sign on the freeway: LEFT LANE HOV 2+ OR MORE ONLY WHEN METERED. What does it mean?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The left lane is reserved for vehicles with two or more occupants—but only while the HOV entrance meter is flashing."
+      },
+      {
+        "label": "B",
+        "text": "The left lane is always reserved for vehicles with two or more occupants, regardless of the meter."
+      },
+      {
+        "label": "C",
+        "text": "Only single-occupant vehicles may use the left lane when the HOV meter is off."
+      },
+      {
+        "label": "D",
+        "text": "All vehicles may use the left lane except during posted peak-hour times."
+      }
+    ],
+    "correctAnswer": "A",
+    "imgFileName": "diagram-7.png"
+  },
+  {
+    "question": "You approach an intersection showing a steady red traffic signal. Which of the following is the correct action?",
+    "options": [
+      {
+        "text": "Come to a complete stop at the limit line, crosswalk, or before entering the intersection, then remain stopped until the light turns green.",
+        "isCorrect": false,
+        "explanation": "You may turn right on red after a full stop and when it is safe, unless a sign prohibits it."
+      },
+      {
+        "text": "Stop completely at the limit line, crosswalk, or before the intersection; then, if turning right, yield to pedestrians and other traffic and proceed only when it’s safe and not prohibited.",
+        "isCorrect": true
+      },
+      {
+        "text": "Slow down, yield to any pedestrians, and proceed through the intersection if there is no cross traffic.",
+        "isCorrect": false,
+        "explanation": "You must come to a full stop at a red signal—slowing down is not sufficient."
+      },
+      {
+        "text": "Stop, wait 5 seconds, and then you may drive through the intersection if it appears safe.",
+        "isCorrect": false,
+        "explanation": "You cannot enter the intersection on red, even after waiting, unless you are turning right (or making a permitted left from a one-way street) and have come to a complete stop."
+      }
+    ],
+    "imgFileName": "diagram-14.png"
+  },
+  {
+    "question": "What does the red arrow road sign indicate?",
+    "options": [
+      {
+        "text": "You must not turn right.",
+        "isCorrect": true
+      },
+      {
+        "text": "You must turn right immediately.",
+        "isCorrect": false
+      },
+      {
+        "text": "Right turns are allowed after stopping.",
+        "isCorrect": false
+      },
+      {
+        "text": "Right turns are only allowed during specific hours.",
+        "isCorrect": false
+      }
+    ],
+    "imgFileName": "diagram-15.png"
+  },
+  {
+    "question": "What action must you take when encountering a flashing red light at an intersection?",
+    "options": [
+      {
+        "text": "Proceed with caution, similar to a yield sign.",
+        "isCorrect": false
+      },
+      {
+        "text": "Stop completely and proceed when it is safe, treating it like a stop sign.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ignore the light and continue as if it is not there.",
+        "isCorrect": false
+      },
+      {
+        "text": "Slow down to 10 mph and continue if cross traffic is clear.",
+        "isCorrect": false
+      }
+    ],
+    "imgFileName": "diagram-16.png"
+  },
+  {
+    "question": "What should you do when you encounter a yield sign at an intersection?",
+    "options": [
+      {
+        "text": "A. Proceed without stopping, as you have the right-of-way.",
+        "isCorrect": false
+      },
+      {
+        "text": "B. Come to a complete stop regardless of traffic conditions.",
+        "isCorrect": false
+      },
+      {
+        "text": "C. Slow down, check for other vehicles, bicycles, or pedestrians, and give the right-of-way if necessary.",
+        "isCorrect": true
+      },
+      {
+        "text": "D. Speed up to clear the intersection as quickly as possible.",
+        "isCorrect": false
+      }
+    ],
+    "imgFileName": "diagram-17.png"
+  },
+  {
+    "question": "What action should you take when you encounter this one-way traffic sign with an arrow pointing to the left?",
+    "options": [
+      {
+        "text": "Continue straight ahead, ignoring the arrow direction.",
+        "isCorrect": false
+      },
+      {
+        "text": "Make a U-turn and proceed in the opposite direction.",
+        "isCorrect": false
+      },
+      {
+        "text": "Turn your vehicle to proceed in the direction the arrow is pointing.",
+        "isCorrect": true
+      },
+      {
+        "text": "Stop and wait until the sign changes.",
+        "isCorrect": false
+      }
+    ],
+    "imgFileName": "diagram-18.png"
+  },
+  {
+    "question": "What should you do when approaching this type of traffic signal?",
+    "options": [
+      {
+        "text": "A. Continue driving without stopping as long as no vehicles are present.",
+        "isCorrect": false
+      },
+      {
+        "text": "B. Stop and proceed only after yielding to pedestrians, bicyclists, and other vehicles.",
+        "isCorrect": true
+      },
+      {
+        "text": "C. Slow down, but do not stop unless a pedestrian is crossing.",
+        "isCorrect": false
+      },
+      {
+        "text": "D. Only stop if you are making a left turn at the intersection.",
+        "isCorrect": false
+      }
+    ],
+    "imgFileName": "diagram-19.png"
+  },
+  {
+    "question": "What does the diamond-shaped traffic sign with a black left-pointing arrow inside a yellow border indicate?",
+    "options": [
+      {
+        "text": "A sharp left turn is ahead; reduce speed and proceed with caution.",
+        "isCorrect": true,
+        "explanation": "The sign warns of a left turn at the upcoming intersection or roadway, indicating drivers should prepare to turn left."
+      },
+      {
+        "text": "A left lane merges ahead; merge into the left lane safely.",
+        "isCorrect": false,
+        "explanation": "The sign does not indicate a merging lane; it signals a left turn."
+      },
+      {
+        "text": "A no left turn is allowed at the next intersection.",
+        "isCorrect": false,
+        "explanation": "The sign indicates that a left turn is required or recommended, not prohibited."
+      },
+      {
+        "text": "A left curve in the road is ahead; maintain the lane and speed.",
+        "isCorrect": false,
+        "explanation": "The sign does not indicate a curve in the road; it specifies a turning action at an intersection."
+      }
+    ],
+    "imgFileName": "diagram-20.png"
+  },
+  {
+    "question": "When encountering the green circular traffic signal, what should a driver do?",
+    "options": [
+      {
+        "text": "A. Stop and check for pedestrians",
+        "isCorrect": false
+      },
+      {
+        "text": "B. Slow down and prepare to stop",
+        "isCorrect": false
+      },
+      {
+        "text": "C. Proceed through the intersection, yielding to pedestrians and any vehicles still in the intersection",
+        "isCorrect": true
+      },
+      {
+        "text": "D. Speed up to clear the intersection quickly",
+        "isCorrect": false
+      }
+    ],
+    "imgFileName": "diagram-21.png"
+  },
+  {
+    "question": "What action should you take when approaching an intersection with this left turn signal?",
+    "options": [
+      {
+        "text": "Continue straight through the intersection.",
+        "isCorrect": false
+      },
+      {
+        "text": "Prepare to make a right turn.",
+        "isCorrect": false
+      },
+      {
+        "text": "Prepare to stop and wait for a red light.",
+        "isCorrect": false
+      },
+      {
+        "text": "Prepare to make a left turn when it is safe to do so.",
+        "isCorrect": true
+      }
+    ],
+    "imgFileName": "diagram-22.png"
+  },
+  {
+    "question": "What should you do when approaching a pedestrian crossing sign like the one shown?",
+    "options": [
+      {
+        "text": "A: Speed up to clear the crossing area quickly.",
+        "isCorrect": false,
+        "explanation": "Speeding up can endanger pedestrians; drivers should be prepared to stop."
+      },
+      {
+        "text": "B: Yield the right-of-way to pedestrians and allow them to cross safely.",
+        "isCorrect": true
+      },
+      {
+        "text": "C: Honk to alert pedestrians of your presence.",
+        "isCorrect": false,
+        "explanation": "Honing is unnecessary and can startle pedestrians, prompting potential risk."
+      },
+      {
+        "text": "D: Continue driving at the same speed if no pedestrians are in the crosswalk.",
+        "isCorrect": false,
+        "explanation": "Drivers must always be prepared to stop if pedestrians appear."
+      }
+    ],
+    "imgFileName": "diagram-23.png"
+  },
+  {
+    "question": "What should you do when you encounter a 'Don't Walk' traffic signal?",
+    "options": [
+      {
+        "text": "Cross the street quickly",
+        "isCorrect": false
+      },
+      {
+        "text": "Wait on the curb until the 'Walk' signal appears",
+        "isCorrect": true
+      },
+      {
+        "text": "Ignore the signal and cross if there are no vehicles",
+        "isCorrect": false
+      },
+      {
+        "text": "Cross only if there is an adult accompanying you",
+        "isCorrect": false
+      }
+    ],
+    "imgFileName": "diagram-24.png"
+  },
+  {
+    "question": "What should a driver do when encountering a traffic sign indicating 'Diagonal Crossing OK' at an intersection?",
+    "options": [
+      {
+        "text": "Proceed in any direction, as the intersection is uncontrolled.",
+        "isCorrect": false
+      },
+      {
+        "text": "Make either a left or right turn only, diagonal movement is prohibited.",
+        "isCorrect": false
+      },
+      {
+        "text": "Proceed diagonally through the intersection if it is clear and safe to do so.",
+        "isCorrect": true
+      },
+      {
+        "text": "Stop and give right of way to all vehicles approaching the intersection.",
+        "isCorrect": false
+      }
+    ],
+    "imgFileName": "diagram-25.png"
+  },
+  {
+    "question": "When you encounter a Yield sign, what should you do?",
+    "options": [
+      {
+        "text": "A. Come to a complete stop, regardless of traffic conditions.",
+        "isCorrect": false
+      },
+      {
+        "text": "B. Speed up to merge quickly with traffic.",
+        "isCorrect": false
+      },
+      {
+        "text": "C. Slow down and be prepared to stop if necessary to allow traffic to pass.",
+        "isCorrect": true
+      },
+      {
+        "text": "D. Ignore the sign if the road appears clear.",
+        "isCorrect": false
+      }
+    ],
+    "imgFileName": "diagram-26.png"
+  },
+  {
+    "question": "What should you do when you see this 'Emergency Parking Only' sign?",
+    "options": [
+      {
+        "text": "Park here if the regular parking is full.",
+        "isCorrect": false
+      },
+      {
+        "text": "Use this parking space only during special events.",
+        "isCorrect": false
+      },
+      {
+        "text": "Park here only if you have an emergency situation.",
+        "isCorrect": true
+      },
+      {
+        "text": "This sign does not apply to passenger vehicles.",
+        "isCorrect": false
+      }
+    ],
+    "imgFileName": "diagram-27.png"
+  },
+  {
+    "question": "When you encounter an orange, diamond-shaped 'Road Machinery Ahead' sign while driving, what should you do?",
+    "options": [
+      {
+        "text": "A. Maintain your speed and pay no attention to the sign.",
+        "isCorrect": false
+      },
+      {
+        "text": "B. Immediately stop your vehicle regardless of traffic conditions.",
+        "isCorrect": false
+      },
+      {
+        "text": "C. Use caution and be prepared to slow down or stop if necessary.",
+        "isCorrect": true
+      },
+      {
+        "text": "D. Change lanes quickly to avoid road machinery.",
+        "isCorrect": false
+      }
+    ],
+    "imgFileName": "diagram-28.png"
+  },
+  {
+    "question": "What should a driver do upon seeing this pedestrian crossing sign?",
+    "options": [
+      {
+        "text": "A. Speed up to clear the crossing quickly",
+        "isCorrect": false,
+        "explanation": "Speeding up is not safe. Drivers must yield to pedestrians."
+      },
+      {
+        "text": "B. Yield the right-of-way to pedestrians crossing the road",
+        "isCorrect": true
+      },
+      {
+        "text": "C. Ignore the sign if no pedestrians are currently crossing",
+        "isCorrect": false,
+        "explanation": "Always be prepared to stop, as pedestrians may approach suddenly."
+      },
+      {
+        "text": "D. Only stop if a traffic officer is present",
+        "isCorrect": false,
+        "explanation": "The sign indicates that drivers must yield without needing a traffic officer present."
+      }
+    ],
+    "imgFileName": "diagram-29.png"
+  },
+  {
+    "question": "What action should you take when you see this orange diamond-shaped 'Shoulder Work Ahead' sign?",
+    "options": [
+      {
+        "text": "A. Increase your speed to pass the work zone quickly.",
+        "isCorrect": false,
+        "explanation": "Increasing speed in a work zone is unsafe and against regulations."
+      },
+      {
+        "text": "B. Remain in your lane and ignore the sign unless directly instructed otherwise.",
+        "isCorrect": false,
+        "explanation": "Ignoring the sign is dangerous as it indicates upcoming work on the shoulder."
+      },
+      {
+        "text": "C. Be prepared to merge or slow down, as there may be workers or equipment near the road.",
+        "isCorrect": true
+      },
+      {
+        "text": "D. Stop your vehicle immediately and wait for instructions from a road worker.",
+        "isCorrect": false,
+        "explanation": "Stopping immediately is unnecessary unless directed by road workers."
+      }
+    ],
+    "imgFileName": "diagram-30.png"
+  },
+  {
+    "question": "What should you do when you encounter this diamond-shaped yellow sign with a black flame symbol indicating a flammable hazard?",
+    "options": [
+      {
+        "text": "A. Speed up to pass through the area quickly.",
+        "isCorrect": false
+      },
+      {
+        "text": "B. Use your horn to alert other drivers of the hazard.",
+        "isCorrect": false
+      },
+      {
+        "text": "C. Slow down and exercise extra caution.",
+        "isCorrect": true
+      },
+      {
+        "text": "D. Turn on your hazard lights while passing through.",
+        "isCorrect": false
+      }
+    ],
+    "imgFileName": "diagram-32.png"
+  },
+  {
+    "question": "What should you do when you encounter a yellow diamond-shaped sign labeled 'EXPLOSIVES'?",
+    "options": [
+      {
+        "text": "A. Stop immediately and turn around.",
+        "isCorrect": false,
+        "explanation": "You might not be required to stop and turn around. Follow specific instructions or regulations."
+      },
+      {
+        "text": "B. Maintain speed and ignore the sign.",
+        "isCorrect": false,
+        "explanation": "Ignoring the sign can be dangerous."
+      },
+      {
+        "text": "C. Exercise caution and adhere to any specific regulations related to transporting explosives.",
+        "isCorrect": true
+      },
+      {
+        "text": "D. Park your vehicle and wait for a traffic officer's instructions.",
+        "isCorrect": false,
+        "explanation": "Unless specified, parking is unnecessary. Follow regulations for transporting explosives."
+      }
+    ],
+    "imgFileName": "diagram-33.png"
+  },
+  {
+    "question": "What should you do when you encounter a yellow diamond-shaped sign with a radioactive symbol while driving?",
+    "options": [
+      {
+        "text": "A. Speed up to pass the area quickly",
+        "isCorrect": false,
+        "explanation": "Speeding up can increase the risk of accidents and exposure."
+      },
+      {
+        "text": "B. Stop immediately and turn around",
+        "isCorrect": false,
+        "explanation": "Stopping abruptly may cause confusion or danger to others behind you."
+      },
+      {
+        "text": "C. Exercise caution, follow safety protocols, and proceed carefully",
+        "isCorrect": true
+      },
+      {
+        "text": "D. Ignore the sign as it has no impact on driving",
+        "isCorrect": false,
+        "explanation": "Ignoring the sign is dangerous, as it indicates potential hazards."
+      }
+    ],
+    "imgFileName": "diagram-34.png"
+  },
+  {
+    "question": "What should a driver do upon seeing a 'Slow Vehicles Use Turnouts' sign?",
+    "options": [
+      {
+        "text": "Increase speed to avoid blocking other vehicles",
+        "isCorrect": false
+      },
+      {
+        "text": "Move to the right and allow faster vehicles to pass when safe",
+        "isCorrect": true
+      },
+      {
+        "text": "Stop immediately to check for faster vehicles",
+        "isCorrect": false
+      },
+      {
+        "text": "Ignore the sign unless driving a commercial vehicle",
+        "isCorrect": false
+      }
+    ],
+    "imgFileName": "diagram-35.png"
+  },
+  {
+    "question": "What should you do when you see this traffic sign?",
+    "options": [
+      {
+        "text": "Speed up to avoid traffic merging from the right.",
+        "isCorrect": false
+      },
+      {
+        "text": "Maintain your current speed and stay in your lane.",
+        "isCorrect": false
+      },
+      {
+        "text": "Prepare to adjust your speed or position to safely allow traffic to merge.",
+        "isCorrect": true
+      },
+      {
+        "text": "Move to the far left lane immediately to avoid merging traffic.",
+        "isCorrect": false
+      }
+    ],
+    "imgFileName": "diagram-36.png"
+  },
+  {
+    "question": "What action should you take when you see a sign indicating a divided road ahead?",
+    "options": [
+      {
+        "text": "A. Prepare to merge into one lane",
+        "isCorrect": false
+      },
+      {
+        "text": "B. Follow the road as it divides with a median",
+        "isCorrect": true
+      },
+      {
+        "text": "C. Make a U-turn to avoid the divided road",
+        "isCorrect": false
+      },
+      {
+        "text": "D. Stop and yield to oncoming traffic",
+        "isCorrect": false
+      }
+    ],
+    "imgFileName": "diagram-37.png"
+  },
+  {
+    "question": "What action should you take when you encounter this two-way traffic sign on the road?",
+    "options": [
+      {
+        "text": "A) Increase your speed to pass vehicles ahead quickly.",
+        "isCorrect": false
+      },
+      {
+        "text": "B) Drive in the center of the road to avoid oncoming traffic.",
+        "isCorrect": false
+      },
+      {
+        "text": "C) Exercise caution and be prepared for vehicles traveling in both directions.",
+        "isCorrect": true
+      },
+      {
+        "text": "D) Overtake only when there is a single solid line dividing lanes.",
+        "isCorrect": false
+      }
+    ],
+    "imgFileName": "diagram-38.png"
+  },
+  {
+    "question": "What should you do when you see this lane reduction or lane merge sign?",
+    "options": [
+      {
+        "text": "Immediately stop and wait until traffic clears.",
+        "isCorrect": false
+      },
+      {
+        "text": "Speed up to pass any vehicles before the lane ends.",
+        "isCorrect": false
+      },
+      {
+        "text": "Merge safely into the remaining lane when it is clear.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ignore the sign and continue driving in your lane until the very last moment.",
+        "isCorrect": false
+      }
+    ],
+    "imgFileName": "diagram-39.png"
+  },
+  {
+    "question": "When you encounter a 'Divided Road Ends' sign, what should you do next?",
+    "options": [
+      {
+        "text": "Prepare to merge into a single lane of traffic.",
+        "isCorrect": true
+      },
+      {
+        "text": "Stay in your lane, as there will be two separate roadways ahead.",
+        "isCorrect": false
+      },
+      {
+        "text": "Accelerate to pass any vehicles before the lanes merge.",
+        "isCorrect": false
+      },
+      {
+        "text": "Make a U-turn to avoid the end of the divided road.",
+        "isCorrect": false
+      }
+    ],
+    "imgFileName": "diagram-40.png"
+  },
+  {
+    "question": "What should you do when you see the Flashing Traffic Signal Ahead sign?",
+    "options": [
+      {
+        "text": "Maintain your current speed and ignore the upcoming signal.",
+        "isCorrect": false,
+        "explanation": "Ignoring the signal can lead to accidents since you may need to stop."
+      },
+      {
+        "text": "Accelerate to pass the traffic signal before it changes.",
+        "isCorrect": false,
+        "explanation": "Accelerating can be dangerous and lead to running a red light."
+      },
+      {
+        "text": "Be prepared to stop if the traffic signal ahead is red or yellow.",
+        "isCorrect": true
+      },
+      {
+        "text": "Come to a complete stop immediately upon seeing the sign.",
+        "isCorrect": false,
+        "explanation": "You should not stop immediately upon seeing the sign; be prepared to stop at the signal if necessary."
+      }
+    ],
+    "imgFileName": "diagram-41.png"
+  },
+  {
+    "question": "What action should you take when you see this yellow diamond-shaped sign with a pedestrian symbol while driving?",
+    "options": [
+      {
+        "text": "A. Speed up to clear the intersection before pedestrians arrive.",
+        "isCorrect": false
+      },
+      {
+        "text": "B. Stop only if a pedestrian is directly in your path.",
+        "isCorrect": false
+      },
+      {
+        "text": "C. Watch for and yield to pedestrians crossing or about to cross the road.",
+        "isCorrect": true
+      },
+      {
+        "text": "D. Ignore the sign if no crosswalk is visible.",
+        "isCorrect": false
+      }
+    ],
+    "imgFileName": "diagram-42.png"
+  },
+  {
+    "question": "What should you do when you encounter the 'new lane' traffic sign shown in the image?",
+    "options": [
+      {
+        "text": "Immediately change lanes to the left.",
+        "isCorrect": false,
+        "explanation": "The sign indicates a lane addition, not a merge, so no immediate lane change is necessary."
+      },
+      {
+        "text": "Prepare to merge into a single lane.",
+        "isCorrect": false,
+        "explanation": "The sign does not indicate a merge; it indicates a new lane is starting."
+      },
+      {
+        "text": "Continue driving and prepare for traffic flow increase.",
+        "isCorrect": true
+      },
+      {
+        "text": "Stop and yield to oncoming traffic.",
+        "isCorrect": false,
+        "explanation": "There is no need to stop; just continue as a new lane is forming."
+      }
+    ],
+    "imgFileName": "diagram-43.png"
+  },
+  {
+    "question": "What action should you take when you see this yellow diamond-shaped sign with a black cross symbol while driving?",
+    "options": [
+      {
+        "text": "A. Speed up to clear the intersection quickly.",
+        "isCorrect": false
+      },
+      {
+        "text": "B. Proceed with caution and be prepared to stop for cross traffic.",
+        "isCorrect": true
+      },
+      {
+        "text": "C. Turn left immediately before the intersection.",
+        "isCorrect": false
+      },
+      {
+        "text": "D. Ignore the sign as it indicates no hazard.",
+        "isCorrect": false
+      }
+    ],
+    "imgFileName": "diagram-44.png"
+  },
+  {
+    "question": "What is the correct action to take when approaching the depicted regulatory traffic sign?",
+    "options": [
+      {
+        "text": "Increase your speed to clear the intersection quickly.",
+        "isCorrect": false,
+        "explanation": "Increasing speed is not safe; you need to stop at the sign."
+      },
+      {
+        "text": "Proceed without stopping if there are no other vehicles.",
+        "isCorrect": false,
+        "explanation": "You must come to a complete stop, regardless of other traffic."
+      },
+      {
+        "text": "Come to a complete stop and yield the right-of-way to oncoming traffic before proceeding.",
+        "isCorrect": true,
+        "explanation": "This is the correct procedure when encountering a stop sign."
+      },
+      {
+        "text": "Make a rolling stop and continue when the road is clear.",
+        "isCorrect": false,
+        "explanation": "A complete stop is required before proceeding, not a rolling stop."
+      }
+    ],
+    "imgFileName": "diagram-45.png"
+  },
+  {
+    "question": "What should you do when you encounter a yield sign at an intersection?",
+    "options": [
+      {
+        "text": "Speed up to merge with traffic quickly.",
+        "isCorrect": false,
+        "explanation": "You should not speed up; you need to slow down and be ready to stop."
+      },
+      {
+        "text": "Stop completely and wait for other vehicles to pass.",
+        "isCorrect": false,
+        "explanation": "You need to slow down but not necessarily stop unless required for safety."
+      },
+      {
+        "text": "Slow down, check for traffic, and yield to pedestrians and approaching vehicles.",
+        "isCorrect": true,
+        "explanation": "This is the correct action. Yield the right-of-way to others before proceeding."
+      },
+      {
+        "text": "Ignore the sign if you have the right-of-way.",
+        "isCorrect": false,
+        "explanation": "Yield signs always require you to slow down and assess the situation, regardless of your perception of right-of-way."
+      }
+    ],
+    "imgFileName": "diagram-46.png"
+  },
+  {
+    "question": "What should you do when you see this road sign indicating a curved or winding road ahead?",
+    "options": [
+      {
+        "text": "Speed up to get through the turns quickly",
+        "isCorrect": false
+      },
+      {
+        "text": "Maintain the same speed as before",
+        "isCorrect": false
+      },
+      {
+        "text": "Slow down and exercise caution as you enter the curves",
+        "isCorrect": true
+      },
+      {
+        "text": "Stop completely and wait for oncoming traffic to clear",
+        "isCorrect": false
+      }
+    ],
+    "imgFileName": "diagram-47.png"
+  },
+  {
+    "question": "You encounter a T intersection traffic sign ahead. What should you do?",
+    "options": [
+      {
+        "text": "Prepare to merge onto a divided highway.",
+        "isCorrect": false
+      },
+      {
+        "text": "Slow down and be ready to stop if necessary, as the road ahead ends in a T intersection.",
+        "isCorrect": true
+      },
+      {
+        "text": "Accelerate to clear the intersection quickly.",
+        "isCorrect": false
+      },
+      {
+        "text": "Continue driving without any changes, as this sign is for informational purposes only.",
+        "isCorrect": false
+      }
+    ],
+    "imgFileName": "diagram-48.png"
+  },
+  {
+    "question": "What action should you take when you see this yellow, diamond-shaped traffic sign depicting a winding road ahead?",
+    "options": [
+      {
+        "text": "Maintain your current speed and continue straight",
+        "isCorrect": false
+      },
+      {
+        "text": "Accelerate to pass any cars in front of you",
+        "isCorrect": false
+      },
+      {
+        "text": "Slow down and prepare to navigate curves with caution",
+        "isCorrect": true
+      },
+      {
+        "text": "Stop immediately and check your surroundings",
+        "isCorrect": false
+      }
+    ],
+    "imgFileName": "diagram-49.png"
+  },
+  {
+    "question": "What action must a driver take when encountering this traffic sign while an emergency vehicle is approaching with active signals?",
+    "options": [
+      {
+        "text": "A. Speed up to clear the way for the emergency vehicle.",
+        "isCorrect": false
+      },
+      {
+        "text": "B. Pull to the right edge of the road and stop if safe.",
+        "isCorrect": true
+      },
+      {
+        "text": "C. Continue driving at the same speed but turn on hazard lights.",
+        "isCorrect": false
+      },
+      {
+        "text": "D. Make a complete stop in your lane.",
+        "isCorrect": false
+      }
+    ],
+    "imgFileName": "diagram-52.png"
+  },
+  {
+    "question": "What should you do when you approach a yield line like the one shown in the diagram?",
+    "options": [
+      {
+        "text": "A. Stop completely, regardless of traffic conditions.",
+        "isCorrect": false
+      },
+      {
+        "text": "B. Speed up to pass the yield line before oncoming traffic.",
+        "isCorrect": false
+      },
+      {
+        "text": "C. Yield to traffic and pedestrians, stopping before the line if necessary.",
+        "isCorrect": true
+      },
+      {
+        "text": "D. Ignore the yield line and continue driving at your current speed.",
+        "isCorrect": false
+      }
+    ],
+    "imgFileName": "diagram-54.png"
+  }
+]
   }
 }
