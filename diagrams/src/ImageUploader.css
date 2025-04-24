@@ -1,0 +1,120 @@
+.image-upload-container {
+  background-color: white;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.image-upload-title {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  color: #2563eb;
+  text-align: center;
+}
+
+.image-upload-dropzone {
+  border: 2px dashed #d1d5db;
+  border-radius: 6px;
+  padding: 40px 20px;
+  text-align: center;
+  background-color: #f9fafb;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.image-upload-dropzone:hover,
+.image-upload-dropzone.active {
+  border-color: #3b82f6;
+  background-color: #eff6ff;
+}
+
+.image-upload-dropzone input {
+  display: none;
+}
+
+.image-upload-icon {
+  width: 48px;
+  height: 48px;
+  margin: 0 auto 16px;
+  color: #6b7280;
+}
+
+.image-upload-text {
+  color: #4b5563;
+  margin-bottom: 8px;
+}
+
+.image-upload-hint {
+  color: #9ca3af;
+  font-size: 0.875rem;
+}
+
+.image-upload-shortcut {
+  color: #6b7280;
+  font-size: 0.875rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.upload-preview {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.upload-preview img {
+  max-width: 100%;
+  max-height: 200px;
+  border-radius: 4px;
+  border: 1px solid #e5e7eb;
+}
+
+.upload-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.upload-progress {
+  margin-top: 20px;
+}
+
+.progress-bar {
+  height: 6px;
+  background-color: #e5e7eb;
+  border-radius: 3px;
+  overflow: hidden;
+}
+
+.progress-bar-fill {
+  height: 100%;
+  background-color: #3b82f6;
+  transition: width 0.3s ease;
+}
+
+.error-message {
+  margin-top: 12px;
+  color: #ef4444;
+  text-align: center;
+  font-size: 0.875rem;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.loading-spinner {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  border: 2px solid rgba(255, 255, 255, 0.3);
+  border-radius: 50%;
+  border-top-color: #fff;
+  animation: spin 1s linear infinite;
+  margin-right: 8px;
+}
