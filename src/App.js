@@ -1,9 +1,13 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useCallback } from 'react';
+import { useParams, useNavigate } from 'react-router-dom';
 import { api } from './mockData';
 
 const App = () => {
-  const [currentView, setCurrentView] = useState('home');
-  const [currentChapter, setCurrentChapter] = useState(null);
+  const { id } = useParams();
+  const navigate = useNavigate();
+  
+  const [currentView, setCurrentView] = useState(id ? 'quiz' : 'home');
+  const [currentChapter, setCurrentChapter] = useState(id || null);
   const [selectedAnswers, setSelectedAnswers] = useState({});
   const [quizSubmitted, setQuizSubmitted] = useState(false);
   const [chapterScores, setChapterScores] = useState({});
@@ -38,12 +42,78 @@ const App = () => {
     localStorage.setItem('darkMode', JSON.stringify(darkMode));
   }, [darkMode]);
 
+  // Handle initial chapter loading when coming directly to a chapter URL
+  // Define function to handle quiz starting
+  const startQuiz = React.useCallback(async (chapterId) => {
+    setCurrentChapter(chapterId);
+    setCurrentView('quiz');
+    setSelectedAnswers({});
+    setQuizSubmitted(false);
+    setLoading(true);
+    
+    // Update URL without reloading the page
+    navigate(`/chapter/${chapterId}`);
+    
+    try {
+      const questionData = await api.getQuestionsByChapter(chapterId, { questionsLimit: questionCount });
+      setQuestions(questionData);
+    } catch (error) {
+      console.error("Error fetching questions:", error);
+    } finally {
+      setLoading(false);
+    }
+  }, [navigate, questionCount]);
+  
+  // Define function to handle comprehensive test starting
+  const startComprehensiveTest = React.useCallback(async () => {
+    setCurrentChapter('comprehensive');
+    setCurrentView('quiz');
+    setSelectedAnswers({});
+    setQuizSubmitted(false);
+    setLoading(true);
+    
+    // Update URL for comprehensive test
+    navigate('/chaptercomprehensive');
+
+    try {
+      // Wait for chapters to be loaded if needed
+      if (chapters.length === 0) {
+        const data = await api.getChapters();
+        setChapters(data);
+      }
+      
+      const questionData = await api.getComprehensiveQuestions({
+        questionsLimit: questionCount * (chapters.length || 1),
+        chapters: chapters.length ? chapters : []
+      });
+      setQuestions(questionData);
+    } catch (error) {
+      console.error("Error fetching questions for comprehensive test:", error);
+    } finally {
+      setLoading(false);
+    }
+  }, [navigate, questionCount, chapters]);
+  
+  // Create initial load handler that depends on the above functions
+  const initialChapterLoad = React.useCallback(async (chapterId) => {
+    if (chapterId === 'comprehensive') {
+      await startComprehensiveTest();
+    } else {
+      await startQuiz(chapterId);
+    }
+  }, [startComprehensiveTest, startQuiz]);
+  
   // Fetch chapters on component mount
   useEffect(() => {
     const fetchChapters = async () => {
       try {
         const data = await api.getChapters();
         setChapters(data);
+        
+        // If the URL includes a chapter ID, load that chapter
+        if (currentChapter && currentView === 'quiz') {
+          await initialChapterLoad(currentChapter);
+        }
       } catch (error) {
         console.error("Error fetching chapters:", error);
       }
@@ -60,24 +130,7 @@ const App = () => {
         console.error("Error parsing saved scores:", error);
       }
     }
-  }, []);
-
-  const startQuiz = async (chapterId) => {
-    setCurrentChapter(chapterId);
-    setCurrentView('quiz');
-    setSelectedAnswers({});
-    setQuizSubmitted(false);
-    setLoading(true);
-    
-    try {
-      const questionData = await api.getQuestionsByChapter(chapterId, { questionsLimit: questionCount });
-      setQuestions(questionData);
-    } catch (error) {
-      console.error("Error fetching questions:", error);
-    } finally {
-      setLoading(false);
-    }
-  };
+  }, [currentChapter, currentView, initialChapterLoad]);
 
   const handleAnswerSelect = (questionIndex, optionIndex) => {
     if (quizSubmitted) return;
@@ -86,26 +139,6 @@ const App = () => {
       ...selectedAnswers,
       [questionIndex]: optionIndex
     });
-  };
-
-  const startComprehensiveTest = async () => {
-    setCurrentChapter('comprehensive');
-    setCurrentView('quiz');
-    setSelectedAnswers({});
-    setQuizSubmitted(false);
-    setLoading(true);
-
-    try {
-      const questionData = await api.getComprehensiveQuestions({
-        questionsLimit: questionCount * chapters.length,
-        chapters: chapters
-      });
-      setQuestions(questionData);
-    } catch (error) {
-      console.error("Error fetching questions for comprehensive test:", error);
-    } finally {
-      setLoading(false);
-    }
   };
 
   const submitQuiz = async () => {
@@ -191,10 +224,11 @@ const App = () => {
     setQuizSubmitted(false);
   };
 
-  const returnToChapters = () => {
+  const returnToChapters = useCallback(() => {
     setCurrentView('home');
     setCurrentChapter(null);
-  };
+    navigate('/');
+  }, [navigate]);
 
   const calculateScore = () => {
     let score = 0;
@@ -235,7 +269,7 @@ const App = () => {
         <h2 className={`text-2xl font-bold mb-6 ${darkMode ? '' : 'text-gray-900'}`}>
           {currentChapter === 'comprehensive'
             ? 'Review - Comprehensive DMV Test'
-            : `Review - Chapter ${currentChapter}: ${chapters.find(c => c.id === currentChapter)?.title}`}
+            : `Review - Chapter ${currentChapter}: ${chapters.find(c => c.id === parseInt(currentChapter))?.title || ''}`}
         </h2>
         <p className="text-gray-600 mb-6">
           Attempt from {new Date(reviewAttempt.date).toLocaleString()}
@@ -358,7 +392,7 @@ const App = () => {
             <div className="flex justify-between items-center mb-4">
               <div className="flex flex-col">
                 <div className={`text-lg font-semibold ${darkMode ? 'text-blue-300' : 'text-blue-700'}`}>
-                  Chapter {chapter.id}: {chapter.title}
+                  Chapter {chapter.id}: {chapter.title || ''}
                 </div>
                 {chapterScores[chapter.id] && (
                   <div className={`text-sm mt-1 ${darkMode ? 'text-gray-400' : 'text-gray-600'}`}>
@@ -481,7 +515,7 @@ const App = () => {
         <h2 className={`text-2xl font-bold mb-6 ${darkMode ? '' : 'text-gray-900'}`}>
           {currentChapter === 'comprehensive'
             ? 'Comprehensive DMV Test'
-            : `Chapter ${currentChapter}: ${chapters.find(c => c.id === currentChapter)?.title}`}
+            : `Chapter ${currentChapter}: ${chapters.find(c => c.id === parseInt(currentChapter))?.title || ''}`}
         </h2>
 
         {questions.map((question, questionIndex) => (

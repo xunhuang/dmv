@@ -17,7 +17,7 @@
       "title": "Seniors and Driving"
     },
     {
-      "id": 14,
+      "id": 15,
       "title": "Signs"
     }
   ],
@@ -6626,7 +6626,7 @@
         ]
       }
     ],
-    "14": [
+    "15": [
       {
         "question": "What does a driver indicate by extending their left arm straight out of the vehicle window?",
         "options": [
@@ -6671,7 +6671,6 @@
         ],
         "imgFileName": "diagram-1.png"
       },
-      "What should you do when you are in a dedicated right turn lane and there is a red light for vehicles going straight through the intersection?\n\nA) Stop and wait until the light turns green before making a right turn.\nB) Make the right turn without stopping, unless there is a red arrow or sign indicating otherwise.\nC) Merge into the straight lane before turning if there is a red light.\nD) Wait for oncoming traffic to clear before making a turn, regardless of the traffic light.\n\nCorrect Answer: B) Make the right turn without stopping, unless there is a red arrow or sign indicating otherwise.",
       {
         "question": "You approach an intersection displaying this “No U-Turn” sign. Which of the following is the correct action?",
         "options": [
