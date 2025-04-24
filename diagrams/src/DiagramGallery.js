@@ -156,9 +156,44 @@ const DiagramGallery = () => {
       console.log('Retrieved questions from localStorage:', savedQuestions);
       
       if (savedQuestions) {
-        const parsedQuestions = JSON.parse(savedQuestions);
-        console.log('Parsed questions:', parsedQuestions);
-        setQuestions(parsedQuestions);
+        try {
+          const parsedQuestions = JSON.parse(savedQuestions);
+          console.log('Parsed questions:', parsedQuestions);
+          
+          // For compatibility - ensure we're handling both formats
+          // This enables a smooth transition from the old format to the new format
+          const validatedQuestions = {};
+          let needsUpdate = false;
+          
+          // Check each question and validate it's in the correct format
+          Object.keys(parsedQuestions).forEach(key => {
+            const question = parsedQuestions[key];
+            if (typeof question === 'string') {
+              // Keep the old format for now, it will be updated when regenerated
+              validatedQuestions[key] = question;
+            } else if (question && typeof question === 'object') {
+              // New format - make sure it has the expected structure
+              if (question.question && Array.isArray(question.options)) {
+                validatedQuestions[key] = question;
+              } else {
+                console.log(`Invalid question format for ${key}, skipping`);
+                needsUpdate = true;
+              }
+            }
+          });
+          
+          setQuestions(validatedQuestions);
+          
+          // Update localStorage if we had to fix anything
+          if (needsUpdate) {
+            localStorage.setItem('imageQuestions', JSON.stringify(validatedQuestions));
+          }
+        } catch (parseError) {
+          console.error('Error parsing questions:', parseError);
+          // Clear invalid data
+          localStorage.removeItem('imageQuestions');
+          setQuestions({});
+        }
       }
     } catch (error) {
       console.error('Error loading data from localStorage:', error);
@@ -186,8 +221,10 @@ const DiagramGallery = () => {
   const openModal = (imagePath) => {
     setSelectedImage(imagePath);
     setEditingDescription(null);
+    
     // If there's a saved question for this image, load it
     if (questions[imagePath]) {
+      // Handle both string and object formats
       setGeneratedQuestion(questions[imagePath]);
     } else {
       setGeneratedQuestion(null);
@@ -228,15 +265,17 @@ const DiagramGallery = () => {
       }
       
       const data = await response.json();
-      const questionText = data.question;
+      
+      // Parse the question data as JSON
+      const questionData = JSON.parse(data.question);
       
       // Set the generated question in state
-      setGeneratedQuestion(questionText);
+      setGeneratedQuestion(questionData);
       
       // Save the question to the questions state
       setQuestions(prevQuestions => ({
         ...prevQuestions,
-        [image]: questionText
+        [image]: questionData
       }));
       
     } catch (error) {
@@ -1034,7 +1073,11 @@ const DiagramGallery = () => {
                       <svg className="h-3 w-3 mr-1" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
                       </svg>
-                      Has practice question
+                      {typeof questions[image] === 'string' ? (
+                        <span>Has practice question</span>
+                      ) : (
+                        <span>Quiz: "{questions[image]?.question?.substring(0, 30) || 'Practice question'}..."</span>
+                      )}
                     </div>
                   )}
                 </div>
@@ -1170,9 +1213,47 @@ const DiagramGallery = () => {
                     {generatedQuestion && (
                       <div className="mt-4 border-t pt-4">
                         <h3 className="font-semibold text-lg mb-2">Practice Question:</h3>
-                        <div className="bg-blue-50 border border-blue-200 rounded-lg p-4 text-gray-800 whitespace-pre-line">
-                          {generatedQuestion}
-                        </div>
+                        {typeof generatedQuestion === 'string' ? (
+                          // Handle legacy string format
+                          <div className="bg-blue-50 border border-blue-200 rounded-lg p-4 text-gray-800 whitespace-pre-line">
+                            {generatedQuestion}
+                          </div>
+                        ) : (
+                          // Handle new JSON format
+                          <div className="bg-blue-50 border border-blue-200 rounded-lg p-4 text-gray-800">
+                            {/* Display the question */}
+                            <p className="font-medium mb-3">{generatedQuestion.question}</p>
+                            
+                            {/* Display options as a list */}
+                            <div className="space-y-2">
+                              {generatedQuestion.options && generatedQuestion.options.map((option, index) => (
+                                <div 
+                                  key={index} 
+                                  className={`p-2 rounded ${option.isCorrect 
+                                    ? 'bg-green-100 border border-green-300' 
+                                    : 'bg-blue-50 border border-blue-100'}`}
+                                >
+                                  <div className="flex items-start">
+                                    <span className={`font-bold mr-2 ${option.isCorrect ? 'text-green-700' : 'text-gray-700'}`}>
+                                      {String.fromCharCode(65 + index)}.
+                                    </span>
+                                    <span className={option.isCorrect ? 'text-green-800 font-medium' : 'text-gray-800'}>
+                                      {option.text}
+                                      {option.isCorrect && 
+                                        <span className="ml-2 text-green-600 font-semibold text-sm whitespace-nowrap">✓ Correct</span>
+                                      }
+                                    </span>
+                                  </div>
+                                  {!option.isCorrect && option.explanation && (
+                                    <p className="text-sm text-gray-600 mt-1 ml-6 italic">
+                                      {option.explanation}
+                                    </p>
+                                  )}
+                                </div>
+                              ))}
+                            </div>
+                          </div>
+                        )}
                       </div>
                     )}
                   </div>

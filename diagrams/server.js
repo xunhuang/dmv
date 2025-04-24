@@ -1,12 +1,18 @@
 const express = require('express');
 const cors = require('cors');
 const bodyParser = require('body-parser');
+const OpenAI = require('openai');
 const axios = require('axios');
 const path = require('path');
 const fs = require('fs');
 const multer = require('multer');
 const sharp = require('sharp');
 require('dotenv').config();
+
+const openai = new OpenAI({
+  apiKey: process.env.OPENAI_API_KEY,
+});
+
 
 const app = express();
 const port = process.env.PORT || 6000;
@@ -231,42 +237,53 @@ app.post('/api/generate-question', async (req, res) => {
     }
 
     // OpenAI API Call
-    const openaiResponse = await axios.post(
-      'https://api.openai.com/v1/chat/completions',
-      {
-        model: "gpt-4o",
+    const openaiResponse = await openai.chat.completions.create({
+      model: "o4-mini",
         messages: [
           {
-            role: "system",
-            content: "You are a DMV driving test expert. Generate a multiple-choice question based on the provided traffic sign/diagram and its description. The question should test the user's understanding of what action to take or rule to follow when encountering this sign/diagram. Include 4 options (A, B, C, D) with one correct answer. Make the question challenging but fair for a driver's license test."
-          },
-          {
-            role: "user",
-            content: [
+            "role": "developer",
+            "content": [
               {
-                type: "text",
-                text: `Description of the sign/diagram: ${description}\n\nGenerate a multiple-choice question about this traffic sign/diagram along with 4 options and indicate the correct answer.`
-              },
-              {
-                type: "image_url",
-                image_url: {
-                  url: `data:image/png;base64,${base64Image}`
-                }
+                "type": "text",
+                "text": "You are a DMV driving test expert. Generate a multiple-choice question based on the provided traffic sign/diagram and its description. The question should test the user's understanding of what action to take or rule to follow when encountering this sign/diagram. Include 4 options (A, B, C, D) with one correct answer. Make the question challenging but fair for a driver's license test.\n[\n    {\n      question: \"When will you need a REAL ID compliant driver's license?\",\n      options: [\n        { text: \"Beginning May 2025 to board domestic flights or enter federal facilities\", isCorrect: true },\n        { text: \"Only when traveling internationally\", isCorrect: false, explanation: \"REAL ID is for domestic flights and entering federal facilities, not international travel.\" },\n        { text: \"Beginning January 2024 for all driving purposes\", isCorrect: false, explanation: \"A REAL ID is not required for driving, only for boarding domestic flights and entering federal facilities.\" },\n        { text: \"Only when driving commercial vehicles\", isCorrect: false, explanation: \"A REAL ID is not specifically for commercial driving.\" }\n      ]\n    },\n    {\n      question: \"What type of card is issued for identification purposes to eligible persons of any age?\",\n      options: [\n        { text: \"ID card\", isCorrect: true },\n        { text: \"Driver's license\", isCorrect: false, explanation: \"A driver's license permits you to drive, while an ID card is for identification only.\" },\n        { text: \"REAL ID card\", isCorrect: false, explanation: \"While a REAL ID can be either a driver's license or ID card, not all ID cards are REAL ID compliant.\" },\n        { text: \"Veteran designation card\", isCorrect: false, explanation: \"A Veteran designation is a feature that can be added to a driver's license or ID card, not a separate type of card.\" }\n      ]\n    }\n  ]"
               }
             ]
-          }
+          },
+          {
+            "role": "assistant",
+            "content": [
+              {
+                "type": "text",
+                "text": "Please upload the diagram (or provide a clear description of it), and I will generate California DMV–style multiple‑choice questions in the requested JSON format."
+              }
+            ]
+          },
+          {
+            "role": "user",
+            "content": [
+              {
+                "type": "text",
+                "text": `Description of the sign/diagram: ${description}\n\nGenerate a multiple-choice question about this traffic sign/diagram along with 4 options and indicate the correct answer.`
+              },
+              {
+                "type": "image_url",
+                "image_url": {
+                  "url": `data:image/png;base64,${base64Image}`
+                }
+              },
+            ]
+          },
         ],
-        max_tokens: 500
+      response_format: {
+        "type": "json_object"
       },
-      {
-        headers: {
-          'Content-Type': 'application/json',
-          'Authorization': `Bearer ${apiKey}`
-        }
-      }
-    );
+      reasoning_effort: "medium",
+      store: false,
+    });
 
-    const generatedQuestion = openaiResponse.data.choices[0].message.content;
+    console.log(openaiResponse);
+
+    const generatedQuestion = openaiResponse.choices[0].message.content;
 
     // Return the generated question
     res.json({ question: generatedQuestion });
