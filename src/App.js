@@ -31,6 +31,16 @@ const App = () => {
     const savedScores = localStorage.getItem('comprehensiveTestScores');
     return savedScores ? JSON.parse(savedScores) : { history: [] };
   });
+  const [emailAddress, setEmailAddress] = useState(() => {
+    // Load email from localStorage if available
+    const savedEmail = localStorage.getItem('userEmail');
+    return savedEmail || '';
+  });
+  const [sendEmailOnSubmit, setSendEmailOnSubmit] = useState(() => {
+    // Load email preference from localStorage
+    const savedPref = localStorage.getItem('sendEmailOnSubmit');
+    return savedPref ? JSON.parse(savedPref) : false;
+  });
 
   // Save questionCount to localStorage whenever it changes
   useEffect(() => {
@@ -41,6 +51,15 @@ const App = () => {
   useEffect(() => {
     localStorage.setItem('darkMode', JSON.stringify(darkMode));
   }, [darkMode]);
+  
+  // Save email preferences to localStorage whenever they change
+  useEffect(() => {
+    localStorage.setItem('userEmail', emailAddress);
+  }, [emailAddress]);
+  
+  useEffect(() => {
+    localStorage.setItem('sendEmailOnSubmit', JSON.stringify(sendEmailOnSubmit));
+  }, [sendEmailOnSubmit]);
 
   // Handle initial chapter loading when coming directly to a chapter URL
   // Define function to handle quiz starting
@@ -163,6 +182,30 @@ const App = () => {
 
     try {
       await api.saveQuizResults(quizData);
+
+      // Send email with test results if enabled and email is provided
+      if (sendEmailOnSubmit && emailAddress) {
+        try {
+          // Create a simple API call to the email server to send email
+          const response = await fetch('http://localhost:5001/api/send-quiz-results', {
+            method: 'POST',
+            headers: {
+              'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({
+              quizData,
+              emailAddress
+            }),
+          });
+          
+          const result = await response.json();
+          if (!result.success) {
+            console.error("Error sending email:", result.error);
+          }
+        } catch (emailError) {
+          console.error("Error sending email:", emailError);
+        }
+      }
 
       if (currentChapter === 'comprehensive') {
         // Handle comprehensive test scores
@@ -376,6 +419,32 @@ const App = () => {
                       Dark
                     </button>
                   </div>
+                </div>
+                <div className="mt-2">
+                  <label htmlFor="emailAddress" className={`text-sm ${darkMode ? 'text-gray-300' : 'text-gray-600'} mb-1 block`}>
+                    Email for Results:
+                  </label>
+                  <input
+                    type="email"
+                    id="emailAddress"
+                    value={emailAddress}
+                    onChange={(e) => setEmailAddress(e.target.value)}
+                    placeholder="Enter your email"
+                    className={`border ${darkMode ? 'border-gray-600 bg-gray-700 text-white' : 'border-gray-300 bg-white text-gray-900'} rounded-md px-3 py-2 focus:outline-none focus:ring-2 focus:ring-blue-500 w-full mt-1`}
+                  />
+                </div>
+                <div className="mt-1">
+                  <label className="flex items-center space-x-2">
+                    <input
+                      type="checkbox"
+                      checked={sendEmailOnSubmit}
+                      onChange={(e) => setSendEmailOnSubmit(e.target.checked)}
+                      className="rounded text-blue-500 focus:ring-blue-500"
+                    />
+                    <span className={`text-sm ${darkMode ? 'text-gray-300' : 'text-gray-600'}`}>
+                      Send results to{emailAddress ? ` ${emailAddress}` : ' your email'}
+                    </span>
+                  </label>
                 </div>
               </div>
             </div>
