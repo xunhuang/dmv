@@ -1,0 +1,651 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "Quiz",
+    "name": "FREE California Permit Test 23 - Real 2025 DMV Test Questions",
+    "headline": "2025 California Permit Test 23",
+    "alternativeHeadline": "2025 California Permit Test 23 | DMV Written Test",
+    "about": {
+      "@type": "Thing",
+      "name": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car."
+    },
+    "hasPart": [
+      {
+        "@type": "Question",
+        "name": "You are driving on a freeway with a posted speed limit of 65 mph. Traffic is traveling at 70 mph. You may legally drive:",
+        "about": {
+          "@type": "Thing",
+          "name": "You are driving on a freeway with a posted speed limit of 65 mph. Traffic is traveling at 70 mph. You may legally drive:"
+        },
+        "assesses": "You are driving on a freeway with a posted speed limit of 65 mph. Traffic is traveling at 70 mph. You may legally drive: | You are driving on a freeway with a posted speed limit of 65 mph. Traffic is traveling at 70 mph. You may legally drive: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "On most California highways, the maximum speed limit is 65 mph. You may drive at 70 mph only if the speed limit is posted as such.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "70 mph or faster to keep up with the speed of traffic.",
+            "comment": {
+              "@type": "Comment",
+              "text": "70 mph or faster to keep up with the speed of traffic."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Between 65 mph and 70 mph.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Between 65 mph and 70 mph."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "No faster than 65 mph.",
+            "comment": {
+              "@type": "Comment",
+              "text": "No faster than 65 mph."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "No faster than 65 mph.",
+            "comment": {
+              "@type": "Comment",
+              "text": "No faster than 65 mph."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "On most California highways, the maximum speed limit is 65 mph. You may drive at 70 mph only if the speed limit is posted as such.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "You are driving on a freeway with a posted speed limit of 65 mph. Traffic is traveling at 70 mph. You may legally drive: | On most California highways, the maximum speed limit is 65 mph. You may drive at 70 mph only if the speed limit is posted as such."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "You are driving on a freeway with a posted speed limit of 65 mph. Traffic is traveling at 70 mph. You may legally drive: -  Real 2025 DMV Questions ",
+          "targetName": "You are driving on a freeway with a posted speed limit of 65 mph. Traffic is traveling at 70 mph. You may legally drive:",
+          "targetUrl": "https://www.dmv-written-test.com/question/you-are-driving-on-a-freeway-with-a-posted-speed-limit-of-65-mph-traffic-is-traveling-at-70-mph-you-may-legally-drive_7VPQV7ya.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "You are driving on a freeway with a posted speed limit of 65 mph. Traffic is traveling at 70 mph. You may legally drive:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "You are driving on a freeway with a posted speed limit of 65 mph. Traffic is traveling at 70 mph. You may legally drive:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "On a freeway, you should look farther ahead than you would on a city street:",
+        "about": {
+          "@type": "Thing",
+          "name": "On a freeway, you should look farther ahead than you would on a city street:"
+        },
+        "assesses": "On a freeway, you should look farther ahead than you would on a city street: | On a freeway, you should look farther ahead than you would on a city street: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "On the freeway, be ready for changes in traffic conditions. Watch for signals from other drivers. Expect merging vehicles at on-ramps and interchanges and be prepared for rapid changes in road conditions and traffic flow.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "In order to see potential hazards early.",
+            "comment": {
+              "@type": "Comment",
+              "text": "In order to see potential hazards early."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Because it takes a quarter of a mile to stop your vehicle completely.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Because it takes a quarter of a mile to stop your vehicle completely."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Because it helps you keep up with traffic.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Because it helps you keep up with traffic."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "In order to see potential hazards early.",
+            "comment": {
+              "@type": "Comment",
+              "text": "In order to see potential hazards early."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "On the freeway, be ready for changes in traffic conditions. Watch for signals from other drivers. Expect merging vehicles at on-ramps and interchanges and be prepared for rapid changes in road conditions and traffic flow.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "On a freeway, you should look farther ahead than you would on a city street: | On the freeway, be ready for changes in traffic conditions. Watch for signals from other drivers. Expect merging vehicles at on-ramps and interchanges and be prepared for rapid changes in road conditions and traffic flow."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "On a freeway, you should look farther ahead than you would on a city street: -  Real 2025 DMV Questions ",
+          "targetName": "On a freeway, you should look farther ahead than you would on a city street:",
+          "targetUrl": "https://www.dmv-written-test.com/question/on-a-freeway-you-should-look-farther-ahead-than-you-would-on-a-city-street_n9y1bzXA.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "On a freeway, you should look farther ahead than you would on a city street:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "On a freeway, you should look farther ahead than you would on a city street:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "A white painted curb indicates a:",
+        "about": {
+          "@type": "Thing",
+          "name": "A white painted curb indicates a:"
+        },
+        "assesses": "A white painted curb indicates a: | A white painted curb indicates a: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "At a white painted curb, you may stop only long enough to pick up or drop off passengers or mail.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Loading zone for freight or passengers.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Loading zone for freight or passengers."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Loading zone for passengers or mail only.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Loading zone for passengers or mail only."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Loading zone for freight only.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Loading zone for freight only."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Loading zone for passengers or mail only.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Loading zone for passengers or mail only."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "At a white painted curb, you may stop only long enough to pick up or drop off passengers or mail.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "A white painted curb indicates a: | At a white painted curb, you may stop only long enough to pick up or drop off passengers or mail."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "A white painted curb indicates a: -  Real 2025 DMV Questions ",
+          "targetName": "A white painted curb indicates a:",
+          "targetUrl": "https://www.dmv-written-test.com/question/a-white-painted-curb-indicates-a_V0yqMEyO.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "A white painted curb indicates a:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "A white painted curb indicates a:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "If a vehicle is equipped with airbags:",
+        "about": {
+          "@type": "Thing",
+          "name": "If a vehicle is equipped with airbags:"
+        },
+        "assesses": "If a vehicle is equipped with airbags: | If a vehicle is equipped with airbags: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Airbags are important safety devices that provide protection in crashes. For best protection, a vehicle's lap and shoulder belts should be used in combination with airbags.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Seat belts should still be worn.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Seat belts should still be worn."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Seat belts do not need to be worn.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Seat belts do not need to be worn."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Seat belts should be worn behind the back.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Seat belts should be worn behind the back."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Seat belts should still be worn.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Seat belts should still be worn."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Airbags are important safety devices that provide protection in crashes. For best protection, a vehicle's lap and shoulder belts should be used in combination with airbags.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "If a vehicle is equipped with airbags: | Airbags are important safety devices that provide protection in crashes. For best protection, a vehicle's lap and shoulder belts should be used in combination with airbags."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "If a vehicle is equipped with airbags: -  Real 2025 DMV Questions ",
+          "targetName": "If a vehicle is equipped with airbags:",
+          "targetUrl": "https://www.dmv-written-test.com/question/if-a-vehicle-is-equipped-with-airbags_KzP7NWr6.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "If a vehicle is equipped with airbags:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "If a vehicle is equipped with airbags:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "A person may legally ride in the back of a pickup truck when:",
+        "about": {
+          "@type": "Thing",
+          "name": "A person may legally ride in the back of a pickup truck when:"
+        },
+        "assesses": "A person may legally ride in the back of a pickup truck when: | A person may legally ride in the back of a pickup truck when: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Do not allow a person to ride in the back of a pickup or other truck unless the vehicle is equipped with seats and the person uses both the seat and a safety belt.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "The sides of the pickup bed are at least 24 inches high.",
+            "comment": {
+              "@type": "Comment",
+              "text": "The sides of the pickup bed are at least 24 inches high."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "The back of the pickup is covered with a camper shell.",
+            "comment": {
+              "@type": "Comment",
+              "text": "The back of the pickup is covered with a camper shell."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "In a secured seat and while using an approved safety belt.",
+            "comment": {
+              "@type": "Comment",
+              "text": "In a secured seat and while using an approved safety belt."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "In a secured seat and while using an approved safety belt.",
+            "comment": {
+              "@type": "Comment",
+              "text": "In a secured seat and while using an approved safety belt."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Do not allow a person to ride in the back of a pickup or other truck unless the vehicle is equipped with seats and the person uses both the seat and a safety belt.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "A person may legally ride in the back of a pickup truck when: | Do not allow a person to ride in the back of a pickup or other truck unless the vehicle is equipped with seats and the person uses both the seat and a safety belt."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "A person may legally ride in the back of a pickup truck when: -  Real 2025 DMV Questions ",
+          "targetName": "A person may legally ride in the back of a pickup truck when:",
+          "targetUrl": "https://www.dmv-written-test.com/question/a-person-may-legally-ride-in-the-back-of-a-pickup-truck-when_23XMGmPz.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "A person may legally ride in the back of a pickup truck when:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "A person may legally ride in the back of a pickup truck when:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "A curb painted blue means parking is:",
+        "about": {
+          "@type": "Thing",
+          "name": "A curb painted blue means parking is:"
+        },
+        "assesses": "A curb painted blue means parking is: | A curb painted blue means parking is: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "A blue curb indicates an area where parking is permitted only for a disabled person, or driver of a disabled person, who displays a placard or special license plate for disabled persons or disabled veterans.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Allowed for no longer than 15 minutes.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Allowed for no longer than 15 minutes."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Only allowed when picking up or dropping off passengers.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Only allowed when picking up or dropping off passengers."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "For disabled persons with a special placard or plate.",
+            "comment": {
+              "@type": "Comment",
+              "text": "For disabled persons with a special placard or plate."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "For disabled persons with a special placard or plate.",
+            "comment": {
+              "@type": "Comment",
+              "text": "For disabled persons with a special placard or plate."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "A blue curb indicates an area where parking is permitted only for a disabled person, or driver of a disabled person, who displays a placard or special license plate for disabled persons or disabled veterans.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "A curb painted blue means parking is: | A blue curb indicates an area where parking is permitted only for a disabled person, or driver of a disabled person, who displays a placard or special license plate for disabled persons or disabled veterans."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "A curb painted blue means parking is: -  Real 2025 DMV Questions ",
+          "targetName": "A curb painted blue means parking is:",
+          "targetUrl": "https://www.dmv-written-test.com/question/a-curb-painted-blue-means-parking-is_AOX5RErg.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "A curb painted blue means parking is:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "A curb painted blue means parking is:"
+        }
+      }
+    ],
+    "abstract": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>.",
+    "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "assesses": "FREE California Permit Test 23 - Real 2025 DMV Test Questions | The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "url": "https://www.dmv-written-test.com/california/practice-test-23.html",
+    "isPartOf": {
+      "@context": "http://schema.org",
+      "@type": "CreativeWorkSeries",
+      "name": "FREE California Permit Test 23 - Real 2025 DMV Test Questions",
+      "issn": "california/practice-test-23.html",
+      "accessMode": "textOnVisual",
+      "about": {
+        "@type": "Thing",
+        "name": "FREE California Permit Test 23 - Real 2025 DMV Test Questions"
+      },
+      "lastReviewed": "2022-01-07T10:57:08.000000Z",
+      "mainContentOfPage": {
+        "@type": "WebPageElement",
+        "cssSelector": [
+          "#series-description"
+        ]
+      },
+      "aggregateRating": {
+        "@type": "aggregateRating",
+        "ratingValue": "4.4706",
+        "reviewCount": 34,
+        "bestRating": 5,
+        "worstRating": 1
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "author": "DMV Written Test",
+        "name": "2025 California Permit Test 23",
+        "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>."
+      },
+      "significantLink": "https://cheat-sheets.dmv-written-test.com/en/california/car",
+      "specialty": "www.dmv-written-test.com",
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "name": "DMV Written Test",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "DMV Written Test",
+            "url": "https://www.dmv-written-test.com",
+            "item": {
+              "@id": "https://www.dmv-written-test.com",
+              "name": "DMV Written Test"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "california",
+            "url": "https://www.dmv-written-test.com/california",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california",
+              "name": "DMV Written Test 2025 California - DMV Practice Test - Real CA DMV Questions!"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "2025 California Permit Test 23",
+            "url": "https://www.dmv-written-test.com/california/practice-test-23.html",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california/practice-test-23.html",
+              "name": "2025 California Permit Test 23"
+            }
+          }
+        ]
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "xpath": [
+          "/html/head/title",
+          "/html/head/meta[@name='description']/@content"
+        ],
+        "url": "https://www.dmv-written-test.com/california/practice-test-23.html"
+      }
+    },
+    "provider": {
+      "@type": "Organization",
+      "name": "DMV Written Test",
+      "legalName": "Infinity Loop Capital LLC, CORP2000",
+      "slogan": "DMV",
+      "url": "https://www.dmv-written-test.com",
+      "email": "support@dmv-written-test.com",
+      "address": {
+        "@type": "PostalAddress",
+        "name": "Infinity Loop Capital LLC, CORP2000",
+        "addressLocality": "lindengasse 56/2",
+        "addressRegion": "32 West Loockerman Street, Suite 107, 19904 Dover DE"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": " ",
+        "contactType": "customer service"
+      },
+      "logo": {
+        "@type": "ImageObject",
+        "name": "DMV Written Test",
+        "url": "https://www.dmv-written-test.com/images/meta/logo.png",
+        "description": "DMV Written Test"
+      },
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "copyrightYear": "2025",
+    "dateCreated": "2021-11-23T12:41:54.000000Z",
+    "datePublished": "2021-11-23T12:41:54.000000Z",
+    "dateModified": "2022-01-07T10:57:08.000000Z",
+    "learningResourceType": "Car",
+    "educationalUse": "assignment",
+    "interactivityType": "mixed",
+    "accessMode": "textOnVisual",
+    "educationalLevel": "intermediate",
+    "typicalAgeRange": "16-72",
+    "educationalAlignment": {
+      "@type": "AlignmentObject",
+      "alignmentType": "educationalSubject",
+      "educationalFramework": "DMV Written Test",
+      "targetDescription": "DMV Written Test is the best at helping you pass your permit exam.  We only use real DMV questions on our practice tests and cheat sheets!",
+      "targetName": "DMV Written Test - DMV Practice Test 2025 - Real DMV Questions!",
+      "targetUrl": "https://www.dmv-written-test.com"
+    },
+    "image": {
+      "@type": "ImageObject",
+      "author": "DMV Written Test",
+      "name": "DMV Written Test",
+      "url": "https://www.dmv-written-test.com/images/meta/cover-1200x630.png",
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "inLanguage": {
+      "@type": "Language",
+      "name": "English",
+      "alternateName": "en"
+    }
+  }
+]

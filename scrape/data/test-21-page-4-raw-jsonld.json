@@ -1,0 +1,651 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "Quiz",
+    "name": "FREE California Permit Test 21 - Real 2025 DMV Test Questions",
+    "headline": "2025 California Permit Test 21",
+    "alternativeHeadline": "2025 California Permit Test 21 | DMV Written Test",
+    "about": {
+      "@type": "Thing",
+      "name": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car."
+    },
+    "hasPart": [
+      {
+        "@type": "Question",
+        "name": "You must show proof of insurance to law enforcement:",
+        "about": {
+          "@type": "Thing",
+          "name": "You must show proof of insurance to law enforcement:"
+        },
+        "assesses": "You must show proof of insurance to law enforcement: | You must show proof of insurance to law enforcement: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "You must have evidence of financial responsibility, such as proof of insurance, with you whenever you drive. You must always show proof of insurance and your license to an officer upon request after a traffic stop or collision.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Only if you are involved in a collision.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Only if you are involved in a collision."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "If you are involved in a collision or stopped for a citation.",
+            "comment": {
+              "@type": "Comment",
+              "text": "If you are involved in a collision or stopped for a citation."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Only if you are stopped and cited.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Only if you are stopped and cited."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "If you are involved in a collision or stopped for a citation.",
+            "comment": {
+              "@type": "Comment",
+              "text": "If you are involved in a collision or stopped for a citation."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "You must have evidence of financial responsibility, such as proof of insurance, with you whenever you drive. You must always show proof of insurance and your license to an officer upon request after a traffic stop or collision.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "You must show proof of insurance to law enforcement: | You must have evidence of financial responsibility, such as proof of insurance, with you whenever you drive. You must always show proof of insurance and your license to an officer upon request after a traffic stop or collision."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "You must show proof of insurance to law enforcement: -  Real 2025 DMV Questions ",
+          "targetName": "You must show proof of insurance to law enforcement:",
+          "targetUrl": "https://www.dmv-written-test.com/question/you-must-show-proof-of-insurance-to-law-enforcement_2MXLo6yw.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "You must show proof of insurance to law enforcement:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "You must show proof of insurance to law enforcement:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Excessive speed:",
+        "about": {
+          "@type": "Thing",
+          "name": "Excessive speed:"
+        },
+        "assesses": "Excessive speed: | Excessive speed: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Excessive speed is one of the most common contributing factors to vehicle crashes. Excessive speed does not save time and often leads to high-risk decision-making.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Saves time so you can get to your destination more quickly.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Saves time so you can get to your destination more quickly."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Helps you maneuver around obstacles.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Helps you maneuver around obstacles."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Increases the likelihood of serious bodily injury and death.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Increases the likelihood of serious bodily injury and death."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Increases the likelihood of serious bodily injury and death.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Increases the likelihood of serious bodily injury and death."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Excessive speed is one of the most common contributing factors to vehicle crashes. Excessive speed does not save time and often leads to high-risk decision-making.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "Excessive speed: | Excessive speed is one of the most common contributing factors to vehicle crashes. Excessive speed does not save time and often leads to high-risk decision-making."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "Excessive speed: -  Real 2025 DMV Questions ",
+          "targetName": "Excessive speed:",
+          "targetUrl": "https://www.dmv-written-test.com/question/excessive-speed_WaXWAqPk.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "Excessive speed:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "Excessive speed:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "This sign indicates:",
+        "about": {
+          "@type": "Thing",
+          "name": "This sign indicates:"
+        },
+        "assesses": "This sign indicates: | This sign indicates: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images-car/tennessee-low_clearance.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "This is a low clearance warning sign. It indicates the distance from the road surface to the bottom of a bridge or overpass (in this case, 12 feet, 6 inches).",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "The distance from road surface to a bridge or overpass.",
+            "comment": {
+              "@type": "Comment",
+              "text": "The distance from road surface to a bridge or overpass."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "The maximum legal height of a vehicle allowed in this state.",
+            "comment": {
+              "@type": "Comment",
+              "text": "The maximum legal height of a vehicle allowed in this state."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "The maximum width of a vehicle allowed on the highway.",
+            "comment": {
+              "@type": "Comment",
+              "text": "The maximum width of a vehicle allowed on the highway."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "The distance from road surface to a bridge or overpass.",
+            "comment": {
+              "@type": "Comment",
+              "text": "The distance from road surface to a bridge or overpass."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "This is a low clearance warning sign. It indicates the distance from the road surface to the bottom of a bridge or overpass (in this case, 12 feet, 6 inches).",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "This sign indicates: | This is a low clearance warning sign. It indicates the distance from the road surface to the bottom of a bridge or overpass (in this case, 12 feet, 6 inches)."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "This sign indicates: -  Real 2025 DMV Questions ",
+          "targetName": "This sign indicates:",
+          "targetUrl": "https://www.dmv-written-test.com/question/this-sign-indicates_4RXojNy6.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "This sign indicates:",
+          "url": "https://www.dmv-written-test.com/images-car/tennessee-low_clearance.png",
+          "description": "This sign indicates:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "You must file a report of a traffic accident occurring in California when:",
+        "about": {
+          "@type": "Thing",
+          "name": "You must file a report of a traffic accident occurring in California when:"
+        },
+        "assesses": "You must file a report of a traffic accident occurring in California when: | You must file a report of a traffic accident occurring in California when: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "When you have a collision, report it to DMV within 10 days if anyone was injured (no matter how slightly) or killed. You or your representative must make this report whether or not you caused the collision, even if the collision occurred on private property.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Your vehicle fails a smog test.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Your vehicle fails a smog test."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "You are involved in a collision and there is an injury.",
+            "comment": {
+              "@type": "Comment",
+              "text": "You are involved in a collision and there is an injury."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "You change your insurance company.",
+            "comment": {
+              "@type": "Comment",
+              "text": "You change your insurance company."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "You are involved in a collision and there is an injury.",
+            "comment": {
+              "@type": "Comment",
+              "text": "You are involved in a collision and there is an injury."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "When you have a collision, report it to DMV within 10 days if anyone was injured (no matter how slightly) or killed. You or your representative must make this report whether or not you caused the collision, even if the collision occurred on private property.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "You must file a report of a traffic accident occurring in California when: | When you have a collision, report it to DMV within 10 days if anyone was injured (no matter how slightly) or killed. You or your representative must make this report whether or not you caused the collision, even if the collision occurred on private property."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "You must file a report of a traffic accident occurring in California when: -  Real 2025 DMV Questions ",
+          "targetName": "You must file a report of a traffic accident occurring in California when:",
+          "targetUrl": "https://www.dmv-written-test.com/question/you-must-file-a-report-of-a-traffic-accident-occurring-in-california-when_96XKneyE.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "You must file a report of a traffic accident occurring in California when:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "You must file a report of a traffic accident occurring in California when:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Any amount of alcohol in the blood may affect a driver's:",
+        "about": {
+          "@type": "Thing",
+          "name": "Any amount of alcohol in the blood may affect a driver's:"
+        },
+        "assesses": "Any amount of alcohol in the blood may affect a driver's: | Any amount of alcohol in the blood may affect a driver's: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "A driver’s ability to safely operate a vehicle may be impaired at any BAC level, even a level lower than the legal limit. Any amount of alcohol can affect one’s judgment and physical coordination. Driving under the influence of even a small amount of alcohol can lead to criminal charges.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Right-of-way privileges.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Right-of-way privileges."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Judgment and physical coordination.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Judgment and physical coordination."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Knowledge.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Knowledge."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Judgment and physical coordination.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Judgment and physical coordination."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "A driver’s ability to safely operate a vehicle may be impaired at any BAC level, even a level lower than the legal limit. Any amount of alcohol can affect one’s judgment and physical coordination. Driving under the influence of even a small amount of alcohol can lead to criminal charges.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "Any amount of alcohol in the blood may affect a driver's: | A driver’s ability to safely operate a vehicle may be impaired at any BAC level, even a level lower than the legal limit. Any amount of alcohol can affect one’s judgment and physical coordination. Driving under the influence of even a small amount of alcohol can lead to criminal charges."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "Any amount of alcohol in the blood may affect a driver's: -  Real 2025 DMV Questions ",
+          "targetName": "Any amount of alcohol in the blood may affect a driver's:",
+          "targetUrl": "https://www.dmv-written-test.com/question/any-amount-of-alcohol-in-the-blood-may-affect-a-drivers_V0yqmEyO.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "Any amount of alcohol in the blood may affect a driver's:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "Any amount of alcohol in the blood may affect a driver's:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "This sign means:",
+        "about": {
+          "@type": "Thing",
+          "name": "This sign means:"
+        },
+        "assesses": "This sign means: | This sign means: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images-car/illinois-stop_ahead.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "This sign indicates that a stop sign is ahead.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Stop Sign Ahead.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Stop Sign Ahead."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Side Road.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Side Road."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Railroad Warning.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Railroad Warning."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Stop Sign Ahead.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Stop Sign Ahead."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "This sign indicates that a stop sign is ahead.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "This sign means: | This sign indicates that a stop sign is ahead."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "This sign means: -  Real 2025 DMV Questions ",
+          "targetName": "This sign means:",
+          "targetUrl": "https://www.dmv-written-test.com/question/this-sign-means_ElPZvaP2.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "This sign means:",
+          "url": "https://www.dmv-written-test.com/images-car/illinois-stop_ahead.png",
+          "description": "This sign means:"
+        }
+      }
+    ],
+    "abstract": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>.",
+    "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "assesses": "FREE California Permit Test 21 - Real 2025 DMV Test Questions | The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "url": "https://www.dmv-written-test.com/california/practice-test-21.html",
+    "isPartOf": {
+      "@context": "http://schema.org",
+      "@type": "CreativeWorkSeries",
+      "name": "FREE California Permit Test 21 - Real 2025 DMV Test Questions",
+      "issn": "california/practice-test-21.html",
+      "accessMode": "textOnVisual",
+      "about": {
+        "@type": "Thing",
+        "name": "FREE California Permit Test 21 - Real 2025 DMV Test Questions"
+      },
+      "lastReviewed": "2022-01-07T10:57:08.000000Z",
+      "mainContentOfPage": {
+        "@type": "WebPageElement",
+        "cssSelector": [
+          "#series-description"
+        ]
+      },
+      "aggregateRating": {
+        "@type": "aggregateRating",
+        "ratingValue": "4.5769",
+        "reviewCount": 26,
+        "bestRating": 5,
+        "worstRating": 1
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "author": "DMV Written Test",
+        "name": "2025 California Permit Test 21",
+        "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>."
+      },
+      "significantLink": "https://cheat-sheets.dmv-written-test.com/en/california/car",
+      "specialty": "www.dmv-written-test.com",
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "name": "DMV Written Test",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "DMV Written Test",
+            "url": "https://www.dmv-written-test.com",
+            "item": {
+              "@id": "https://www.dmv-written-test.com",
+              "name": "DMV Written Test"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "california",
+            "url": "https://www.dmv-written-test.com/california",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california",
+              "name": "DMV Written Test 2025 California - DMV Practice Test - Real CA DMV Questions!"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "2025 California Permit Test 21",
+            "url": "https://www.dmv-written-test.com/california/practice-test-21.html",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california/practice-test-21.html",
+              "name": "2025 California Permit Test 21"
+            }
+          }
+        ]
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "xpath": [
+          "/html/head/title",
+          "/html/head/meta[@name='description']/@content"
+        ],
+        "url": "https://www.dmv-written-test.com/california/practice-test-21.html"
+      }
+    },
+    "provider": {
+      "@type": "Organization",
+      "name": "DMV Written Test",
+      "legalName": "Infinity Loop Capital LLC, CORP2000",
+      "slogan": "DMV",
+      "url": "https://www.dmv-written-test.com",
+      "email": "support@dmv-written-test.com",
+      "address": {
+        "@type": "PostalAddress",
+        "name": "Infinity Loop Capital LLC, CORP2000",
+        "addressLocality": "lindengasse 56/2",
+        "addressRegion": "32 West Loockerman Street, Suite 107, 19904 Dover DE"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": " ",
+        "contactType": "customer service"
+      },
+      "logo": {
+        "@type": "ImageObject",
+        "name": "DMV Written Test",
+        "url": "https://www.dmv-written-test.com/images/meta/logo.png",
+        "description": "DMV Written Test"
+      },
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "copyrightYear": "2025",
+    "dateCreated": "2021-11-23T12:41:53.000000Z",
+    "datePublished": "2021-11-23T12:41:53.000000Z",
+    "dateModified": "2022-01-07T10:57:08.000000Z",
+    "learningResourceType": "Car",
+    "educationalUse": "assignment",
+    "interactivityType": "mixed",
+    "accessMode": "textOnVisual",
+    "educationalLevel": "intermediate",
+    "typicalAgeRange": "16-72",
+    "educationalAlignment": {
+      "@type": "AlignmentObject",
+      "alignmentType": "educationalSubject",
+      "educationalFramework": "DMV Written Test",
+      "targetDescription": "DMV Written Test is the best at helping you pass your permit exam.  We only use real DMV questions on our practice tests and cheat sheets!",
+      "targetName": "DMV Written Test - DMV Practice Test 2025 - Real DMV Questions!",
+      "targetUrl": "https://www.dmv-written-test.com"
+    },
+    "image": {
+      "@type": "ImageObject",
+      "author": "DMV Written Test",
+      "name": "DMV Written Test",
+      "url": "https://www.dmv-written-test.com/images/meta/cover-1200x630.png",
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "inLanguage": {
+      "@type": "Language",
+      "name": "English",
+      "alternateName": "en"
+    }
+  }
+]

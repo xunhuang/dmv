@@ -1,0 +1,651 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "Quiz",
+    "name": "FREE California Permit Test 12 - Real 2025 DMV Test Questions",
+    "headline": "2025 California Permit Test 12",
+    "alternativeHeadline": "2025 California Permit Test 12 | DMV Written Test",
+    "about": {
+      "@type": "Thing",
+      "name": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car."
+    },
+    "hasPart": [
+      {
+        "@type": "Question",
+        "name": "Make room for cars that are entering the freeway by:",
+        "about": {
+          "@type": "Thing",
+          "name": "Make room for cars that are entering the freeway by:"
+        },
+        "assesses": "Make room for cars that are entering the freeway by: | Make room for cars that are entering the freeway by: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Make room for vehicles that are entering a freeway. If possible, merge into the next lane to create a gap for the incoming vehicles. If you cannot merge, adjust your speed to allow for the vehicles to enter traffic as smoothly and safely as possible.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Slowing down.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Slowing down."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Merging into a different lane.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Merging into a different lane."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Maintaining your speed and position.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Maintaining your speed and position."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Merging into a different lane.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Merging into a different lane."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Make room for vehicles that are entering a freeway. If possible, merge into the next lane to create a gap for the incoming vehicles. If you cannot merge, adjust your speed to allow for the vehicles to enter traffic as smoothly and safely as possible.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "Make room for cars that are entering the freeway by: | Make room for vehicles that are entering a freeway. If possible, merge into the next lane to create a gap for the incoming vehicles. If you cannot merge, adjust your speed to allow for the vehicles to enter traffic as smoothly and safely as possible."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "Make room for cars that are entering the freeway by: -  Real 2025 DMV Questions ",
+          "targetName": "Make room for cars that are entering the freeway by:",
+          "targetUrl": "https://www.dmv-written-test.com/question/make-room-for-cars-that-are-entering-the-freeway-by_nXgVVjyp.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "Make room for cars that are entering the freeway by:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "Make room for cars that are entering the freeway by:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "A curb painted red means:",
+        "about": {
+          "@type": "Thing",
+          "name": "A curb painted red means:"
+        },
+        "assesses": "A curb painted red means: | A curb painted red means: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "You may not stop, stand, or park at a red-painted curb.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Loading zone.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Loading zone."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "The area is reserved for picking up or dropping off passengers.",
+            "comment": {
+              "@type": "Comment",
+              "text": "The area is reserved for picking up or dropping off passengers."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "No parking, standing, or stopping.",
+            "comment": {
+              "@type": "Comment",
+              "text": "No parking, standing, or stopping."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "No parking, standing, or stopping.",
+            "comment": {
+              "@type": "Comment",
+              "text": "No parking, standing, or stopping."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "You may not stop, stand, or park at a red-painted curb.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "A curb painted red means: | You may not stop, stand, or park at a red-painted curb."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "A curb painted red means: -  Real 2025 DMV Questions ",
+          "targetName": "A curb painted red means:",
+          "targetUrl": "https://www.dmv-written-test.com/question/a-curb-painted-red-means_7er2pAyJ.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "A curb painted red means:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "A curb painted red means:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "The best thing to do if you become tired while driving is to:",
+        "about": {
+          "@type": "Thing",
+          "name": "The best thing to do if you become tired while driving is to:"
+        },
+        "assesses": "The best thing to do if you become tired while driving is to: | The best thing to do if you become tired while driving is to: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "If you become tired while driving, it is best to stop to rest or change drivers. Being tired dulls your mind and slows down your reactions, making driving hazardous.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Stop to rest or change drivers.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Stop to rest or change drivers."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Drink coffee.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Drink coffee."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Open a window.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Open a window."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Stop to rest or change drivers.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Stop to rest or change drivers."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "If you become tired while driving, it is best to stop to rest or change drivers. Being tired dulls your mind and slows down your reactions, making driving hazardous.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "The best thing to do if you become tired while driving is to: | If you become tired while driving, it is best to stop to rest or change drivers. Being tired dulls your mind and slows down your reactions, making driving hazardous."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "The best thing to do if you become tired while driving is to: -  Real 2025 DMV Questions ",
+          "targetName": "The best thing to do if you become tired while driving is to:",
+          "targetUrl": "https://www.dmv-written-test.com/question/the-best-thing-to-do-if-you-become-tired-while-driving-is-to_KeX89erk.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "The best thing to do if you become tired while driving is to:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "The best thing to do if you become tired while driving is to:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "When is it legal for minors to use a cell phone without a hands-free device while driving?",
+        "about": {
+          "@type": "Thing",
+          "name": "When is it legal for minors to use a cell phone without a hands-free device while driving?"
+        },
+        "assesses": "When is it legal for minors to use a cell phone without a hands-free device while driving? | When is it legal for minors to use a cell phone without a hands-free device while driving? -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "It is illegal for minors to use a cell phone at all while driving, except to contact an emergency entity in an emergency situation. For adult drivers, the use of hands-free devices is permitted; however, to avoid distractions, it is advisable to make calls only if needed to call for help in an emergency.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "When making a call while stopped at the red light",
+            "comment": {
+              "@type": "Comment",
+              "text": "When making a call while stopped at the red light"
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "When making a call for emergency assistance",
+            "comment": {
+              "@type": "Comment",
+              "text": "When making a call for emergency assistance"
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Never",
+            "comment": {
+              "@type": "Comment",
+              "text": "Never"
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "When making a call for emergency assistance",
+            "comment": {
+              "@type": "Comment",
+              "text": "When making a call for emergency assistance"
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "It is illegal for minors to use a cell phone at all while driving, except to contact an emergency entity in an emergency situation. For adult drivers, the use of hands-free devices is permitted; however, to avoid distractions, it is advisable to make calls only if needed to call for help in an emergency.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "When is it legal for minors to use a cell phone without a hands-free device while driving? | It is illegal for minors to use a cell phone at all while driving, except to contact an emergency entity in an emergency situation. For adult drivers, the use of hands-free devices is permitted; however, to avoid distractions, it is advisable to make calls only if needed to call for help in an emergency."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "When is it legal for minors to use a cell phone without a hands-free device while driving? -  Real 2025 DMV Questions ",
+          "targetName": "When is it legal for minors to use a cell phone without a hands-free device while driving?",
+          "targetUrl": "https://www.dmv-written-test.com/question/when-is-it-legal-for-minors-to-use-a-cell-phone-without-a-hands-free-device-while-driving_V0yq4ZPO.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "When is it legal for minors to use a cell phone without a hands-free device while driving?",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "When is it legal for minors to use a cell phone without a hands-free device while driving?"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Abandoning an animal on the highway may result in:",
+        "about": {
+          "@type": "Thing",
+          "name": "Abandoning an animal on the highway may result in:"
+        },
+        "assesses": "Abandoning an animal on the highway may result in: | Abandoning an animal on the highway may result in: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "It is illegal to dump or abandon an animal on the highway. Doing so can result in six months of jail time, a fine of up to $1,000, or both.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Jail time.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Jail time."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "A point against your license.",
+            "comment": {
+              "@type": "Comment",
+              "text": "A point against your license."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "No legal consequences.",
+            "comment": {
+              "@type": "Comment",
+              "text": "No legal consequences."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Jail time.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Jail time."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "It is illegal to dump or abandon an animal on the highway. Doing so can result in six months of jail time, a fine of up to $1,000, or both.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "Abandoning an animal on the highway may result in: | It is illegal to dump or abandon an animal on the highway. Doing so can result in six months of jail time, a fine of up to $1,000, or both."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "Abandoning an animal on the highway may result in: -  Real 2025 DMV Questions ",
+          "targetName": "Abandoning an animal on the highway may result in:",
+          "targetUrl": "https://www.dmv-written-test.com/question/abandoning-an-animal-on-the-highway-may-result-in_3XMoM3Pz.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "Abandoning an animal on the highway may result in:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "Abandoning an animal on the highway may result in:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "If a traffic signal light is green and a police officer signals for you to stop, you should:",
+        "about": {
+          "@type": "Thing",
+          "name": "If a traffic signal light is green and a police officer signals for you to stop, you should:"
+        },
+        "assesses": "If a traffic signal light is green and a police officer signals for you to stop, you should: | If a traffic signal light is green and a police officer signals for you to stop, you should: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Drivers must obey any instructions given by a police officer, even if the instructions contradict laws, signs, signals, or markings that would otherwise apply.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Obey the officer.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Obey the officer."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Obey the traffic signal.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Obey the traffic signal."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Do what the vehicle in front of you does.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Do what the vehicle in front of you does."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Obey the officer.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Obey the officer."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Drivers must obey any instructions given by a police officer, even if the instructions contradict laws, signs, signals, or markings that would otherwise apply.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "If a traffic signal light is green and a police officer signals for you to stop, you should: | Drivers must obey any instructions given by a police officer, even if the instructions contradict laws, signs, signals, or markings that would otherwise apply."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "If a traffic signal light is green and a police officer signals for you to stop, you should: -  Real 2025 DMV Questions ",
+          "targetName": "If a traffic signal light is green and a police officer signals for you to stop, you should:",
+          "targetUrl": "https://www.dmv-written-test.com/question/if-a-traffic-signal-light-is-green-and-a-police-officer-signals-for-you-to-stop-you-should_VP3V4Krv.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "If a traffic signal light is green and a police officer signals for you to stop, you should:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "If a traffic signal light is green and a police officer signals for you to stop, you should:"
+        }
+      }
+    ],
+    "abstract": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>.",
+    "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "assesses": "FREE California Permit Test 12 - Real 2025 DMV Test Questions | The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "url": "https://www.dmv-written-test.com/california/practice-test-12.html",
+    "isPartOf": {
+      "@context": "http://schema.org",
+      "@type": "CreativeWorkSeries",
+      "name": "FREE California Permit Test 12 - Real 2025 DMV Test Questions",
+      "issn": "california/practice-test-12.html",
+      "accessMode": "textOnVisual",
+      "about": {
+        "@type": "Thing",
+        "name": "FREE California Permit Test 12 - Real 2025 DMV Test Questions"
+      },
+      "lastReviewed": "2022-01-07T10:57:08.000000Z",
+      "mainContentOfPage": {
+        "@type": "WebPageElement",
+        "cssSelector": [
+          "#series-description"
+        ]
+      },
+      "aggregateRating": {
+        "@type": "aggregateRating",
+        "ratingValue": "4.8540",
+        "reviewCount": 1267,
+        "bestRating": 5,
+        "worstRating": 1
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "author": "DMV Written Test",
+        "name": "2025 California Permit Test 12",
+        "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>."
+      },
+      "significantLink": "https://cheat-sheets.dmv-written-test.com/en/california/car",
+      "specialty": "www.dmv-written-test.com",
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "name": "DMV Written Test",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "DMV Written Test",
+            "url": "https://www.dmv-written-test.com",
+            "item": {
+              "@id": "https://www.dmv-written-test.com",
+              "name": "DMV Written Test"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "california",
+            "url": "https://www.dmv-written-test.com/california",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california",
+              "name": "DMV Written Test 2025 California - DMV Practice Test - Real CA DMV Questions!"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "2025 California Permit Test 12",
+            "url": "https://www.dmv-written-test.com/california/practice-test-12.html",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california/practice-test-12.html",
+              "name": "2025 California Permit Test 12"
+            }
+          }
+        ]
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "xpath": [
+          "/html/head/title",
+          "/html/head/meta[@name='description']/@content"
+        ],
+        "url": "https://www.dmv-written-test.com/california/practice-test-12.html"
+      }
+    },
+    "provider": {
+      "@type": "Organization",
+      "name": "DMV Written Test",
+      "legalName": "Infinity Loop Capital LLC, CORP2000",
+      "slogan": "DMV",
+      "url": "https://www.dmv-written-test.com",
+      "email": "support@dmv-written-test.com",
+      "address": {
+        "@type": "PostalAddress",
+        "name": "Infinity Loop Capital LLC, CORP2000",
+        "addressLocality": "lindengasse 56/2",
+        "addressRegion": "32 West Loockerman Street, Suite 107, 19904 Dover DE"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": " ",
+        "contactType": "customer service"
+      },
+      "logo": {
+        "@type": "ImageObject",
+        "name": "DMV Written Test",
+        "url": "https://www.dmv-written-test.com/images/meta/logo.png",
+        "description": "DMV Written Test"
+      },
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "copyrightYear": "2025",
+    "dateCreated": "2021-11-23T12:41:48.000000Z",
+    "datePublished": "2021-11-23T12:41:48.000000Z",
+    "dateModified": "2022-01-07T10:57:08.000000Z",
+    "learningResourceType": "Car",
+    "educationalUse": "assignment",
+    "interactivityType": "mixed",
+    "accessMode": "textOnVisual",
+    "educationalLevel": "intermediate",
+    "typicalAgeRange": "16-72",
+    "educationalAlignment": {
+      "@type": "AlignmentObject",
+      "alignmentType": "educationalSubject",
+      "educationalFramework": "DMV Written Test",
+      "targetDescription": "DMV Written Test is the best at helping you pass your permit exam.  We only use real DMV questions on our practice tests and cheat sheets!",
+      "targetName": "DMV Written Test - DMV Practice Test 2025 - Real DMV Questions!",
+      "targetUrl": "https://www.dmv-written-test.com"
+    },
+    "image": {
+      "@type": "ImageObject",
+      "author": "DMV Written Test",
+      "name": "DMV Written Test",
+      "url": "https://www.dmv-written-test.com/images/meta/cover-1200x630.png",
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "inLanguage": {
+      "@type": "Language",
+      "name": "English",
+      "alternateName": "en"
+    }
+  }
+]

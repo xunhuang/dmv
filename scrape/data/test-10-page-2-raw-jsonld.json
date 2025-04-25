@@ -1,0 +1,651 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "Quiz",
+    "name": "FREE California Permit Test 10 - Real 2025 DMV Test Questions",
+    "headline": "2025 California Permit Test 10",
+    "alternativeHeadline": "2025 California Permit Test 10 | DMV Written Test",
+    "about": {
+      "@type": "Thing",
+      "name": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car."
+    },
+    "hasPart": [
+      {
+        "@type": "Question",
+        "name": "Flash your brake lights or turn on your emergency flashers if you:",
+        "about": {
+          "@type": "Thing",
+          "name": "Flash your brake lights or turn on your emergency flashers if you:"
+        },
+        "assesses": "Flash your brake lights or turn on your emergency flashers if you: | Flash your brake lights or turn on your emergency flashers if you: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "If you can see a collision ahead, warn the drivers behind you by turning on your emergency flashers or by tapping your brake pedal quickly three or four times.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Need to warn other drivers of a collision ahead.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Need to warn other drivers of a collision ahead."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Are temporarily parked in a traffic lane to make delivery.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Are temporarily parked in a traffic lane to make delivery."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Are backing out of a parking space.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Are backing out of a parking space."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Need to warn other drivers of a collision ahead.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Need to warn other drivers of a collision ahead."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "If you can see a collision ahead, warn the drivers behind you by turning on your emergency flashers or by tapping your brake pedal quickly three or four times.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "Flash your brake lights or turn on your emergency flashers if you: | If you can see a collision ahead, warn the drivers behind you by turning on your emergency flashers or by tapping your brake pedal quickly three or four times."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "Flash your brake lights or turn on your emergency flashers if you: -  Real 2025 DMV Questions ",
+          "targetName": "Flash your brake lights or turn on your emergency flashers if you:",
+          "targetUrl": "https://www.dmv-written-test.com/question/flash-your-brake-lights-or-turn-on-your-emergency-flashers-if-you_5zXB27Xv.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "Flash your brake lights or turn on your emergency flashers if you:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "Flash your brake lights or turn on your emergency flashers if you:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "If you are feeling fatigued while driving, you should:",
+        "about": {
+          "@type": "Thing",
+          "name": "If you are feeling fatigued while driving, you should:"
+        },
+        "assesses": "If you are feeling fatigued while driving, you should: | If you are feeling fatigued while driving, you should: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "When driving, watch for warning signs of fatigue. You are too tired to drive safely if you are struggling to keep your eyes open, drifting from your lane, or turning up the radio and rolling down your windows to keep yourself awake. If you notice these signs, it is a good idea to find a safe place to park so you can refresh yourself with a short nap.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Increase your speed to reach your destination more quickly.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Increase your speed to reach your destination more quickly."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Increase the volume of your radio.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Increase the volume of your radio."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Find a safe parking area to take a short nap.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Find a safe parking area to take a short nap."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Find a safe parking area to take a short nap.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Find a safe parking area to take a short nap."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "When driving, watch for warning signs of fatigue. You are too tired to drive safely if you are struggling to keep your eyes open, drifting from your lane, or turning up the radio and rolling down your windows to keep yourself awake. If you notice these signs, it is a good idea to find a safe place to park so you can refresh yourself with a short nap.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "If you are feeling fatigued while driving, you should: | When driving, watch for warning signs of fatigue. You are too tired to drive safely if you are struggling to keep your eyes open, drifting from your lane, or turning up the radio and rolling down your windows to keep yourself awake. If you notice these signs, it is a good idea to find a safe place to park so you can refresh yourself with a short nap."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "If you are feeling fatigued while driving, you should: -  Real 2025 DMV Questions ",
+          "targetName": "If you are feeling fatigued while driving, you should:",
+          "targetUrl": "https://www.dmv-written-test.com/question/if-you-are-feeling-fatigued-while-driving-you-should_RdPED7rV.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "If you are feeling fatigued while driving, you should:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "If you are feeling fatigued while driving, you should:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "You are driving on a one-way street. You may only turn left onto another one-way street if:",
+        "about": {
+          "@type": "Thing",
+          "name": "You are driving on a one-way street. You may only turn left onto another one-way street if:"
+        },
+        "assesses": "You are driving on a one-way street. You may only turn left onto another one-way street if: | You are driving on a one-way street. You may only turn left onto another one-way street if: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "You may turn left onto a one-way street that moves to the left if there is no sign prohibiting the turn. You may not turn left onto a one-way street where traffic moves to the right.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "You increase your speed before the turn.",
+            "comment": {
+              "@type": "Comment",
+              "text": "You increase your speed before the turn."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Traffic on the street moves to the right.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Traffic on the street moves to the right."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Traffic on the street moves to the left.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Traffic on the street moves to the left."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Traffic on the street moves to the left.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Traffic on the street moves to the left."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "You may turn left onto a one-way street that moves to the left if there is no sign prohibiting the turn. You may not turn left onto a one-way street where traffic moves to the right.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "You are driving on a one-way street. You may only turn left onto another one-way street if: | You may turn left onto a one-way street that moves to the left if there is no sign prohibiting the turn. You may not turn left onto a one-way street where traffic moves to the right."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "You are driving on a one-way street. You may only turn left onto another one-way street if: -  Real 2025 DMV Questions ",
+          "targetName": "You are driving on a one-way street. You may only turn left onto another one-way street if:",
+          "targetUrl": "https://www.dmv-written-test.com/question/you-are-driving-on-a-one-way-street-you-may-only-turn-left-onto-another-one-way-street-if_wGPJZxP5.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "You are driving on a one-way street. You may only turn left onto another one-way street if:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "You are driving on a one-way street. You may only turn left onto another one-way street if:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "When may you legally drive around or under a railroad crossing gate?",
+        "about": {
+          "@type": "Thing",
+          "name": "When may you legally drive around or under a railroad crossing gate?"
+        },
+        "assesses": "When may you legally drive around or under a railroad crossing gate? | When may you legally drive around or under a railroad crossing gate? -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Do not go around or under any lowered gate at a railroad crossing. Once the gate is raised, do not proceed across the tracks until you can see clearly in both directions and are sure there are no trains coming.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Never.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Never."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "When you can see clearly in both directions.",
+            "comment": {
+              "@type": "Comment",
+              "text": "When you can see clearly in both directions."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "When the warning lights are not flashing.",
+            "comment": {
+              "@type": "Comment",
+              "text": "When the warning lights are not flashing."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Never.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Never."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Do not go around or under any lowered gate at a railroad crossing. Once the gate is raised, do not proceed across the tracks until you can see clearly in both directions and are sure there are no trains coming.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "When may you legally drive around or under a railroad crossing gate? | Do not go around or under any lowered gate at a railroad crossing. Once the gate is raised, do not proceed across the tracks until you can see clearly in both directions and are sure there are no trains coming."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "When may you legally drive around or under a railroad crossing gate? -  Real 2025 DMV Questions ",
+          "targetName": "When may you legally drive around or under a railroad crossing gate?",
+          "targetUrl": "https://www.dmv-written-test.com/question/when-may-you-legally-drive-around-or-under-a-railroad-crossing-gate_bVyvJEyG.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "When may you legally drive around or under a railroad crossing gate?",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "When may you legally drive around or under a railroad crossing gate?"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "A U-turn is not permitted:",
+        "about": {
+          "@type": "Thing",
+          "name": "A U-turn is not permitted:"
+        },
+        "assesses": "A U-turn is not permitted: | A U-turn is not permitted: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "You must never turn around while on or near any curve or hill. You may not be able to see oncoming traffic or pedestrians and may cause a collision.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "In a parking lot.",
+            "comment": {
+              "@type": "Comment",
+              "text": "In a parking lot."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "On or near any curve or hill.",
+            "comment": {
+              "@type": "Comment",
+              "text": "On or near any curve or hill."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "On a straight roadway with a clear view for 500 feet in both directions.",
+            "comment": {
+              "@type": "Comment",
+              "text": "On a straight roadway with a clear view for 500 feet in both directions."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "On or near any curve or hill.",
+            "comment": {
+              "@type": "Comment",
+              "text": "On or near any curve or hill."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "You must never turn around while on or near any curve or hill. You may not be able to see oncoming traffic or pedestrians and may cause a collision.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "A U-turn is not permitted: | You must never turn around while on or near any curve or hill. You may not be able to see oncoming traffic or pedestrians and may cause a collision."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "A U-turn is not permitted: -  Real 2025 DMV Questions ",
+          "targetName": "A U-turn is not permitted:",
+          "targetUrl": "https://www.dmv-written-test.com/question/a-u-turn-is-not-permitted_ZmymjdXx.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "A U-turn is not permitted:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "A U-turn is not permitted:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "A diamond-shaped sign means:",
+        "about": {
+          "@type": "Thing",
+          "name": "A diamond-shaped sign means:"
+        },
+        "assesses": "A diamond-shaped sign means: | A diamond-shaped sign means: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images-car/washington-warning.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Diamond-shaped signs are used to warn drivers of special conditions or hazards ahead. They are typically yellow or orange in color.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Yield.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Yield."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Stop.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Stop."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Warning.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Warning."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Warning.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Warning."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Diamond-shaped signs are used to warn drivers of special conditions or hazards ahead. They are typically yellow or orange in color.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "A diamond-shaped sign means: | Diamond-shaped signs are used to warn drivers of special conditions or hazards ahead. They are typically yellow or orange in color."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "A diamond-shaped sign means: -  Real 2025 DMV Questions ",
+          "targetName": "A diamond-shaped sign means:",
+          "targetUrl": "https://www.dmv-written-test.com/question/a-diamond-shaped-sign-means_x3PGvYrk.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "A diamond-shaped sign means:",
+          "url": "https://www.dmv-written-test.com/images-car/washington-warning.png",
+          "description": "A diamond-shaped sign means:"
+        }
+      }
+    ],
+    "abstract": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>.",
+    "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "assesses": "FREE California Permit Test 10 - Real 2025 DMV Test Questions | The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "url": "https://www.dmv-written-test.com/california/practice-test-10.html",
+    "isPartOf": {
+      "@context": "http://schema.org",
+      "@type": "CreativeWorkSeries",
+      "name": "FREE California Permit Test 10 - Real 2025 DMV Test Questions",
+      "issn": "california/practice-test-10.html",
+      "accessMode": "textOnVisual",
+      "about": {
+        "@type": "Thing",
+        "name": "FREE California Permit Test 10 - Real 2025 DMV Test Questions"
+      },
+      "lastReviewed": "2024-02-29T15:03:00.000000Z",
+      "mainContentOfPage": {
+        "@type": "WebPageElement",
+        "cssSelector": [
+          "#series-description"
+        ]
+      },
+      "aggregateRating": {
+        "@type": "aggregateRating",
+        "ratingValue": "4.8383",
+        "reviewCount": 1602,
+        "bestRating": 5,
+        "worstRating": 1
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "author": "DMV Written Test",
+        "name": "2025 California Permit Test 10",
+        "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>."
+      },
+      "significantLink": "https://cheat-sheets.dmv-written-test.com/en/california/car",
+      "specialty": "www.dmv-written-test.com",
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "name": "DMV Written Test",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "DMV Written Test",
+            "url": "https://www.dmv-written-test.com",
+            "item": {
+              "@id": "https://www.dmv-written-test.com",
+              "name": "DMV Written Test"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "california",
+            "url": "https://www.dmv-written-test.com/california",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california",
+              "name": "DMV Written Test 2025 California - DMV Practice Test - Real CA DMV Questions!"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "2025 California Permit Test 10",
+            "url": "https://www.dmv-written-test.com/california/practice-test-10.html",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california/practice-test-10.html",
+              "name": "2025 California Permit Test 10"
+            }
+          }
+        ]
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "xpath": [
+          "/html/head/title",
+          "/html/head/meta[@name='description']/@content"
+        ],
+        "url": "https://www.dmv-written-test.com/california/practice-test-10.html"
+      }
+    },
+    "provider": {
+      "@type": "Organization",
+      "name": "DMV Written Test",
+      "legalName": "Infinity Loop Capital LLC, CORP2000",
+      "slogan": "DMV",
+      "url": "https://www.dmv-written-test.com",
+      "email": "support@dmv-written-test.com",
+      "address": {
+        "@type": "PostalAddress",
+        "name": "Infinity Loop Capital LLC, CORP2000",
+        "addressLocality": "lindengasse 56/2",
+        "addressRegion": "32 West Loockerman Street, Suite 107, 19904 Dover DE"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": " ",
+        "contactType": "customer service"
+      },
+      "logo": {
+        "@type": "ImageObject",
+        "name": "DMV Written Test",
+        "url": "https://www.dmv-written-test.com/images/meta/logo.png",
+        "description": "DMV Written Test"
+      },
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "copyrightYear": "2025",
+    "dateCreated": "2021-11-23T12:41:47.000000Z",
+    "datePublished": "2021-11-23T12:41:47.000000Z",
+    "dateModified": "2024-02-29T15:03:00.000000Z",
+    "learningResourceType": "Car",
+    "educationalUse": "assignment",
+    "interactivityType": "mixed",
+    "accessMode": "textOnVisual",
+    "educationalLevel": "intermediate",
+    "typicalAgeRange": "16-72",
+    "educationalAlignment": {
+      "@type": "AlignmentObject",
+      "alignmentType": "educationalSubject",
+      "educationalFramework": "DMV Written Test",
+      "targetDescription": "DMV Written Test is the best at helping you pass your permit exam.  We only use real DMV questions on our practice tests and cheat sheets!",
+      "targetName": "DMV Written Test - DMV Practice Test 2025 - Real DMV Questions!",
+      "targetUrl": "https://www.dmv-written-test.com"
+    },
+    "image": {
+      "@type": "ImageObject",
+      "author": "DMV Written Test",
+      "name": "DMV Written Test",
+      "url": "https://www.dmv-written-test.com/images/meta/cover-1200x630.png",
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "inLanguage": {
+      "@type": "Language",
+      "name": "English",
+      "alternateName": "en"
+    }
+  }
+]

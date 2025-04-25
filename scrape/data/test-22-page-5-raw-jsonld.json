@@ -1,0 +1,651 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "Quiz",
+    "name": "FREE California Permit Test 22 - Real 2025 DMV Test Questions",
+    "headline": "2025 California Permit Test 22",
+    "alternativeHeadline": "2025 California Permit Test 22 | DMV Written Test",
+    "about": {
+      "@type": "Thing",
+      "name": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car."
+    },
+    "hasPart": [
+      {
+        "@type": "Question",
+        "name": "As the percentage of alcohol (BAC) in your blood increases, you become:",
+        "about": {
+          "@type": "Thing",
+          "name": "As the percentage of alcohol (BAC) in your blood increases, you become:"
+        },
+        "assesses": "As the percentage of alcohol (BAC) in your blood increases, you become: | As the percentage of alcohol (BAC) in your blood increases, you become: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Blood alcohol concentration (BAC) is a measure of the percentage of alcohol in a person's blood. The higher the BAC, the more impaired a person is.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "More intoxicated.",
+            "comment": {
+              "@type": "Comment",
+              "text": "More intoxicated."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "More sober.",
+            "comment": {
+              "@type": "Comment",
+              "text": "More sober."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "More coordinated.",
+            "comment": {
+              "@type": "Comment",
+              "text": "More coordinated."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "More intoxicated.",
+            "comment": {
+              "@type": "Comment",
+              "text": "More intoxicated."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Blood alcohol concentration (BAC) is a measure of the percentage of alcohol in a person's blood. The higher the BAC, the more impaired a person is.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "As the percentage of alcohol (BAC) in your blood increases, you become: | Blood alcohol concentration (BAC) is a measure of the percentage of alcohol in a person's blood. The higher the BAC, the more impaired a person is."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "As the percentage of alcohol (BAC) in your blood increases, you become: -  Real 2025 DMV Questions ",
+          "targetName": "As the percentage of alcohol (BAC) in your blood increases, you become:",
+          "targetUrl": "https://www.dmv-written-test.com/question/as-the-percentage-of-alcohol-bac-in-your-blood-increases-you-become_2MXLzaPw.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "As the percentage of alcohol (BAC) in your blood increases, you become:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "As the percentage of alcohol (BAC) in your blood increases, you become:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "This sign indicates that the road ahead:",
+        "about": {
+          "@type": "Thing",
+          "name": "This sign indicates that the road ahead:"
+        },
+        "assesses": "This sign indicates that the road ahead: | This sign indicates that the road ahead: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images-car/nebraska-reverse_curve.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "This sign warns of a reverse curve in which the road curves to the right, then to the left.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Turns sharply right, then left.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Turns sharply right, then left."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Curves right, then left.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Curves right, then left."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Curves right.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Curves right."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Curves right, then left.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Curves right, then left."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "This sign warns of a reverse curve in which the road curves to the right, then to the left.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "This sign indicates that the road ahead: | This sign warns of a reverse curve in which the road curves to the right, then to the left."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "This sign indicates that the road ahead: -  Real 2025 DMV Questions ",
+          "targetName": "This sign indicates that the road ahead:",
+          "targetUrl": "https://www.dmv-written-test.com/question/this-sign-indicates-that-the-road-ahead_5zXBZxXv.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "This sign indicates that the road ahead:",
+          "url": "https://www.dmv-written-test.com/images-car/nebraska-reverse_curve.png",
+          "description": "This sign indicates that the road ahead:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "If a child is about to run into the street, you should:",
+        "about": {
+          "@type": "Thing",
+          "name": "If a child is about to run into the street, you should:"
+        },
+        "assesses": "If a child is about to run into the street, you should: | If a child is about to run into the street, you should: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "If there is danger, you may need to sound a sharp blast on your horn. Do this when a child or any other pedestrian is about to enter into the street in front of your moving vehicle.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Start to prepare to slow down.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Start to prepare to slow down."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Flash your headlights.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Flash your headlights."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Sound a sharp blast of your horn.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Sound a sharp blast of your horn."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Sound a sharp blast of your horn.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Sound a sharp blast of your horn."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "If there is danger, you may need to sound a sharp blast on your horn. Do this when a child or any other pedestrian is about to enter into the street in front of your moving vehicle.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "If a child is about to run into the street, you should: | If there is danger, you may need to sound a sharp blast on your horn. Do this when a child or any other pedestrian is about to enter into the street in front of your moving vehicle."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "If a child is about to run into the street, you should: -  Real 2025 DMV Questions ",
+          "targetName": "If a child is about to run into the street, you should:",
+          "targetUrl": "https://www.dmv-written-test.com/question/if-a-child-is-about-to-run-into-the-street-you-should_dX6jjaXk.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "If a child is about to run into the street, you should:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "If a child is about to run into the street, you should:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "When you see a flashing yellow light at an intersection, you should:",
+        "about": {
+          "@type": "Thing",
+          "name": "When you see a flashing yellow light at an intersection, you should:"
+        },
+        "assesses": "When you see a flashing yellow light at an intersection, you should: | When you see a flashing yellow light at an intersection, you should: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "A flashing yellow light at an intersection indicates that drivers should slow to a safe and reasonable speed and proceed with caution.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Yield to all traffic before crossing the intersection.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Yield to all traffic before crossing the intersection."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Stop, then enter the intersection when it is safe to do so.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Stop, then enter the intersection when it is safe to do so."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Slow down and cross the intersection carefully.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Slow down and cross the intersection carefully."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Slow down and cross the intersection carefully.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Slow down and cross the intersection carefully."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "A flashing yellow light at an intersection indicates that drivers should slow to a safe and reasonable speed and proceed with caution.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "When you see a flashing yellow light at an intersection, you should: | A flashing yellow light at an intersection indicates that drivers should slow to a safe and reasonable speed and proceed with caution."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "When you see a flashing yellow light at an intersection, you should: -  Real 2025 DMV Questions ",
+          "targetName": "When you see a flashing yellow light at an intersection, you should:",
+          "targetUrl": "https://www.dmv-written-test.com/question/when-you-see-a-flashing-yellow-light-at-an-intersection-you-should_2MXLpYXw.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "When you see a flashing yellow light at an intersection, you should:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "When you see a flashing yellow light at an intersection, you should:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "This road sign means:",
+        "about": {
+          "@type": "Thing",
+          "name": "This road sign means:"
+        },
+        "assesses": "This road sign means: | This road sign means: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images-car/maryland-no_right_turn.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Regulatory signs provide notice to road users of traffic laws and must be obeyed. Where this sign is posted, making a right turn is prohibited.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "No right turn.",
+            "comment": {
+              "@type": "Comment",
+              "text": "No right turn."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "No U-turns.",
+            "comment": {
+              "@type": "Comment",
+              "text": "No U-turns."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "No left turn.",
+            "comment": {
+              "@type": "Comment",
+              "text": "No left turn."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "No right turn.",
+            "comment": {
+              "@type": "Comment",
+              "text": "No right turn."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Regulatory signs provide notice to road users of traffic laws and must be obeyed. Where this sign is posted, making a right turn is prohibited.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "This road sign means: | Regulatory signs provide notice to road users of traffic laws and must be obeyed. Where this sign is posted, making a right turn is prohibited."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "This road sign means: -  Real 2025 DMV Questions ",
+          "targetName": "This road sign means:",
+          "targetUrl": "https://www.dmv-written-test.com/question/this-road-sign-means_2MXLmJrw.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "This road sign means:",
+          "url": "https://www.dmv-written-test.com/images-car/maryland-no_right_turn.png",
+          "description": "This road sign means:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "If you are riding in a vehicle equipped with a lap belt and a separate shoulder belt, you are:",
+        "about": {
+          "@type": "Thing",
+          "name": "If you are riding in a vehicle equipped with a lap belt and a separate shoulder belt, you are:"
+        },
+        "assesses": "If you are riding in a vehicle equipped with a lap belt and a separate shoulder belt, you are: | If you are riding in a vehicle equipped with a lap belt and a separate shoulder belt, you are: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "If your vehicle is equipped with a lap belt and a separate shoulder belt, you are required to use both.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Only required to use the lap belt.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Only required to use the lap belt."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Required to use both the lap and shoulder belts.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Required to use both the lap and shoulder belts."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Only required to use the shoulder belt.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Only required to use the shoulder belt."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Required to use both the lap and shoulder belts.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Required to use both the lap and shoulder belts."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "If your vehicle is equipped with a lap belt and a separate shoulder belt, you are required to use both.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "If you are riding in a vehicle equipped with a lap belt and a separate shoulder belt, you are: | If your vehicle is equipped with a lap belt and a separate shoulder belt, you are required to use both."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "If you are riding in a vehicle equipped with a lap belt and a separate shoulder belt, you are: -  Real 2025 DMV Questions ",
+          "targetName": "If you are riding in a vehicle equipped with a lap belt and a separate shoulder belt, you are:",
+          "targetUrl": "https://www.dmv-written-test.com/question/if-you-are-riding-in-a-vehicle-equipped-with-a-lap-belt-and-a-separate-shoulder-belt-you-are_Y5y9nXZG.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "If you are riding in a vehicle equipped with a lap belt and a separate shoulder belt, you are:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "If you are riding in a vehicle equipped with a lap belt and a separate shoulder belt, you are:"
+        }
+      }
+    ],
+    "abstract": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>.",
+    "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "assesses": "FREE California Permit Test 22 - Real 2025 DMV Test Questions | The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "url": "https://www.dmv-written-test.com/california/practice-test-22.html",
+    "isPartOf": {
+      "@context": "http://schema.org",
+      "@type": "CreativeWorkSeries",
+      "name": "FREE California Permit Test 22 - Real 2025 DMV Test Questions",
+      "issn": "california/practice-test-22.html",
+      "accessMode": "textOnVisual",
+      "about": {
+        "@type": "Thing",
+        "name": "FREE California Permit Test 22 - Real 2025 DMV Test Questions"
+      },
+      "lastReviewed": "2022-01-07T10:57:08.000000Z",
+      "mainContentOfPage": {
+        "@type": "WebPageElement",
+        "cssSelector": [
+          "#series-description"
+        ]
+      },
+      "aggregateRating": {
+        "@type": "aggregateRating",
+        "ratingValue": "4.4634",
+        "reviewCount": 41,
+        "bestRating": 5,
+        "worstRating": 1
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "author": "DMV Written Test",
+        "name": "2025 California Permit Test 22",
+        "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>."
+      },
+      "significantLink": "https://cheat-sheets.dmv-written-test.com/en/california/car",
+      "specialty": "www.dmv-written-test.com",
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "name": "DMV Written Test",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "DMV Written Test",
+            "url": "https://www.dmv-written-test.com",
+            "item": {
+              "@id": "https://www.dmv-written-test.com",
+              "name": "DMV Written Test"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "california",
+            "url": "https://www.dmv-written-test.com/california",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california",
+              "name": "DMV Written Test 2025 California - DMV Practice Test - Real CA DMV Questions!"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "2025 California Permit Test 22",
+            "url": "https://www.dmv-written-test.com/california/practice-test-22.html",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california/practice-test-22.html",
+              "name": "2025 California Permit Test 22"
+            }
+          }
+        ]
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "xpath": [
+          "/html/head/title",
+          "/html/head/meta[@name='description']/@content"
+        ],
+        "url": "https://www.dmv-written-test.com/california/practice-test-22.html"
+      }
+    },
+    "provider": {
+      "@type": "Organization",
+      "name": "DMV Written Test",
+      "legalName": "Infinity Loop Capital LLC, CORP2000",
+      "slogan": "DMV",
+      "url": "https://www.dmv-written-test.com",
+      "email": "support@dmv-written-test.com",
+      "address": {
+        "@type": "PostalAddress",
+        "name": "Infinity Loop Capital LLC, CORP2000",
+        "addressLocality": "lindengasse 56/2",
+        "addressRegion": "32 West Loockerman Street, Suite 107, 19904 Dover DE"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": " ",
+        "contactType": "customer service"
+      },
+      "logo": {
+        "@type": "ImageObject",
+        "name": "DMV Written Test",
+        "url": "https://www.dmv-written-test.com/images/meta/logo.png",
+        "description": "DMV Written Test"
+      },
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "copyrightYear": "2025",
+    "dateCreated": "2021-11-23T12:41:53.000000Z",
+    "datePublished": "2021-11-23T12:41:53.000000Z",
+    "dateModified": "2022-01-07T10:57:08.000000Z",
+    "learningResourceType": "Car",
+    "educationalUse": "assignment",
+    "interactivityType": "mixed",
+    "accessMode": "textOnVisual",
+    "educationalLevel": "intermediate",
+    "typicalAgeRange": "16-72",
+    "educationalAlignment": {
+      "@type": "AlignmentObject",
+      "alignmentType": "educationalSubject",
+      "educationalFramework": "DMV Written Test",
+      "targetDescription": "DMV Written Test is the best at helping you pass your permit exam.  We only use real DMV questions on our practice tests and cheat sheets!",
+      "targetName": "DMV Written Test - DMV Practice Test 2025 - Real DMV Questions!",
+      "targetUrl": "https://www.dmv-written-test.com"
+    },
+    "image": {
+      "@type": "ImageObject",
+      "author": "DMV Written Test",
+      "name": "DMV Written Test",
+      "url": "https://www.dmv-written-test.com/images/meta/cover-1200x630.png",
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "inLanguage": {
+      "@type": "Language",
+      "name": "English",
+      "alternateName": "en"
+    }
+  }
+]

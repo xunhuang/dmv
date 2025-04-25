@@ -1,0 +1,651 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "Quiz",
+    "name": "FREE California Permit Test 19 - Real 2025 DMV Test Questions",
+    "headline": "2025 California Permit Test 19",
+    "alternativeHeadline": "2025 California Permit Test 19 | DMV Written Test",
+    "about": {
+      "@type": "Thing",
+      "name": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car."
+    },
+    "hasPart": [
+      {
+        "@type": "Question",
+        "name": "If you can see that the roadway up ahead is covered by heavy smoke, you should:",
+        "about": {
+          "@type": "Thing",
+          "name": "If you can see that the roadway up ahead is covered by heavy smoke, you should:"
+        },
+        "assesses": "If you can see that the roadway up ahead is covered by heavy smoke, you should: | If you can see that the roadway up ahead is covered by heavy smoke, you should: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "If you notice that the road ahead is covered by heavy smoke, reduce your speed immediately, drive as far as possible to the right, and stop off the roadway. Only then should you determine if it is safe for you to continue. Remember that certain kinds of smoke can irritate your eyes and lungs or even kill you.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Turn on your four-way flashers and continue.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Turn on your four-way flashers and continue."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Reduce your speed, move as far to the right as possible, and stop off the roadway.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Reduce your speed, move as far to the right as possible, and stop off the roadway."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Turn on your high beam headlights and continue.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Turn on your high beam headlights and continue."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Reduce your speed, move as far to the right as possible, and stop off the roadway.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Reduce your speed, move as far to the right as possible, and stop off the roadway."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "If you notice that the road ahead is covered by heavy smoke, reduce your speed immediately, drive as far as possible to the right, and stop off the roadway. Only then should you determine if it is safe for you to continue. Remember that certain kinds of smoke can irritate your eyes and lungs or even kill you.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "If you can see that the roadway up ahead is covered by heavy smoke, you should: | If you notice that the road ahead is covered by heavy smoke, reduce your speed immediately, drive as far as possible to the right, and stop off the roadway. Only then should you determine if it is safe for you to continue. Remember that certain kinds of smoke can irritate your eyes and lungs or even kill you."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "If you can see that the roadway up ahead is covered by heavy smoke, you should: -  Real 2025 DMV Questions ",
+          "targetName": "If you can see that the roadway up ahead is covered by heavy smoke, you should:",
+          "targetUrl": "https://www.dmv-written-test.com/question/if-you-can-see-that-the-roadway-up-ahead-is-covered-by-heavy-smoke-you-should_LBXpQar9.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "If you can see that the roadway up ahead is covered by heavy smoke, you should:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "If you can see that the roadway up ahead is covered by heavy smoke, you should:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "When entering an interstate highway, you should:",
+        "about": {
+          "@type": "Thing",
+          "name": "When entering an interstate highway, you should:"
+        },
+        "assesses": "When entering an interstate highway, you should: | When entering an interstate highway, you should: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Rather than stopping (as you would when entering other roads), you must use the merging or acceleration lane to speed up and smoothly merge with fast-moving traffic already on the interstate.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Stop, check for cars, and enter when safe.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Stop, check for cars, and enter when safe."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Check for cars and reduce your speed to 25 mph before entering the traffic lane.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Check for cars and reduce your speed to 25 mph before entering the traffic lane."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Check for cars, increase your speed to match the flow of traffic, and merge when the way is clear. ",
+            "comment": {
+              "@type": "Comment",
+              "text": "Check for cars, increase your speed to match the flow of traffic, and merge when the way is clear. "
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Check for cars, increase your speed to match the flow of traffic, and merge when the way is clear. ",
+            "comment": {
+              "@type": "Comment",
+              "text": "Check for cars, increase your speed to match the flow of traffic, and merge when the way is clear. "
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Rather than stopping (as you would when entering other roads), you must use the merging or acceleration lane to speed up and smoothly merge with fast-moving traffic already on the interstate.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "When entering an interstate highway, you should: | Rather than stopping (as you would when entering other roads), you must use the merging or acceleration lane to speed up and smoothly merge with fast-moving traffic already on the interstate."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "When entering an interstate highway, you should: -  Real 2025 DMV Questions ",
+          "targetName": "When entering an interstate highway, you should:",
+          "targetUrl": "https://www.dmv-written-test.com/question/when-entering-an-interstate-highway-you-should_Zmym1Wyx.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "When entering an interstate highway, you should:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "When entering an interstate highway, you should:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Which of the following is true about roadways on bridges and overpasses in cold, wet weather?",
+        "about": {
+          "@type": "Thing",
+          "name": "Which of the following is true about roadways on bridges and overpasses in cold, wet weather?"
+        },
+        "assesses": "Which of the following is true about roadways on bridges and overpasses in cold, wet weather? | Which of the following is true about roadways on bridges and overpasses in cold, wet weather? -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Bridges and overpasses tend to freeze before the rest of the road does. They can hide spots of ice.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "They tend to freeze before the rest of the road does.",
+            "comment": {
+              "@type": "Comment",
+              "text": "They tend to freeze before the rest of the road does."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "They do not freeze because they are made of concrete.",
+            "comment": {
+              "@type": "Comment",
+              "text": "They do not freeze because they are made of concrete."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "They tend to freeze after the rest of the road does.",
+            "comment": {
+              "@type": "Comment",
+              "text": "They tend to freeze after the rest of the road does."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "They tend to freeze before the rest of the road does.",
+            "comment": {
+              "@type": "Comment",
+              "text": "They tend to freeze before the rest of the road does."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Bridges and overpasses tend to freeze before the rest of the road does. They can hide spots of ice.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "Which of the following is true about roadways on bridges and overpasses in cold, wet weather? | Bridges and overpasses tend to freeze before the rest of the road does. They can hide spots of ice."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "Which of the following is true about roadways on bridges and overpasses in cold, wet weather? -  Real 2025 DMV Questions ",
+          "targetName": "Which of the following is true about roadways on bridges and overpasses in cold, wet weather?",
+          "targetUrl": "https://www.dmv-written-test.com/question/which-of-the-following-is-true-about-roadways-on-bridges-and-overpasses-in-cold-wet-weather_LBXp6dP9.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "Which of the following is true about roadways on bridges and overpasses in cold, wet weather?",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "Which of the following is true about roadways on bridges and overpasses in cold, wet weather?"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "This sign means:",
+        "about": {
+          "@type": "Thing",
+          "name": "This sign means:"
+        },
+        "assesses": "This sign means: | This sign means: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images-car/illinois-change_in_direction.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "This sign warns a driver of a change in direction or a narrowing of the road. A driver may find several of these signs on the outside of a sharp curve or on approaches to a narrow bridge.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Change in direction or narrowing of roadway.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Change in direction or narrowing of roadway."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "No right turn.",
+            "comment": {
+              "@type": "Comment",
+              "text": "No right turn."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "No passing zone.",
+            "comment": {
+              "@type": "Comment",
+              "text": "No passing zone."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Change in direction or narrowing of roadway.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Change in direction or narrowing of roadway."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "This sign warns a driver of a change in direction or a narrowing of the road. A driver may find several of these signs on the outside of a sharp curve or on approaches to a narrow bridge.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "This sign means: | This sign warns a driver of a change in direction or a narrowing of the road. A driver may find several of these signs on the outside of a sharp curve or on approaches to a narrow bridge."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "This sign means: -  Real 2025 DMV Questions ",
+          "targetName": "This sign means:",
+          "targetUrl": "https://www.dmv-written-test.com/question/this-sign-means_QayAwGrz.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "This sign means:",
+          "url": "https://www.dmv-written-test.com/images-car/illinois-change_in_direction.png",
+          "description": "This sign means:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Your license can be suspended if you are under 21 and drive with a blood alcohol level of:",
+        "about": {
+          "@type": "Thing",
+          "name": "Your license can be suspended if you are under 21 and drive with a blood alcohol level of:"
+        },
+        "assesses": "Your license can be suspended if you are under 21 and drive with a blood alcohol level of: | Your license can be suspended if you are under 21 and drive with a blood alcohol level of: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "There is zero tolerance for alcohol use by drivers under age 21. If you are under 21, the detection of any trace of alcohol in your system will result in stiff penalties, including the suspension of your license for two years.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "0.15 percent or more.",
+            "comment": {
+              "@type": "Comment",
+              "text": "0.15 percent or more."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "0.08 percent or more.",
+            "comment": {
+              "@type": "Comment",
+              "text": "0.08 percent or more."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Any amount.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Any amount."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Any amount.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Any amount."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "There is zero tolerance for alcohol use by drivers under age 21. If you are under 21, the detection of any trace of alcohol in your system will result in stiff penalties, including the suspension of your license for two years.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "Your license can be suspended if you are under 21 and drive with a blood alcohol level of: | There is zero tolerance for alcohol use by drivers under age 21. If you are under 21, the detection of any trace of alcohol in your system will result in stiff penalties, including the suspension of your license for two years."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "Your license can be suspended if you are under 21 and drive with a blood alcohol level of: -  Real 2025 DMV Questions ",
+          "targetName": "Your license can be suspended if you are under 21 and drive with a blood alcohol level of:",
+          "targetUrl": "https://www.dmv-written-test.com/question/your-license-can-be-suspended-if-you-are-under-21-and-drive-with-a-blood-alcohol-level-of_YWXbzdXQ.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "Your license can be suspended if you are under 21 and drive with a blood alcohol level of:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "Your license can be suspended if you are under 21 and drive with a blood alcohol level of:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How many alcoholic drinks does it take to affect your driving ability?",
+        "about": {
+          "@type": "Thing",
+          "name": "How many alcoholic drinks does it take to affect your driving ability?"
+        },
+        "assesses": "How many alcoholic drinks does it take to affect your driving ability? | How many alcoholic drinks does it take to affect your driving ability? -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "It is not advisable to drive after drinking any amount of alcohol. Even a single drink will affect your ability to drive safely.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Three",
+            "comment": {
+              "@type": "Comment",
+              "text": "Three"
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Two",
+            "comment": {
+              "@type": "Comment",
+              "text": "Two"
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "One",
+            "comment": {
+              "@type": "Comment",
+              "text": "One"
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "One",
+            "comment": {
+              "@type": "Comment",
+              "text": "One"
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "It is not advisable to drive after drinking any amount of alcohol. Even a single drink will affect your ability to drive safely.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "How many alcoholic drinks does it take to affect your driving ability? | It is not advisable to drive after drinking any amount of alcohol. Even a single drink will affect your ability to drive safely."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "How many alcoholic drinks does it take to affect your driving ability? -  Real 2025 DMV Questions ",
+          "targetName": "How many alcoholic drinks does it take to affect your driving ability?",
+          "targetUrl": "https://www.dmv-written-test.com/question/how-many-alcoholic-drinks-does-it-take-to-affect-your-driving-ability_eOrVYBXQ.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "How many alcoholic drinks does it take to affect your driving ability?",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "How many alcoholic drinks does it take to affect your driving ability?"
+        }
+      }
+    ],
+    "abstract": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>.",
+    "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "assesses": "FREE California Permit Test 19 - Real 2025 DMV Test Questions | The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "url": "https://www.dmv-written-test.com/california/practice-test-19.html",
+    "isPartOf": {
+      "@context": "http://schema.org",
+      "@type": "CreativeWorkSeries",
+      "name": "FREE California Permit Test 19 - Real 2025 DMV Test Questions",
+      "issn": "california/practice-test-19.html",
+      "accessMode": "textOnVisual",
+      "about": {
+        "@type": "Thing",
+        "name": "FREE California Permit Test 19 - Real 2025 DMV Test Questions"
+      },
+      "lastReviewed": "2022-01-07T10:57:08.000000Z",
+      "mainContentOfPage": {
+        "@type": "WebPageElement",
+        "cssSelector": [
+          "#series-description"
+        ]
+      },
+      "aggregateRating": {
+        "@type": "aggregateRating",
+        "ratingValue": "4.4390",
+        "reviewCount": 41,
+        "bestRating": 5,
+        "worstRating": 1
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "author": "DMV Written Test",
+        "name": "2025 California Permit Test 19",
+        "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>."
+      },
+      "significantLink": "https://cheat-sheets.dmv-written-test.com/en/california/car",
+      "specialty": "www.dmv-written-test.com",
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "name": "DMV Written Test",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "DMV Written Test",
+            "url": "https://www.dmv-written-test.com",
+            "item": {
+              "@id": "https://www.dmv-written-test.com",
+              "name": "DMV Written Test"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "california",
+            "url": "https://www.dmv-written-test.com/california",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california",
+              "name": "DMV Written Test 2025 California - DMV Practice Test - Real CA DMV Questions!"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "2025 California Permit Test 19",
+            "url": "https://www.dmv-written-test.com/california/practice-test-19.html",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california/practice-test-19.html",
+              "name": "2025 California Permit Test 19"
+            }
+          }
+        ]
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "xpath": [
+          "/html/head/title",
+          "/html/head/meta[@name='description']/@content"
+        ],
+        "url": "https://www.dmv-written-test.com/california/practice-test-19.html"
+      }
+    },
+    "provider": {
+      "@type": "Organization",
+      "name": "DMV Written Test",
+      "legalName": "Infinity Loop Capital LLC, CORP2000",
+      "slogan": "DMV",
+      "url": "https://www.dmv-written-test.com",
+      "email": "support@dmv-written-test.com",
+      "address": {
+        "@type": "PostalAddress",
+        "name": "Infinity Loop Capital LLC, CORP2000",
+        "addressLocality": "lindengasse 56/2",
+        "addressRegion": "32 West Loockerman Street, Suite 107, 19904 Dover DE"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": " ",
+        "contactType": "customer service"
+      },
+      "logo": {
+        "@type": "ImageObject",
+        "name": "DMV Written Test",
+        "url": "https://www.dmv-written-test.com/images/meta/logo.png",
+        "description": "DMV Written Test"
+      },
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "copyrightYear": "2025",
+    "dateCreated": "2021-11-23T12:41:52.000000Z",
+    "datePublished": "2021-11-23T12:41:52.000000Z",
+    "dateModified": "2022-01-07T10:57:08.000000Z",
+    "learningResourceType": "Car",
+    "educationalUse": "assignment",
+    "interactivityType": "mixed",
+    "accessMode": "textOnVisual",
+    "educationalLevel": "intermediate",
+    "typicalAgeRange": "16-72",
+    "educationalAlignment": {
+      "@type": "AlignmentObject",
+      "alignmentType": "educationalSubject",
+      "educationalFramework": "DMV Written Test",
+      "targetDescription": "DMV Written Test is the best at helping you pass your permit exam.  We only use real DMV questions on our practice tests and cheat sheets!",
+      "targetName": "DMV Written Test - DMV Practice Test 2025 - Real DMV Questions!",
+      "targetUrl": "https://www.dmv-written-test.com"
+    },
+    "image": {
+      "@type": "ImageObject",
+      "author": "DMV Written Test",
+      "name": "DMV Written Test",
+      "url": "https://www.dmv-written-test.com/images/meta/cover-1200x630.png",
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "inLanguage": {
+      "@type": "Language",
+      "name": "English",
+      "alternateName": "en"
+    }
+  }
+]

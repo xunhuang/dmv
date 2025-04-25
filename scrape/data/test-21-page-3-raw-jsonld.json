@@ -1,0 +1,651 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "Quiz",
+    "name": "FREE California Permit Test 21 - Real 2025 DMV Test Questions",
+    "headline": "2025 California Permit Test 21",
+    "alternativeHeadline": "2025 California Permit Test 21 | DMV Written Test",
+    "about": {
+      "@type": "Thing",
+      "name": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car."
+    },
+    "hasPart": [
+      {
+        "@type": "Question",
+        "name": "When driving on a slippery surface, such as snow or ice:",
+        "about": {
+          "@type": "Thing",
+          "name": "When driving on a slippery surface, such as snow or ice:"
+        },
+        "assesses": "When driving on a slippery surface, such as snow or ice: | When driving on a slippery surface, such as snow or ice: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "To prevent skidding on slippery surfaces, you should shift to a low gear before going down a steep hill. You should also follow farther behind the vehicle in front of you than you normally would. Quick stops should be avoided. Unless you have antilock brakes, pump the brakes to slow or stop.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Shift to a low gear before going down steep hills.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Shift to a low gear before going down steep hills."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Maintain traction by following other vehicles closely.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Maintain traction by following other vehicles closely."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Pump your brakes to keep them from freezing.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Pump your brakes to keep them from freezing."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Shift to a low gear before going down steep hills.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Shift to a low gear before going down steep hills."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "To prevent skidding on slippery surfaces, you should shift to a low gear before going down a steep hill. You should also follow farther behind the vehicle in front of you than you normally would. Quick stops should be avoided. Unless you have antilock brakes, pump the brakes to slow or stop.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "When driving on a slippery surface, such as snow or ice: | To prevent skidding on slippery surfaces, you should shift to a low gear before going down a steep hill. You should also follow farther behind the vehicle in front of you than you normally would. Quick stops should be avoided. Unless you have antilock brakes, pump the brakes to slow or stop."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "When driving on a slippery surface, such as snow or ice: -  Real 2025 DMV Questions ",
+          "targetName": "When driving on a slippery surface, such as snow or ice:",
+          "targetUrl": "https://www.dmv-written-test.com/question/when-driving-on-a-slippery-surface-such-as-snow-or-ice_jVP33zPv.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "When driving on a slippery surface, such as snow or ice:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "When driving on a slippery surface, such as snow or ice:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Large trucks turning onto a street with two lanes in each direction:",
+        "about": {
+          "@type": "Thing",
+          "name": "Large trucks turning onto a street with two lanes in each direction:"
+        },
+        "assesses": "Large trucks turning onto a street with two lanes in each direction: | Large trucks turning onto a street with two lanes in each direction: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Large trucks must often swing wide to complete a right turn. A truck making a right turn may initially appear to be turning left because of the need to swing wide. When behind a turning truck, you should pay attention to the truck's turn signal to be aware of which way the trucker actually intends to turn.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "May complete the turn in either of the two lanes.",
+            "comment": {
+              "@type": "Comment",
+              "text": "May complete the turn in either of the two lanes."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Often have to use the left lane to complete the turn.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Often have to use the left lane to complete the turn."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Must stay in the right lane at all times while turning.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Must stay in the right lane at all times while turning."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Often have to use the left lane to complete the turn.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Often have to use the left lane to complete the turn."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Large trucks must often swing wide to complete a right turn. A truck making a right turn may initially appear to be turning left because of the need to swing wide. When behind a turning truck, you should pay attention to the truck's turn signal to be aware of which way the trucker actually intends to turn.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "Large trucks turning onto a street with two lanes in each direction: | Large trucks must often swing wide to complete a right turn. A truck making a right turn may initially appear to be turning left because of the need to swing wide. When behind a turning truck, you should pay attention to the truck's turn signal to be aware of which way the trucker actually intends to turn."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "Large trucks turning onto a street with two lanes in each direction: -  Real 2025 DMV Questions ",
+          "targetName": "Large trucks turning onto a street with two lanes in each direction:",
+          "targetUrl": "https://www.dmv-written-test.com/question/large-trucks-turning-onto-a-street-with-two-lanes-in-each-direction_96XKqePE.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "Large trucks turning onto a street with two lanes in each direction:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "Large trucks turning onto a street with two lanes in each direction:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Unless otherwise posted, the speed limit in a residential area is:",
+        "about": {
+          "@type": "Thing",
+          "name": "Unless otherwise posted, the speed limit in a residential area is:"
+        },
+        "assesses": "Unless otherwise posted, the speed limit in a residential area is: | Unless otherwise posted, the speed limit in a residential area is: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Unless otherwise posted, the speed limit in business and residential districts is 25 mph.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "20 mph.",
+            "comment": {
+              "@type": "Comment",
+              "text": "20 mph."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "25 mph.",
+            "comment": {
+              "@type": "Comment",
+              "text": "25 mph."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "30 mph.",
+            "comment": {
+              "@type": "Comment",
+              "text": "30 mph."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "25 mph.",
+            "comment": {
+              "@type": "Comment",
+              "text": "25 mph."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Unless otherwise posted, the speed limit in business and residential districts is 25 mph.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "Unless otherwise posted, the speed limit in a residential area is: | Unless otherwise posted, the speed limit in business and residential districts is 25 mph."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "Unless otherwise posted, the speed limit in a residential area is: -  Real 2025 DMV Questions ",
+          "targetName": "Unless otherwise posted, the speed limit in a residential area is:",
+          "targetUrl": "https://www.dmv-written-test.com/question/unless-otherwise-posted-the-speed-limit-in-a-residential-area-is_mVyeMoy5.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "Unless otherwise posted, the speed limit in a residential area is:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "Unless otherwise posted, the speed limit in a residential area is:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What does a traffic signal with a yellow left arrow indicate?",
+        "about": {
+          "@type": "Thing",
+          "name": "What does a traffic signal with a yellow left arrow indicate?"
+        },
+        "assesses": "What does a traffic signal with a yellow left arrow indicate? | What does a traffic signal with a yellow left arrow indicate? -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "When a protected turn arrow changes from green to yellow, drivers must prepare to yield to oncoming traffic. A yellow arrow indicates that the protected left turn is ending.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Drivers should prepare to yield to oncoming traffic.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Drivers should prepare to yield to oncoming traffic."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "The protected left turn is about to end.",
+            "comment": {
+              "@type": "Comment",
+              "text": "The protected left turn is about to end."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Both of the above.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Both of the above."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Both of the above.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Both of the above."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "When a protected turn arrow changes from green to yellow, drivers must prepare to yield to oncoming traffic. A yellow arrow indicates that the protected left turn is ending.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "What does a traffic signal with a yellow left arrow indicate? | When a protected turn arrow changes from green to yellow, drivers must prepare to yield to oncoming traffic. A yellow arrow indicates that the protected left turn is ending."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "What does a traffic signal with a yellow left arrow indicate? -  Real 2025 DMV Questions ",
+          "targetName": "What does a traffic signal with a yellow left arrow indicate?",
+          "targetUrl": "https://www.dmv-written-test.com/question/what-does-a-traffic-signal-with-a-yellow-left-arrow-indicate_oOykjAPB.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "What does a traffic signal with a yellow left arrow indicate?",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "What does a traffic signal with a yellow left arrow indicate?"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "When a school bus is picking up or dropping off children, you must:",
+        "about": {
+          "@type": "Thing",
+          "name": "When a school bus is picking up or dropping off children, you must:"
+        },
+        "assesses": "When a school bus is picking up or dropping off children, you must: | When a school bus is picking up or dropping off children, you must: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "When approaching a school bus that is picking up or dropping off passengers, you must come to a complete stop before reaching the bus, regardless of your direction of travel.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Stop, regardless of your direction of travel.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Stop, regardless of your direction of travel."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Stop if you are driving in the same direction.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Stop if you are driving in the same direction."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Slow down and be prepared to stop.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Slow down and be prepared to stop."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Stop, regardless of your direction of travel.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Stop, regardless of your direction of travel."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "When approaching a school bus that is picking up or dropping off passengers, you must come to a complete stop before reaching the bus, regardless of your direction of travel.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "When a school bus is picking up or dropping off children, you must: | When approaching a school bus that is picking up or dropping off passengers, you must come to a complete stop before reaching the bus, regardless of your direction of travel."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "When a school bus is picking up or dropping off children, you must: -  Real 2025 DMV Questions ",
+          "targetName": "When a school bus is picking up or dropping off children, you must:",
+          "targetUrl": "https://www.dmv-written-test.com/question/when-a-school-bus-is-picking-up-or-dropping-off-children-you-must_WZyOL1Xz.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "When a school bus is picking up or dropping off children, you must:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "When a school bus is picking up or dropping off children, you must:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "You should signal at least how many feet before you turn?",
+        "about": {
+          "@type": "Thing",
+          "name": "You should signal at least how many feet before you turn?"
+        },
+        "assesses": "You should signal at least how many feet before you turn? | You should signal at least how many feet before you turn? - Real 2025 DMV Questions",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "You should signal at least 100 feet before you turn, before every lane change, at least five seconds before you change lanes on a freeway, before pulling next to the curb or away from the curb, even when you do not see other vehicles around you, and when you are almost through the intersection if you plan to turn shortly after crossing the intersection. Remember to turn off your signal when you no longer need it.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "50",
+            "comment": {
+              "@type": "Comment",
+              "text": "50"
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "75",
+            "comment": {
+              "@type": "Comment",
+              "text": "75"
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "100",
+            "comment": {
+              "@type": "Comment",
+              "text": "100"
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "100",
+            "comment": {
+              "@type": "Comment",
+              "text": "100"
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "You should signal at least 100 feet before you turn, before every lane change, at least five seconds before you change lanes on a freeway, before pulling next to the curb or away from the curb, even when you do not see other vehicles around you, and when you are almost through the intersection if you plan to turn shortly after crossing the intersection. Remember to turn off your signal when you no longer need it.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "You should signal at least how many feet before you turn? | You should signal at least 100 feet before you turn, before every lane change, at least five seconds before you change lanes on a freeway, before pulling next to the curb or away from the curb, even when you do not see other vehicles around you, and when you are almost through the intersection if you plan to turn shortly after crossing the intersection. Remember to turn off your signal when you no longer need it."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "You should signal at least how many feet before you turn? - Real 2025 DMV Questions",
+          "targetName": "You should signal at least how many feet before you turn?",
+          "targetUrl": "https://www.dmv-written-test.com/question/you-are-about-to-make-a-left-turn-you-must-signal-continuously-during-the-last-feet-before-the-turn_WYPwl9yJ.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "You should signal at least how many feet before you turn?",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "You should signal at least how many feet before you turn?"
+        }
+      }
+    ],
+    "abstract": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>.",
+    "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "assesses": "FREE California Permit Test 21 - Real 2025 DMV Test Questions | The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "url": "https://www.dmv-written-test.com/california/practice-test-21.html",
+    "isPartOf": {
+      "@context": "http://schema.org",
+      "@type": "CreativeWorkSeries",
+      "name": "FREE California Permit Test 21 - Real 2025 DMV Test Questions",
+      "issn": "california/practice-test-21.html",
+      "accessMode": "textOnVisual",
+      "about": {
+        "@type": "Thing",
+        "name": "FREE California Permit Test 21 - Real 2025 DMV Test Questions"
+      },
+      "lastReviewed": "2022-01-07T10:57:08.000000Z",
+      "mainContentOfPage": {
+        "@type": "WebPageElement",
+        "cssSelector": [
+          "#series-description"
+        ]
+      },
+      "aggregateRating": {
+        "@type": "aggregateRating",
+        "ratingValue": "4.5769",
+        "reviewCount": 26,
+        "bestRating": 5,
+        "worstRating": 1
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "author": "DMV Written Test",
+        "name": "2025 California Permit Test 21",
+        "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>."
+      },
+      "significantLink": "https://cheat-sheets.dmv-written-test.com/en/california/car",
+      "specialty": "www.dmv-written-test.com",
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "name": "DMV Written Test",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "DMV Written Test",
+            "url": "https://www.dmv-written-test.com",
+            "item": {
+              "@id": "https://www.dmv-written-test.com",
+              "name": "DMV Written Test"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "california",
+            "url": "https://www.dmv-written-test.com/california",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california",
+              "name": "DMV Written Test 2025 California - DMV Practice Test - Real CA DMV Questions!"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "2025 California Permit Test 21",
+            "url": "https://www.dmv-written-test.com/california/practice-test-21.html",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california/practice-test-21.html",
+              "name": "2025 California Permit Test 21"
+            }
+          }
+        ]
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "xpath": [
+          "/html/head/title",
+          "/html/head/meta[@name='description']/@content"
+        ],
+        "url": "https://www.dmv-written-test.com/california/practice-test-21.html"
+      }
+    },
+    "provider": {
+      "@type": "Organization",
+      "name": "DMV Written Test",
+      "legalName": "Infinity Loop Capital LLC, CORP2000",
+      "slogan": "DMV",
+      "url": "https://www.dmv-written-test.com",
+      "email": "support@dmv-written-test.com",
+      "address": {
+        "@type": "PostalAddress",
+        "name": "Infinity Loop Capital LLC, CORP2000",
+        "addressLocality": "lindengasse 56/2",
+        "addressRegion": "32 West Loockerman Street, Suite 107, 19904 Dover DE"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": " ",
+        "contactType": "customer service"
+      },
+      "logo": {
+        "@type": "ImageObject",
+        "name": "DMV Written Test",
+        "url": "https://www.dmv-written-test.com/images/meta/logo.png",
+        "description": "DMV Written Test"
+      },
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "copyrightYear": "2025",
+    "dateCreated": "2021-11-23T12:41:53.000000Z",
+    "datePublished": "2021-11-23T12:41:53.000000Z",
+    "dateModified": "2022-01-07T10:57:08.000000Z",
+    "learningResourceType": "Car",
+    "educationalUse": "assignment",
+    "interactivityType": "mixed",
+    "accessMode": "textOnVisual",
+    "educationalLevel": "intermediate",
+    "typicalAgeRange": "16-72",
+    "educationalAlignment": {
+      "@type": "AlignmentObject",
+      "alignmentType": "educationalSubject",
+      "educationalFramework": "DMV Written Test",
+      "targetDescription": "DMV Written Test is the best at helping you pass your permit exam.  We only use real DMV questions on our practice tests and cheat sheets!",
+      "targetName": "DMV Written Test - DMV Practice Test 2025 - Real DMV Questions!",
+      "targetUrl": "https://www.dmv-written-test.com"
+    },
+    "image": {
+      "@type": "ImageObject",
+      "author": "DMV Written Test",
+      "name": "DMV Written Test",
+      "url": "https://www.dmv-written-test.com/images/meta/cover-1200x630.png",
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "inLanguage": {
+      "@type": "Language",
+      "name": "English",
+      "alternateName": "en"
+    }
+  }
+]

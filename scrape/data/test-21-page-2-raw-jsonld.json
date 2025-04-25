@@ -1,0 +1,651 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "Quiz",
+    "name": "FREE California Permit Test 21 - Real 2025 DMV Test Questions",
+    "headline": "2025 California Permit Test 21",
+    "alternativeHeadline": "2025 California Permit Test 21 | DMV Written Test",
+    "about": {
+      "@type": "Thing",
+      "name": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car."
+    },
+    "hasPart": [
+      {
+        "@type": "Question",
+        "name": "Driving more slowly than surrounding traffic is:",
+        "about": {
+          "@type": "Thing",
+          "name": "Driving more slowly than surrounding traffic is:"
+        },
+        "assesses": "Driving more slowly than surrounding traffic is: | Driving more slowly than surrounding traffic is: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Driving more slowly than other traffic can be dangerous. Drivers behind you may become impatient and will be tempted to take dangerous risks to pass you.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "A good idea if the weather is bad.",
+            "comment": {
+              "@type": "Comment",
+              "text": "A good idea if the weather is bad."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Appropriate if you don’t know the speed limit.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Appropriate if you don’t know the speed limit."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Often a hazard because other drivers may become frustrated and try to pass you.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Often a hazard because other drivers may become frustrated and try to pass you."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Often a hazard because other drivers may become frustrated and try to pass you.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Often a hazard because other drivers may become frustrated and try to pass you."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Driving more slowly than other traffic can be dangerous. Drivers behind you may become impatient and will be tempted to take dangerous risks to pass you.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "Driving more slowly than surrounding traffic is: | Driving more slowly than other traffic can be dangerous. Drivers behind you may become impatient and will be tempted to take dangerous risks to pass you."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "Driving more slowly than surrounding traffic is: -  Real 2025 DMV Questions ",
+          "targetName": "Driving more slowly than surrounding traffic is:",
+          "targetUrl": "https://www.dmv-written-test.com/question/driving-more-slowly-than-surrounding-traffic-is_YWXbw9rQ.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "Driving more slowly than surrounding traffic is:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "Driving more slowly than surrounding traffic is:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Motorcycles, scooters, and mopeds are not easy to see; therefore, you should:",
+        "about": {
+          "@type": "Thing",
+          "name": "Motorcycles, scooters, and mopeds are not easy to see; therefore, you should:"
+        },
+        "assesses": "Motorcycles, scooters, and mopeds are not easy to see; therefore, you should: | Motorcycles, scooters, and mopeds are not easy to see; therefore, you should: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Motorcycles can be easily hidden in a vehicle’s blind spot or missed in a quick look due to their small size. Drivers of cars must always be alert and looking for motorcycles, mopeds, and scooters.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Slow down when driving.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Slow down when driving."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Make constant visual checks.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Make constant visual checks."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Share a lane with a motorcycle.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Share a lane with a motorcycle."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Make constant visual checks.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Make constant visual checks."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Motorcycles can be easily hidden in a vehicle’s blind spot or missed in a quick look due to their small size. Drivers of cars must always be alert and looking for motorcycles, mopeds, and scooters.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "Motorcycles, scooters, and mopeds are not easy to see; therefore, you should: | Motorcycles can be easily hidden in a vehicle’s blind spot or missed in a quick look due to their small size. Drivers of cars must always be alert and looking for motorcycles, mopeds, and scooters."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "Motorcycles, scooters, and mopeds are not easy to see; therefore, you should: -  Real 2025 DMV Questions ",
+          "targetName": "Motorcycles, scooters, and mopeds are not easy to see; therefore, you should:",
+          "targetUrl": "https://www.dmv-written-test.com/question/motorcycles-scooters-and-mopeds-are-not-easy-to-see-therefore-you-should_Y5y9wnrZ.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "Motorcycles, scooters, and mopeds are not easy to see; therefore, you should:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "Motorcycles, scooters, and mopeds are not easy to see; therefore, you should:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "If it is necessary to make an emergency stop while driving on an interstate, you should:",
+        "about": {
+          "@type": "Thing",
+          "name": "If it is necessary to make an emergency stop while driving on an interstate, you should:"
+        },
+        "assesses": "If it is necessary to make an emergency stop while driving on an interstate, you should: | If it is necessary to make an emergency stop while driving on an interstate, you should: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "If you must stop on the shoulder of the interstate or highway, turn on your emergency flashers to warn other drivers and stay inside your vehicle, if you can. The extremely high speed of traffic makes standing or walking along an interstate highway very dangerous.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Sound your horn at passing cars to get their attention.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Sound your horn at passing cars to get their attention."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Get out of your vehicle and flag down the first vehicle that passes.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Get out of your vehicle and flag down the first vehicle that passes."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Pull off the road, turn on your emergency flashers, and stay in your vehicle, if you can.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Pull off the road, turn on your emergency flashers, and stay in your vehicle, if you can."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Pull off the road, turn on your emergency flashers, and stay in your vehicle, if you can.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Pull off the road, turn on your emergency flashers, and stay in your vehicle, if you can."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "If you must stop on the shoulder of the interstate or highway, turn on your emergency flashers to warn other drivers and stay inside your vehicle, if you can. The extremely high speed of traffic makes standing or walking along an interstate highway very dangerous.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "If it is necessary to make an emergency stop while driving on an interstate, you should: | If you must stop on the shoulder of the interstate or highway, turn on your emergency flashers to warn other drivers and stay inside your vehicle, if you can. The extremely high speed of traffic makes standing or walking along an interstate highway very dangerous."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "If it is necessary to make an emergency stop while driving on an interstate, you should: -  Real 2025 DMV Questions ",
+          "targetName": "If it is necessary to make an emergency stop while driving on an interstate, you should:",
+          "targetUrl": "https://www.dmv-written-test.com/question/if-it-is-necessary-to-make-an-emergency-stop-while-driving-on-an-interstate-you-should_eOrVA4XQ.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "If it is necessary to make an emergency stop while driving on an interstate, you should:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "If it is necessary to make an emergency stop while driving on an interstate, you should:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "This sign means:",
+        "about": {
+          "@type": "Thing",
+          "name": "This sign means:"
+        },
+        "assesses": "This sign means: | This sign means: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images-car/california-two_way_traffic.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Warning signs are usually yellow with black markings. They alert you to conditions that are immediately ahead. This sign warns that you are leaving a separated one-way highway and will soon be driving on a two-way highway.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Four-lane traffic ahead.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Four-lane traffic ahead."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Divided highway ahead.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Divided highway ahead."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Two-way traffic ahead.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Two-way traffic ahead."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Two-way traffic ahead.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Two-way traffic ahead."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Warning signs are usually yellow with black markings. They alert you to conditions that are immediately ahead. This sign warns that you are leaving a separated one-way highway and will soon be driving on a two-way highway.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "This sign means: | Warning signs are usually yellow with black markings. They alert you to conditions that are immediately ahead. This sign warns that you are leaving a separated one-way highway and will soon be driving on a two-way highway."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "This sign means: -  Real 2025 DMV Questions ",
+          "targetName": "This sign means:",
+          "targetUrl": "https://www.dmv-written-test.com/question/this-sign-means_oOykzbPB.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "This sign means:",
+          "url": "https://www.dmv-written-test.com/images-car/california-two_way_traffic.png",
+          "description": "This sign means:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "You are driving in the far right lane of a four-lane freeway and notice thick broken white lines on the left side of your lane. You are driving in:",
+        "about": {
+          "@type": "Thing",
+          "name": "You are driving in the far right lane of a four-lane freeway and notice thick broken white lines on the left side of your lane. You are driving in:"
+        },
+        "assesses": "You are driving in the far right lane of a four-lane freeway and notice thick broken white lines on the left side of your lane. You are driving in: | You are driving in the far right lane of a four-lane freeway and notice thick broken white lines on the left side of your lane. You are driving in: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Freeway lanes that are ending will usually be marked by large broken lines painted on the pavement. If you are driving in a lane marked with these broken lines, be prepared to exit the freeway or for the lane to end.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "The carpool lane and must merge into the next lane.",
+            "comment": {
+              "@type": "Comment",
+              "text": "The carpool lane and must merge into the next lane."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "A special lane for slow-moving vehicles.",
+            "comment": {
+              "@type": "Comment",
+              "text": "A special lane for slow-moving vehicles."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "An exit lane.",
+            "comment": {
+              "@type": "Comment",
+              "text": "An exit lane."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "An exit lane.",
+            "comment": {
+              "@type": "Comment",
+              "text": "An exit lane."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Freeway lanes that are ending will usually be marked by large broken lines painted on the pavement. If you are driving in a lane marked with these broken lines, be prepared to exit the freeway or for the lane to end.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "You are driving in the far right lane of a four-lane freeway and notice thick broken white lines on the left side of your lane. You are driving in: | Freeway lanes that are ending will usually be marked by large broken lines painted on the pavement. If you are driving in a lane marked with these broken lines, be prepared to exit the freeway or for the lane to end."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "You are driving in the far right lane of a four-lane freeway and notice thick broken white lines on the left side of your lane. You are driving in: -  Real 2025 DMV Questions ",
+          "targetName": "You are driving in the far right lane of a four-lane freeway and notice thick broken white lines on the left side of your lane. You are driving in:",
+          "targetUrl": "https://www.dmv-written-test.com/question/you-are-driving-in-the-far-right-lane-of-a-four-lane-freeway-and-notice-thick-broken-white-lines-on-the-left-side-of-your-lane-you-are-driving-in_23XMeLXz.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "You are driving in the far right lane of a four-lane freeway and notice thick broken white lines on the left side of your lane. You are driving in:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "You are driving in the far right lane of a four-lane freeway and notice thick broken white lines on the left side of your lane. You are driving in:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "An orange-colored sign like this means:",
+        "about": {
+          "@type": "Thing",
+          "name": "An orange-colored sign like this means:"
+        },
+        "assesses": "An orange-colored sign like this means: | An orange-colored sign like this means: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images-car/california-shoulder_work_ahead.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Orange-colored signs indicate construction areas. Proceed with caution.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "There is roadwork ahead.",
+            "comment": {
+              "@type": "Comment",
+              "text": "There is roadwork ahead."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "You must change lanes ahead.",
+            "comment": {
+              "@type": "Comment",
+              "text": "You must change lanes ahead."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "There is a detour ahead.",
+            "comment": {
+              "@type": "Comment",
+              "text": "There is a detour ahead."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "There is roadwork ahead.",
+            "comment": {
+              "@type": "Comment",
+              "text": "There is roadwork ahead."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Orange-colored signs indicate construction areas. Proceed with caution.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "An orange-colored sign like this means: | Orange-colored signs indicate construction areas. Proceed with caution."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "An orange-colored sign like this means: -  Real 2025 DMV Questions ",
+          "targetName": "An orange-colored sign like this means:",
+          "targetUrl": "https://www.dmv-written-test.com/question/an-orange-colored-sign-like-this-means_ElPZd5X2.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "An orange-colored sign like this means:",
+          "url": "https://www.dmv-written-test.com/images-car/california-shoulder_work_ahead.png",
+          "description": "An orange-colored sign like this means:"
+        }
+      }
+    ],
+    "abstract": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>.",
+    "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "assesses": "FREE California Permit Test 21 - Real 2025 DMV Test Questions | The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "url": "https://www.dmv-written-test.com/california/practice-test-21.html",
+    "isPartOf": {
+      "@context": "http://schema.org",
+      "@type": "CreativeWorkSeries",
+      "name": "FREE California Permit Test 21 - Real 2025 DMV Test Questions",
+      "issn": "california/practice-test-21.html",
+      "accessMode": "textOnVisual",
+      "about": {
+        "@type": "Thing",
+        "name": "FREE California Permit Test 21 - Real 2025 DMV Test Questions"
+      },
+      "lastReviewed": "2022-01-07T10:57:08.000000Z",
+      "mainContentOfPage": {
+        "@type": "WebPageElement",
+        "cssSelector": [
+          "#series-description"
+        ]
+      },
+      "aggregateRating": {
+        "@type": "aggregateRating",
+        "ratingValue": "4.5769",
+        "reviewCount": 26,
+        "bestRating": 5,
+        "worstRating": 1
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "author": "DMV Written Test",
+        "name": "2025 California Permit Test 21",
+        "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>."
+      },
+      "significantLink": "https://cheat-sheets.dmv-written-test.com/en/california/car",
+      "specialty": "www.dmv-written-test.com",
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "name": "DMV Written Test",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "DMV Written Test",
+            "url": "https://www.dmv-written-test.com",
+            "item": {
+              "@id": "https://www.dmv-written-test.com",
+              "name": "DMV Written Test"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "california",
+            "url": "https://www.dmv-written-test.com/california",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california",
+              "name": "DMV Written Test 2025 California - DMV Practice Test - Real CA DMV Questions!"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "2025 California Permit Test 21",
+            "url": "https://www.dmv-written-test.com/california/practice-test-21.html",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california/practice-test-21.html",
+              "name": "2025 California Permit Test 21"
+            }
+          }
+        ]
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "xpath": [
+          "/html/head/title",
+          "/html/head/meta[@name='description']/@content"
+        ],
+        "url": "https://www.dmv-written-test.com/california/practice-test-21.html"
+      }
+    },
+    "provider": {
+      "@type": "Organization",
+      "name": "DMV Written Test",
+      "legalName": "Infinity Loop Capital LLC, CORP2000",
+      "slogan": "DMV",
+      "url": "https://www.dmv-written-test.com",
+      "email": "support@dmv-written-test.com",
+      "address": {
+        "@type": "PostalAddress",
+        "name": "Infinity Loop Capital LLC, CORP2000",
+        "addressLocality": "lindengasse 56/2",
+        "addressRegion": "32 West Loockerman Street, Suite 107, 19904 Dover DE"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": " ",
+        "contactType": "customer service"
+      },
+      "logo": {
+        "@type": "ImageObject",
+        "name": "DMV Written Test",
+        "url": "https://www.dmv-written-test.com/images/meta/logo.png",
+        "description": "DMV Written Test"
+      },
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "copyrightYear": "2025",
+    "dateCreated": "2021-11-23T12:41:53.000000Z",
+    "datePublished": "2021-11-23T12:41:53.000000Z",
+    "dateModified": "2022-01-07T10:57:08.000000Z",
+    "learningResourceType": "Car",
+    "educationalUse": "assignment",
+    "interactivityType": "mixed",
+    "accessMode": "textOnVisual",
+    "educationalLevel": "intermediate",
+    "typicalAgeRange": "16-72",
+    "educationalAlignment": {
+      "@type": "AlignmentObject",
+      "alignmentType": "educationalSubject",
+      "educationalFramework": "DMV Written Test",
+      "targetDescription": "DMV Written Test is the best at helping you pass your permit exam.  We only use real DMV questions on our practice tests and cheat sheets!",
+      "targetName": "DMV Written Test - DMV Practice Test 2025 - Real DMV Questions!",
+      "targetUrl": "https://www.dmv-written-test.com"
+    },
+    "image": {
+      "@type": "ImageObject",
+      "author": "DMV Written Test",
+      "name": "DMV Written Test",
+      "url": "https://www.dmv-written-test.com/images/meta/cover-1200x630.png",
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "inLanguage": {
+      "@type": "Language",
+      "name": "English",
+      "alternateName": "en"
+    }
+  }
+]

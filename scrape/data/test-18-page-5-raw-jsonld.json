@@ -1,0 +1,651 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "Quiz",
+    "name": "FREE California Permit Test 18 - Real 2025 DMV Test Questions",
+    "headline": "2025 California Permit Test 18",
+    "alternativeHeadline": "2025 California Permit Test 18 | DMV Written Test",
+    "about": {
+      "@type": "Thing",
+      "name": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car."
+    },
+    "hasPart": [
+      {
+        "@type": "Question",
+        "name": "Never make a U-turn:",
+        "about": {
+          "@type": "Thing",
+          "name": "Never make a U-turn:"
+        },
+        "assesses": "Never make a U-turn: | Never make a U-turn: - Real 2025 DMV Questions",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Never make a U-turn where a No U-turn sign is posted, at or on a railroad crossing, on a divided highway by crossing a dividing section, curb, strip of land, or two sets of double yellow lines, when you cannot see clearly for 200 feet in each direction, on a one-way street, in front of a fire station, never use a fire station driveway to turn around, in business districts (the part of a city or town where most offices and businesses are).",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "in residential districts.",
+            "comment": {
+              "@type": "Comment",
+              "text": "in residential districts."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "at or on a railroad crossing.",
+            "comment": {
+              "@type": "Comment",
+              "text": "at or on a railroad crossing."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "where there isn't a \"No U-turn\" sign posted.",
+            "comment": {
+              "@type": "Comment",
+              "text": "where there isn't a \"No U-turn\" sign posted."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "at or on a railroad crossing.",
+            "comment": {
+              "@type": "Comment",
+              "text": "at or on a railroad crossing."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Never make a U-turn where a No U-turn sign is posted, at or on a railroad crossing, on a divided highway by crossing a dividing section, curb, strip of land, or two sets of double yellow lines, when you cannot see clearly for 200 feet in each direction, on a one-way street, in front of a fire station, never use a fire station driveway to turn around, in business districts (the part of a city or town where most offices and businesses are).",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "Never make a U-turn: | Never make a U-turn where a No U-turn sign is posted, at or on a railroad crossing, on a divided highway by crossing a dividing section, curb, strip of land, or two sets of double yellow lines, when you cannot see clearly for 200 feet in each direction, on a one-way street, in front of a fire station, never use a fire station driveway to turn around, in business districts (the part of a city or town where most offices and businesses are)."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "Never make a U-turn: - Real 2025 DMV Questions",
+          "targetName": "Never make a U-turn:",
+          "targetUrl": "https://www.dmv-written-test.com/question/u-turns-in-residential-districts-are-legal_9nrDYGPA.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "Never make a U-turn:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "Never make a U-turn:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "A solid yellow line on your side of the centerline means:",
+        "about": {
+          "@type": "Thing",
+          "name": "A solid yellow line on your side of the centerline means:"
+        },
+        "assesses": "A solid yellow line on your side of the centerline means: | A solid yellow line on your side of the centerline means: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Solid yellow lines on two-lane roads indicate zones where passing is prohibited. If a solid yellow line appears next to a broken yellow line, drivers in the lane nearest to the solid yellow line may not pass. In some instances, both yellow lines will be solid, indicating that it is not safe to pass from either direction.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Reduce your speed.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Reduce your speed."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Traffic light ahead.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Traffic light ahead."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Do not pass.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Do not pass."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Do not pass.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Do not pass."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Solid yellow lines on two-lane roads indicate zones where passing is prohibited. If a solid yellow line appears next to a broken yellow line, drivers in the lane nearest to the solid yellow line may not pass. In some instances, both yellow lines will be solid, indicating that it is not safe to pass from either direction.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "A solid yellow line on your side of the centerline means: | Solid yellow lines on two-lane roads indicate zones where passing is prohibited. If a solid yellow line appears next to a broken yellow line, drivers in the lane nearest to the solid yellow line may not pass. In some instances, both yellow lines will be solid, indicating that it is not safe to pass from either direction."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "A solid yellow line on your side of the centerline means: -  Real 2025 DMV Questions ",
+          "targetName": "A solid yellow line on your side of the centerline means:",
+          "targetUrl": "https://www.dmv-written-test.com/question/a-solid-yellow-line-on-your-side-of-the-centerline-means_V0yq0DPO.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "A solid yellow line on your side of the centerline means:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "A solid yellow line on your side of the centerline means:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What usually causes a locked wheel skid?",
+        "about": {
+          "@type": "Thing",
+          "name": "What usually causes a locked wheel skid?"
+        },
+        "assesses": "What usually causes a locked wheel skid? | What usually causes a locked wheel skid? -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "A locked wheel skid is most commonly caused by a driver braking too hard while traveling at a high speed. Drivers should use their brakes smoothly and gradually.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Braking too hard at a slow speed",
+            "comment": {
+              "@type": "Comment",
+              "text": "Braking too hard at a slow speed"
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Braking lightly at a slow speed",
+            "comment": {
+              "@type": "Comment",
+              "text": "Braking lightly at a slow speed"
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Braking too hard at a fast speed",
+            "comment": {
+              "@type": "Comment",
+              "text": "Braking too hard at a fast speed"
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Braking too hard at a fast speed",
+            "comment": {
+              "@type": "Comment",
+              "text": "Braking too hard at a fast speed"
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "A locked wheel skid is most commonly caused by a driver braking too hard while traveling at a high speed. Drivers should use their brakes smoothly and gradually.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "What usually causes a locked wheel skid? | A locked wheel skid is most commonly caused by a driver braking too hard while traveling at a high speed. Drivers should use their brakes smoothly and gradually."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "What usually causes a locked wheel skid? -  Real 2025 DMV Questions ",
+          "targetName": "What usually causes a locked wheel skid?",
+          "targetUrl": "https://www.dmv-written-test.com/question/what-usually-causes-a-locked-wheel-skid_3PGq7wXk.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "What usually causes a locked wheel skid?",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "What usually causes a locked wheel skid?"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "If you are driving and the rear end of your car starts skidding to the left, you should:",
+        "about": {
+          "@type": "Thing",
+          "name": "If you are driving and the rear end of your car starts skidding to the left, you should:"
+        },
+        "assesses": "If you are driving and the rear end of your car starts skidding to the left, you should: | If you are driving and the rear end of your car starts skidding to the left, you should: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "If your vehicle enters a skid, you should take your foot off of the brake and steer in the direction that you want to go. For example, if the rear of your vehicle is skidding to the left, you should steer to the left. This will help bring the front of the vehicle in line with the rear, thereby straightening out the vehicle's overall direction.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Steer to the right.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Steer to the right."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Steer to the left.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Steer to the left."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Tap your brakes lightly and shift into neutral.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Tap your brakes lightly and shift into neutral."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Steer to the left.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Steer to the left."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "If your vehicle enters a skid, you should take your foot off of the brake and steer in the direction that you want to go. For example, if the rear of your vehicle is skidding to the left, you should steer to the left. This will help bring the front of the vehicle in line with the rear, thereby straightening out the vehicle's overall direction.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "If you are driving and the rear end of your car starts skidding to the left, you should: | If your vehicle enters a skid, you should take your foot off of the brake and steer in the direction that you want to go. For example, if the rear of your vehicle is skidding to the left, you should steer to the left. This will help bring the front of the vehicle in line with the rear, thereby straightening out the vehicle's overall direction."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "If you are driving and the rear end of your car starts skidding to the left, you should: -  Real 2025 DMV Questions ",
+          "targetName": "If you are driving and the rear end of your car starts skidding to the left, you should:",
+          "targetUrl": "https://www.dmv-written-test.com/question/if-you-are-driving-and-the-rear-end-of-your-car-starts-skidding-to-the-left-you-should_LMPnR2PR.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "If you are driving and the rear end of your car starts skidding to the left, you should:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "If you are driving and the rear end of your car starts skidding to the left, you should:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Broken yellow lines are used on streets and highways to:",
+        "about": {
+          "@type": "Thing",
+          "name": "Broken yellow lines are used on streets and highways to:"
+        },
+        "assesses": "Broken yellow lines are used on streets and highways to: | Broken yellow lines are used on streets and highways to: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Yellow lines separate traffic moving in opposite directions. Dashed lines on the pavement indicate that passing is permitted when safe.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Indicate no passing zones.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Indicate no passing zones."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Separate lanes of traffic moving in the same direction.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Separate lanes of traffic moving in the same direction."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Separate lanes of traffic moving in opposite directions. ",
+            "comment": {
+              "@type": "Comment",
+              "text": "Separate lanes of traffic moving in opposite directions. "
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Separate lanes of traffic moving in opposite directions. ",
+            "comment": {
+              "@type": "Comment",
+              "text": "Separate lanes of traffic moving in opposite directions. "
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Yellow lines separate traffic moving in opposite directions. Dashed lines on the pavement indicate that passing is permitted when safe.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "Broken yellow lines are used on streets and highways to: | Yellow lines separate traffic moving in opposite directions. Dashed lines on the pavement indicate that passing is permitted when safe."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "Broken yellow lines are used on streets and highways to: -  Real 2025 DMV Questions ",
+          "targetName": "Broken yellow lines are used on streets and highways to:",
+          "targetUrl": "https://www.dmv-written-test.com/question/broken-yellow-lines-are-used-on-streets-and-highways-to_ElPZxqX2.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "Broken yellow lines are used on streets and highways to:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "Broken yellow lines are used on streets and highways to:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "At intersections with a \"Yield\" sign, you must:",
+        "about": {
+          "@type": "Thing",
+          "name": "At intersections with a \"Yield\" sign, you must:"
+        },
+        "assesses": "At intersections with a \"Yield\" sign, you must: | At intersections with a \"Yield\" sign, you must: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "At a yield sign, you must slow down or stop, if necessary, and give the right-of-way to crossing or merging vehicles. Yield the right-of-way to any cross traffic that is close enough to cause conflict.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Yield the right-of-way to cross traffic that is near enough to cause conflict.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Yield the right-of-way to cross traffic that is near enough to cause conflict."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Yield the right-of-way only to vehicles on your right.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Yield the right-of-way only to vehicles on your right."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Always slow down and proceed without stopping.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Always slow down and proceed without stopping."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Yield the right-of-way to cross traffic that is near enough to cause conflict.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Yield the right-of-way to cross traffic that is near enough to cause conflict."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "At a yield sign, you must slow down or stop, if necessary, and give the right-of-way to crossing or merging vehicles. Yield the right-of-way to any cross traffic that is close enough to cause conflict.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "At intersections with a \"Yield\" sign, you must: | At a yield sign, you must slow down or stop, if necessary, and give the right-of-way to crossing or merging vehicles. Yield the right-of-way to any cross traffic that is close enough to cause conflict."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "At intersections with a \"Yield\" sign, you must: -  Real 2025 DMV Questions ",
+          "targetName": "At intersections with a \"Yield\" sign, you must:",
+          "targetUrl": "https://www.dmv-written-test.com/question/at-intersections-with-a-yield-sign-you-must_WaXWwkXk.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "At intersections with a \"Yield\" sign, you must:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "At intersections with a \"Yield\" sign, you must:"
+        }
+      }
+    ],
+    "abstract": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>.",
+    "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "assesses": "FREE California Permit Test 18 - Real 2025 DMV Test Questions | The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "url": "https://www.dmv-written-test.com/california/practice-test-18.html",
+    "isPartOf": {
+      "@context": "http://schema.org",
+      "@type": "CreativeWorkSeries",
+      "name": "FREE California Permit Test 18 - Real 2025 DMV Test Questions",
+      "issn": "california/practice-test-18.html",
+      "accessMode": "textOnVisual",
+      "about": {
+        "@type": "Thing",
+        "name": "FREE California Permit Test 18 - Real 2025 DMV Test Questions"
+      },
+      "lastReviewed": "2022-01-07T10:57:08.000000Z",
+      "mainContentOfPage": {
+        "@type": "WebPageElement",
+        "cssSelector": [
+          "#series-description"
+        ]
+      },
+      "aggregateRating": {
+        "@type": "aggregateRating",
+        "ratingValue": "4.5000",
+        "reviewCount": 50,
+        "bestRating": 5,
+        "worstRating": 1
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "author": "DMV Written Test",
+        "name": "2025 California Permit Test 18",
+        "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>."
+      },
+      "significantLink": "https://cheat-sheets.dmv-written-test.com/en/california/car",
+      "specialty": "www.dmv-written-test.com",
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "name": "DMV Written Test",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "DMV Written Test",
+            "url": "https://www.dmv-written-test.com",
+            "item": {
+              "@id": "https://www.dmv-written-test.com",
+              "name": "DMV Written Test"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "california",
+            "url": "https://www.dmv-written-test.com/california",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california",
+              "name": "DMV Written Test 2025 California - DMV Practice Test - Real CA DMV Questions!"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "2025 California Permit Test 18",
+            "url": "https://www.dmv-written-test.com/california/practice-test-18.html",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california/practice-test-18.html",
+              "name": "2025 California Permit Test 18"
+            }
+          }
+        ]
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "xpath": [
+          "/html/head/title",
+          "/html/head/meta[@name='description']/@content"
+        ],
+        "url": "https://www.dmv-written-test.com/california/practice-test-18.html"
+      }
+    },
+    "provider": {
+      "@type": "Organization",
+      "name": "DMV Written Test",
+      "legalName": "Infinity Loop Capital LLC, CORP2000",
+      "slogan": "DMV",
+      "url": "https://www.dmv-written-test.com",
+      "email": "support@dmv-written-test.com",
+      "address": {
+        "@type": "PostalAddress",
+        "name": "Infinity Loop Capital LLC, CORP2000",
+        "addressLocality": "lindengasse 56/2",
+        "addressRegion": "32 West Loockerman Street, Suite 107, 19904 Dover DE"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": " ",
+        "contactType": "customer service"
+      },
+      "logo": {
+        "@type": "ImageObject",
+        "name": "DMV Written Test",
+        "url": "https://www.dmv-written-test.com/images/meta/logo.png",
+        "description": "DMV Written Test"
+      },
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "copyrightYear": "2025",
+    "dateCreated": "2021-11-23T12:41:51.000000Z",
+    "datePublished": "2021-11-23T12:41:51.000000Z",
+    "dateModified": "2022-01-07T10:57:08.000000Z",
+    "learningResourceType": "Car",
+    "educationalUse": "assignment",
+    "interactivityType": "mixed",
+    "accessMode": "textOnVisual",
+    "educationalLevel": "intermediate",
+    "typicalAgeRange": "16-72",
+    "educationalAlignment": {
+      "@type": "AlignmentObject",
+      "alignmentType": "educationalSubject",
+      "educationalFramework": "DMV Written Test",
+      "targetDescription": "DMV Written Test is the best at helping you pass your permit exam.  We only use real DMV questions on our practice tests and cheat sheets!",
+      "targetName": "DMV Written Test - DMV Practice Test 2025 - Real DMV Questions!",
+      "targetUrl": "https://www.dmv-written-test.com"
+    },
+    "image": {
+      "@type": "ImageObject",
+      "author": "DMV Written Test",
+      "name": "DMV Written Test",
+      "url": "https://www.dmv-written-test.com/images/meta/cover-1200x630.png",
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "inLanguage": {
+      "@type": "Language",
+      "name": "English",
+      "alternateName": "en"
+    }
+  }
+]

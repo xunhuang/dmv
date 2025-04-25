@@ -1,0 +1,651 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "Quiz",
+    "name": "FREE California Permit Test 19 - Real 2025 DMV Test Questions",
+    "headline": "2025 California Permit Test 19",
+    "alternativeHeadline": "2025 California Permit Test 19 | DMV Written Test",
+    "about": {
+      "@type": "Thing",
+      "name": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car."
+    },
+    "hasPart": [
+      {
+        "@type": "Question",
+        "name": "It is against the law to enter an intersection when:",
+        "about": {
+          "@type": "Thing",
+          "name": "It is against the law to enter an intersection when:"
+        },
+        "assesses": "It is against the law to enter an intersection when: | It is against the law to enter an intersection when: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Do not enter an intersection if you cannot get completely across before the traffic signal light turns red. If you block the intersection, you can be cited.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "You can't get all the way across before the light turns red.",
+            "comment": {
+              "@type": "Comment",
+              "text": "You can't get all the way across before the light turns red."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "The light is flashing yellow and you didn't stop first.",
+            "comment": {
+              "@type": "Comment",
+              "text": "The light is flashing yellow and you didn't stop first."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "The light is yellow and you cannot stop safely.",
+            "comment": {
+              "@type": "Comment",
+              "text": "The light is yellow and you cannot stop safely."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "You can't get all the way across before the light turns red.",
+            "comment": {
+              "@type": "Comment",
+              "text": "You can't get all the way across before the light turns red."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Do not enter an intersection if you cannot get completely across before the traffic signal light turns red. If you block the intersection, you can be cited.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "It is against the law to enter an intersection when: | Do not enter an intersection if you cannot get completely across before the traffic signal light turns red. If you block the intersection, you can be cited."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "It is against the law to enter an intersection when: -  Real 2025 DMV Questions ",
+          "targetName": "It is against the law to enter an intersection when:",
+          "targetUrl": "https://www.dmv-written-test.com/question/it-is-against-the-law-to-enter-an-intersection-when_YWXbK9rQ.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "It is against the law to enter an intersection when:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "It is against the law to enter an intersection when:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Which of the following road surfaces freezes first?",
+        "about": {
+          "@type": "Thing",
+          "name": "Which of the following road surfaces freezes first?"
+        },
+        "assesses": "Which of the following road surfaces freezes first? | Which of the following road surfaces freezes first? -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Pavement on bridges and overpasses can become icy even when other surrounding pavement is dry. Bridges often freeze before, and thaw out after, the rest of a road.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "A tunnel",
+            "comment": {
+              "@type": "Comment",
+              "text": "A tunnel"
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "An intersection",
+            "comment": {
+              "@type": "Comment",
+              "text": "An intersection"
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "A bridge",
+            "comment": {
+              "@type": "Comment",
+              "text": "A bridge"
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "A bridge",
+            "comment": {
+              "@type": "Comment",
+              "text": "A bridge"
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Pavement on bridges and overpasses can become icy even when other surrounding pavement is dry. Bridges often freeze before, and thaw out after, the rest of a road.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "Which of the following road surfaces freezes first? | Pavement on bridges and overpasses can become icy even when other surrounding pavement is dry. Bridges often freeze before, and thaw out after, the rest of a road."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "Which of the following road surfaces freezes first? -  Real 2025 DMV Questions ",
+          "targetName": "Which of the following road surfaces freezes first?",
+          "targetUrl": "https://www.dmv-written-test.com/question/which-of-the-following-road-surfaces-freezes-first_WX4NNVPw.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "Which of the following road surfaces freezes first?",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "Which of the following road surfaces freezes first?"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "When passing a row of parked vehicles, you should:",
+        "about": {
+          "@type": "Thing",
+          "name": "When passing a row of parked vehicles, you should:"
+        },
+        "assesses": "When passing a row of parked vehicles, you should: | When passing a row of parked vehicles, you should: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Keep a space between your vehicle and parked vehicles. A person may step out of a parked vehicle or out from between the parked vehicles without looking. A driver may begin moving their vehicle before realizing you are there.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Be prepared for a person or vehicle to unexpectedly enter your lane.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Be prepared for a person or vehicle to unexpectedly enter your lane."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Expect all other drivers and pedestrians to respect your right-of-way.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Expect all other drivers and pedestrians to respect your right-of-way."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Drive closely to the parked vehicles to allow more room for moving traffic.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Drive closely to the parked vehicles to allow more room for moving traffic."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Be prepared for a person or vehicle to unexpectedly enter your lane.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Be prepared for a person or vehicle to unexpectedly enter your lane."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Keep a space between your vehicle and parked vehicles. A person may step out of a parked vehicle or out from between the parked vehicles without looking. A driver may begin moving their vehicle before realizing you are there.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "When passing a row of parked vehicles, you should: | Keep a space between your vehicle and parked vehicles. A person may step out of a parked vehicle or out from between the parked vehicles without looking. A driver may begin moving their vehicle before realizing you are there."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "When passing a row of parked vehicles, you should: -  Real 2025 DMV Questions ",
+          "targetName": "When passing a row of parked vehicles, you should:",
+          "targetUrl": "https://www.dmv-written-test.com/question/when-passing-a-row-of-parked-vehicles-you-should_6XKgNeXE.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "When passing a row of parked vehicles, you should:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "When passing a row of parked vehicles, you should:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "If you pass a school bus that is stopped with its red lights flashing, you will:",
+        "about": {
+          "@type": "Thing",
+          "name": "If you pass a school bus that is stopped with its red lights flashing, you will:"
+        },
+        "assesses": "If you pass a school bus that is stopped with its red lights flashing, you will: | If you pass a school bus that is stopped with its red lights flashing, you will: - Real 2025 DMV Questions",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Drivers must come to a complete stop when approaching a school bus stopped with its red lights flashing. Failure to stop until the red lights stop flashing may result in license suspension and a fine of up to $1,000.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Be fined up to $1,000.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Be fined up to $1,000."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Be fined up to $100.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Be fined up to $100."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Face no legal consequences.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Face no legal consequences."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Be fined up to $1,000.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Be fined up to $1,000."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Drivers must come to a complete stop when approaching a school bus stopped with its red lights flashing. Failure to stop until the red lights stop flashing may result in license suspension and a fine of up to $1,000.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "If you pass a school bus that is stopped with its red lights flashing, you will: | Drivers must come to a complete stop when approaching a school bus stopped with its red lights flashing. Failure to stop until the red lights stop flashing may result in license suspension and a fine of up to $1,000."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "If you pass a school bus that is stopped with its red lights flashing, you will: - Real 2025 DMV Questions",
+          "targetName": "If you pass a school bus that is stopped with its red lights flashing, you will:",
+          "targetUrl": "https://www.dmv-written-test.com/question/if-you-pass-a-school-bus-that-is-stopped-with-its-red-lights-flashing-you-will_ayAMewyz.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "If you pass a school bus that is stopped with its red lights flashing, you will:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "If you pass a school bus that is stopped with its red lights flashing, you will:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Fines in a construction zone are:",
+        "about": {
+          "@type": "Thing",
+          "name": "Fines in a construction zone are:"
+        },
+        "assesses": "Fines in a construction zone are: | Fines in a construction zone are: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Fines for moving traffic violations are doubled in highway construction or maintenance zones where workers are present. When operating in a construction zone, you must drive carefully and follow all directions provided by signs, signals, officers, and flaggers.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Doubled.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Doubled."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Tripled.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Tripled."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Cut in half.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Cut in half."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Doubled.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Doubled."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Fines for moving traffic violations are doubled in highway construction or maintenance zones where workers are present. When operating in a construction zone, you must drive carefully and follow all directions provided by signs, signals, officers, and flaggers.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "Fines in a construction zone are: | Fines for moving traffic violations are doubled in highway construction or maintenance zones where workers are present. When operating in a construction zone, you must drive carefully and follow all directions provided by signs, signals, officers, and flaggers."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "Fines in a construction zone are: -  Real 2025 DMV Questions ",
+          "targetName": "Fines in a construction zone are:",
+          "targetUrl": "https://www.dmv-written-test.com/question/fines-in-a-construction-zone-are_lPR3lbya.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "Fines in a construction zone are:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "Fines in a construction zone are:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "If your car's suspension is bad, it can cause:",
+        "about": {
+          "@type": "Thing",
+          "name": "If your car's suspension is bad, it can cause:"
+        },
+        "assesses": "If your car's suspension is bad, it can cause: | If your car's suspension is bad, it can cause: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Your suspension helps you control your vehicle and provides a comfortable ride over varying road surfaces. If your vehicle bounces a lot after driving over a bump, or is generally hard to control, you may need new suspension parts.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Vehicle control problems.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Vehicle control problems."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Squealing brakes.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Squealing brakes."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Slack in the steering.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Slack in the steering."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Vehicle control problems.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Vehicle control problems."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Your suspension helps you control your vehicle and provides a comfortable ride over varying road surfaces. If your vehicle bounces a lot after driving over a bump, or is generally hard to control, you may need new suspension parts.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "If your car's suspension is bad, it can cause: | Your suspension helps you control your vehicle and provides a comfortable ride over varying road surfaces. If your vehicle bounces a lot after driving over a bump, or is generally hard to control, you may need new suspension parts."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "If your car's suspension is bad, it can cause: -  Real 2025 DMV Questions ",
+          "targetName": "If your car's suspension is bad, it can cause:",
+          "targetUrl": "https://www.dmv-written-test.com/question/if-your-cars-suspension-is-bad-it-can-cause_nrDYYaPA.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "If your car's suspension is bad, it can cause:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "If your car's suspension is bad, it can cause:"
+        }
+      }
+    ],
+    "abstract": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>.",
+    "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "assesses": "FREE California Permit Test 19 - Real 2025 DMV Test Questions | The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "url": "https://www.dmv-written-test.com/california/practice-test-19.html",
+    "isPartOf": {
+      "@context": "http://schema.org",
+      "@type": "CreativeWorkSeries",
+      "name": "FREE California Permit Test 19 - Real 2025 DMV Test Questions",
+      "issn": "california/practice-test-19.html",
+      "accessMode": "textOnVisual",
+      "about": {
+        "@type": "Thing",
+        "name": "FREE California Permit Test 19 - Real 2025 DMV Test Questions"
+      },
+      "lastReviewed": "2022-01-07T10:57:08.000000Z",
+      "mainContentOfPage": {
+        "@type": "WebPageElement",
+        "cssSelector": [
+          "#series-description"
+        ]
+      },
+      "aggregateRating": {
+        "@type": "aggregateRating",
+        "ratingValue": "4.4390",
+        "reviewCount": 41,
+        "bestRating": 5,
+        "worstRating": 1
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "author": "DMV Written Test",
+        "name": "2025 California Permit Test 19",
+        "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>."
+      },
+      "significantLink": "https://cheat-sheets.dmv-written-test.com/en/california/car",
+      "specialty": "www.dmv-written-test.com",
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "name": "DMV Written Test",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "DMV Written Test",
+            "url": "https://www.dmv-written-test.com",
+            "item": {
+              "@id": "https://www.dmv-written-test.com",
+              "name": "DMV Written Test"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "california",
+            "url": "https://www.dmv-written-test.com/california",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california",
+              "name": "DMV Written Test 2025 California - DMV Practice Test - Real CA DMV Questions!"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "2025 California Permit Test 19",
+            "url": "https://www.dmv-written-test.com/california/practice-test-19.html",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california/practice-test-19.html",
+              "name": "2025 California Permit Test 19"
+            }
+          }
+        ]
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "xpath": [
+          "/html/head/title",
+          "/html/head/meta[@name='description']/@content"
+        ],
+        "url": "https://www.dmv-written-test.com/california/practice-test-19.html"
+      }
+    },
+    "provider": {
+      "@type": "Organization",
+      "name": "DMV Written Test",
+      "legalName": "Infinity Loop Capital LLC, CORP2000",
+      "slogan": "DMV",
+      "url": "https://www.dmv-written-test.com",
+      "email": "support@dmv-written-test.com",
+      "address": {
+        "@type": "PostalAddress",
+        "name": "Infinity Loop Capital LLC, CORP2000",
+        "addressLocality": "lindengasse 56/2",
+        "addressRegion": "32 West Loockerman Street, Suite 107, 19904 Dover DE"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": " ",
+        "contactType": "customer service"
+      },
+      "logo": {
+        "@type": "ImageObject",
+        "name": "DMV Written Test",
+        "url": "https://www.dmv-written-test.com/images/meta/logo.png",
+        "description": "DMV Written Test"
+      },
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "copyrightYear": "2025",
+    "dateCreated": "2021-11-23T12:41:52.000000Z",
+    "datePublished": "2021-11-23T12:41:52.000000Z",
+    "dateModified": "2022-01-07T10:57:08.000000Z",
+    "learningResourceType": "Car",
+    "educationalUse": "assignment",
+    "interactivityType": "mixed",
+    "accessMode": "textOnVisual",
+    "educationalLevel": "intermediate",
+    "typicalAgeRange": "16-72",
+    "educationalAlignment": {
+      "@type": "AlignmentObject",
+      "alignmentType": "educationalSubject",
+      "educationalFramework": "DMV Written Test",
+      "targetDescription": "DMV Written Test is the best at helping you pass your permit exam.  We only use real DMV questions on our practice tests and cheat sheets!",
+      "targetName": "DMV Written Test - DMV Practice Test 2025 - Real DMV Questions!",
+      "targetUrl": "https://www.dmv-written-test.com"
+    },
+    "image": {
+      "@type": "ImageObject",
+      "author": "DMV Written Test",
+      "name": "DMV Written Test",
+      "url": "https://www.dmv-written-test.com/images/meta/cover-1200x630.png",
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "inLanguage": {
+      "@type": "Language",
+      "name": "English",
+      "alternateName": "en"
+    }
+  }
+]

@@ -1,0 +1,651 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "Quiz",
+    "name": "FREE California Permit Test 6 - Real 2025 DMV Test Questions",
+    "headline": "2025 California Permit Test 6",
+    "alternativeHeadline": "2025 California Permit Test 6 | DMV Written Test",
+    "about": {
+      "@type": "Thing",
+      "name": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car."
+    },
+    "hasPart": [
+      {
+        "@type": "Question",
+        "name": "If a traffic signal light is not working, you must:",
+        "about": {
+          "@type": "Thing",
+          "name": "If a traffic signal light is not working, you must:"
+        },
+        "assesses": "If a traffic signal light is not working, you must: | If a traffic signal light is not working, you must: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "If a traffic signal is not working and no lights are showing, you should proceed cautiously as if the intersection is controlled by stop signs in all directions.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Stop, then proceed when safe.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Stop, then proceed when safe."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Stop before entering the intersection and let all other traffic go first.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Stop before entering the intersection and let all other traffic go first."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Slow down or stop, only if necessary.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Slow down or stop, only if necessary."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Stop, then proceed when safe.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Stop, then proceed when safe."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "If a traffic signal is not working and no lights are showing, you should proceed cautiously as if the intersection is controlled by stop signs in all directions.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "If a traffic signal light is not working, you must: | If a traffic signal is not working and no lights are showing, you should proceed cautiously as if the intersection is controlled by stop signs in all directions."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "If a traffic signal light is not working, you must: -  Real 2025 DMV Questions ",
+          "targetName": "If a traffic signal light is not working, you must:",
+          "targetUrl": "https://www.dmv-written-test.com/question/if-a-traffic-signal-light-is-not-working-you-must_WZyONPzE.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "If a traffic signal light is not working, you must:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "If a traffic signal light is not working, you must:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "U-turns in business districts are:",
+        "about": {
+          "@type": "Thing",
+          "name": "U-turns in business districts are:"
+        },
+        "assesses": "U-turns in business districts are: | U-turns in business districts are: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "In a business district, you may make a U-turn only at an intersection, unless a sign prohibits it, or where openings are provided for turns.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Always illegal because they are dangerous.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Always illegal because they are dangerous."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Legal whenever oncoming vehicles are not a hazard.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Legal whenever oncoming vehicles are not a hazard."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Legal at intersections, unless a sign prohibits them.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Legal at intersections, unless a sign prohibits them."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Legal at intersections, unless a sign prohibits them.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Legal at intersections, unless a sign prohibits them."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "In a business district, you may make a U-turn only at an intersection, unless a sign prohibits it, or where openings are provided for turns.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "U-turns in business districts are: | In a business district, you may make a U-turn only at an intersection, unless a sign prohibits it, or where openings are provided for turns."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "U-turns in business districts are: -  Real 2025 DMV Questions ",
+          "targetName": "U-turns in business districts are:",
+          "targetUrl": "https://www.dmv-written-test.com/question/u-turns-in-business-districts-are_b2Xl4zXY.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "U-turns in business districts are:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "U-turns in business districts are:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "If your vehicle has a mechanical problem:",
+        "about": {
+          "@type": "Thing",
+          "name": "If your vehicle has a mechanical problem:"
+        },
+        "assesses": "If your vehicle has a mechanical problem: | If your vehicle has a mechanical problem: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "If your vehicle breaks down on a highway, make sure other drivers can see it. Get your vehicle off the road and away from traffic if at all possible and turn on your emergency flashers to show that you are having trouble.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Signal and pull into the slow lane.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Signal and pull into the slow lane."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Stop in your lane and put on your hazard lights.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Stop in your lane and put on your hazard lights."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Put on your hazard lights and pull off the road.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Put on your hazard lights and pull off the road."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Put on your hazard lights and pull off the road.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Put on your hazard lights and pull off the road."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "If your vehicle breaks down on a highway, make sure other drivers can see it. Get your vehicle off the road and away from traffic if at all possible and turn on your emergency flashers to show that you are having trouble.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "If your vehicle has a mechanical problem: | If your vehicle breaks down on a highway, make sure other drivers can see it. Get your vehicle off the road and away from traffic if at all possible and turn on your emergency flashers to show that you are having trouble."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "If your vehicle has a mechanical problem: -  Real 2025 DMV Questions ",
+          "targetName": "If your vehicle has a mechanical problem:",
+          "targetUrl": "https://www.dmv-written-test.com/question/if-your-vehicle-has-a-mechanical-problem_90ydGBPY.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "If your vehicle has a mechanical problem:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "If your vehicle has a mechanical problem:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "This sign means:",
+        "about": {
+          "@type": "Thing",
+          "name": "This sign means:"
+        },
+        "assesses": "This sign means: | This sign means: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images-car/illinois-two_way_roadway.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "This sign informs drivers that they are leaving a divided roadway and approaching a two-way highway.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Two-way traffic.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Two-way traffic."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Change in direction ahead.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Change in direction ahead."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "School zone and crossing.",
+            "comment": {
+              "@type": "Comment",
+              "text": "School zone and crossing."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Two-way traffic.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Two-way traffic."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "This sign informs drivers that they are leaving a divided roadway and approaching a two-way highway.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "This sign means: | This sign informs drivers that they are leaving a divided roadway and approaching a two-way highway."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "This sign means: -  Real 2025 DMV Questions ",
+          "targetName": "This sign means:",
+          "targetUrl": "https://www.dmv-written-test.com/question/this-sign-means_9dX6Kark.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "This sign means:",
+          "url": "https://www.dmv-written-test.com/images-car/illinois-two_way_roadway.png",
+          "description": "This sign means:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "You must show proof of insurance to law enforcement:",
+        "about": {
+          "@type": "Thing",
+          "name": "You must show proof of insurance to law enforcement:"
+        },
+        "assesses": "You must show proof of insurance to law enforcement: | You must show proof of insurance to law enforcement: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "You must have evidence of financial responsibility, such as proof of insurance, with you whenever you drive. You must always show proof of insurance and your license to an officer upon request after a traffic stop or collision.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Only if you are involved in a collision.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Only if you are involved in a collision."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "If you are involved in a collision or stopped for a citation.",
+            "comment": {
+              "@type": "Comment",
+              "text": "If you are involved in a collision or stopped for a citation."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Only if you are stopped and cited.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Only if you are stopped and cited."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "If you are involved in a collision or stopped for a citation.",
+            "comment": {
+              "@type": "Comment",
+              "text": "If you are involved in a collision or stopped for a citation."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "You must have evidence of financial responsibility, such as proof of insurance, with you whenever you drive. You must always show proof of insurance and your license to an officer upon request after a traffic stop or collision.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "You must show proof of insurance to law enforcement: | You must have evidence of financial responsibility, such as proof of insurance, with you whenever you drive. You must always show proof of insurance and your license to an officer upon request after a traffic stop or collision."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "You must show proof of insurance to law enforcement: -  Real 2025 DMV Questions ",
+          "targetName": "You must show proof of insurance to law enforcement:",
+          "targetUrl": "https://www.dmv-written-test.com/question/you-must-show-proof-of-insurance-to-law-enforcement_2MXLo6yw.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "You must show proof of insurance to law enforcement:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "You must show proof of insurance to law enforcement:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "A vehicle suddenly cuts in front of you, creating a hazard. What should you do first?",
+        "about": {
+          "@type": "Thing",
+          "name": "A vehicle suddenly cuts in front of you, creating a hazard. What should you do first?"
+        },
+        "assesses": "A vehicle suddenly cuts in front of you, creating a hazard. What should you do first? | A vehicle suddenly cuts in front of you, creating a hazard. What should you do first? -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "If a vehicle merges in front of you too closely, take your foot off of the accelerator. This will create space between you and the vehicle ahead without requiring you to slam on your brakes or swerve into another lane.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Honk and step on the brake firmly.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Honk and step on the brake firmly."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Take your foot off the gas pedal.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Take your foot off the gas pedal."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Swerve into the lane next to you.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Swerve into the lane next to you."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Take your foot off the gas pedal.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Take your foot off the gas pedal."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "If a vehicle merges in front of you too closely, take your foot off of the accelerator. This will create space between you and the vehicle ahead without requiring you to slam on your brakes or swerve into another lane.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "A vehicle suddenly cuts in front of you, creating a hazard. What should you do first? | If a vehicle merges in front of you too closely, take your foot off of the accelerator. This will create space between you and the vehicle ahead without requiring you to slam on your brakes or swerve into another lane."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "A vehicle suddenly cuts in front of you, creating a hazard. What should you do first? -  Real 2025 DMV Questions ",
+          "targetName": "A vehicle suddenly cuts in front of you, creating a hazard. What should you do first?",
+          "targetUrl": "https://www.dmv-written-test.com/question/a-vehicle-suddenly-cuts-in-front-of-you-creating-a-hazard-what-should-you-do-first_Y5y9zkXZ.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "A vehicle suddenly cuts in front of you, creating a hazard. What should you do first?",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "A vehicle suddenly cuts in front of you, creating a hazard. What should you do first?"
+        }
+      }
+    ],
+    "abstract": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>.",
+    "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "assesses": "FREE California Permit Test 6 - Real 2025 DMV Test Questions | The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "url": "https://www.dmv-written-test.com/california/practice-test-6.html",
+    "isPartOf": {
+      "@context": "http://schema.org",
+      "@type": "CreativeWorkSeries",
+      "name": "FREE California Permit Test 6 - Real 2025 DMV Test Questions",
+      "issn": "california/practice-test-6.html",
+      "accessMode": "textOnVisual",
+      "about": {
+        "@type": "Thing",
+        "name": "FREE California Permit Test 6 - Real 2025 DMV Test Questions"
+      },
+      "lastReviewed": "2024-02-29T15:02:59.000000Z",
+      "mainContentOfPage": {
+        "@type": "WebPageElement",
+        "cssSelector": [
+          "#series-description"
+        ]
+      },
+      "aggregateRating": {
+        "@type": "aggregateRating",
+        "ratingValue": "4.7947",
+        "reviewCount": 3794,
+        "bestRating": 5,
+        "worstRating": 1
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "author": "DMV Written Test",
+        "name": "2025 California Permit Test 6",
+        "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>."
+      },
+      "significantLink": "https://cheat-sheets.dmv-written-test.com/en/california/car",
+      "specialty": "www.dmv-written-test.com",
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "name": "DMV Written Test",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "DMV Written Test",
+            "url": "https://www.dmv-written-test.com",
+            "item": {
+              "@id": "https://www.dmv-written-test.com",
+              "name": "DMV Written Test"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "california",
+            "url": "https://www.dmv-written-test.com/california",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california",
+              "name": "DMV Written Test 2025 California - DMV Practice Test - Real CA DMV Questions!"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "2025 California Permit Test 6",
+            "url": "https://www.dmv-written-test.com/california/practice-test-6.html",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california/practice-test-6.html",
+              "name": "2025 California Permit Test 6"
+            }
+          }
+        ]
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "xpath": [
+          "/html/head/title",
+          "/html/head/meta[@name='description']/@content"
+        ],
+        "url": "https://www.dmv-written-test.com/california/practice-test-6.html"
+      }
+    },
+    "provider": {
+      "@type": "Organization",
+      "name": "DMV Written Test",
+      "legalName": "Infinity Loop Capital LLC, CORP2000",
+      "slogan": "DMV",
+      "url": "https://www.dmv-written-test.com",
+      "email": "support@dmv-written-test.com",
+      "address": {
+        "@type": "PostalAddress",
+        "name": "Infinity Loop Capital LLC, CORP2000",
+        "addressLocality": "lindengasse 56/2",
+        "addressRegion": "32 West Loockerman Street, Suite 107, 19904 Dover DE"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": " ",
+        "contactType": "customer service"
+      },
+      "logo": {
+        "@type": "ImageObject",
+        "name": "DMV Written Test",
+        "url": "https://www.dmv-written-test.com/images/meta/logo.png",
+        "description": "DMV Written Test"
+      },
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "copyrightYear": "2025",
+    "dateCreated": "2021-11-23T12:41:45.000000Z",
+    "datePublished": "2021-11-23T12:41:45.000000Z",
+    "dateModified": "2024-02-29T15:02:59.000000Z",
+    "learningResourceType": "Car",
+    "educationalUse": "assignment",
+    "interactivityType": "mixed",
+    "accessMode": "textOnVisual",
+    "educationalLevel": "intermediate",
+    "typicalAgeRange": "16-72",
+    "educationalAlignment": {
+      "@type": "AlignmentObject",
+      "alignmentType": "educationalSubject",
+      "educationalFramework": "DMV Written Test",
+      "targetDescription": "DMV Written Test is the best at helping you pass your permit exam.  We only use real DMV questions on our practice tests and cheat sheets!",
+      "targetName": "DMV Written Test - DMV Practice Test 2025 - Real DMV Questions!",
+      "targetUrl": "https://www.dmv-written-test.com"
+    },
+    "image": {
+      "@type": "ImageObject",
+      "author": "DMV Written Test",
+      "name": "DMV Written Test",
+      "url": "https://www.dmv-written-test.com/images/meta/cover-1200x630.png",
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "inLanguage": {
+      "@type": "Language",
+      "name": "English",
+      "alternateName": "en"
+    }
+  }
+]

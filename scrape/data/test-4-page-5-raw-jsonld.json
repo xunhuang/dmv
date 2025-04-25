@@ -1,0 +1,651 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "Quiz",
+    "name": "FREE California Permit Test 4 - Real 2025 DMV Test Questions",
+    "headline": "2025 California Permit Test 4",
+    "alternativeHeadline": "2025 California Permit Test 4 | DMV Written Test",
+    "about": {
+      "@type": "Thing",
+      "name": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car."
+    },
+    "hasPart": [
+      {
+        "@type": "Question",
+        "name": "If oncoming headlights are blinding you while you are driving at night, you should:",
+        "about": {
+          "@type": "Thing",
+          "name": "If oncoming headlights are blinding you while you are driving at night, you should:"
+        },
+        "assesses": "If oncoming headlights are blinding you while you are driving at night, you should: | If oncoming headlights are blinding you while you are driving at night, you should: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "If the headlights of an oncoming vehicle are blinding, glance toward the right edge of the road instead of looking directly ahead. This should keep your vehicle safely on the road until you pass the oncoming vehicle.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Look toward the right edge of the road.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Look toward the right edge of the road."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Switch your lights to high beams.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Switch your lights to high beams."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Turn your lights on and off.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Turn your lights on and off."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Look toward the right edge of the road.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Look toward the right edge of the road."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "If the headlights of an oncoming vehicle are blinding, glance toward the right edge of the road instead of looking directly ahead. This should keep your vehicle safely on the road until you pass the oncoming vehicle.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "If oncoming headlights are blinding you while you are driving at night, you should: | If the headlights of an oncoming vehicle are blinding, glance toward the right edge of the road instead of looking directly ahead. This should keep your vehicle safely on the road until you pass the oncoming vehicle."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "If oncoming headlights are blinding you while you are driving at night, you should: -  Real 2025 DMV Questions ",
+          "targetName": "If oncoming headlights are blinding you while you are driving at night, you should:",
+          "targetUrl": "https://www.dmv-written-test.com/question/if-oncoming-headlights-are-blinding-you-while-you-are-driving-at-night-you-should_2XlpQAXY.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "If oncoming headlights are blinding you while you are driving at night, you should:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "If oncoming headlights are blinding you while you are driving at night, you should:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "A pentagon-shaped sign is a:",
+        "about": {
+          "@type": "Thing",
+          "name": "A pentagon-shaped sign is a:"
+        },
+        "assesses": "A pentagon-shaped sign is a: | A pentagon-shaped sign is a: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images-car/illinois-school_2.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "A five-sided sign is used to alert drivers to a school zone. Some pentagonal signs specifically indicate crosswalks within school zones where children or other pedestrians may be present.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Stop sign.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Stop sign."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Regulatory sign.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Regulatory sign."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "School zone or school crossing sign.",
+            "comment": {
+              "@type": "Comment",
+              "text": "School zone or school crossing sign."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "School zone or school crossing sign.",
+            "comment": {
+              "@type": "Comment",
+              "text": "School zone or school crossing sign."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "A five-sided sign is used to alert drivers to a school zone. Some pentagonal signs specifically indicate crosswalks within school zones where children or other pedestrians may be present.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "A pentagon-shaped sign is a: | A five-sided sign is used to alert drivers to a school zone. Some pentagonal signs specifically indicate crosswalks within school zones where children or other pedestrians may be present."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "A pentagon-shaped sign is a: -  Real 2025 DMV Questions ",
+          "targetName": "A pentagon-shaped sign is a:",
+          "targetUrl": "https://www.dmv-written-test.com/question/a-pentagon-shaped-sign-is-a_7wXa0Wyg.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "A pentagon-shaped sign is a:",
+          "url": "https://www.dmv-written-test.com/images-car/illinois-school_2.png",
+          "description": "A pentagon-shaped sign is a:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "A broken yellow line between two lanes of traffic means:",
+        "about": {
+          "@type": "Thing",
+          "name": "A broken yellow line between two lanes of traffic means:"
+        },
+        "assesses": "A broken yellow line between two lanes of traffic means: | A broken yellow line between two lanes of traffic means: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Dashed yellow lines separate single lanes of traffic moving in opposite directions. Passing is allowed when there is no oncoming traffic in the passing lane.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Both lanes of traffic are going in the same direction.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Both lanes of traffic are going in the same direction."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Passing is permitted when it's safe.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Passing is permitted when it's safe."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Passing is not permitted.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Passing is not permitted."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Passing is permitted when it's safe.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Passing is permitted when it's safe."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Dashed yellow lines separate single lanes of traffic moving in opposite directions. Passing is allowed when there is no oncoming traffic in the passing lane.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "A broken yellow line between two lanes of traffic means: | Dashed yellow lines separate single lanes of traffic moving in opposite directions. Passing is allowed when there is no oncoming traffic in the passing lane."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "A broken yellow line between two lanes of traffic means: -  Real 2025 DMV Questions ",
+          "targetName": "A broken yellow line between two lanes of traffic means:",
+          "targetUrl": "https://www.dmv-written-test.com/question/a-broken-yellow-line-between-two-lanes-of-traffic-means_9dX6JQXk.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "A broken yellow line between two lanes of traffic means:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "A broken yellow line between two lanes of traffic means:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "You are driving on the freeway. The vehicle in front of you is a large truck. You should drive:",
+        "about": {
+          "@type": "Thing",
+          "name": "You are driving on the freeway. The vehicle in front of you is a large truck. You should drive:"
+        },
+        "assesses": "You are driving on the freeway. The vehicle in front of you is a large truck. You should drive: | You are driving on the freeway. The vehicle in front of you is a large truck. You should drive: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "When you follow so closely behind a truck that you cannot see the truck driver’s side view mirrors, the trucker cannot see you and has no way of knowing you are there. Tailgating a truck, or any vehicle, is dangerous because you take away your own cushion of safety if the vehicle in front of you stops quickly.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Closely behind the truck in bad weather because the driver can see farther ahead than you can.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Closely behind the truck in bad weather because the driver can see farther ahead than you can."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Farther behind the truck than you would when following a passenger vehicle.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Farther behind the truck than you would when following a passenger vehicle."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "No more than one car length behind the truck so the driver can see you.",
+            "comment": {
+              "@type": "Comment",
+              "text": "No more than one car length behind the truck so the driver can see you."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Farther behind the truck than you would when following a passenger vehicle.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Farther behind the truck than you would when following a passenger vehicle."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "When you follow so closely behind a truck that you cannot see the truck driver’s side view mirrors, the trucker cannot see you and has no way of knowing you are there. Tailgating a truck, or any vehicle, is dangerous because you take away your own cushion of safety if the vehicle in front of you stops quickly.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "You are driving on the freeway. The vehicle in front of you is a large truck. You should drive: | When you follow so closely behind a truck that you cannot see the truck driver’s side view mirrors, the trucker cannot see you and has no way of knowing you are there. Tailgating a truck, or any vehicle, is dangerous because you take away your own cushion of safety if the vehicle in front of you stops quickly."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "You are driving on the freeway. The vehicle in front of you is a large truck. You should drive: -  Real 2025 DMV Questions ",
+          "targetName": "You are driving on the freeway. The vehicle in front of you is a large truck. You should drive:",
+          "targetUrl": "https://www.dmv-written-test.com/question/you-are-driving-on-the-freeway-the-vehicle-in-front-of-you-is-a-large-truck-you-should-drive_9nrDbGyA.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "You are driving on the freeway. The vehicle in front of you is a large truck. You should drive:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "You are driving on the freeway. The vehicle in front of you is a large truck. You should drive:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "When parking next to a curb, you should use your turn signals:",
+        "about": {
+          "@type": "Thing",
+          "name": "When parking next to a curb, you should use your turn signals:"
+        },
+        "assesses": "When parking next to a curb, you should use your turn signals: | When parking next to a curb, you should use your turn signals: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Drivers should signal when pulling next to a curb or away from a curb.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Only when pulling away from the curb.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Only when pulling away from the curb."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "When pulling next to, but not away from, the curb.",
+            "comment": {
+              "@type": "Comment",
+              "text": "When pulling next to, but not away from, the curb."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "When pulling next to or away from the curb.",
+            "comment": {
+              "@type": "Comment",
+              "text": "When pulling next to or away from the curb."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "When pulling next to or away from the curb.",
+            "comment": {
+              "@type": "Comment",
+              "text": "When pulling next to or away from the curb."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Drivers should signal when pulling next to a curb or away from a curb.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "When parking next to a curb, you should use your turn signals: | Drivers should signal when pulling next to a curb or away from a curb."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "When parking next to a curb, you should use your turn signals: -  Real 2025 DMV Questions ",
+          "targetName": "When parking next to a curb, you should use your turn signals:",
+          "targetUrl": "https://www.dmv-written-test.com/question/when-parking-next-to-a-curb-you-should-use-your-turn-signals_KzP7WP65.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "When parking next to a curb, you should use your turn signals:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "When parking next to a curb, you should use your turn signals:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "A blood alcohol concentration of 0.02 percent:",
+        "about": {
+          "@type": "Thing",
+          "name": "A blood alcohol concentration of 0.02 percent:"
+        },
+        "assesses": "A blood alcohol concentration of 0.02 percent: | A blood alcohol concentration of 0.02 percent: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Every 0.02 percent increase in blood alcohol concentration nearly doubles a driver's risk of being in a fatal crash.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Won't have any effect on your driving.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Won't have any effect on your driving."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Won't put other drivers at risk.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Won't put other drivers at risk."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Will double your chances of having an accident.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Will double your chances of having an accident."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Will double your chances of having an accident.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Will double your chances of having an accident."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Every 0.02 percent increase in blood alcohol concentration nearly doubles a driver's risk of being in a fatal crash.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "A blood alcohol concentration of 0.02 percent: | Every 0.02 percent increase in blood alcohol concentration nearly doubles a driver's risk of being in a fatal crash."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "A blood alcohol concentration of 0.02 percent: -  Real 2025 DMV Questions ",
+          "targetName": "A blood alcohol concentration of 0.02 percent:",
+          "targetUrl": "https://www.dmv-written-test.com/question/a-blood-alcohol-concentration-of-002-percent_23XM7LPz.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "A blood alcohol concentration of 0.02 percent:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "A blood alcohol concentration of 0.02 percent:"
+        }
+      }
+    ],
+    "abstract": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>.",
+    "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "assesses": "FREE California Permit Test 4 - Real 2025 DMV Test Questions | The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "url": "https://www.dmv-written-test.com/california/practice-test-4.html",
+    "isPartOf": {
+      "@context": "http://schema.org",
+      "@type": "CreativeWorkSeries",
+      "name": "FREE California Permit Test 4 - Real 2025 DMV Test Questions",
+      "issn": "california/practice-test-4.html",
+      "accessMode": "textOnVisual",
+      "about": {
+        "@type": "Thing",
+        "name": "FREE California Permit Test 4 - Real 2025 DMV Test Questions"
+      },
+      "lastReviewed": "2024-02-29T15:02:58.000000Z",
+      "mainContentOfPage": {
+        "@type": "WebPageElement",
+        "cssSelector": [
+          "#series-description"
+        ]
+      },
+      "aggregateRating": {
+        "@type": "aggregateRating",
+        "ratingValue": "4.8250",
+        "reviewCount": 5703,
+        "bestRating": 5,
+        "worstRating": 1
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "author": "DMV Written Test",
+        "name": "2025 California Permit Test 4",
+        "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>."
+      },
+      "significantLink": "https://cheat-sheets.dmv-written-test.com/en/california/car",
+      "specialty": "www.dmv-written-test.com",
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "name": "DMV Written Test",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "DMV Written Test",
+            "url": "https://www.dmv-written-test.com",
+            "item": {
+              "@id": "https://www.dmv-written-test.com",
+              "name": "DMV Written Test"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "california",
+            "url": "https://www.dmv-written-test.com/california",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california",
+              "name": "DMV Written Test 2025 California - DMV Practice Test - Real CA DMV Questions!"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "2025 California Permit Test 4",
+            "url": "https://www.dmv-written-test.com/california/practice-test-4.html",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california/practice-test-4.html",
+              "name": "2025 California Permit Test 4"
+            }
+          }
+        ]
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "xpath": [
+          "/html/head/title",
+          "/html/head/meta[@name='description']/@content"
+        ],
+        "url": "https://www.dmv-written-test.com/california/practice-test-4.html"
+      }
+    },
+    "provider": {
+      "@type": "Organization",
+      "name": "DMV Written Test",
+      "legalName": "Infinity Loop Capital LLC, CORP2000",
+      "slogan": "DMV",
+      "url": "https://www.dmv-written-test.com",
+      "email": "support@dmv-written-test.com",
+      "address": {
+        "@type": "PostalAddress",
+        "name": "Infinity Loop Capital LLC, CORP2000",
+        "addressLocality": "lindengasse 56/2",
+        "addressRegion": "32 West Loockerman Street, Suite 107, 19904 Dover DE"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": " ",
+        "contactType": "customer service"
+      },
+      "logo": {
+        "@type": "ImageObject",
+        "name": "DMV Written Test",
+        "url": "https://www.dmv-written-test.com/images/meta/logo.png",
+        "description": "DMV Written Test"
+      },
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "copyrightYear": "2025",
+    "dateCreated": "2021-11-23T12:41:44.000000Z",
+    "datePublished": "2021-11-23T12:41:44.000000Z",
+    "dateModified": "2024-02-29T15:02:58.000000Z",
+    "learningResourceType": "Car",
+    "educationalUse": "assignment",
+    "interactivityType": "mixed",
+    "accessMode": "textOnVisual",
+    "educationalLevel": "intermediate",
+    "typicalAgeRange": "16-72",
+    "educationalAlignment": {
+      "@type": "AlignmentObject",
+      "alignmentType": "educationalSubject",
+      "educationalFramework": "DMV Written Test",
+      "targetDescription": "DMV Written Test is the best at helping you pass your permit exam.  We only use real DMV questions on our practice tests and cheat sheets!",
+      "targetName": "DMV Written Test - DMV Practice Test 2025 - Real DMV Questions!",
+      "targetUrl": "https://www.dmv-written-test.com"
+    },
+    "image": {
+      "@type": "ImageObject",
+      "author": "DMV Written Test",
+      "name": "DMV Written Test",
+      "url": "https://www.dmv-written-test.com/images/meta/cover-1200x630.png",
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "inLanguage": {
+      "@type": "Language",
+      "name": "English",
+      "alternateName": "en"
+    }
+  }
+]

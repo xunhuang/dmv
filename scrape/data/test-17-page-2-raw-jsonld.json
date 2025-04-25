@@ -1,0 +1,651 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "Quiz",
+    "name": "FREE California Permit Test 17 - Real 2025 DMV Test Questions",
+    "headline": "2025 California Permit Test 17",
+    "alternativeHeadline": "2025 California Permit Test 17 | DMV Written Test",
+    "about": {
+      "@type": "Thing",
+      "name": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car."
+    },
+    "hasPart": [
+      {
+        "@type": "Question",
+        "name": "When approaching an intersection controlled by a flashing yellow light, you must:",
+        "about": {
+          "@type": "Thing",
+          "name": "When approaching an intersection controlled by a flashing yellow light, you must:"
+        },
+        "assesses": "When approaching an intersection controlled by a flashing yellow light, you must: | When approaching an intersection controlled by a flashing yellow light, you must: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "A traffic signal displaying a flashing yellow light indicates that you should be alert and proceed with caution. Slow down when approaching a flashing yellow traffic signal.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Come to a complete stop at the intersection.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Come to a complete stop at the intersection."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Maintain your normal speed.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Maintain your normal speed."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Slow down and proceed with caution.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Slow down and proceed with caution."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Slow down and proceed with caution.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Slow down and proceed with caution."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "A traffic signal displaying a flashing yellow light indicates that you should be alert and proceed with caution. Slow down when approaching a flashing yellow traffic signal.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "When approaching an intersection controlled by a flashing yellow light, you must: | A traffic signal displaying a flashing yellow light indicates that you should be alert and proceed with caution. Slow down when approaching a flashing yellow traffic signal."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "When approaching an intersection controlled by a flashing yellow light, you must: -  Real 2025 DMV Questions ",
+          "targetName": "When approaching an intersection controlled by a flashing yellow light, you must:",
+          "targetUrl": "https://www.dmv-written-test.com/question/when-approaching-an-intersection-controlled-by-a-flashing-yellow-light-you-must_nrDYGRPA.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "When approaching an intersection controlled by a flashing yellow light, you must:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "When approaching an intersection controlled by a flashing yellow light, you must:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What does this road sign mean?",
+        "about": {
+          "@type": "Thing",
+          "name": "What does this road sign mean?"
+        },
+        "assesses": "What does this road sign mean? | What does this road sign mean? -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images-car/georgia-stop.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "An octagonal sign always means stop. When approaching a stop sign, you must come to a complete stop at the marked stop line and proceed only when it is safe to do so. If there is no stop line, stop before the crosswalk. If there is no crosswalk, stop before the intersection at a point from which you can see any oncoming traffic.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Slow down and prepare to stop if cars are approaching you.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Slow down and prepare to stop if cars are approaching you."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Come to a full stop then proceed when it is safe to do so.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Come to a full stop then proceed when it is safe to do so."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Proceed carefully through the intersection, not always stopping.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Proceed carefully through the intersection, not always stopping."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Come to a full stop then proceed when it is safe to do so.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Come to a full stop then proceed when it is safe to do so."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "An octagonal sign always means stop. When approaching a stop sign, you must come to a complete stop at the marked stop line and proceed only when it is safe to do so. If there is no stop line, stop before the crosswalk. If there is no crosswalk, stop before the intersection at a point from which you can see any oncoming traffic.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "What does this road sign mean? | An octagonal sign always means stop. When approaching a stop sign, you must come to a complete stop at the marked stop line and proceed only when it is safe to do so. If there is no stop line, stop before the crosswalk. If there is no crosswalk, stop before the intersection at a point from which you can see any oncoming traffic."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "What does this road sign mean? -  Real 2025 DMV Questions ",
+          "targetName": "What does this road sign mean?",
+          "targetUrl": "https://www.dmv-written-test.com/question/what-does-this-road-sign-mean_AOX5wVPg.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "What does this road sign mean?",
+          "url": "https://www.dmv-written-test.com/images-car/georgia-stop.png",
+          "description": "What does this road sign mean?"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "When driving at night on a dimly lit street, you should:",
+        "about": {
+          "@type": "Thing",
+          "name": "When driving at night on a dimly lit street, you should:"
+        },
+        "assesses": "When driving at night on a dimly lit street, you should: | When driving at night on a dimly lit street, you should: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "You should drive more slowly at night than during the day because it is not possible to see as far ahead at night. You should make sure that you can stop within the area illuminated by your headlights.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Drive slowly enough that you can stop within the area illuminated by your headlights.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Drive slowly enough that you can stop within the area illuminated by your headlights."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Turn on your high beam headlights to better see the vehicles ahead of you.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Turn on your high beam headlights to better see the vehicles ahead of you."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Keep the instrument panel lights bright to be more visible to other drivers.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Keep the instrument panel lights bright to be more visible to other drivers."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Drive slowly enough that you can stop within the area illuminated by your headlights.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Drive slowly enough that you can stop within the area illuminated by your headlights."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "You should drive more slowly at night than during the day because it is not possible to see as far ahead at night. You should make sure that you can stop within the area illuminated by your headlights.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "When driving at night on a dimly lit street, you should: | You should drive more slowly at night than during the day because it is not possible to see as far ahead at night. You should make sure that you can stop within the area illuminated by your headlights."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "When driving at night on a dimly lit street, you should: -  Real 2025 DMV Questions ",
+          "targetName": "When driving at night on a dimly lit street, you should:",
+          "targetUrl": "https://www.dmv-written-test.com/question/when-driving-at-night-on-a-dimly-lit-street-you-should_ElPZ1gr2.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "When driving at night on a dimly lit street, you should:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "When driving at night on a dimly lit street, you should:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "When you see this sign, you should:",
+        "about": {
+          "@type": "Thing",
+          "name": "When you see this sign, you should:"
+        },
+        "assesses": "When you see this sign, you should: | When you see this sign, you should: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images-car/iowa-merging_traffic.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Warning signs alert drivers to upcoming hazards and are usually yellow with black markings. This sign warns drivers about potential traffic merging into their lane from the right.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Watch for traffic merging from the right.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Watch for traffic merging from the right."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Merge right.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Merge right."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Turn left.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Turn left."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Watch for traffic merging from the right.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Watch for traffic merging from the right."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Warning signs alert drivers to upcoming hazards and are usually yellow with black markings. This sign warns drivers about potential traffic merging into their lane from the right.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "When you see this sign, you should: | Warning signs alert drivers to upcoming hazards and are usually yellow with black markings. This sign warns drivers about potential traffic merging into their lane from the right."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "When you see this sign, you should: -  Real 2025 DMV Questions ",
+          "targetName": "When you see this sign, you should:",
+          "targetUrl": "https://www.dmv-written-test.com/question/when-you-see-this-sign-you-should_n9y1dMPA.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "When you see this sign, you should:",
+          "url": "https://www.dmv-written-test.com/images-car/iowa-merging_traffic.png",
+          "description": "When you see this sign, you should:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "If you experience a tire blowout:",
+        "about": {
+          "@type": "Thing",
+          "name": "If you experience a tire blowout:"
+        },
+        "assesses": "If you experience a tire blowout: | If you experience a tire blowout: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "If you experience a tire blowout, you should slow down gradually by taking your foot off of the accelerator. Don't apply the brakes until the vehicle has slowed considerably. ",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Tap or pump the brakes.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Tap or pump the brakes."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Slow down gradually and use your brakes lightly.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Slow down gradually and use your brakes lightly."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Apply the brakes firmly and quickly.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Apply the brakes firmly and quickly."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Slow down gradually and use your brakes lightly.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Slow down gradually and use your brakes lightly."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "If you experience a tire blowout, you should slow down gradually by taking your foot off of the accelerator. Don't apply the brakes until the vehicle has slowed considerably. ",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "If you experience a tire blowout: | If you experience a tire blowout, you should slow down gradually by taking your foot off of the accelerator. Don't apply the brakes until the vehicle has slowed considerably. "
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "If you experience a tire blowout: -  Real 2025 DMV Questions ",
+          "targetName": "If you experience a tire blowout:",
+          "targetUrl": "https://www.dmv-written-test.com/question/if-you-experience-a-tire-blowout_12yN7gXV.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "If you experience a tire blowout:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "If you experience a tire blowout:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "All of the following are dangerous to do while driving. Which is also illegal?",
+        "about": {
+          "@type": "Thing",
+          "name": "All of the following are dangerous to do while driving. Which is also illegal?"
+        },
+        "assesses": "All of the following are dangerous to do while driving. Which is also illegal? | All of the following are dangerous to do while driving. Which is also illegal? -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Do not wear a headset or earplugs in both ears while driving; it is against the law. You must be able to be aware of all possible surrounding hazards.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Wearing a headset that covers both ears",
+            "comment": {
+              "@type": "Comment",
+              "text": "Wearing a headset that covers both ears"
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Having one or more interior lights on",
+            "comment": {
+              "@type": "Comment",
+              "text": "Having one or more interior lights on"
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Using cruise control on residential streets",
+            "comment": {
+              "@type": "Comment",
+              "text": "Using cruise control on residential streets"
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Wearing a headset that covers both ears",
+            "comment": {
+              "@type": "Comment",
+              "text": "Wearing a headset that covers both ears"
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Do not wear a headset or earplugs in both ears while driving; it is against the law. You must be able to be aware of all possible surrounding hazards.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "All of the following are dangerous to do while driving. Which is also illegal? | Do not wear a headset or earplugs in both ears while driving; it is against the law. You must be able to be aware of all possible surrounding hazards."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "All of the following are dangerous to do while driving. Which is also illegal? -  Real 2025 DMV Questions ",
+          "targetName": "All of the following are dangerous to do while driving. Which is also illegal?",
+          "targetUrl": "https://www.dmv-written-test.com/question/all-of-the-following-are-dangerous-to-do-while-driving-which-is-also-illegal_V0yqAZyO.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "All of the following are dangerous to do while driving. Which is also illegal?",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "All of the following are dangerous to do while driving. Which is also illegal?"
+        }
+      }
+    ],
+    "abstract": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>.",
+    "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "assesses": "FREE California Permit Test 17 - Real 2025 DMV Test Questions | The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "url": "https://www.dmv-written-test.com/california/practice-test-17.html",
+    "isPartOf": {
+      "@context": "http://schema.org",
+      "@type": "CreativeWorkSeries",
+      "name": "FREE California Permit Test 17 - Real 2025 DMV Test Questions",
+      "issn": "california/practice-test-17.html",
+      "accessMode": "textOnVisual",
+      "about": {
+        "@type": "Thing",
+        "name": "FREE California Permit Test 17 - Real 2025 DMV Test Questions"
+      },
+      "lastReviewed": "2022-01-07T10:57:08.000000Z",
+      "mainContentOfPage": {
+        "@type": "WebPageElement",
+        "cssSelector": [
+          "#series-description"
+        ]
+      },
+      "aggregateRating": {
+        "@type": "aggregateRating",
+        "ratingValue": "4.4000",
+        "reviewCount": 40,
+        "bestRating": 5,
+        "worstRating": 1
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "author": "DMV Written Test",
+        "name": "2025 California Permit Test 17",
+        "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>."
+      },
+      "significantLink": "https://cheat-sheets.dmv-written-test.com/en/california/car",
+      "specialty": "www.dmv-written-test.com",
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "name": "DMV Written Test",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "DMV Written Test",
+            "url": "https://www.dmv-written-test.com",
+            "item": {
+              "@id": "https://www.dmv-written-test.com",
+              "name": "DMV Written Test"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "california",
+            "url": "https://www.dmv-written-test.com/california",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california",
+              "name": "DMV Written Test 2025 California - DMV Practice Test - Real CA DMV Questions!"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "2025 California Permit Test 17",
+            "url": "https://www.dmv-written-test.com/california/practice-test-17.html",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california/practice-test-17.html",
+              "name": "2025 California Permit Test 17"
+            }
+          }
+        ]
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "xpath": [
+          "/html/head/title",
+          "/html/head/meta[@name='description']/@content"
+        ],
+        "url": "https://www.dmv-written-test.com/california/practice-test-17.html"
+      }
+    },
+    "provider": {
+      "@type": "Organization",
+      "name": "DMV Written Test",
+      "legalName": "Infinity Loop Capital LLC, CORP2000",
+      "slogan": "DMV",
+      "url": "https://www.dmv-written-test.com",
+      "email": "support@dmv-written-test.com",
+      "address": {
+        "@type": "PostalAddress",
+        "name": "Infinity Loop Capital LLC, CORP2000",
+        "addressLocality": "lindengasse 56/2",
+        "addressRegion": "32 West Loockerman Street, Suite 107, 19904 Dover DE"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": " ",
+        "contactType": "customer service"
+      },
+      "logo": {
+        "@type": "ImageObject",
+        "name": "DMV Written Test",
+        "url": "https://www.dmv-written-test.com/images/meta/logo.png",
+        "description": "DMV Written Test"
+      },
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "copyrightYear": "2025",
+    "dateCreated": "2021-11-23T12:41:51.000000Z",
+    "datePublished": "2021-11-23T12:41:51.000000Z",
+    "dateModified": "2022-01-07T10:57:08.000000Z",
+    "learningResourceType": "Car",
+    "educationalUse": "assignment",
+    "interactivityType": "mixed",
+    "accessMode": "textOnVisual",
+    "educationalLevel": "intermediate",
+    "typicalAgeRange": "16-72",
+    "educationalAlignment": {
+      "@type": "AlignmentObject",
+      "alignmentType": "educationalSubject",
+      "educationalFramework": "DMV Written Test",
+      "targetDescription": "DMV Written Test is the best at helping you pass your permit exam.  We only use real DMV questions on our practice tests and cheat sheets!",
+      "targetName": "DMV Written Test - DMV Practice Test 2025 - Real DMV Questions!",
+      "targetUrl": "https://www.dmv-written-test.com"
+    },
+    "image": {
+      "@type": "ImageObject",
+      "author": "DMV Written Test",
+      "name": "DMV Written Test",
+      "url": "https://www.dmv-written-test.com/images/meta/cover-1200x630.png",
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "inLanguage": {
+      "@type": "Language",
+      "name": "English",
+      "alternateName": "en"
+    }
+  }
+]

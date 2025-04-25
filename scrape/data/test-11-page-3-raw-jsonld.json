@@ -1,0 +1,651 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "Quiz",
+    "name": "FREE California Permit Test 11 - Real 2025 DMV Test Questions",
+    "headline": "2025 California Permit Test 11",
+    "alternativeHeadline": "2025 California Permit Test 11 | DMV Written Test",
+    "about": {
+      "@type": "Thing",
+      "name": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car."
+    },
+    "hasPart": [
+      {
+        "@type": "Question",
+        "name": "Highway pavement will be particularly treacherous and most slippery:",
+        "about": {
+          "@type": "Thing",
+          "name": "Highway pavement will be particularly treacherous and most slippery:"
+        },
+        "assesses": "Highway pavement will be particularly treacherous and most slippery: | Highway pavement will be particularly treacherous and most slippery: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Pavement is particularly treacherous when it first begins to rain. Accumulations of dirt and oil mix with the rainwater, creating a greasy film on the roadway.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "If it has been raining several hours.",
+            "comment": {
+              "@type": "Comment",
+              "text": "If it has been raining several hours."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "If it has just begun to rain.",
+            "comment": {
+              "@type": "Comment",
+              "text": "If it has just begun to rain."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "If it has been raining for one to two hours.",
+            "comment": {
+              "@type": "Comment",
+              "text": "If it has been raining for one to two hours."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "If it has just begun to rain.",
+            "comment": {
+              "@type": "Comment",
+              "text": "If it has just begun to rain."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Pavement is particularly treacherous when it first begins to rain. Accumulations of dirt and oil mix with the rainwater, creating a greasy film on the roadway.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "Highway pavement will be particularly treacherous and most slippery: | Pavement is particularly treacherous when it first begins to rain. Accumulations of dirt and oil mix with the rainwater, creating a greasy film on the roadway."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "Highway pavement will be particularly treacherous and most slippery: -  Real 2025 DMV Questions ",
+          "targetName": "Highway pavement will be particularly treacherous and most slippery:",
+          "targetUrl": "https://www.dmv-written-test.com/question/highway-pavement-will-be-particularly-treacherous-and-most-slippery_90ydVErY.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "Highway pavement will be particularly treacherous and most slippery:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "Highway pavement will be particularly treacherous and most slippery:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Drivers turning left must yield to:",
+        "about": {
+          "@type": "Thing",
+          "name": "Drivers turning left must yield to:"
+        },
+        "assesses": "Drivers turning left must yield to: | Drivers turning left must yield to: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Drivers turning left must yield to oncoming vehicles that are driving straight ahead. A turning driver may only proceed when they can safely turn without affecting oncoming traffic.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Overtaking cars.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Overtaking cars."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Oncoming cars.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Oncoming cars."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "No one.",
+            "comment": {
+              "@type": "Comment",
+              "text": "No one."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Oncoming cars.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Oncoming cars."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Drivers turning left must yield to oncoming vehicles that are driving straight ahead. A turning driver may only proceed when they can safely turn without affecting oncoming traffic.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "Drivers turning left must yield to: | Drivers turning left must yield to oncoming vehicles that are driving straight ahead. A turning driver may only proceed when they can safely turn without affecting oncoming traffic."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "Drivers turning left must yield to: -  Real 2025 DMV Questions ",
+          "targetName": "Drivers turning left must yield to:",
+          "targetUrl": "https://www.dmv-written-test.com/question/drivers-turning-left-must-yield-to_nrDYYRPA.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "Drivers turning left must yield to:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "Drivers turning left must yield to:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "When you are merging onto the freeway, you should be driving:",
+        "about": {
+          "@type": "Thing",
+          "name": "When you are merging onto the freeway, you should be driving:"
+        },
+        "assesses": "When you are merging onto the freeway, you should be driving: | When you are merging onto the freeway, you should be driving: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "When merging onto a freeway, you should enter at or near the speed of traffic.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "At or near the speed of traffic on the freeway.",
+            "comment": {
+              "@type": "Comment",
+              "text": "At or near the speed of traffic on the freeway."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Five to 10 mph slower than the speed of traffic on the freeway.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Five to 10 mph slower than the speed of traffic on the freeway."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "The posted speed limit for freeway traffic.",
+            "comment": {
+              "@type": "Comment",
+              "text": "The posted speed limit for freeway traffic."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "At or near the speed of traffic on the freeway.",
+            "comment": {
+              "@type": "Comment",
+              "text": "At or near the speed of traffic on the freeway."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "When merging onto a freeway, you should enter at or near the speed of traffic.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "When you are merging onto the freeway, you should be driving: | When merging onto a freeway, you should enter at or near the speed of traffic."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "When you are merging onto the freeway, you should be driving: -  Real 2025 DMV Questions ",
+          "targetName": "When you are merging onto the freeway, you should be driving:",
+          "targetUrl": "https://www.dmv-written-test.com/question/when-you-are-merging-onto-the-freeway-you-should-be-driving_b2XlpdXY.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "When you are merging onto the freeway, you should be driving:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "When you are merging onto the freeway, you should be driving:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "It is against the law to enter an intersection when:",
+        "about": {
+          "@type": "Thing",
+          "name": "It is against the law to enter an intersection when:"
+        },
+        "assesses": "It is against the law to enter an intersection when: | It is against the law to enter an intersection when: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Do not enter an intersection if you cannot get completely across before the traffic signal light turns red. If you block the intersection, you can be cited.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "You can't get all the way across before the light turns red.",
+            "comment": {
+              "@type": "Comment",
+              "text": "You can't get all the way across before the light turns red."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "The light is flashing yellow and you didn't stop first.",
+            "comment": {
+              "@type": "Comment",
+              "text": "The light is flashing yellow and you didn't stop first."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "The light is yellow and you cannot stop safely.",
+            "comment": {
+              "@type": "Comment",
+              "text": "The light is yellow and you cannot stop safely."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "You can't get all the way across before the light turns red.",
+            "comment": {
+              "@type": "Comment",
+              "text": "You can't get all the way across before the light turns red."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Do not enter an intersection if you cannot get completely across before the traffic signal light turns red. If you block the intersection, you can be cited.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "It is against the law to enter an intersection when: | Do not enter an intersection if you cannot get completely across before the traffic signal light turns red. If you block the intersection, you can be cited."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "It is against the law to enter an intersection when: -  Real 2025 DMV Questions ",
+          "targetName": "It is against the law to enter an intersection when:",
+          "targetUrl": "https://www.dmv-written-test.com/question/it-is-against-the-law-to-enter-an-intersection-when_YWXbK9rQ.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "It is against the law to enter an intersection when:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "It is against the law to enter an intersection when:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "If you are about to be hit from the rear, you should consider each of the following, except for:",
+        "about": {
+          "@type": "Thing",
+          "name": "If you are about to be hit from the rear, you should consider each of the following, except for:"
+        },
+        "assesses": "If you are about to be hit from the rear, you should consider each of the following, except for: | If you are about to be hit from the rear, you should consider each of the following, except for: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "If your vehicle is hit from the rear while you are in forward motion, your body will be thrown backward. Press yourself against the back of your seat and put your head against the head restraint to prevent whiplash. Maintain a firm grip on the steering wheel and be ready to apply your brakes to avoid being pushed into another vehicle.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Applying your brakes.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Applying your brakes."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Letting go of the steering wheel.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Letting go of the steering wheel."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Pressing your head firmly against the head restraint.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Pressing your head firmly against the head restraint."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Letting go of the steering wheel.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Letting go of the steering wheel."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "If your vehicle is hit from the rear while you are in forward motion, your body will be thrown backward. Press yourself against the back of your seat and put your head against the head restraint to prevent whiplash. Maintain a firm grip on the steering wheel and be ready to apply your brakes to avoid being pushed into another vehicle.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "If you are about to be hit from the rear, you should consider each of the following, except for: | If your vehicle is hit from the rear while you are in forward motion, your body will be thrown backward. Press yourself against the back of your seat and put your head against the head restraint to prevent whiplash. Maintain a firm grip on the steering wheel and be ready to apply your brakes to avoid being pushed into another vehicle."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "If you are about to be hit from the rear, you should consider each of the following, except for: -  Real 2025 DMV Questions ",
+          "targetName": "If you are about to be hit from the rear, you should consider each of the following, except for:",
+          "targetUrl": "https://www.dmv-written-test.com/question/if-you-are-about-to-be-hit-from-the-rear-you-should-consider-each-of-the-following-except-for_b2XlwnyY.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "If you are about to be hit from the rear, you should consider each of the following, except for:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "If you are about to be hit from the rear, you should consider each of the following, except for:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "A white painted curb indicates a:",
+        "about": {
+          "@type": "Thing",
+          "name": "A white painted curb indicates a:"
+        },
+        "assesses": "A white painted curb indicates a: | A white painted curb indicates a: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "At a white painted curb, you may stop only long enough to pick up or drop off passengers or mail.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Loading zone for freight or passengers.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Loading zone for freight or passengers."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Loading zone for passengers or mail only.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Loading zone for passengers or mail only."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Loading zone for freight only.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Loading zone for freight only."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Loading zone for passengers or mail only.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Loading zone for passengers or mail only."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "At a white painted curb, you may stop only long enough to pick up or drop off passengers or mail.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "A white painted curb indicates a: | At a white painted curb, you may stop only long enough to pick up or drop off passengers or mail."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "A white painted curb indicates a: -  Real 2025 DMV Questions ",
+          "targetName": "A white painted curb indicates a:",
+          "targetUrl": "https://www.dmv-written-test.com/question/a-white-painted-curb-indicates-a_V0yqMEyO.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "A white painted curb indicates a:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "A white painted curb indicates a:"
+        }
+      }
+    ],
+    "abstract": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>.",
+    "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "assesses": "FREE California Permit Test 11 - Real 2025 DMV Test Questions | The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "url": "https://www.dmv-written-test.com/california/practice-test-11.html",
+    "isPartOf": {
+      "@context": "http://schema.org",
+      "@type": "CreativeWorkSeries",
+      "name": "FREE California Permit Test 11 - Real 2025 DMV Test Questions",
+      "issn": "california/practice-test-11.html",
+      "accessMode": "textOnVisual",
+      "about": {
+        "@type": "Thing",
+        "name": "FREE California Permit Test 11 - Real 2025 DMV Test Questions"
+      },
+      "lastReviewed": "2022-01-07T10:57:08.000000Z",
+      "mainContentOfPage": {
+        "@type": "WebPageElement",
+        "cssSelector": [
+          "#series-description"
+        ]
+      },
+      "aggregateRating": {
+        "@type": "aggregateRating",
+        "ratingValue": "4.8419",
+        "reviewCount": 1335,
+        "bestRating": 5,
+        "worstRating": 1
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "author": "DMV Written Test",
+        "name": "2025 California Permit Test 11",
+        "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>."
+      },
+      "significantLink": "https://cheat-sheets.dmv-written-test.com/en/california/car",
+      "specialty": "www.dmv-written-test.com",
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "name": "DMV Written Test",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "DMV Written Test",
+            "url": "https://www.dmv-written-test.com",
+            "item": {
+              "@id": "https://www.dmv-written-test.com",
+              "name": "DMV Written Test"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "california",
+            "url": "https://www.dmv-written-test.com/california",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california",
+              "name": "DMV Written Test 2025 California - DMV Practice Test - Real CA DMV Questions!"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "2025 California Permit Test 11",
+            "url": "https://www.dmv-written-test.com/california/practice-test-11.html",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california/practice-test-11.html",
+              "name": "2025 California Permit Test 11"
+            }
+          }
+        ]
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "xpath": [
+          "/html/head/title",
+          "/html/head/meta[@name='description']/@content"
+        ],
+        "url": "https://www.dmv-written-test.com/california/practice-test-11.html"
+      }
+    },
+    "provider": {
+      "@type": "Organization",
+      "name": "DMV Written Test",
+      "legalName": "Infinity Loop Capital LLC, CORP2000",
+      "slogan": "DMV",
+      "url": "https://www.dmv-written-test.com",
+      "email": "support@dmv-written-test.com",
+      "address": {
+        "@type": "PostalAddress",
+        "name": "Infinity Loop Capital LLC, CORP2000",
+        "addressLocality": "lindengasse 56/2",
+        "addressRegion": "32 West Loockerman Street, Suite 107, 19904 Dover DE"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": " ",
+        "contactType": "customer service"
+      },
+      "logo": {
+        "@type": "ImageObject",
+        "name": "DMV Written Test",
+        "url": "https://www.dmv-written-test.com/images/meta/logo.png",
+        "description": "DMV Written Test"
+      },
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "copyrightYear": "2025",
+    "dateCreated": "2021-11-23T12:41:48.000000Z",
+    "datePublished": "2021-11-23T12:41:48.000000Z",
+    "dateModified": "2022-01-07T10:57:08.000000Z",
+    "learningResourceType": "Car",
+    "educationalUse": "assignment",
+    "interactivityType": "mixed",
+    "accessMode": "textOnVisual",
+    "educationalLevel": "intermediate",
+    "typicalAgeRange": "16-72",
+    "educationalAlignment": {
+      "@type": "AlignmentObject",
+      "alignmentType": "educationalSubject",
+      "educationalFramework": "DMV Written Test",
+      "targetDescription": "DMV Written Test is the best at helping you pass your permit exam.  We only use real DMV questions on our practice tests and cheat sheets!",
+      "targetName": "DMV Written Test - DMV Practice Test 2025 - Real DMV Questions!",
+      "targetUrl": "https://www.dmv-written-test.com"
+    },
+    "image": {
+      "@type": "ImageObject",
+      "author": "DMV Written Test",
+      "name": "DMV Written Test",
+      "url": "https://www.dmv-written-test.com/images/meta/cover-1200x630.png",
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "inLanguage": {
+      "@type": "Language",
+      "name": "English",
+      "alternateName": "en"
+    }
+  }
+]

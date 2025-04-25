@@ -1,0 +1,651 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "Quiz",
+    "name": "FREE California Permit Test 4 - Real 2025 DMV Test Questions",
+    "headline": "2025 California Permit Test 4",
+    "alternativeHeadline": "2025 California Permit Test 4 | DMV Written Test",
+    "about": {
+      "@type": "Thing",
+      "name": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car."
+    },
+    "hasPart": [
+      {
+        "@type": "Question",
+        "name": "Adjust your rearview and side mirrors:",
+        "about": {
+          "@type": "Thing",
+          "name": "Adjust your rearview and side mirrors:"
+        },
+        "assesses": "Adjust your rearview and side mirrors: | Adjust your rearview and side mirrors: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Your safety and the safety of other drivers and pedestrians depends a lot on what you do before driving. Before moving your vehicle, you should adjust your seat, adjust your mirrors, fasten your safety belt, and secure items in and on your vehicle. Do not wait until your vehicle is moving to adjust your mirrors.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Before you start driving.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Before you start driving."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Whenever you need to use them.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Whenever you need to use them."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Before you get into the car.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Before you get into the car."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Before you start driving.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Before you start driving."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Your safety and the safety of other drivers and pedestrians depends a lot on what you do before driving. Before moving your vehicle, you should adjust your seat, adjust your mirrors, fasten your safety belt, and secure items in and on your vehicle. Do not wait until your vehicle is moving to adjust your mirrors.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "Adjust your rearview and side mirrors: | Your safety and the safety of other drivers and pedestrians depends a lot on what you do before driving. Before moving your vehicle, you should adjust your seat, adjust your mirrors, fasten your safety belt, and secure items in and on your vehicle. Do not wait until your vehicle is moving to adjust your mirrors."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "Adjust your rearview and side mirrors: -  Real 2025 DMV Questions ",
+          "targetName": "Adjust your rearview and side mirrors:",
+          "targetUrl": "https://www.dmv-written-test.com/question/adjust-your-rearview-and-side-mirrors_zXzpppPl.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "Adjust your rearview and side mirrors:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "Adjust your rearview and side mirrors:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Night driving presents unique problems because:",
+        "about": {
+          "@type": "Thing",
+          "name": "Night driving presents unique problems because:"
+        },
+        "assesses": "Night driving presents unique problems because: | Night driving presents unique problems because: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Night driving creates a unique set of problems for drivers. Due to the reduced visibility, it can be difficult to judge distance and the traveling speeds of other vehicles when driving at night. Drivers can see only as far as their headlights allow.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "The speed limit is increased at night.",
+            "comment": {
+              "@type": "Comment",
+              "text": "The speed limit is increased at night."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "There are fewer cars on the roads at night.",
+            "comment": {
+              "@type": "Comment",
+              "text": "There are fewer cars on the roads at night."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Distance and vehicle speed are difficult to judge in the dark.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Distance and vehicle speed are difficult to judge in the dark."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Distance and vehicle speed are difficult to judge in the dark.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Distance and vehicle speed are difficult to judge in the dark."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Night driving creates a unique set of problems for drivers. Due to the reduced visibility, it can be difficult to judge distance and the traveling speeds of other vehicles when driving at night. Drivers can see only as far as their headlights allow.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "Night driving presents unique problems because: | Night driving creates a unique set of problems for drivers. Due to the reduced visibility, it can be difficult to judge distance and the traveling speeds of other vehicles when driving at night. Drivers can see only as far as their headlights allow."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "Night driving presents unique problems because: -  Real 2025 DMV Questions ",
+          "targetName": "Night driving presents unique problems because:",
+          "targetUrl": "https://www.dmv-written-test.com/question/night-driving-presents-unique-problems-because_RnXgmNPp.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "Night driving presents unique problems because:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "Night driving presents unique problems because:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Which of the following driving skills is/are affected by the use of alcohol and/or drugs?",
+        "about": {
+          "@type": "Thing",
+          "name": "Which of the following driving skills is/are affected by the use of alcohol and/or drugs?"
+        },
+        "assesses": "Which of the following driving skills is/are affected by the use of alcohol and/or drugs? | Which of the following driving skills is/are affected by the use of alcohol and/or drugs? -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Alcohol and other drugs can negatively effect a number of skills needed for safe driving, including a driver's reaction time, coordination, alertness, and ability to concentrate.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Alertness.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Alertness."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Coordination.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Coordination."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Both of the above.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Both of the above."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Both of the above.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Both of the above."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Alcohol and other drugs can negatively effect a number of skills needed for safe driving, including a driver's reaction time, coordination, alertness, and ability to concentrate.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "Which of the following driving skills is/are affected by the use of alcohol and/or drugs? | Alcohol and other drugs can negatively effect a number of skills needed for safe driving, including a driver's reaction time, coordination, alertness, and ability to concentrate."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "Which of the following driving skills is/are affected by the use of alcohol and/or drugs? -  Real 2025 DMV Questions ",
+          "targetName": "Which of the following driving skills is/are affected by the use of alcohol and/or drugs?",
+          "targetUrl": "https://www.dmv-written-test.com/question/which-of-the-following-driving-skills-isare-affected-by-the-use-of-alcohol-andor-drugs_bVyvQjPG.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "Which of the following driving skills is/are affected by the use of alcohol and/or drugs?",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "Which of the following driving skills is/are affected by the use of alcohol and/or drugs?"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "If you miss your exit on the freeway, you should not:",
+        "about": {
+          "@type": "Thing",
+          "name": "If you miss your exit on the freeway, you should not:"
+        },
+        "assesses": "If you miss your exit on the freeway, you should not: | If you miss your exit on the freeway, you should not: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "If you miss your turn or exit, do not back up in the travel lane or on the shoulder. Continue to drive to the next exit or crossroad. Drivers do not expect a vehicle to be backing toward them on the roadway and doing so will likely cause a collision.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Continue on the freeway and find an alternate route to your destination.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Continue on the freeway and find an alternate route to your destination."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Proceed to the next exit, leave the freeway, and return to your proper exit. ",
+            "comment": {
+              "@type": "Comment",
+              "text": "Proceed to the next exit, leave the freeway, and return to your proper exit. "
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Back up on the road or shoulder.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Back up on the road or shoulder."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Back up on the road or shoulder.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Back up on the road or shoulder."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "If you miss your turn or exit, do not back up in the travel lane or on the shoulder. Continue to drive to the next exit or crossroad. Drivers do not expect a vehicle to be backing toward them on the roadway and doing so will likely cause a collision.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "If you miss your exit on the freeway, you should not: | If you miss your turn or exit, do not back up in the travel lane or on the shoulder. Continue to drive to the next exit or crossroad. Drivers do not expect a vehicle to be backing toward them on the roadway and doing so will likely cause a collision."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "If you miss your exit on the freeway, you should not: -  Real 2025 DMV Questions ",
+          "targetName": "If you miss your exit on the freeway, you should not:",
+          "targetUrl": "https://www.dmv-written-test.com/question/if-you-miss-your-exit-on-the-freeway-you-should-not_b2Xlx6XY.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "If you miss your exit on the freeway, you should not:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "If you miss your exit on the freeway, you should not:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "A pedestrian starts to cross the street after the \"Don't Walk\" signal begins to flash. The pedestrian is in the middle of the street when your signal light changes to green. You should:",
+        "about": {
+          "@type": "Thing",
+          "name": "A pedestrian starts to cross the street after the \"Don't Walk\" signal begins to flash. The pedestrian is in the middle of the street when your signal light changes to green. You should:"
+        },
+        "assesses": "A pedestrian starts to cross the street after the \"Don't Walk\" signal begins to flash. The pedestrian is in the middle of the street when your signal light changes to green. You should: | A pedestrian starts to cross the street after the \"Don't Walk\" signal begins to flash. The pedestrian is in the middle of the street when your signal light changes to green. You should: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "At a green light, you must give the right-of-way to any vehicle, bicyclist, or pedestrian in the intersection. If a pedestrian begins crossing the street after the traffic signal light starts flashing, wait until they have crossed the street before proceeding.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Proceed if you have the right-of-way.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Proceed if you have the right-of-way."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Proceed if the pedestrian is not in your lane.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Proceed if the pedestrian is not in your lane."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Wait until the pedestrian crosses the street before proceeding.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Wait until the pedestrian crosses the street before proceeding."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Wait until the pedestrian crosses the street before proceeding.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Wait until the pedestrian crosses the street before proceeding."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "At a green light, you must give the right-of-way to any vehicle, bicyclist, or pedestrian in the intersection. If a pedestrian begins crossing the street after the traffic signal light starts flashing, wait until they have crossed the street before proceeding.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "A pedestrian starts to cross the street after the \"Don't Walk\" signal begins to flash. The pedestrian is in the middle of the street when your signal light changes to green. You should: | At a green light, you must give the right-of-way to any vehicle, bicyclist, or pedestrian in the intersection. If a pedestrian begins crossing the street after the traffic signal light starts flashing, wait until they have crossed the street before proceeding."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "A pedestrian starts to cross the street after the \"Don't Walk\" signal begins to flash. The pedestrian is in the middle of the street when your signal light changes to green. You should: -  Real 2025 DMV Questions ",
+          "targetName": "A pedestrian starts to cross the street after the \"Don't Walk\" signal begins to flash. The pedestrian is in the middle of the street when your signal light changes to green. You should:",
+          "targetUrl": "https://www.dmv-written-test.com/question/a-pedestrian-starts-to-cross-the-street-after-the-dont-walk-signal-begins-to-flash-the-pedestrian-is-in-the-middle-of-the-street-when-your-signal-light-changes-to-green-you-should_7wXa1VXg.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "A pedestrian starts to cross the street after the \"Don't Walk\" signal begins to flash. The pedestrian is in the middle of the street when your signal light changes to green. You should:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "A pedestrian starts to cross the street after the \"Don't Walk\" signal begins to flash. The pedestrian is in the middle of the street when your signal light changes to green. You should:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is an important step in turning?",
+        "about": {
+          "@type": "Thing",
+          "name": "What is an important step in turning?"
+        },
+        "assesses": "What is an important step in turning? | What is an important step in turning? -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "When turning, you should look to the rear and both sides of your vehicle to ensure it is safe to proceed before making the turn. Adjust your speed to safely complete the turn.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Check traffic in all directions.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Check traffic in all directions."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Increase your speed.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Increase your speed."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Always move to the left lane.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Always move to the left lane."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Check traffic in all directions.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Check traffic in all directions."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "When turning, you should look to the rear and both sides of your vehicle to ensure it is safe to proceed before making the turn. Adjust your speed to safely complete the turn.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "What is an important step in turning? | When turning, you should look to the rear and both sides of your vehicle to ensure it is safe to proceed before making the turn. Adjust your speed to safely complete the turn."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "What is an important step in turning? -  Real 2025 DMV Questions ",
+          "targetName": "What is an important step in turning?",
+          "targetUrl": "https://www.dmv-written-test.com/question/what-is-an-important-step-in-turning_4RXoJgy6.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "What is an important step in turning?",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "What is an important step in turning?"
+        }
+      }
+    ],
+    "abstract": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>.",
+    "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "assesses": "FREE California Permit Test 4 - Real 2025 DMV Test Questions | The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "url": "https://www.dmv-written-test.com/california/practice-test-4.html",
+    "isPartOf": {
+      "@context": "http://schema.org",
+      "@type": "CreativeWorkSeries",
+      "name": "FREE California Permit Test 4 - Real 2025 DMV Test Questions",
+      "issn": "california/practice-test-4.html",
+      "accessMode": "textOnVisual",
+      "about": {
+        "@type": "Thing",
+        "name": "FREE California Permit Test 4 - Real 2025 DMV Test Questions"
+      },
+      "lastReviewed": "2024-02-29T15:02:58.000000Z",
+      "mainContentOfPage": {
+        "@type": "WebPageElement",
+        "cssSelector": [
+          "#series-description"
+        ]
+      },
+      "aggregateRating": {
+        "@type": "aggregateRating",
+        "ratingValue": "4.8250",
+        "reviewCount": 5703,
+        "bestRating": 5,
+        "worstRating": 1
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "author": "DMV Written Test",
+        "name": "2025 California Permit Test 4",
+        "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>."
+      },
+      "significantLink": "https://cheat-sheets.dmv-written-test.com/en/california/car",
+      "specialty": "www.dmv-written-test.com",
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "name": "DMV Written Test",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "DMV Written Test",
+            "url": "https://www.dmv-written-test.com",
+            "item": {
+              "@id": "https://www.dmv-written-test.com",
+              "name": "DMV Written Test"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "california",
+            "url": "https://www.dmv-written-test.com/california",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california",
+              "name": "DMV Written Test 2025 California - DMV Practice Test - Real CA DMV Questions!"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "2025 California Permit Test 4",
+            "url": "https://www.dmv-written-test.com/california/practice-test-4.html",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california/practice-test-4.html",
+              "name": "2025 California Permit Test 4"
+            }
+          }
+        ]
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "xpath": [
+          "/html/head/title",
+          "/html/head/meta[@name='description']/@content"
+        ],
+        "url": "https://www.dmv-written-test.com/california/practice-test-4.html"
+      }
+    },
+    "provider": {
+      "@type": "Organization",
+      "name": "DMV Written Test",
+      "legalName": "Infinity Loop Capital LLC, CORP2000",
+      "slogan": "DMV",
+      "url": "https://www.dmv-written-test.com",
+      "email": "support@dmv-written-test.com",
+      "address": {
+        "@type": "PostalAddress",
+        "name": "Infinity Loop Capital LLC, CORP2000",
+        "addressLocality": "lindengasse 56/2",
+        "addressRegion": "32 West Loockerman Street, Suite 107, 19904 Dover DE"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": " ",
+        "contactType": "customer service"
+      },
+      "logo": {
+        "@type": "ImageObject",
+        "name": "DMV Written Test",
+        "url": "https://www.dmv-written-test.com/images/meta/logo.png",
+        "description": "DMV Written Test"
+      },
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "copyrightYear": "2025",
+    "dateCreated": "2021-11-23T12:41:44.000000Z",
+    "datePublished": "2021-11-23T12:41:44.000000Z",
+    "dateModified": "2024-02-29T15:02:58.000000Z",
+    "learningResourceType": "Car",
+    "educationalUse": "assignment",
+    "interactivityType": "mixed",
+    "accessMode": "textOnVisual",
+    "educationalLevel": "intermediate",
+    "typicalAgeRange": "16-72",
+    "educationalAlignment": {
+      "@type": "AlignmentObject",
+      "alignmentType": "educationalSubject",
+      "educationalFramework": "DMV Written Test",
+      "targetDescription": "DMV Written Test is the best at helping you pass your permit exam.  We only use real DMV questions on our practice tests and cheat sheets!",
+      "targetName": "DMV Written Test - DMV Practice Test 2025 - Real DMV Questions!",
+      "targetUrl": "https://www.dmv-written-test.com"
+    },
+    "image": {
+      "@type": "ImageObject",
+      "author": "DMV Written Test",
+      "name": "DMV Written Test",
+      "url": "https://www.dmv-written-test.com/images/meta/cover-1200x630.png",
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "inLanguage": {
+      "@type": "Language",
+      "name": "English",
+      "alternateName": "en"
+    }
+  }
+]

@@ -1,0 +1,651 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "Quiz",
+    "name": "FREE California Permit Test 3 - Real 2025 DMV Test Questions",
+    "headline": "2025 California Permit Test 3",
+    "alternativeHeadline": "2025 California Permit Test 3 | DMV Written Test",
+    "about": {
+      "@type": "Thing",
+      "name": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car."
+    },
+    "hasPart": [
+      {
+        "@type": "Question",
+        "name": "On a multilane road, a dashed yellow line next to a solid yellow line means:",
+        "about": {
+          "@type": "Thing",
+          "name": "On a multilane road, a dashed yellow line next to a solid yellow line means:"
+        },
+        "assesses": "On a multilane road, a dashed yellow line next to a solid yellow line means: | On a multilane road, a dashed yellow line next to a solid yellow line means: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Where there are both solid and dashed yellow lines between lanes of traffic, only traffic directly next to the dashed line may cross the centerline to pass. Drivers next to the solid line may not pass.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Passing is prohibited from both directions.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Passing is prohibited from both directions."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Passing is permitted from both directions.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Passing is permitted from both directions."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Passing is permitted only from the direction next to the dashed line.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Passing is permitted only from the direction next to the dashed line."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Passing is permitted only from the direction next to the dashed line.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Passing is permitted only from the direction next to the dashed line."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Where there are both solid and dashed yellow lines between lanes of traffic, only traffic directly next to the dashed line may cross the centerline to pass. Drivers next to the solid line may not pass.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "On a multilane road, a dashed yellow line next to a solid yellow line means: | Where there are both solid and dashed yellow lines between lanes of traffic, only traffic directly next to the dashed line may cross the centerline to pass. Drivers next to the solid line may not pass."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "On a multilane road, a dashed yellow line next to a solid yellow line means: -  Real 2025 DMV Questions ",
+          "targetName": "On a multilane road, a dashed yellow line next to a solid yellow line means:",
+          "targetUrl": "https://www.dmv-written-test.com/question/on-a-multilane-road-a-dashed-yellow-line-next-to-a-solid-yellow-line-means_ElPZBqP2.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "On a multilane road, a dashed yellow line next to a solid yellow line means:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "On a multilane road, a dashed yellow line next to a solid yellow line means:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Tailgating other drivers (driving too closely to their rear bumper):",
+        "about": {
+          "@type": "Thing",
+          "name": "Tailgating other drivers (driving too closely to their rear bumper):"
+        },
+        "assesses": "Tailgating other drivers (driving too closely to their rear bumper): | Tailgating other drivers (driving too closely to their rear bumper): -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Tailgating is a common behavior that can lead to aggressive driving, and so it should be avoided. Drivers may face legal consequences for driving unsafely. ",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Can frustrate other drivers and make them angry.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Can frustrate other drivers and make them angry."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Cannot result in a traffic citation.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Cannot result in a traffic citation."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Reduces collisions by preventing being \"cut off.\"",
+            "comment": {
+              "@type": "Comment",
+              "text": "Reduces collisions by preventing being \"cut off.\""
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Can frustrate other drivers and make them angry.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Can frustrate other drivers and make them angry."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Tailgating is a common behavior that can lead to aggressive driving, and so it should be avoided. Drivers may face legal consequences for driving unsafely. ",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "Tailgating other drivers (driving too closely to their rear bumper): | Tailgating is a common behavior that can lead to aggressive driving, and so it should be avoided. Drivers may face legal consequences for driving unsafely. "
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "Tailgating other drivers (driving too closely to their rear bumper): -  Real 2025 DMV Questions ",
+          "targetName": "Tailgating other drivers (driving too closely to their rear bumper):",
+          "targetUrl": "https://www.dmv-written-test.com/question/tailgating-other-drivers-driving-too-closely-to-their-rear-bumper_YWXbYyQm.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "Tailgating other drivers (driving too closely to their rear bumper):",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "Tailgating other drivers (driving too closely to their rear bumper):"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "If you are continually being passed on the right and the left while driving in the center lane of an expressway, you should:",
+        "about": {
+          "@type": "Thing",
+          "name": "If you are continually being passed on the right and the left while driving in the center lane of an expressway, you should:"
+        },
+        "assesses": "If you are continually being passed on the right and the left while driving in the center lane of an expressway, you should: | If you are continually being passed on the right and the left while driving in the center lane of an expressway, you should: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "If a road has four or more lanes with two-way traffic, drive in the right lanes unless you are passing or turning left. If you are on an interstate highway and are driving below the speed of the flow of traffic, use the right lane.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Stay in the center lane.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Stay in the center lane."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Move to the lane on your right.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Move to the lane on your right."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Move to the lane on your left.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Move to the lane on your left."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Move to the lane on your right.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Move to the lane on your right."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "If a road has four or more lanes with two-way traffic, drive in the right lanes unless you are passing or turning left. If you are on an interstate highway and are driving below the speed of the flow of traffic, use the right lane.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "If you are continually being passed on the right and the left while driving in the center lane of an expressway, you should: | If a road has four or more lanes with two-way traffic, drive in the right lanes unless you are passing or turning left. If you are on an interstate highway and are driving below the speed of the flow of traffic, use the right lane."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "If you are continually being passed on the right and the left while driving in the center lane of an expressway, you should: -  Real 2025 DMV Questions ",
+          "targetName": "If you are continually being passed on the right and the left while driving in the center lane of an expressway, you should:",
+          "targetUrl": "https://www.dmv-written-test.com/question/if-you-are-continually-being-passed-on-the-right-and-the-left-while-driving-in-the-center-lane-of-an-expressway-you-should_KzP7zqr6.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "If you are continually being passed on the right and the left while driving in the center lane of an expressway, you should:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "If you are continually being passed on the right and the left while driving in the center lane of an expressway, you should:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Sudden wind gusts on highways:",
+        "about": {
+          "@type": "Thing",
+          "name": "Sudden wind gusts on highways:"
+        },
+        "assesses": "Sudden wind gusts on highways: | Sudden wind gusts on highways: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "While it can create special problems for large vehicles, strong wind can cause problems for all drivers. Wind can lower visibility by blowing dirt and dust into the roadway, but it can sometimes also physically move a vehicle.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Generally affect only the movement of large vehicles.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Generally affect only the movement of large vehicles."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Only cause visibility problems.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Only cause visibility problems."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Can cause problems for all vehicles.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Can cause problems for all vehicles."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Can cause problems for all vehicles.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Can cause problems for all vehicles."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "While it can create special problems for large vehicles, strong wind can cause problems for all drivers. Wind can lower visibility by blowing dirt and dust into the roadway, but it can sometimes also physically move a vehicle.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "Sudden wind gusts on highways: | While it can create special problems for large vehicles, strong wind can cause problems for all drivers. Wind can lower visibility by blowing dirt and dust into the roadway, but it can sometimes also physically move a vehicle."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "Sudden wind gusts on highways: -  Real 2025 DMV Questions ",
+          "targetName": "Sudden wind gusts on highways:",
+          "targetUrl": "https://www.dmv-written-test.com/question/sudden-wind-gusts-on-highways_7wXa5jXg.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "Sudden wind gusts on highways:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "Sudden wind gusts on highways:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "When passing another vehicle, you should return to your original lane when:",
+        "about": {
+          "@type": "Thing",
+          "name": "When passing another vehicle, you should return to your original lane when:"
+        },
+        "assesses": "When passing another vehicle, you should return to your original lane when: | When passing another vehicle, you should return to your original lane when: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "When passing another vehicle, move back into your original lane only when you can see the passed vehicle’s headlights in your rearview mirror. This ensures that you will have enough room to safely pull back in front of the other vehicle.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "You can see both headlights of the passed vehicle in your rearview mirror. ",
+            "comment": {
+              "@type": "Comment",
+              "text": "You can see both headlights of the passed vehicle in your rearview mirror. "
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "You have cleared the front bumper of the passed vehicle. ",
+            "comment": {
+              "@type": "Comment",
+              "text": "You have cleared the front bumper of the passed vehicle. "
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "You are 50 feet in front of the passed vehicle.",
+            "comment": {
+              "@type": "Comment",
+              "text": "You are 50 feet in front of the passed vehicle."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "You can see both headlights of the passed vehicle in your rearview mirror. ",
+            "comment": {
+              "@type": "Comment",
+              "text": "You can see both headlights of the passed vehicle in your rearview mirror. "
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "When passing another vehicle, move back into your original lane only when you can see the passed vehicle’s headlights in your rearview mirror. This ensures that you will have enough room to safely pull back in front of the other vehicle.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "When passing another vehicle, you should return to your original lane when: | When passing another vehicle, move back into your original lane only when you can see the passed vehicle’s headlights in your rearview mirror. This ensures that you will have enough room to safely pull back in front of the other vehicle."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "When passing another vehicle, you should return to your original lane when: -  Real 2025 DMV Questions ",
+          "targetName": "When passing another vehicle, you should return to your original lane when:",
+          "targetUrl": "https://www.dmv-written-test.com/question/when-passing-another-vehicle-you-should-return-to-your-original-lane-when_oOykWzyB.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "When passing another vehicle, you should return to your original lane when:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "When passing another vehicle, you should return to your original lane when:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What should you do at an intersection with a flashing yellow signal light?",
+        "about": {
+          "@type": "Thing",
+          "name": "What should you do at an intersection with a flashing yellow signal light?"
+        },
+        "assesses": "What should you do at an intersection with a flashing yellow signal light? | What should you do at an intersection with a flashing yellow signal light? -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Slow down and be alert before entering the intersection. Yield to any pedestrians, bicyclists, or vehicles in the intersection. You do not need to stop for a flashing yellow traffic signal light.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Maintain your speed but watch for other vehicles.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Maintain your speed but watch for other vehicles."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Stop before crossing the intersection.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Stop before crossing the intersection."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Slow down and cross the intersection carefully.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Slow down and cross the intersection carefully."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Slow down and cross the intersection carefully.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Slow down and cross the intersection carefully."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Slow down and be alert before entering the intersection. Yield to any pedestrians, bicyclists, or vehicles in the intersection. You do not need to stop for a flashing yellow traffic signal light.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "What should you do at an intersection with a flashing yellow signal light? | Slow down and be alert before entering the intersection. Yield to any pedestrians, bicyclists, or vehicles in the intersection. You do not need to stop for a flashing yellow traffic signal light."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "What should you do at an intersection with a flashing yellow signal light? -  Real 2025 DMV Questions ",
+          "targetName": "What should you do at an intersection with a flashing yellow signal light?",
+          "targetUrl": "https://www.dmv-written-test.com/question/what-should-you-do-at-an-intersection-with-a-flashing-yellow-signal-light_VlPRJMPa.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "What should you do at an intersection with a flashing yellow signal light?",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "What should you do at an intersection with a flashing yellow signal light?"
+        }
+      }
+    ],
+    "abstract": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>.",
+    "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "assesses": "FREE California Permit Test 3 - Real 2025 DMV Test Questions | The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "url": "https://www.dmv-written-test.com/california/practice-test-3.html",
+    "isPartOf": {
+      "@context": "http://schema.org",
+      "@type": "CreativeWorkSeries",
+      "name": "FREE California Permit Test 3 - Real 2025 DMV Test Questions",
+      "issn": "california/practice-test-3.html",
+      "accessMode": "textOnVisual",
+      "about": {
+        "@type": "Thing",
+        "name": "FREE California Permit Test 3 - Real 2025 DMV Test Questions"
+      },
+      "lastReviewed": "2025-01-10T09:26:54.000000Z",
+      "mainContentOfPage": {
+        "@type": "WebPageElement",
+        "cssSelector": [
+          "#series-description"
+        ]
+      },
+      "aggregateRating": {
+        "@type": "aggregateRating",
+        "ratingValue": "4.7800",
+        "reviewCount": 8592,
+        "bestRating": 5,
+        "worstRating": 1
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "author": "DMV Written Test",
+        "name": "2025 California Permit Test 3",
+        "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>."
+      },
+      "significantLink": "https://cheat-sheets.dmv-written-test.com/en/california/car",
+      "specialty": "www.dmv-written-test.com",
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "name": "DMV Written Test",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "DMV Written Test",
+            "url": "https://www.dmv-written-test.com",
+            "item": {
+              "@id": "https://www.dmv-written-test.com",
+              "name": "DMV Written Test"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "california",
+            "url": "https://www.dmv-written-test.com/california",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california",
+              "name": "DMV Written Test 2025 California - DMV Practice Test - Real CA DMV Questions!"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "2025 California Permit Test 3",
+            "url": "https://www.dmv-written-test.com/california/practice-test-3.html",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california/practice-test-3.html",
+              "name": "2025 California Permit Test 3"
+            }
+          }
+        ]
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "xpath": [
+          "/html/head/title",
+          "/html/head/meta[@name='description']/@content"
+        ],
+        "url": "https://www.dmv-written-test.com/california/practice-test-3.html"
+      }
+    },
+    "provider": {
+      "@type": "Organization",
+      "name": "DMV Written Test",
+      "legalName": "Infinity Loop Capital LLC, CORP2000",
+      "slogan": "DMV",
+      "url": "https://www.dmv-written-test.com",
+      "email": "support@dmv-written-test.com",
+      "address": {
+        "@type": "PostalAddress",
+        "name": "Infinity Loop Capital LLC, CORP2000",
+        "addressLocality": "lindengasse 56/2",
+        "addressRegion": "32 West Loockerman Street, Suite 107, 19904 Dover DE"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": " ",
+        "contactType": "customer service"
+      },
+      "logo": {
+        "@type": "ImageObject",
+        "name": "DMV Written Test",
+        "url": "https://www.dmv-written-test.com/images/meta/logo.png",
+        "description": "DMV Written Test"
+      },
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "copyrightYear": "2025",
+    "dateCreated": "2021-11-23T12:41:44.000000Z",
+    "datePublished": "2021-11-23T12:41:44.000000Z",
+    "dateModified": "2025-01-10T09:26:54.000000Z",
+    "learningResourceType": "Car",
+    "educationalUse": "assignment",
+    "interactivityType": "mixed",
+    "accessMode": "textOnVisual",
+    "educationalLevel": "intermediate",
+    "typicalAgeRange": "16-72",
+    "educationalAlignment": {
+      "@type": "AlignmentObject",
+      "alignmentType": "educationalSubject",
+      "educationalFramework": "DMV Written Test",
+      "targetDescription": "DMV Written Test is the best at helping you pass your permit exam.  We only use real DMV questions on our practice tests and cheat sheets!",
+      "targetName": "DMV Written Test - DMV Practice Test 2025 - Real DMV Questions!",
+      "targetUrl": "https://www.dmv-written-test.com"
+    },
+    "image": {
+      "@type": "ImageObject",
+      "author": "DMV Written Test",
+      "name": "DMV Written Test",
+      "url": "https://www.dmv-written-test.com/images/meta/cover-1200x630.png",
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "inLanguage": {
+      "@type": "Language",
+      "name": "English",
+      "alternateName": "en"
+    }
+  }
+]

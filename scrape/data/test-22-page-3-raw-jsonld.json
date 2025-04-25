@@ -1,0 +1,651 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "Quiz",
+    "name": "FREE California Permit Test 22 - Real 2025 DMV Test Questions",
+    "headline": "2025 California Permit Test 22",
+    "alternativeHeadline": "2025 California Permit Test 22 | DMV Written Test",
+    "about": {
+      "@type": "Thing",
+      "name": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car."
+    },
+    "hasPart": [
+      {
+        "@type": "Question",
+        "name": "When changing lanes:",
+        "about": {
+          "@type": "Thing",
+          "name": "When changing lanes:"
+        },
+        "assesses": "When changing lanes: | When changing lanes: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "When changing lanes, glance over your shoulder to check for traffic in your blind spot. You may need to look several times before changing lanes. You must keep track of what traffic is doing in front of you as well as what traffic is doing in the lane next to you.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Rely on the rearview mirror.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Rely on the rearview mirror."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Look over your shoulder in the direction you plan to move.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Look over your shoulder in the direction you plan to move."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Rely on the left side mirror.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Rely on the left side mirror."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Look over your shoulder in the direction you plan to move.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Look over your shoulder in the direction you plan to move."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "When changing lanes, glance over your shoulder to check for traffic in your blind spot. You may need to look several times before changing lanes. You must keep track of what traffic is doing in front of you as well as what traffic is doing in the lane next to you.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "When changing lanes: | When changing lanes, glance over your shoulder to check for traffic in your blind spot. You may need to look several times before changing lanes. You must keep track of what traffic is doing in front of you as well as what traffic is doing in the lane next to you."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "When changing lanes: -  Real 2025 DMV Questions ",
+          "targetName": "When changing lanes:",
+          "targetUrl": "https://www.dmv-written-test.com/question/when-changing-lanes_eX8QQwrk.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "When changing lanes:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "When changing lanes:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "This road sign means:",
+        "about": {
+          "@type": "Thing",
+          "name": "This road sign means:"
+        },
+        "assesses": "This road sign means: | This road sign means: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images-car/maryland-side_road_enters_ahead.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Warning signs provide notice to road users of a situation that might not be readily apparent and are usually yellow with black markings. This warning sign tells drivers to be alert to an intersecting side road ahead.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "All traffic must turn right.",
+            "comment": {
+              "@type": "Comment",
+              "text": "All traffic must turn right."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "All traffic must go straight.",
+            "comment": {
+              "@type": "Comment",
+              "text": "All traffic must go straight."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "A side road intersects ahead.",
+            "comment": {
+              "@type": "Comment",
+              "text": "A side road intersects ahead."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "A side road intersects ahead.",
+            "comment": {
+              "@type": "Comment",
+              "text": "A side road intersects ahead."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Warning signs provide notice to road users of a situation that might not be readily apparent and are usually yellow with black markings. This warning sign tells drivers to be alert to an intersecting side road ahead.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "This road sign means: | Warning signs provide notice to road users of a situation that might not be readily apparent and are usually yellow with black markings. This warning sign tells drivers to be alert to an intersecting side road ahead."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "This road sign means: -  Real 2025 DMV Questions ",
+          "targetName": "This road sign means:",
+          "targetUrl": "https://www.dmv-written-test.com/question/this-road-sign-means_pWXj7Kre.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "This road sign means:",
+          "url": "https://www.dmv-written-test.com/images-car/maryland-side_road_enters_ahead.png",
+          "description": "This road sign means:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "When changing lanes on a freeway, you should:",
+        "about": {
+          "@type": "Thing",
+          "name": "When changing lanes on a freeway, you should:"
+        },
+        "assesses": "When changing lanes on a freeway, you should: | When changing lanes on a freeway, you should: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Signal at least five seconds prior to a changing lanes on a freeway. Always signal when turning left or right, changing lanes, slowing down, or stopping to let other drivers, motorcyclists, bicyclists, and pedestrians know your intentions.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Signal for at least five seconds.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Signal for at least five seconds."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Slow down before you start to change lanes.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Slow down before you start to change lanes."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Assume there is enough space in the next lane for your vehicle, if you signal first.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Assume there is enough space in the next lane for your vehicle, if you signal first."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Signal for at least five seconds.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Signal for at least five seconds."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Signal at least five seconds prior to a changing lanes on a freeway. Always signal when turning left or right, changing lanes, slowing down, or stopping to let other drivers, motorcyclists, bicyclists, and pedestrians know your intentions.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "When changing lanes on a freeway, you should: | Signal at least five seconds prior to a changing lanes on a freeway. Always signal when turning left or right, changing lanes, slowing down, or stopping to let other drivers, motorcyclists, bicyclists, and pedestrians know your intentions."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "When changing lanes on a freeway, you should: -  Real 2025 DMV Questions ",
+          "targetName": "When changing lanes on a freeway, you should:",
+          "targetUrl": "https://www.dmv-written-test.com/question/when-changing-lanes-on-a-freeway-you-should_LBXp6lP9.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "When changing lanes on a freeway, you should:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "When changing lanes on a freeway, you should:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Which of the following roadways freeze first when wet?",
+        "about": {
+          "@type": "Thing",
+          "name": "Which of the following roadways freeze first when wet?"
+        },
+        "assesses": "Which of the following roadways freeze first when wet? | Which of the following roadways freeze first when wet? -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Bridges and overpasses tend to freeze before the rest of the road does.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Bridges and overpasses",
+            "comment": {
+              "@type": "Comment",
+              "text": "Bridges and overpasses"
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Intersections",
+            "comment": {
+              "@type": "Comment",
+              "text": "Intersections"
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Tunnels",
+            "comment": {
+              "@type": "Comment",
+              "text": "Tunnels"
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Bridges and overpasses",
+            "comment": {
+              "@type": "Comment",
+              "text": "Bridges and overpasses"
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Bridges and overpasses tend to freeze before the rest of the road does.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "Which of the following roadways freeze first when wet? | Bridges and overpasses tend to freeze before the rest of the road does."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "Which of the following roadways freeze first when wet? -  Real 2025 DMV Questions ",
+          "targetName": "Which of the following roadways freeze first when wet?",
+          "targetUrl": "https://www.dmv-written-test.com/question/which-of-the-following-roadways-freeze-first-when-wet_LMPn8bXR.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "Which of the following roadways freeze first when wet?",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "Which of the following roadways freeze first when wet?"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Which of these statements is true about roadwork zones?",
+        "about": {
+          "@type": "Thing",
+          "name": "Which of these statements is true about roadwork zones?"
+        },
+        "assesses": "Which of these statements is true about roadwork zones? | Which of these statements is true about roadwork zones? -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Reduce your speed and be prepared to slow down or stop for highway equipment. Driving carefully through work zones improves safety for drivers, pedestrians, bicyclists, and road workers.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Fines are the same for violations committed in work zones as they are under normal traffic conditions.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Fines are the same for violations committed in work zones as they are under normal traffic conditions."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "You must \"Slow for the Cone Zone.\"",
+            "comment": {
+              "@type": "Comment",
+              "text": "You must \"Slow for the Cone Zone.\""
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Slow down only if you think workers are present.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Slow down only if you think workers are present."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "You must \"Slow for the Cone Zone.\"",
+            "comment": {
+              "@type": "Comment",
+              "text": "You must \"Slow for the Cone Zone.\""
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Reduce your speed and be prepared to slow down or stop for highway equipment. Driving carefully through work zones improves safety for drivers, pedestrians, bicyclists, and road workers.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "Which of these statements is true about roadwork zones? | Reduce your speed and be prepared to slow down or stop for highway equipment. Driving carefully through work zones improves safety for drivers, pedestrians, bicyclists, and road workers."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "Which of these statements is true about roadwork zones? -  Real 2025 DMV Questions ",
+          "targetName": "Which of these statements is true about roadwork zones?",
+          "targetUrl": "https://www.dmv-written-test.com/question/which-of-these-statements-is-true-about-roadwork-zones_RnXgnNyp.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "Which of these statements is true about roadwork zones?",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "Which of these statements is true about roadwork zones?"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "While all of the following actions are dangerous to do while driving, which is also illegal? ",
+        "about": {
+          "@type": "Thing",
+          "name": "While all of the following actions are dangerous to do while driving, which is also illegal? "
+        },
+        "assesses": "While all of the following actions are dangerous to do while driving, which is also illegal?  | While all of the following actions are dangerous to do while driving, which is also illegal?  -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Listening to music through a set of dual headphones is dangerous and illegal. ",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Listening to music through a set of dual headphones.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Listening to music through a set of dual headphones."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Adjusting your outside mirrors.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Adjusting your outside mirrors."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Reading a road map.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Reading a road map."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Listening to music through a set of dual headphones.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Listening to music through a set of dual headphones."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Listening to music through a set of dual headphones is dangerous and illegal. ",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "While all of the following actions are dangerous to do while driving, which is also illegal?  | Listening to music through a set of dual headphones is dangerous and illegal. "
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "While all of the following actions are dangerous to do while driving, which is also illegal?  -  Real 2025 DMV Questions ",
+          "targetName": "While all of the following actions are dangerous to do while driving, which is also illegal? ",
+          "targetUrl": "https://www.dmv-written-test.com/question/while-all-of-the-following-actions-are-dangerous-to-do-while-driving-which-is-also-illegal_pWXjKreR.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "While all of the following actions are dangerous to do while driving, which is also illegal? ",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "While all of the following actions are dangerous to do while driving, which is also illegal? "
+        }
+      }
+    ],
+    "abstract": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>.",
+    "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "assesses": "FREE California Permit Test 22 - Real 2025 DMV Test Questions | The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "url": "https://www.dmv-written-test.com/california/practice-test-22.html",
+    "isPartOf": {
+      "@context": "http://schema.org",
+      "@type": "CreativeWorkSeries",
+      "name": "FREE California Permit Test 22 - Real 2025 DMV Test Questions",
+      "issn": "california/practice-test-22.html",
+      "accessMode": "textOnVisual",
+      "about": {
+        "@type": "Thing",
+        "name": "FREE California Permit Test 22 - Real 2025 DMV Test Questions"
+      },
+      "lastReviewed": "2022-01-07T10:57:08.000000Z",
+      "mainContentOfPage": {
+        "@type": "WebPageElement",
+        "cssSelector": [
+          "#series-description"
+        ]
+      },
+      "aggregateRating": {
+        "@type": "aggregateRating",
+        "ratingValue": "4.4634",
+        "reviewCount": 41,
+        "bestRating": 5,
+        "worstRating": 1
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "author": "DMV Written Test",
+        "name": "2025 California Permit Test 22",
+        "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>."
+      },
+      "significantLink": "https://cheat-sheets.dmv-written-test.com/en/california/car",
+      "specialty": "www.dmv-written-test.com",
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "name": "DMV Written Test",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "DMV Written Test",
+            "url": "https://www.dmv-written-test.com",
+            "item": {
+              "@id": "https://www.dmv-written-test.com",
+              "name": "DMV Written Test"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "california",
+            "url": "https://www.dmv-written-test.com/california",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california",
+              "name": "DMV Written Test 2025 California - DMV Practice Test - Real CA DMV Questions!"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "2025 California Permit Test 22",
+            "url": "https://www.dmv-written-test.com/california/practice-test-22.html",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california/practice-test-22.html",
+              "name": "2025 California Permit Test 22"
+            }
+          }
+        ]
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "xpath": [
+          "/html/head/title",
+          "/html/head/meta[@name='description']/@content"
+        ],
+        "url": "https://www.dmv-written-test.com/california/practice-test-22.html"
+      }
+    },
+    "provider": {
+      "@type": "Organization",
+      "name": "DMV Written Test",
+      "legalName": "Infinity Loop Capital LLC, CORP2000",
+      "slogan": "DMV",
+      "url": "https://www.dmv-written-test.com",
+      "email": "support@dmv-written-test.com",
+      "address": {
+        "@type": "PostalAddress",
+        "name": "Infinity Loop Capital LLC, CORP2000",
+        "addressLocality": "lindengasse 56/2",
+        "addressRegion": "32 West Loockerman Street, Suite 107, 19904 Dover DE"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": " ",
+        "contactType": "customer service"
+      },
+      "logo": {
+        "@type": "ImageObject",
+        "name": "DMV Written Test",
+        "url": "https://www.dmv-written-test.com/images/meta/logo.png",
+        "description": "DMV Written Test"
+      },
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "copyrightYear": "2025",
+    "dateCreated": "2021-11-23T12:41:53.000000Z",
+    "datePublished": "2021-11-23T12:41:53.000000Z",
+    "dateModified": "2022-01-07T10:57:08.000000Z",
+    "learningResourceType": "Car",
+    "educationalUse": "assignment",
+    "interactivityType": "mixed",
+    "accessMode": "textOnVisual",
+    "educationalLevel": "intermediate",
+    "typicalAgeRange": "16-72",
+    "educationalAlignment": {
+      "@type": "AlignmentObject",
+      "alignmentType": "educationalSubject",
+      "educationalFramework": "DMV Written Test",
+      "targetDescription": "DMV Written Test is the best at helping you pass your permit exam.  We only use real DMV questions on our practice tests and cheat sheets!",
+      "targetName": "DMV Written Test - DMV Practice Test 2025 - Real DMV Questions!",
+      "targetUrl": "https://www.dmv-written-test.com"
+    },
+    "image": {
+      "@type": "ImageObject",
+      "author": "DMV Written Test",
+      "name": "DMV Written Test",
+      "url": "https://www.dmv-written-test.com/images/meta/cover-1200x630.png",
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "inLanguage": {
+      "@type": "Language",
+      "name": "English",
+      "alternateName": "en"
+    }
+  }
+]

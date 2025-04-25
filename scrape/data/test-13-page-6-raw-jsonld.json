@@ -1,0 +1,651 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "Quiz",
+    "name": "FREE California Permit Test 13 - Real 2025 DMV Test Questions",
+    "headline": "2025 California Permit Test 13",
+    "alternativeHeadline": "2025 California Permit Test 13 | DMV Written Test",
+    "about": {
+      "@type": "Thing",
+      "name": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car."
+    },
+    "hasPart": [
+      {
+        "@type": "Question",
+        "name": "If a traffic signal light is not working, you must:",
+        "about": {
+          "@type": "Thing",
+          "name": "If a traffic signal light is not working, you must:"
+        },
+        "assesses": "If a traffic signal light is not working, you must: | If a traffic signal light is not working, you must: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "If a traffic signal is not working and no lights are showing, you should proceed cautiously as if the intersection is controlled by stop signs in all directions.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Stop, then proceed when safe.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Stop, then proceed when safe."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Stop before entering the intersection and let all other traffic go first.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Stop before entering the intersection and let all other traffic go first."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Slow down or stop, only if necessary.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Slow down or stop, only if necessary."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Stop, then proceed when safe.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Stop, then proceed when safe."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "If a traffic signal is not working and no lights are showing, you should proceed cautiously as if the intersection is controlled by stop signs in all directions.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "If a traffic signal light is not working, you must: | If a traffic signal is not working and no lights are showing, you should proceed cautiously as if the intersection is controlled by stop signs in all directions."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "If a traffic signal light is not working, you must: -  Real 2025 DMV Questions ",
+          "targetName": "If a traffic signal light is not working, you must:",
+          "targetUrl": "https://www.dmv-written-test.com/question/if-a-traffic-signal-light-is-not-working-you-must_WZyONPzE.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "If a traffic signal light is not working, you must:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "If a traffic signal light is not working, you must:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "If you see a pedestrian using a guide dog or carrying a white cane:",
+        "about": {
+          "@type": "Thing",
+          "name": "If you see a pedestrian using a guide dog or carrying a white cane:"
+        },
+        "assesses": "If you see a pedestrian using a guide dog or carrying a white cane: | If you see a pedestrian using a guide dog or carrying a white cane: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Blind or partially blind pedestrians may carry a white cane or use the assistance of a guide dog. You must yield the right-of-way to a pedestrian with a guide dog or a white cane.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "The pedestrian must yield the right-of-way.",
+            "comment": {
+              "@type": "Comment",
+              "text": "The pedestrian must yield the right-of-way."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "You must yield the right-of-way.",
+            "comment": {
+              "@type": "Comment",
+              "text": "You must yield the right-of-way."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Honk your horn to let them know you are there.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Honk your horn to let them know you are there."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "You must yield the right-of-way.",
+            "comment": {
+              "@type": "Comment",
+              "text": "You must yield the right-of-way."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Blind or partially blind pedestrians may carry a white cane or use the assistance of a guide dog. You must yield the right-of-way to a pedestrian with a guide dog or a white cane.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "If you see a pedestrian using a guide dog or carrying a white cane: | Blind or partially blind pedestrians may carry a white cane or use the assistance of a guide dog. You must yield the right-of-way to a pedestrian with a guide dog or a white cane."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "If you see a pedestrian using a guide dog or carrying a white cane: -  Real 2025 DMV Questions ",
+          "targetName": "If you see a pedestrian using a guide dog or carrying a white cane:",
+          "targetUrl": "https://www.dmv-written-test.com/question/if-you-see-a-pedestrian-using-a-guide-dog-or-carrying-a-white-cane_7wXaZWrg.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "If you see a pedestrian using a guide dog or carrying a white cane:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "If you see a pedestrian using a guide dog or carrying a white cane:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "You should not start across an intersection if you know you will block the intersection when the light turns red:",
+        "about": {
+          "@type": "Thing",
+          "name": "You should not start across an intersection if you know you will block the intersection when the light turns red:"
+        },
+        "assesses": "You should not start across an intersection if you know you will block the intersection when the light turns red: | You should not start across an intersection if you know you will block the intersection when the light turns red: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Even if the signal is green, you must not enter an intersection unless you can get completely across before the light turns red. If you block the intersection, you can be cited.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Under any circumstances.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Under any circumstances."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Unless you entered the intersection on a yellow light.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Unless you entered the intersection on a yellow light."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Unless you entered the intersection on a green light.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Unless you entered the intersection on a green light."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Under any circumstances.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Under any circumstances."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Even if the signal is green, you must not enter an intersection unless you can get completely across before the light turns red. If you block the intersection, you can be cited.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "You should not start across an intersection if you know you will block the intersection when the light turns red: | Even if the signal is green, you must not enter an intersection unless you can get completely across before the light turns red. If you block the intersection, you can be cited."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "You should not start across an intersection if you know you will block the intersection when the light turns red: -  Real 2025 DMV Questions ",
+          "targetName": "You should not start across an intersection if you know you will block the intersection when the light turns red:",
+          "targetUrl": "https://www.dmv-written-test.com/question/you-should-not-start-across-an-intersection-if-you-know-you-will-block-the-intersection-when-the-light-turns-red_7er242yJ.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "You should not start across an intersection if you know you will block the intersection when the light turns red:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "You should not start across an intersection if you know you will block the intersection when the light turns red:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "To prevent tailgating, drivers should follow the:",
+        "about": {
+          "@type": "Thing",
+          "name": "To prevent tailgating, drivers should follow the:"
+        },
+        "assesses": "To prevent tailgating, drivers should follow the: | To prevent tailgating, drivers should follow the: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Most rear-end collisions are caused by tailgating. To avoid tailgating, use the “Three-Second Rule.” When the vehicle ahead of you passes a certain point, such as a sign, count “one-thousand-one, one-thousand-two, one-thousand-three.” If you pass the same point before you finish counting, you are following too closely. ",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "One-second rule.",
+            "comment": {
+              "@type": "Comment",
+              "text": "One-second rule."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Two-second rule.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Two-second rule."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Three-second rule.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Three-second rule."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Three-second rule.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Three-second rule."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Most rear-end collisions are caused by tailgating. To avoid tailgating, use the “Three-Second Rule.” When the vehicle ahead of you passes a certain point, such as a sign, count “one-thousand-one, one-thousand-two, one-thousand-three.” If you pass the same point before you finish counting, you are following too closely. ",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "To prevent tailgating, drivers should follow the: | Most rear-end collisions are caused by tailgating. To avoid tailgating, use the “Three-Second Rule.” When the vehicle ahead of you passes a certain point, such as a sign, count “one-thousand-one, one-thousand-two, one-thousand-three.” If you pass the same point before you finish counting, you are following too closely. "
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "To prevent tailgating, drivers should follow the: -  Real 2025 DMV Questions ",
+          "targetName": "To prevent tailgating, drivers should follow the:",
+          "targetUrl": "https://www.dmv-written-test.com/question/to-prevent-tailgating-drivers-should-follow-the_lPZ174r2.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "To prevent tailgating, drivers should follow the:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "To prevent tailgating, drivers should follow the:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Which of the following is a dangerous habit when driving in work zones?",
+        "about": {
+          "@type": "Thing",
+          "name": "Which of the following is a dangerous habit when driving in work zones?"
+        },
+        "assesses": "Which of the following is a dangerous habit when driving in work zones? | Which of the following is a dangerous habit when driving in work zones? -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "When driving in a work zone, adjust your speed for the traffic conditions and don't follow other vehicles too closely. Be attentive to workers and machines in the work zone.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Tailgating another vehicle",
+            "comment": {
+              "@type": "Comment",
+              "text": "Tailgating another vehicle"
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Failing to carefully watch for workers and moving equipment",
+            "comment": {
+              "@type": "Comment",
+              "text": "Failing to carefully watch for workers and moving equipment"
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Both of the above",
+            "comment": {
+              "@type": "Comment",
+              "text": "Both of the above"
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Both of the above",
+            "comment": {
+              "@type": "Comment",
+              "text": "Both of the above"
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "When driving in a work zone, adjust your speed for the traffic conditions and don't follow other vehicles too closely. Be attentive to workers and machines in the work zone.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "Which of the following is a dangerous habit when driving in work zones? | When driving in a work zone, adjust your speed for the traffic conditions and don't follow other vehicles too closely. Be attentive to workers and machines in the work zone."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "Which of the following is a dangerous habit when driving in work zones? -  Real 2025 DMV Questions ",
+          "targetName": "Which of the following is a dangerous habit when driving in work zones?",
+          "targetUrl": "https://www.dmv-written-test.com/question/which-of-the-following-is-a-dangerous-habit-when-driving-in-work-zones_gerx6Ayb.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "Which of the following is a dangerous habit when driving in work zones?",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "Which of the following is a dangerous habit when driving in work zones?"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "You see a signal person at a road construction site ahead. You should obey his or her instructions:",
+        "about": {
+          "@type": "Thing",
+          "name": "You see a signal person at a road construction site ahead. You should obey his or her instructions:"
+        },
+        "assesses": "You see a signal person at a road construction site ahead. You should obey his or her instructions: | You see a signal person at a road construction site ahead. You should obey his or her instructions: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Obey special signs or instructions from flaggers. Driving carefully through work zones improves safety for drivers, pedestrians, bicyclists, and road workers.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Only if you see orange cones on the road ahead.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Only if you see orange cones on the road ahead."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Unless they conflict with existing signs, signals, or laws.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Unless they conflict with existing signs, signals, or laws."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "At all times.",
+            "comment": {
+              "@type": "Comment",
+              "text": "At all times."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "At all times.",
+            "comment": {
+              "@type": "Comment",
+              "text": "At all times."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Obey special signs or instructions from flaggers. Driving carefully through work zones improves safety for drivers, pedestrians, bicyclists, and road workers.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "You see a signal person at a road construction site ahead. You should obey his or her instructions: | Obey special signs or instructions from flaggers. Driving carefully through work zones improves safety for drivers, pedestrians, bicyclists, and road workers."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "You see a signal person at a road construction site ahead. You should obey his or her instructions: -  Real 2025 DMV Questions ",
+          "targetName": "You see a signal person at a road construction site ahead. You should obey his or her instructions:",
+          "targetUrl": "https://www.dmv-written-test.com/question/you-see-a-signal-person-at-a-road-construction-site-ahead-you-should-obey-his-or-her-instructions_YWXbOYrQ.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "You see a signal person at a road construction site ahead. You should obey his or her instructions:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "You see a signal person at a road construction site ahead. You should obey his or her instructions:"
+        }
+      }
+    ],
+    "abstract": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>.",
+    "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "assesses": "FREE California Permit Test 13 - Real 2025 DMV Test Questions | The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "url": "https://www.dmv-written-test.com/california/practice-test-13.html",
+    "isPartOf": {
+      "@context": "http://schema.org",
+      "@type": "CreativeWorkSeries",
+      "name": "FREE California Permit Test 13 - Real 2025 DMV Test Questions",
+      "issn": "california/practice-test-13.html",
+      "accessMode": "textOnVisual",
+      "about": {
+        "@type": "Thing",
+        "name": "FREE California Permit Test 13 - Real 2025 DMV Test Questions"
+      },
+      "lastReviewed": "2022-01-07T10:57:08.000000Z",
+      "mainContentOfPage": {
+        "@type": "WebPageElement",
+        "cssSelector": [
+          "#series-description"
+        ]
+      },
+      "aggregateRating": {
+        "@type": "aggregateRating",
+        "ratingValue": "4.8503",
+        "reviewCount": 1189,
+        "bestRating": 5,
+        "worstRating": 1
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "author": "DMV Written Test",
+        "name": "2025 California Permit Test 13",
+        "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>."
+      },
+      "significantLink": "https://cheat-sheets.dmv-written-test.com/en/california/car",
+      "specialty": "www.dmv-written-test.com",
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "name": "DMV Written Test",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "DMV Written Test",
+            "url": "https://www.dmv-written-test.com",
+            "item": {
+              "@id": "https://www.dmv-written-test.com",
+              "name": "DMV Written Test"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "california",
+            "url": "https://www.dmv-written-test.com/california",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california",
+              "name": "DMV Written Test 2025 California - DMV Practice Test - Real CA DMV Questions!"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "2025 California Permit Test 13",
+            "url": "https://www.dmv-written-test.com/california/practice-test-13.html",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california/practice-test-13.html",
+              "name": "2025 California Permit Test 13"
+            }
+          }
+        ]
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "xpath": [
+          "/html/head/title",
+          "/html/head/meta[@name='description']/@content"
+        ],
+        "url": "https://www.dmv-written-test.com/california/practice-test-13.html"
+      }
+    },
+    "provider": {
+      "@type": "Organization",
+      "name": "DMV Written Test",
+      "legalName": "Infinity Loop Capital LLC, CORP2000",
+      "slogan": "DMV",
+      "url": "https://www.dmv-written-test.com",
+      "email": "support@dmv-written-test.com",
+      "address": {
+        "@type": "PostalAddress",
+        "name": "Infinity Loop Capital LLC, CORP2000",
+        "addressLocality": "lindengasse 56/2",
+        "addressRegion": "32 West Loockerman Street, Suite 107, 19904 Dover DE"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": " ",
+        "contactType": "customer service"
+      },
+      "logo": {
+        "@type": "ImageObject",
+        "name": "DMV Written Test",
+        "url": "https://www.dmv-written-test.com/images/meta/logo.png",
+        "description": "DMV Written Test"
+      },
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "copyrightYear": "2025",
+    "dateCreated": "2021-11-23T12:41:49.000000Z",
+    "datePublished": "2021-11-23T12:41:49.000000Z",
+    "dateModified": "2022-01-07T10:57:08.000000Z",
+    "learningResourceType": "Car",
+    "educationalUse": "assignment",
+    "interactivityType": "mixed",
+    "accessMode": "textOnVisual",
+    "educationalLevel": "intermediate",
+    "typicalAgeRange": "16-72",
+    "educationalAlignment": {
+      "@type": "AlignmentObject",
+      "alignmentType": "educationalSubject",
+      "educationalFramework": "DMV Written Test",
+      "targetDescription": "DMV Written Test is the best at helping you pass your permit exam.  We only use real DMV questions on our practice tests and cheat sheets!",
+      "targetName": "DMV Written Test - DMV Practice Test 2025 - Real DMV Questions!",
+      "targetUrl": "https://www.dmv-written-test.com"
+    },
+    "image": {
+      "@type": "ImageObject",
+      "author": "DMV Written Test",
+      "name": "DMV Written Test",
+      "url": "https://www.dmv-written-test.com/images/meta/cover-1200x630.png",
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "inLanguage": {
+      "@type": "Language",
+      "name": "English",
+      "alternateName": "en"
+    }
+  }
+]

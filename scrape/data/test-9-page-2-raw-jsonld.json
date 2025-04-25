@@ -1,0 +1,651 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "Quiz",
+    "name": "FREE California Permit Test 9 - Real 2025 DMV Test Questions",
+    "headline": "2025 California Permit Test 9",
+    "alternativeHeadline": "2025 California Permit Test 9 | DMV Written Test",
+    "about": {
+      "@type": "Thing",
+      "name": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car."
+    },
+    "hasPart": [
+      {
+        "@type": "Question",
+        "name": "A solid yellow line next to a broken yellow line means that vehicles:",
+        "about": {
+          "@type": "Thing",
+          "name": "A solid yellow line next to a broken yellow line means that vehicles:"
+        },
+        "assesses": "A solid yellow line next to a broken yellow line means that vehicles: | A solid yellow line next to a broken yellow line means that vehicles: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Yellow lines separate lanes of traffic moving in opposite directions. A broken yellow line next to your driving lane means that you may pass.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Driving in both directions may pass.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Driving in both directions may pass."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Next to the broken line may pass.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Next to the broken line may pass."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Next to the solid line may pass.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Next to the solid line may pass."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Next to the broken line may pass.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Next to the broken line may pass."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Yellow lines separate lanes of traffic moving in opposite directions. A broken yellow line next to your driving lane means that you may pass.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "A solid yellow line next to a broken yellow line means that vehicles: | Yellow lines separate lanes of traffic moving in opposite directions. A broken yellow line next to your driving lane means that you may pass."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "A solid yellow line next to a broken yellow line means that vehicles: -  Real 2025 DMV Questions ",
+          "targetName": "A solid yellow line next to a broken yellow line means that vehicles:",
+          "targetUrl": "https://www.dmv-written-test.com/question/a-solid-yellow-line-next-to-a-broken-yellow-line-means-that-vehicles_LBXpdX9j.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "A solid yellow line next to a broken yellow line means that vehicles:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "A solid yellow line next to a broken yellow line means that vehicles:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "When parking your vehicle parallel to the curb on a level street:",
+        "about": {
+          "@type": "Thing",
+          "name": "When parking your vehicle parallel to the curb on a level street:"
+        },
+        "assesses": "When parking your vehicle parallel to the curb on a level street: | When parking your vehicle parallel to the curb on a level street: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "When parking alongside the curb on a level street, the front and back wheels of your vehicle must be parallel with and within 18 inches of the curb.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Your front wheels must be turned toward the street.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Your front wheels must be turned toward the street."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Your wheels must be within 18 inches of the curb.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Your wheels must be within 18 inches of the curb."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "One of your rear wheels must touch the curb.",
+            "comment": {
+              "@type": "Comment",
+              "text": "One of your rear wheels must touch the curb."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Your wheels must be within 18 inches of the curb.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Your wheels must be within 18 inches of the curb."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "When parking alongside the curb on a level street, the front and back wheels of your vehicle must be parallel with and within 18 inches of the curb.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "When parking your vehicle parallel to the curb on a level street: | When parking alongside the curb on a level street, the front and back wheels of your vehicle must be parallel with and within 18 inches of the curb."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "When parking your vehicle parallel to the curb on a level street: -  Real 2025 DMV Questions ",
+          "targetName": "When parking your vehicle parallel to the curb on a level street:",
+          "targetUrl": "https://www.dmv-written-test.com/question/when-parking-your-vehicle-parallel-to-the-curb-on-a-level-street_x3PGq5Xk.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "When parking your vehicle parallel to the curb on a level street:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "When parking your vehicle parallel to the curb on a level street:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "This road sign means:",
+        "about": {
+          "@type": "Thing",
+          "name": "This road sign means:"
+        },
+        "assesses": "This road sign means: | This road sign means: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images-car/arkansas-road_work_ahead.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "This orange warning sign tells drivers that an area of roadwork is upcoming. When traveling through a work zone, stay alert for temporary traffic control devices. ",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Watch for people crossing your path.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Watch for people crossing your path."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "No passing zone.",
+            "comment": {
+              "@type": "Comment",
+              "text": "No passing zone."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Work zone ahead.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Work zone ahead."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Work zone ahead.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Work zone ahead."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "This orange warning sign tells drivers that an area of roadwork is upcoming. When traveling through a work zone, stay alert for temporary traffic control devices. ",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "This road sign means: | This orange warning sign tells drivers that an area of roadwork is upcoming. When traveling through a work zone, stay alert for temporary traffic control devices. "
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "This road sign means: -  Real 2025 DMV Questions ",
+          "targetName": "This road sign means:",
+          "targetUrl": "https://www.dmv-written-test.com/question/this-road-sign-means_kVr0b3yd.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "This road sign means:",
+          "url": "https://www.dmv-written-test.com/images-car/arkansas-road_work_ahead.png",
+          "description": "This road sign means:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "When turning left at an intersection:",
+        "about": {
+          "@type": "Thing",
+          "name": "When turning left at an intersection:"
+        },
+        "assesses": "When turning left at an intersection: | When turning left at an intersection: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Drivers making left turns must yield to oncoming traffic that is traveling straight. Drivers must always yield to pedestrians.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "You should always yield to oncoming traffic and pedestrians.",
+            "comment": {
+              "@type": "Comment",
+              "text": "You should always yield to oncoming traffic and pedestrians."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Oncoming traffic and pedestrians should yield to you.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Oncoming traffic and pedestrians should yield to you."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "You should never yield to oncoming traffic and pedestrians.",
+            "comment": {
+              "@type": "Comment",
+              "text": "You should never yield to oncoming traffic and pedestrians."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "You should always yield to oncoming traffic and pedestrians.",
+            "comment": {
+              "@type": "Comment",
+              "text": "You should always yield to oncoming traffic and pedestrians."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Drivers making left turns must yield to oncoming traffic that is traveling straight. Drivers must always yield to pedestrians.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "When turning left at an intersection: | Drivers making left turns must yield to oncoming traffic that is traveling straight. Drivers must always yield to pedestrians."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "When turning left at an intersection: -  Real 2025 DMV Questions ",
+          "targetName": "When turning left at an intersection:",
+          "targetUrl": "https://www.dmv-written-test.com/question/when-turning-left-at-an-intersection_7wXagVPg.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "When turning left at an intersection:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "When turning left at an intersection:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Changing from one lane to another is best done:",
+        "about": {
+          "@type": "Thing",
+          "name": "Changing from one lane to another is best done:"
+        },
+        "assesses": "Changing from one lane to another is best done: | Changing from one lane to another is best done: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "You should always change lanes gradually and carefully. Only change lanes when necessary. Every lane change increases the possibility of a traffic accident.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Quickly and often.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Quickly and often."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "When a car is in your blind spot.",
+            "comment": {
+              "@type": "Comment",
+              "text": "When a car is in your blind spot."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Gradually and carefully.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Gradually and carefully."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Gradually and carefully.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Gradually and carefully."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "You should always change lanes gradually and carefully. Only change lanes when necessary. Every lane change increases the possibility of a traffic accident.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "Changing from one lane to another is best done: | You should always change lanes gradually and carefully. Only change lanes when necessary. Every lane change increases the possibility of a traffic accident."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "Changing from one lane to another is best done: -  Real 2025 DMV Questions ",
+          "targetName": "Changing from one lane to another is best done:",
+          "targetUrl": "https://www.dmv-written-test.com/question/changing-from-one-lane-to-another-is-best-done_WaXWbeyk.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "Changing from one lane to another is best done:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "Changing from one lane to another is best done:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "To know where traffic is behind you:",
+        "about": {
+          "@type": "Thing",
+          "name": "To know where traffic is behind you:"
+        },
+        "assesses": "To know where traffic is behind you: | To know where traffic is behind you: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Drivers should check their rearview mirrors often to stay aware of the position of traffic behind them.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Frequently check your rearview mirror.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Frequently check your rearview mirror."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Turn and look out your back window.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Turn and look out your back window."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Keep other vehicles out of your blind spots.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Keep other vehicles out of your blind spots."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Frequently check your rearview mirror.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Frequently check your rearview mirror."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Drivers should check their rearview mirrors often to stay aware of the position of traffic behind them.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "To know where traffic is behind you: | Drivers should check their rearview mirrors often to stay aware of the position of traffic behind them."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "To know where traffic is behind you: -  Real 2025 DMV Questions ",
+          "targetName": "To know where traffic is behind you:",
+          "targetUrl": "https://www.dmv-written-test.com/question/to-know-where-traffic-is-behind-you_RnXgzDyp.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "To know where traffic is behind you:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "To know where traffic is behind you:"
+        }
+      }
+    ],
+    "abstract": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>.",
+    "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "assesses": "FREE California Permit Test 9 - Real 2025 DMV Test Questions | The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "url": "https://www.dmv-written-test.com/california/practice-test-9.html",
+    "isPartOf": {
+      "@context": "http://schema.org",
+      "@type": "CreativeWorkSeries",
+      "name": "FREE California Permit Test 9 - Real 2025 DMV Test Questions",
+      "issn": "california/practice-test-9.html",
+      "accessMode": "textOnVisual",
+      "about": {
+        "@type": "Thing",
+        "name": "FREE California Permit Test 9 - Real 2025 DMV Test Questions"
+      },
+      "lastReviewed": "2024-02-29T15:03:00.000000Z",
+      "mainContentOfPage": {
+        "@type": "WebPageElement",
+        "cssSelector": [
+          "#series-description"
+        ]
+      },
+      "aggregateRating": {
+        "@type": "aggregateRating",
+        "ratingValue": "4.8552",
+        "reviewCount": 1720,
+        "bestRating": 5,
+        "worstRating": 1
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "author": "DMV Written Test",
+        "name": "2025 California Permit Test 9",
+        "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>."
+      },
+      "significantLink": "https://cheat-sheets.dmv-written-test.com/en/california/car",
+      "specialty": "www.dmv-written-test.com",
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "name": "DMV Written Test",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "DMV Written Test",
+            "url": "https://www.dmv-written-test.com",
+            "item": {
+              "@id": "https://www.dmv-written-test.com",
+              "name": "DMV Written Test"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "california",
+            "url": "https://www.dmv-written-test.com/california",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california",
+              "name": "DMV Written Test 2025 California - DMV Practice Test - Real CA DMV Questions!"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "2025 California Permit Test 9",
+            "url": "https://www.dmv-written-test.com/california/practice-test-9.html",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california/practice-test-9.html",
+              "name": "2025 California Permit Test 9"
+            }
+          }
+        ]
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "xpath": [
+          "/html/head/title",
+          "/html/head/meta[@name='description']/@content"
+        ],
+        "url": "https://www.dmv-written-test.com/california/practice-test-9.html"
+      }
+    },
+    "provider": {
+      "@type": "Organization",
+      "name": "DMV Written Test",
+      "legalName": "Infinity Loop Capital LLC, CORP2000",
+      "slogan": "DMV",
+      "url": "https://www.dmv-written-test.com",
+      "email": "support@dmv-written-test.com",
+      "address": {
+        "@type": "PostalAddress",
+        "name": "Infinity Loop Capital LLC, CORP2000",
+        "addressLocality": "lindengasse 56/2",
+        "addressRegion": "32 West Loockerman Street, Suite 107, 19904 Dover DE"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": " ",
+        "contactType": "customer service"
+      },
+      "logo": {
+        "@type": "ImageObject",
+        "name": "DMV Written Test",
+        "url": "https://www.dmv-written-test.com/images/meta/logo.png",
+        "description": "DMV Written Test"
+      },
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "copyrightYear": "2025",
+    "dateCreated": "2021-11-23T12:41:47.000000Z",
+    "datePublished": "2021-11-23T12:41:47.000000Z",
+    "dateModified": "2024-02-29T15:03:00.000000Z",
+    "learningResourceType": "Car",
+    "educationalUse": "assignment",
+    "interactivityType": "mixed",
+    "accessMode": "textOnVisual",
+    "educationalLevel": "intermediate",
+    "typicalAgeRange": "16-72",
+    "educationalAlignment": {
+      "@type": "AlignmentObject",
+      "alignmentType": "educationalSubject",
+      "educationalFramework": "DMV Written Test",
+      "targetDescription": "DMV Written Test is the best at helping you pass your permit exam.  We only use real DMV questions on our practice tests and cheat sheets!",
+      "targetName": "DMV Written Test - DMV Practice Test 2025 - Real DMV Questions!",
+      "targetUrl": "https://www.dmv-written-test.com"
+    },
+    "image": {
+      "@type": "ImageObject",
+      "author": "DMV Written Test",
+      "name": "DMV Written Test",
+      "url": "https://www.dmv-written-test.com/images/meta/cover-1200x630.png",
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "inLanguage": {
+      "@type": "Language",
+      "name": "English",
+      "alternateName": "en"
+    }
+  }
+]

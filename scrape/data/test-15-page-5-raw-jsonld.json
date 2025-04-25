@@ -1,0 +1,651 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "Quiz",
+    "name": "FREE California Permit Test 15 - Real 2025 DMV Test Questions",
+    "headline": "2025 California Permit Test 15",
+    "alternativeHeadline": "2025 California Permit Test 15 | DMV Written Test",
+    "about": {
+      "@type": "Thing",
+      "name": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car."
+    },
+    "hasPart": [
+      {
+        "@type": "Question",
+        "name": "A steady red arrow displayed on a traffic light means:",
+        "about": {
+          "@type": "Thing",
+          "name": "A steady red arrow displayed on a traffic light means:"
+        },
+        "assesses": "A steady red arrow displayed on a traffic light means: | A steady red arrow displayed on a traffic light means: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "If a traffic signal is displaying a steady red arrow, traffic in the indicated lane may not proceed in the direction shown by the arrow. Drivers must come to a full stop and wait for a green signal to proceed.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Drivers cannot turn in the indicated direction.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Drivers cannot turn in the indicated direction."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Drivers may turn in the indicated direction after coming to a complete stop.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Drivers may turn in the indicated direction after coming to a complete stop."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Drivers may turn in the indicated direction.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Drivers may turn in the indicated direction."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Drivers cannot turn in the indicated direction.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Drivers cannot turn in the indicated direction."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "If a traffic signal is displaying a steady red arrow, traffic in the indicated lane may not proceed in the direction shown by the arrow. Drivers must come to a full stop and wait for a green signal to proceed.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "A steady red arrow displayed on a traffic light means: | If a traffic signal is displaying a steady red arrow, traffic in the indicated lane may not proceed in the direction shown by the arrow. Drivers must come to a full stop and wait for a green signal to proceed."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "A steady red arrow displayed on a traffic light means: -  Real 2025 DMV Questions ",
+          "targetName": "A steady red arrow displayed on a traffic light means:",
+          "targetUrl": "https://www.dmv-written-test.com/question/a-steady-red-arrow-displayed-on-a-traffic-light-means_dPE11GPV.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "A steady red arrow displayed on a traffic light means:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "A steady red arrow displayed on a traffic light means:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "When passing another vehicle, you should return to your original lane when:",
+        "about": {
+          "@type": "Thing",
+          "name": "When passing another vehicle, you should return to your original lane when:"
+        },
+        "assesses": "When passing another vehicle, you should return to your original lane when: | When passing another vehicle, you should return to your original lane when: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "When passing another vehicle, move back into your original lane only when you can see the passed vehicle’s headlights in your rearview mirror. This ensures that you will have enough room to safely pull back in front of the other vehicle.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "You can see both headlights of the passed vehicle in your rearview mirror. ",
+            "comment": {
+              "@type": "Comment",
+              "text": "You can see both headlights of the passed vehicle in your rearview mirror. "
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "You have cleared the front bumper of the passed vehicle. ",
+            "comment": {
+              "@type": "Comment",
+              "text": "You have cleared the front bumper of the passed vehicle. "
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "You are 50 feet in front of the passed vehicle.",
+            "comment": {
+              "@type": "Comment",
+              "text": "You are 50 feet in front of the passed vehicle."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "You can see both headlights of the passed vehicle in your rearview mirror. ",
+            "comment": {
+              "@type": "Comment",
+              "text": "You can see both headlights of the passed vehicle in your rearview mirror. "
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "When passing another vehicle, move back into your original lane only when you can see the passed vehicle’s headlights in your rearview mirror. This ensures that you will have enough room to safely pull back in front of the other vehicle.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "When passing another vehicle, you should return to your original lane when: | When passing another vehicle, move back into your original lane only when you can see the passed vehicle’s headlights in your rearview mirror. This ensures that you will have enough room to safely pull back in front of the other vehicle."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "When passing another vehicle, you should return to your original lane when: -  Real 2025 DMV Questions ",
+          "targetName": "When passing another vehicle, you should return to your original lane when:",
+          "targetUrl": "https://www.dmv-written-test.com/question/when-passing-another-vehicle-you-should-return-to-your-original-lane-when_oOykWzyB.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "When passing another vehicle, you should return to your original lane when:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "When passing another vehicle, you should return to your original lane when:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "This sign means you are approaching a railroad crossing that does not have a signal. You should:",
+        "about": {
+          "@type": "Thing",
+          "name": "This sign means you are approaching a railroad crossing that does not have a signal. You should:"
+        },
+        "assesses": "This sign means you are approaching a railroad crossing that does not have a signal. You should: | This sign means you are approaching a railroad crossing that does not have a signal. You should: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images-car/nebraska-railroad_crossing.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "At a railroad crossing marked with this sign, a driver should look both ways, listen for any trains, and be prepared to stop if any trains are nearby. Never try to outdrive an oncoming train.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Come to a complete stop.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Come to a complete stop."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Proceed at a consistent speed while looking and listening for approaching trains.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Proceed at a consistent speed while looking and listening for approaching trains."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Slow down, look both ways, listen for any trains, and be prepared to stop if any trains are nearby. ",
+            "comment": {
+              "@type": "Comment",
+              "text": "Slow down, look both ways, listen for any trains, and be prepared to stop if any trains are nearby. "
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Slow down, look both ways, listen for any trains, and be prepared to stop if any trains are nearby. ",
+            "comment": {
+              "@type": "Comment",
+              "text": "Slow down, look both ways, listen for any trains, and be prepared to stop if any trains are nearby. "
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "At a railroad crossing marked with this sign, a driver should look both ways, listen for any trains, and be prepared to stop if any trains are nearby. Never try to outdrive an oncoming train.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "This sign means you are approaching a railroad crossing that does not have a signal. You should: | At a railroad crossing marked with this sign, a driver should look both ways, listen for any trains, and be prepared to stop if any trains are nearby. Never try to outdrive an oncoming train."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "This sign means you are approaching a railroad crossing that does not have a signal. You should: -  Real 2025 DMV Questions ",
+          "targetName": "This sign means you are approaching a railroad crossing that does not have a signal. You should:",
+          "targetUrl": "https://www.dmv-written-test.com/question/this-sign-means-you-are-approaching-a-railroad-crossing-that-does-not-have-a-signal-you-should_dWX4VkPw.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "This sign means you are approaching a railroad crossing that does not have a signal. You should:",
+          "url": "https://www.dmv-written-test.com/images-car/nebraska-railroad_crossing.png",
+          "description": "This sign means you are approaching a railroad crossing that does not have a signal. You should:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "California's \"Basic Speed Law\" says you must:",
+        "about": {
+          "@type": "Thing",
+          "name": "California's \"Basic Speed Law\" says you must:"
+        },
+        "assesses": "California's \"Basic Speed Law\" says you must: | California's \"Basic Speed Law\" says you must: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "The \"Basic Speed Law\" states that you may never drive faster than is safe for current conditions. For example, if you drive at 45 mph in a 55 mph zone during a dense fog, even though you are below the posted limit, you may be cited for driving \"too fast for conditions.\"",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Keep your speed close to that of other traffic.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Keep your speed close to that of other traffic."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Never drive faster than is safe for current conditions.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Never drive faster than is safe for current conditions."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Always drive at the posted speed limit.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Always drive at the posted speed limit."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Never drive faster than is safe for current conditions.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Never drive faster than is safe for current conditions."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "The \"Basic Speed Law\" states that you may never drive faster than is safe for current conditions. For example, if you drive at 45 mph in a 55 mph zone during a dense fog, even though you are below the posted limit, you may be cited for driving \"too fast for conditions.\"",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "California's \"Basic Speed Law\" says you must: | The \"Basic Speed Law\" states that you may never drive faster than is safe for current conditions. For example, if you drive at 45 mph in a 55 mph zone during a dense fog, even though you are below the posted limit, you may be cited for driving \"too fast for conditions.\""
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "California's \"Basic Speed Law\" says you must: -  Real 2025 DMV Questions ",
+          "targetName": "California's \"Basic Speed Law\" says you must:",
+          "targetUrl": "https://www.dmv-written-test.com/question/californias-basic-speed-law-says-you-must_ElPZgy2k.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "California's \"Basic Speed Law\" says you must:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "California's \"Basic Speed Law\" says you must:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "When planning to pass another vehicle, you should:",
+        "about": {
+          "@type": "Thing",
+          "name": "When planning to pass another vehicle, you should:"
+        },
+        "assesses": "When planning to pass another vehicle, you should: | When planning to pass another vehicle, you should: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "When planning to pass, do not count on having enough time to pass several vehicles at once or assume that other drivers will make room for you. When you can see both headlights of the passed vehicle in your rearview mirror, you may have enough room to return to your driving lane.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Not count on other drivers to make room for you.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Not count on other drivers to make room for you."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Assume the driver will let you pass if you use your turn signal.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Assume the driver will let you pass if you use your turn signal."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Assume the driver will maintain a constant speed.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Assume the driver will maintain a constant speed."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Not count on other drivers to make room for you.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Not count on other drivers to make room for you."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "When planning to pass, do not count on having enough time to pass several vehicles at once or assume that other drivers will make room for you. When you can see both headlights of the passed vehicle in your rearview mirror, you may have enough room to return to your driving lane.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "When planning to pass another vehicle, you should: | When planning to pass, do not count on having enough time to pass several vehicles at once or assume that other drivers will make room for you. When you can see both headlights of the passed vehicle in your rearview mirror, you may have enough room to return to your driving lane."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "When planning to pass another vehicle, you should: -  Real 2025 DMV Questions ",
+          "targetName": "When planning to pass another vehicle, you should:",
+          "targetUrl": "https://www.dmv-written-test.com/question/when-planning-to-pass-another-vehicle-you-should_12yNogXV.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "When planning to pass another vehicle, you should:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "When planning to pass another vehicle, you should:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "A driver should:",
+        "about": {
+          "@type": "Thing",
+          "name": "A driver should:"
+        },
+        "assesses": "A driver should: | A driver should: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Although the right-of-way rules provide a guide to determine who should yield the right-of-way at an intersection, no one should assume they automatically have the right-of-way. The situation and circumstances at an intersection must always be considered. Drivers should yield their legal right-of-way if it can help prevent a collision. ",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Assume all drivers automatically obey the right-of-way rules.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Assume all drivers automatically obey the right-of-way rules."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Assume most drivers obey the right-of-way rules.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Assume most drivers obey the right-of-way rules."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Always be prepared to yield the right-of-way.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Always be prepared to yield the right-of-way."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Always be prepared to yield the right-of-way.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Always be prepared to yield the right-of-way."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Although the right-of-way rules provide a guide to determine who should yield the right-of-way at an intersection, no one should assume they automatically have the right-of-way. The situation and circumstances at an intersection must always be considered. Drivers should yield their legal right-of-way if it can help prevent a collision. ",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "A driver should: | Although the right-of-way rules provide a guide to determine who should yield the right-of-way at an intersection, no one should assume they automatically have the right-of-way. The situation and circumstances at an intersection must always be considered. Drivers should yield their legal right-of-way if it can help prevent a collision. "
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "A driver should: -  Real 2025 DMV Questions ",
+          "targetName": "A driver should:",
+          "targetUrl": "https://www.dmv-written-test.com/question/a-driver-should_96XKDwrE.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "A driver should:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "A driver should:"
+        }
+      }
+    ],
+    "abstract": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>.",
+    "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "assesses": "FREE California Permit Test 15 - Real 2025 DMV Test Questions | The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "url": "https://www.dmv-written-test.com/california/practice-test-15.html",
+    "isPartOf": {
+      "@context": "http://schema.org",
+      "@type": "CreativeWorkSeries",
+      "name": "FREE California Permit Test 15 - Real 2025 DMV Test Questions",
+      "issn": "california/practice-test-15.html",
+      "accessMode": "textOnVisual",
+      "about": {
+        "@type": "Thing",
+        "name": "FREE California Permit Test 15 - Real 2025 DMV Test Questions"
+      },
+      "lastReviewed": "2022-01-07T10:57:08.000000Z",
+      "mainContentOfPage": {
+        "@type": "WebPageElement",
+        "cssSelector": [
+          "#series-description"
+        ]
+      },
+      "aggregateRating": {
+        "@type": "aggregateRating",
+        "ratingValue": "4.9005",
+        "reviewCount": 1719,
+        "bestRating": 5,
+        "worstRating": 1
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "author": "DMV Written Test",
+        "name": "2025 California Permit Test 15",
+        "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>."
+      },
+      "significantLink": "https://cheat-sheets.dmv-written-test.com/en/california/car",
+      "specialty": "www.dmv-written-test.com",
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "name": "DMV Written Test",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "DMV Written Test",
+            "url": "https://www.dmv-written-test.com",
+            "item": {
+              "@id": "https://www.dmv-written-test.com",
+              "name": "DMV Written Test"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "california",
+            "url": "https://www.dmv-written-test.com/california",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california",
+              "name": "DMV Written Test 2025 California - DMV Practice Test - Real CA DMV Questions!"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "2025 California Permit Test 15",
+            "url": "https://www.dmv-written-test.com/california/practice-test-15.html",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california/practice-test-15.html",
+              "name": "2025 California Permit Test 15"
+            }
+          }
+        ]
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "xpath": [
+          "/html/head/title",
+          "/html/head/meta[@name='description']/@content"
+        ],
+        "url": "https://www.dmv-written-test.com/california/practice-test-15.html"
+      }
+    },
+    "provider": {
+      "@type": "Organization",
+      "name": "DMV Written Test",
+      "legalName": "Infinity Loop Capital LLC, CORP2000",
+      "slogan": "DMV",
+      "url": "https://www.dmv-written-test.com",
+      "email": "support@dmv-written-test.com",
+      "address": {
+        "@type": "PostalAddress",
+        "name": "Infinity Loop Capital LLC, CORP2000",
+        "addressLocality": "lindengasse 56/2",
+        "addressRegion": "32 West Loockerman Street, Suite 107, 19904 Dover DE"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": " ",
+        "contactType": "customer service"
+      },
+      "logo": {
+        "@type": "ImageObject",
+        "name": "DMV Written Test",
+        "url": "https://www.dmv-written-test.com/images/meta/logo.png",
+        "description": "DMV Written Test"
+      },
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "copyrightYear": "2025",
+    "dateCreated": "2021-11-23T12:41:50.000000Z",
+    "datePublished": "2021-11-23T12:41:50.000000Z",
+    "dateModified": "2022-01-07T10:57:08.000000Z",
+    "learningResourceType": "Car",
+    "educationalUse": "assignment",
+    "interactivityType": "mixed",
+    "accessMode": "textOnVisual",
+    "educationalLevel": "intermediate",
+    "typicalAgeRange": "16-72",
+    "educationalAlignment": {
+      "@type": "AlignmentObject",
+      "alignmentType": "educationalSubject",
+      "educationalFramework": "DMV Written Test",
+      "targetDescription": "DMV Written Test is the best at helping you pass your permit exam.  We only use real DMV questions on our practice tests and cheat sheets!",
+      "targetName": "DMV Written Test - DMV Practice Test 2025 - Real DMV Questions!",
+      "targetUrl": "https://www.dmv-written-test.com"
+    },
+    "image": {
+      "@type": "ImageObject",
+      "author": "DMV Written Test",
+      "name": "DMV Written Test",
+      "url": "https://www.dmv-written-test.com/images/meta/cover-1200x630.png",
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "inLanguage": {
+      "@type": "Language",
+      "name": "English",
+      "alternateName": "en"
+    }
+  }
+]

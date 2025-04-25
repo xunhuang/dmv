@@ -1,0 +1,651 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "Quiz",
+    "name": "FREE California Permit Test 4 - Real 2025 DMV Test Questions",
+    "headline": "2025 California Permit Test 4",
+    "alternativeHeadline": "2025 California Permit Test 4 | DMV Written Test",
+    "about": {
+      "@type": "Thing",
+      "name": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car."
+    },
+    "hasPart": [
+      {
+        "@type": "Question",
+        "name": "When you want to change lanes, you should never:",
+        "about": {
+          "@type": "Thing",
+          "name": "When you want to change lanes, you should never:"
+        },
+        "assesses": "When you want to change lanes, you should never: | When you want to change lanes, you should never: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "You should never change lanes within an intersection. Before changing lanes, always look over your shoulder to check your blind spot. Be alert to other drivers moving into the same lane.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Move into another lane while within an intersection.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Move into another lane while within an intersection."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Check your blind spot by looking over your shoulder.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Check your blind spot by looking over your shoulder."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Check for other drivers moving into the same lane.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Check for other drivers moving into the same lane."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Move into another lane while within an intersection.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Move into another lane while within an intersection."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "You should never change lanes within an intersection. Before changing lanes, always look over your shoulder to check your blind spot. Be alert to other drivers moving into the same lane.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "When you want to change lanes, you should never: | You should never change lanes within an intersection. Before changing lanes, always look over your shoulder to check your blind spot. Be alert to other drivers moving into the same lane."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "When you want to change lanes, you should never: -  Real 2025 DMV Questions ",
+          "targetName": "When you want to change lanes, you should never:",
+          "targetUrl": "https://www.dmv-written-test.com/question/when-you-want-to-change-lanes-you-should-never_nXgVWDyp.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "When you want to change lanes, you should never:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "When you want to change lanes, you should never:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "It is very foggy. You should slow down and:",
+        "about": {
+          "@type": "Thing",
+          "name": "It is very foggy. You should slow down and:"
+        },
+        "assesses": "It is very foggy. You should slow down and: | It is very foggy. You should slow down and: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Use your low beams when driving in fog, snow, rain, or mist. Light from high beams will reflect off of precipitation, causing a glare and making it even more difficult to see. Some vehicles are equipped with fog lights that should be used in addition to low beam headlights.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Turn on your emergency flashers.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Turn on your emergency flashers."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Turn your lights to their high beam setting.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Turn your lights to their high beam setting."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Turn your lights to their low beam setting.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Turn your lights to their low beam setting."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Turn your lights to their low beam setting.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Turn your lights to their low beam setting."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Use your low beams when driving in fog, snow, rain, or mist. Light from high beams will reflect off of precipitation, causing a glare and making it even more difficult to see. Some vehicles are equipped with fog lights that should be used in addition to low beam headlights.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "It is very foggy. You should slow down and: | Use your low beams when driving in fog, snow, rain, or mist. Light from high beams will reflect off of precipitation, causing a glare and making it even more difficult to see. Some vehicles are equipped with fog lights that should be used in addition to low beam headlights."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "It is very foggy. You should slow down and: -  Real 2025 DMV Questions ",
+          "targetName": "It is very foggy. You should slow down and:",
+          "targetUrl": "https://www.dmv-written-test.com/question/it-is-very-foggy-you-should-slow-down-and_3XMoo3Pz.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "It is very foggy. You should slow down and:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "It is very foggy. You should slow down and:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "After passing a vehicle, it is safe to return to your driving lane when:",
+        "about": {
+          "@type": "Thing",
+          "name": "After passing a vehicle, it is safe to return to your driving lane when:"
+        },
+        "assesses": "After passing a vehicle, it is safe to return to your driving lane when: | After passing a vehicle, it is safe to return to your driving lane when: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Before you return to your driving lane, be sure you are not dangerously close to the vehicle you have just passed. One way to do this is to look for the vehicle in your inside rearview mirror. When you can see both headlights in your rearview mirror, you may have enough room to return to your driving lane.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "The driver you passed signals for you to return to your lane.",
+            "comment": {
+              "@type": "Comment",
+              "text": "The driver you passed signals for you to return to your lane."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "You signal your intention for three seconds.",
+            "comment": {
+              "@type": "Comment",
+              "text": "You signal your intention for three seconds."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "You see the headlights of the passed vehicle in your rearview mirror.",
+            "comment": {
+              "@type": "Comment",
+              "text": "You see the headlights of the passed vehicle in your rearview mirror."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "You see the headlights of the passed vehicle in your rearview mirror.",
+            "comment": {
+              "@type": "Comment",
+              "text": "You see the headlights of the passed vehicle in your rearview mirror."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Before you return to your driving lane, be sure you are not dangerously close to the vehicle you have just passed. One way to do this is to look for the vehicle in your inside rearview mirror. When you can see both headlights in your rearview mirror, you may have enough room to return to your driving lane.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "After passing a vehicle, it is safe to return to your driving lane when: | Before you return to your driving lane, be sure you are not dangerously close to the vehicle you have just passed. One way to do this is to look for the vehicle in your inside rearview mirror. When you can see both headlights in your rearview mirror, you may have enough room to return to your driving lane."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "After passing a vehicle, it is safe to return to your driving lane when: -  Real 2025 DMV Questions ",
+          "targetName": "After passing a vehicle, it is safe to return to your driving lane when:",
+          "targetUrl": "https://www.dmv-written-test.com/question/after-passing-a-vehicle-it-is-safe-to-return-to-your-driving-lane-when_7VPQqdPa.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "After passing a vehicle, it is safe to return to your driving lane when:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "After passing a vehicle, it is safe to return to your driving lane when:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "You have stopped for a train at a railroad crossing. After the train passes, you should:",
+        "about": {
+          "@type": "Thing",
+          "name": "You have stopped for a train at a railroad crossing. After the train passes, you should:"
+        },
+        "assesses": "You have stopped for a train at a railroad crossing. After the train passes, you should: | You have stopped for a train at a railroad crossing. After the train passes, you should: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Even after a train passes, watch out for a second train approaching on any track. Do not proceed until all gates have been lifted and all warning signals have stopped flashing.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Wait for signal lights to stop flashing.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Wait for signal lights to stop flashing."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Look for a second train.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Look for a second train."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Both of the above.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Both of the above."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Both of the above.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Both of the above."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Even after a train passes, watch out for a second train approaching on any track. Do not proceed until all gates have been lifted and all warning signals have stopped flashing.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "You have stopped for a train at a railroad crossing. After the train passes, you should: | Even after a train passes, watch out for a second train approaching on any track. Do not proceed until all gates have been lifted and all warning signals have stopped flashing."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "You have stopped for a train at a railroad crossing. After the train passes, you should: -  Real 2025 DMV Questions ",
+          "targetName": "You have stopped for a train at a railroad crossing. After the train passes, you should:",
+          "targetUrl": "https://www.dmv-written-test.com/question/you-have-stopped-for-a-train-at-a-railroad-crossing-after-the-train-passes-you-should_zP7wLEP6.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "You have stopped for a train at a railroad crossing. After the train passes, you should:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "You have stopped for a train at a railroad crossing. After the train passes, you should:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "It is illegal to leave a child age ____ or younger alone in a vehicle.",
+        "about": {
+          "@type": "Thing",
+          "name": "It is illegal to leave a child age ____ or younger alone in a vehicle."
+        },
+        "assesses": "It is illegal to leave a child age ____ or younger alone in a vehicle. | It is illegal to leave a child age ____ or younger alone in a vehicle. -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "It is never a good idea to leave a child unattended in a car. It is illegal to leave a child who is age six or younger unattended in a vehicle. A child may be left in a car if they are under the supervision of a person age 12 or older.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Eight",
+            "comment": {
+              "@type": "Comment",
+              "text": "Eight"
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Seven",
+            "comment": {
+              "@type": "Comment",
+              "text": "Seven"
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Six",
+            "comment": {
+              "@type": "Comment",
+              "text": "Six"
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Six",
+            "comment": {
+              "@type": "Comment",
+              "text": "Six"
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "It is never a good idea to leave a child unattended in a car. It is illegal to leave a child who is age six or younger unattended in a vehicle. A child may be left in a car if they are under the supervision of a person age 12 or older.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "It is illegal to leave a child age ____ or younger alone in a vehicle. | It is never a good idea to leave a child unattended in a car. It is illegal to leave a child who is age six or younger unattended in a vehicle. A child may be left in a car if they are under the supervision of a person age 12 or older."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "It is illegal to leave a child age ____ or younger alone in a vehicle. -  Real 2025 DMV Questions ",
+          "targetName": "It is illegal to leave a child age ____ or younger alone in a vehicle.",
+          "targetUrl": "https://www.dmv-written-test.com/question/it-is-illegal-to-leave-a-child-age-or-younger-alone-in-a-vehicle_VP3VZ0rv.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "It is illegal to leave a child age ____ or younger alone in a vehicle.",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "It is illegal to leave a child age ____ or younger alone in a vehicle."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "If you want to pass a bicyclists riding on the right edge of your lane:",
+        "about": {
+          "@type": "Thing",
+          "name": "If you want to pass a bicyclists riding on the right edge of your lane:"
+        },
+        "assesses": "If you want to pass a bicyclists riding on the right edge of your lane: | If you want to pass a bicyclists riding on the right edge of your lane: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "When passing a bicyclist, you must allow at least three feet of space between your vehicle and the bicycle whenever possible. You must not squeeze the bicyclist off the road.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "You must honk your horn before passing the bicyclist.",
+            "comment": {
+              "@type": "Comment",
+              "text": "You must honk your horn before passing the bicyclist."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "You must not squeeze past the bicyclist.",
+            "comment": {
+              "@type": "Comment",
+              "text": "You must not squeeze past the bicyclist."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "You may not pass the bicyclist for any reason.",
+            "comment": {
+              "@type": "Comment",
+              "text": "You may not pass the bicyclist for any reason."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "You must not squeeze past the bicyclist.",
+            "comment": {
+              "@type": "Comment",
+              "text": "You must not squeeze past the bicyclist."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "When passing a bicyclist, you must allow at least three feet of space between your vehicle and the bicycle whenever possible. You must not squeeze the bicyclist off the road.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "If you want to pass a bicyclists riding on the right edge of your lane: | When passing a bicyclist, you must allow at least three feet of space between your vehicle and the bicycle whenever possible. You must not squeeze the bicyclist off the road."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "If you want to pass a bicyclists riding on the right edge of your lane: -  Real 2025 DMV Questions ",
+          "targetName": "If you want to pass a bicyclists riding on the right edge of your lane:",
+          "targetUrl": "https://www.dmv-written-test.com/question/if-you-want-to-pass-a-bicyclists-riding-on-the-right-edge-of-your-lane_ElPZg5y2.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "If you want to pass a bicyclists riding on the right edge of your lane:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "If you want to pass a bicyclists riding on the right edge of your lane:"
+        }
+      }
+    ],
+    "abstract": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>.",
+    "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "assesses": "FREE California Permit Test 4 - Real 2025 DMV Test Questions | The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "url": "https://www.dmv-written-test.com/california/practice-test-4.html",
+    "isPartOf": {
+      "@context": "http://schema.org",
+      "@type": "CreativeWorkSeries",
+      "name": "FREE California Permit Test 4 - Real 2025 DMV Test Questions",
+      "issn": "california/practice-test-4.html",
+      "accessMode": "textOnVisual",
+      "about": {
+        "@type": "Thing",
+        "name": "FREE California Permit Test 4 - Real 2025 DMV Test Questions"
+      },
+      "lastReviewed": "2024-02-29T15:02:58.000000Z",
+      "mainContentOfPage": {
+        "@type": "WebPageElement",
+        "cssSelector": [
+          "#series-description"
+        ]
+      },
+      "aggregateRating": {
+        "@type": "aggregateRating",
+        "ratingValue": "4.8250",
+        "reviewCount": 5703,
+        "bestRating": 5,
+        "worstRating": 1
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "author": "DMV Written Test",
+        "name": "2025 California Permit Test 4",
+        "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>."
+      },
+      "significantLink": "https://cheat-sheets.dmv-written-test.com/en/california/car",
+      "specialty": "www.dmv-written-test.com",
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "name": "DMV Written Test",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "DMV Written Test",
+            "url": "https://www.dmv-written-test.com",
+            "item": {
+              "@id": "https://www.dmv-written-test.com",
+              "name": "DMV Written Test"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "california",
+            "url": "https://www.dmv-written-test.com/california",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california",
+              "name": "DMV Written Test 2025 California - DMV Practice Test - Real CA DMV Questions!"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "2025 California Permit Test 4",
+            "url": "https://www.dmv-written-test.com/california/practice-test-4.html",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california/practice-test-4.html",
+              "name": "2025 California Permit Test 4"
+            }
+          }
+        ]
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "xpath": [
+          "/html/head/title",
+          "/html/head/meta[@name='description']/@content"
+        ],
+        "url": "https://www.dmv-written-test.com/california/practice-test-4.html"
+      }
+    },
+    "provider": {
+      "@type": "Organization",
+      "name": "DMV Written Test",
+      "legalName": "Infinity Loop Capital LLC, CORP2000",
+      "slogan": "DMV",
+      "url": "https://www.dmv-written-test.com",
+      "email": "support@dmv-written-test.com",
+      "address": {
+        "@type": "PostalAddress",
+        "name": "Infinity Loop Capital LLC, CORP2000",
+        "addressLocality": "lindengasse 56/2",
+        "addressRegion": "32 West Loockerman Street, Suite 107, 19904 Dover DE"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": " ",
+        "contactType": "customer service"
+      },
+      "logo": {
+        "@type": "ImageObject",
+        "name": "DMV Written Test",
+        "url": "https://www.dmv-written-test.com/images/meta/logo.png",
+        "description": "DMV Written Test"
+      },
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "copyrightYear": "2025",
+    "dateCreated": "2021-11-23T12:41:44.000000Z",
+    "datePublished": "2021-11-23T12:41:44.000000Z",
+    "dateModified": "2024-02-29T15:02:58.000000Z",
+    "learningResourceType": "Car",
+    "educationalUse": "assignment",
+    "interactivityType": "mixed",
+    "accessMode": "textOnVisual",
+    "educationalLevel": "intermediate",
+    "typicalAgeRange": "16-72",
+    "educationalAlignment": {
+      "@type": "AlignmentObject",
+      "alignmentType": "educationalSubject",
+      "educationalFramework": "DMV Written Test",
+      "targetDescription": "DMV Written Test is the best at helping you pass your permit exam.  We only use real DMV questions on our practice tests and cheat sheets!",
+      "targetName": "DMV Written Test - DMV Practice Test 2025 - Real DMV Questions!",
+      "targetUrl": "https://www.dmv-written-test.com"
+    },
+    "image": {
+      "@type": "ImageObject",
+      "author": "DMV Written Test",
+      "name": "DMV Written Test",
+      "url": "https://www.dmv-written-test.com/images/meta/cover-1200x630.png",
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "inLanguage": {
+      "@type": "Language",
+      "name": "English",
+      "alternateName": "en"
+    }
+  }
+]

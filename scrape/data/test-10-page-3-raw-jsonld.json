@@ -1,0 +1,651 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "Quiz",
+    "name": "FREE California Permit Test 10 - Real 2025 DMV Test Questions",
+    "headline": "2025 California Permit Test 10",
+    "alternativeHeadline": "2025 California Permit Test 10 | DMV Written Test",
+    "about": {
+      "@type": "Thing",
+      "name": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car."
+    },
+    "hasPart": [
+      {
+        "@type": "Question",
+        "name": "There are oncoming vehicles to your left and a row of parked vehicles to your right. You should steer:",
+        "about": {
+          "@type": "Thing",
+          "name": "There are oncoming vehicles to your left and a row of parked vehicles to your right. You should steer:"
+        },
+        "assesses": "There are oncoming vehicles to your left and a row of parked vehicles to your right. You should steer: | There are oncoming vehicles to your left and a row of parked vehicles to your right. You should steer: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "If there are oncoming vehicles to your left and a row of parked vehicles to your right, the best thing to do is to split the difference. Steer a middle course between the oncoming cars and the parked cars.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Closer to the oncoming vehicles than the parked vehicles.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Closer to the oncoming vehicles than the parked vehicles."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Closer to the parked vehicles than the oncoming vehicles.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Closer to the parked vehicles than the oncoming vehicles."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "A middle course between the oncoming and parked vehicles.",
+            "comment": {
+              "@type": "Comment",
+              "text": "A middle course between the oncoming and parked vehicles."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "A middle course between the oncoming and parked vehicles.",
+            "comment": {
+              "@type": "Comment",
+              "text": "A middle course between the oncoming and parked vehicles."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "If there are oncoming vehicles to your left and a row of parked vehicles to your right, the best thing to do is to split the difference. Steer a middle course between the oncoming cars and the parked cars.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "There are oncoming vehicles to your left and a row of parked vehicles to your right. You should steer: | If there are oncoming vehicles to your left and a row of parked vehicles to your right, the best thing to do is to split the difference. Steer a middle course between the oncoming cars and the parked cars."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "There are oncoming vehicles to your left and a row of parked vehicles to your right. You should steer: -  Real 2025 DMV Questions ",
+          "targetName": "There are oncoming vehicles to your left and a row of parked vehicles to your right. You should steer:",
+          "targetUrl": "https://www.dmv-written-test.com/question/there-are-oncoming-vehicles-to-your-left-and-a-row-of-parked-vehicles-to-your-right-you-should-steer_7DXYBZrK.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "There are oncoming vehicles to your left and a row of parked vehicles to your right. You should steer:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "There are oncoming vehicles to your left and a row of parked vehicles to your right. You should steer:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "At a railroad crossing, you must:",
+        "about": {
+          "@type": "Thing",
+          "name": "At a railroad crossing, you must:"
+        },
+        "assesses": "At a railroad crossing, you must: | At a railroad crossing, you must: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "You must approach all railroad crossings with extreme caution and cross only when you know that no train is coming from either direction. Be aware of vehicles that must stop at all railroad crossings, such as school buses and trucks carrying hazardous materials.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Watch for vehicles that must stop at all railroad crossings (school buses, trucks carrying hazardous materials, etc.).",
+            "comment": {
+              "@type": "Comment",
+              "text": "Watch for vehicles that must stop at all railroad crossings (school buses, trucks carrying hazardous materials, etc.)."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Watch for multiple trains.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Watch for multiple trains."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Both of the above.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Both of the above."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Both of the above.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Both of the above."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "You must approach all railroad crossings with extreme caution and cross only when you know that no train is coming from either direction. Be aware of vehicles that must stop at all railroad crossings, such as school buses and trucks carrying hazardous materials.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "At a railroad crossing, you must: | You must approach all railroad crossings with extreme caution and cross only when you know that no train is coming from either direction. Be aware of vehicles that must stop at all railroad crossings, such as school buses and trucks carrying hazardous materials."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "At a railroad crossing, you must: -  Real 2025 DMV Questions ",
+          "targetName": "At a railroad crossing, you must:",
+          "targetUrl": "https://www.dmv-written-test.com/question/at-a-railroad-crossing-you-must_ElPZxLX2.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "At a railroad crossing, you must:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "At a railroad crossing, you must:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Alcohol in any concentration is:",
+        "about": {
+          "@type": "Thing",
+          "name": "Alcohol in any concentration is:"
+        },
+        "assesses": "Alcohol in any concentration is: | Alcohol in any concentration is: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Alcohol, in any concentration, is a depressant. It slows all nerve impulses and bodily functions, resulting in a lessening of inhibitions and negatively affecting a consumer's ability to concentrate and stay alert.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "A stimulant.",
+            "comment": {
+              "@type": "Comment",
+              "text": "A stimulant."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "A depressant.",
+            "comment": {
+              "@type": "Comment",
+              "text": "A depressant."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Neither of the above.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Neither of the above."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "A depressant.",
+            "comment": {
+              "@type": "Comment",
+              "text": "A depressant."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Alcohol, in any concentration, is a depressant. It slows all nerve impulses and bodily functions, resulting in a lessening of inhibitions and negatively affecting a consumer's ability to concentrate and stay alert.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "Alcohol in any concentration is: | Alcohol, in any concentration, is a depressant. It slows all nerve impulses and bodily functions, resulting in a lessening of inhibitions and negatively affecting a consumer's ability to concentrate and stay alert."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "Alcohol in any concentration is: -  Real 2025 DMV Questions ",
+          "targetName": "Alcohol in any concentration is:",
+          "targetUrl": "https://www.dmv-written-test.com/question/alcohol-in-any-concentration-is_Y5y9mNyZ.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "Alcohol in any concentration is:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "Alcohol in any concentration is:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "At intersections, crosswalks, and railroad crossings, you should always:",
+        "about": {
+          "@type": "Thing",
+          "name": "At intersections, crosswalks, and railroad crossings, you should always:"
+        },
+        "assesses": "At intersections, crosswalks, and railroad crossings, you should always: | At intersections, crosswalks, and railroad crossings, you should always: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Any time you come to a place where people may cross or enter your path, or where one line of traffic meets another, you should look to the left and right sides of your vehicle to make sure no one is coming.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Stop, listen, and proceed cautiously.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Stop, listen, and proceed cautiously."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Look to the sides of your vehicle to see what is coming.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Look to the sides of your vehicle to see what is coming."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Slowly pass vehicles that seem to be stopped for no reason. ",
+            "comment": {
+              "@type": "Comment",
+              "text": "Slowly pass vehicles that seem to be stopped for no reason. "
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Look to the sides of your vehicle to see what is coming.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Look to the sides of your vehicle to see what is coming."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Any time you come to a place where people may cross or enter your path, or where one line of traffic meets another, you should look to the left and right sides of your vehicle to make sure no one is coming.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "At intersections, crosswalks, and railroad crossings, you should always: | Any time you come to a place where people may cross or enter your path, or where one line of traffic meets another, you should look to the left and right sides of your vehicle to make sure no one is coming."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "At intersections, crosswalks, and railroad crossings, you should always: -  Real 2025 DMV Questions ",
+          "targetName": "At intersections, crosswalks, and railroad crossings, you should always:",
+          "targetUrl": "https://www.dmv-written-test.com/question/at-intersections-crosswalks-and-railroad-crossings-you-should-always_7er2W8PJ.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "At intersections, crosswalks, and railroad crossings, you should always:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "At intersections, crosswalks, and railroad crossings, you should always:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "If your vehicle has a two-part safety belt system, you should:",
+        "about": {
+          "@type": "Thing",
+          "name": "If your vehicle has a two-part safety belt system, you should:"
+        },
+        "assesses": "If your vehicle has a two-part safety belt system, you should: | If your vehicle has a two-part safety belt system, you should: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "If your vehicle has a two-part seat belt system, be sure to wear both the lap belt and the shoulder belt. Wearing either part alone greatly reduces your protection. If you have an automatic shoulder belt, be sure to buckle your lap belt as well.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Use only the lap belt.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Use only the lap belt."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Use both the lap and shoulder belts.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Use both the lap and shoulder belts."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Use only the shoulder belt.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Use only the shoulder belt."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Use both the lap and shoulder belts.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Use both the lap and shoulder belts."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "If your vehicle has a two-part seat belt system, be sure to wear both the lap belt and the shoulder belt. Wearing either part alone greatly reduces your protection. If you have an automatic shoulder belt, be sure to buckle your lap belt as well.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "If your vehicle has a two-part safety belt system, you should: | If your vehicle has a two-part seat belt system, be sure to wear both the lap belt and the shoulder belt. Wearing either part alone greatly reduces your protection. If you have an automatic shoulder belt, be sure to buckle your lap belt as well."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "If your vehicle has a two-part safety belt system, you should: -  Real 2025 DMV Questions ",
+          "targetName": "If your vehicle has a two-part safety belt system, you should:",
+          "targetUrl": "https://www.dmv-written-test.com/question/if-your-vehicle-has-a-two-part-safety-belt-system-you-should_LBXpV9P9.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "If your vehicle has a two-part safety belt system, you should:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "If your vehicle has a two-part safety belt system, you should:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "This sign indicates a:",
+        "about": {
+          "@type": "Thing",
+          "name": "This sign indicates a:"
+        },
+        "assesses": "This sign indicates a: | This sign indicates a: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images-car/district-of-columbia-railroad_crossing_ahead.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Yellow signs with black markings are used to warn drivers about upcoming hazards or special conditions. Round signs are used only to warn about upcoming railroad crossings.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Railroad crossing.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Railroad crossing."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Pedestrian crossing.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Pedestrian crossing."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "No passing zone.",
+            "comment": {
+              "@type": "Comment",
+              "text": "No passing zone."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Railroad crossing.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Railroad crossing."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Yellow signs with black markings are used to warn drivers about upcoming hazards or special conditions. Round signs are used only to warn about upcoming railroad crossings.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "This sign indicates a: | Yellow signs with black markings are used to warn drivers about upcoming hazards or special conditions. Round signs are used only to warn about upcoming railroad crossings."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "This sign indicates a: -  Real 2025 DMV Questions ",
+          "targetName": "This sign indicates a:",
+          "targetUrl": "https://www.dmv-written-test.com/question/this-sign-indicates-a_WXbJKMXQ.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "This sign indicates a:",
+          "url": "https://www.dmv-written-test.com/images-car/district-of-columbia-railroad_crossing_ahead.png",
+          "description": "This sign indicates a:"
+        }
+      }
+    ],
+    "abstract": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>.",
+    "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "assesses": "FREE California Permit Test 10 - Real 2025 DMV Test Questions | The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "url": "https://www.dmv-written-test.com/california/practice-test-10.html",
+    "isPartOf": {
+      "@context": "http://schema.org",
+      "@type": "CreativeWorkSeries",
+      "name": "FREE California Permit Test 10 - Real 2025 DMV Test Questions",
+      "issn": "california/practice-test-10.html",
+      "accessMode": "textOnVisual",
+      "about": {
+        "@type": "Thing",
+        "name": "FREE California Permit Test 10 - Real 2025 DMV Test Questions"
+      },
+      "lastReviewed": "2024-02-29T15:03:00.000000Z",
+      "mainContentOfPage": {
+        "@type": "WebPageElement",
+        "cssSelector": [
+          "#series-description"
+        ]
+      },
+      "aggregateRating": {
+        "@type": "aggregateRating",
+        "ratingValue": "4.8383",
+        "reviewCount": 1602,
+        "bestRating": 5,
+        "worstRating": 1
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "author": "DMV Written Test",
+        "name": "2025 California Permit Test 10",
+        "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>."
+      },
+      "significantLink": "https://cheat-sheets.dmv-written-test.com/en/california/car",
+      "specialty": "www.dmv-written-test.com",
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "name": "DMV Written Test",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "DMV Written Test",
+            "url": "https://www.dmv-written-test.com",
+            "item": {
+              "@id": "https://www.dmv-written-test.com",
+              "name": "DMV Written Test"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "california",
+            "url": "https://www.dmv-written-test.com/california",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california",
+              "name": "DMV Written Test 2025 California - DMV Practice Test - Real CA DMV Questions!"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "2025 California Permit Test 10",
+            "url": "https://www.dmv-written-test.com/california/practice-test-10.html",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california/practice-test-10.html",
+              "name": "2025 California Permit Test 10"
+            }
+          }
+        ]
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "xpath": [
+          "/html/head/title",
+          "/html/head/meta[@name='description']/@content"
+        ],
+        "url": "https://www.dmv-written-test.com/california/practice-test-10.html"
+      }
+    },
+    "provider": {
+      "@type": "Organization",
+      "name": "DMV Written Test",
+      "legalName": "Infinity Loop Capital LLC, CORP2000",
+      "slogan": "DMV",
+      "url": "https://www.dmv-written-test.com",
+      "email": "support@dmv-written-test.com",
+      "address": {
+        "@type": "PostalAddress",
+        "name": "Infinity Loop Capital LLC, CORP2000",
+        "addressLocality": "lindengasse 56/2",
+        "addressRegion": "32 West Loockerman Street, Suite 107, 19904 Dover DE"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": " ",
+        "contactType": "customer service"
+      },
+      "logo": {
+        "@type": "ImageObject",
+        "name": "DMV Written Test",
+        "url": "https://www.dmv-written-test.com/images/meta/logo.png",
+        "description": "DMV Written Test"
+      },
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "copyrightYear": "2025",
+    "dateCreated": "2021-11-23T12:41:47.000000Z",
+    "datePublished": "2021-11-23T12:41:47.000000Z",
+    "dateModified": "2024-02-29T15:03:00.000000Z",
+    "learningResourceType": "Car",
+    "educationalUse": "assignment",
+    "interactivityType": "mixed",
+    "accessMode": "textOnVisual",
+    "educationalLevel": "intermediate",
+    "typicalAgeRange": "16-72",
+    "educationalAlignment": {
+      "@type": "AlignmentObject",
+      "alignmentType": "educationalSubject",
+      "educationalFramework": "DMV Written Test",
+      "targetDescription": "DMV Written Test is the best at helping you pass your permit exam.  We only use real DMV questions on our practice tests and cheat sheets!",
+      "targetName": "DMV Written Test - DMV Practice Test 2025 - Real DMV Questions!",
+      "targetUrl": "https://www.dmv-written-test.com"
+    },
+    "image": {
+      "@type": "ImageObject",
+      "author": "DMV Written Test",
+      "name": "DMV Written Test",
+      "url": "https://www.dmv-written-test.com/images/meta/cover-1200x630.png",
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "inLanguage": {
+      "@type": "Language",
+      "name": "English",
+      "alternateName": "en"
+    }
+  }
+]

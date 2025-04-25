@@ -1,0 +1,651 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "Quiz",
+    "name": "FREE California Permit Test 2 - Real 2025 DMV Test Questions",
+    "headline": "2025 California Permit Test 2",
+    "alternativeHeadline": "2025 California Permit Test 2 | DMV Written Test",
+    "about": {
+      "@type": "Thing",
+      "name": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car."
+    },
+    "hasPart": [
+      {
+        "@type": "Question",
+        "name": "This road sign means:",
+        "about": {
+          "@type": "Thing",
+          "name": "This road sign means:"
+        },
+        "assesses": "This road sign means: | This road sign means: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images-car/georgia-hill.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Warning signs are usually yellow with black markings. This sign indicates that there is a steep hill ahead. Slow down and be ready to shift to a lower gear to control your speed and protect your brakes from damage.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Intersection ahead.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Intersection ahead."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Steep grade ahead.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Steep grade ahead."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Winding road.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Winding road."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Steep grade ahead.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Steep grade ahead."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Warning signs are usually yellow with black markings. This sign indicates that there is a steep hill ahead. Slow down and be ready to shift to a lower gear to control your speed and protect your brakes from damage.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "This road sign means: | Warning signs are usually yellow with black markings. This sign indicates that there is a steep hill ahead. Slow down and be ready to shift to a lower gear to control your speed and protect your brakes from damage."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "This road sign means: -  Real 2025 DMV Questions ",
+          "targetName": "This road sign means:",
+          "targetUrl": "https://www.dmv-written-test.com/question/this-road-sign-means_b2Xl1ArY.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "This road sign means:",
+          "url": "https://www.dmv-written-test.com/images-car/georgia-hill.png",
+          "description": "This road sign means:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "When a school bus is stopped on the road ahead to load or unload children, you must:",
+        "about": {
+          "@type": "Thing",
+          "name": "When a school bus is stopped on the road ahead to load or unload children, you must:"
+        },
+        "assesses": "When a school bus is stopped on the road ahead to load or unload children, you must: | When a school bus is stopped on the road ahead to load or unload children, you must: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "When a school bus is stopped on the road ahead with its lights flashing and its stop arm extended, you must come to a complete stop and wait to proceed until the lights have stopped flashing and the stop arm is withdrawn. Even after the bus begins to move again, do not proceed until you are sure there are no children crossing the road ahead of you.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Come to a complete stop until all the children have left the bus.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Come to a complete stop until all the children have left the bus."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Come to a complete stop until the red lights stop flashing and the stop arm is withdrawn.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Come to a complete stop until the red lights stop flashing and the stop arm is withdrawn."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Change lanes, drive slowly, and pass the bus cautiously.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Change lanes, drive slowly, and pass the bus cautiously."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Come to a complete stop until the red lights stop flashing and the stop arm is withdrawn.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Come to a complete stop until the red lights stop flashing and the stop arm is withdrawn."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "When a school bus is stopped on the road ahead with its lights flashing and its stop arm extended, you must come to a complete stop and wait to proceed until the lights have stopped flashing and the stop arm is withdrawn. Even after the bus begins to move again, do not proceed until you are sure there are no children crossing the road ahead of you.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "When a school bus is stopped on the road ahead to load or unload children, you must: | When a school bus is stopped on the road ahead with its lights flashing and its stop arm extended, you must come to a complete stop and wait to proceed until the lights have stopped flashing and the stop arm is withdrawn. Even after the bus begins to move again, do not proceed until you are sure there are no children crossing the road ahead of you."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "When a school bus is stopped on the road ahead to load or unload children, you must: -  Real 2025 DMV Questions ",
+          "targetName": "When a school bus is stopped on the road ahead to load or unload children, you must:",
+          "targetUrl": "https://www.dmv-written-test.com/question/when-a-school-bus-is-stopped-on-the-road-ahead-to-load-or-unload-children-you-must_kVr0LQrd.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "When a school bus is stopped on the road ahead to load or unload children, you must:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "When a school bus is stopped on the road ahead to load or unload children, you must:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "This sign means:",
+        "about": {
+          "@type": "Thing",
+          "name": "This sign means:"
+        },
+        "assesses": "This sign means: | This sign means: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images-car/tennessee-no_left_turn.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Signs with a red circle and diagonal line over a black symbol indicate that the action represented by the symbol is prohibited. In this case, the sign indicates that left turns are prohibited.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "No left turn can be made here.",
+            "comment": {
+              "@type": "Comment",
+              "text": "No left turn can be made here."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "A left turn can be made only after stopping.",
+            "comment": {
+              "@type": "Comment",
+              "text": "A left turn can be made only after stopping."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "All traffic must turn right at the next intersection.",
+            "comment": {
+              "@type": "Comment",
+              "text": "All traffic must turn right at the next intersection."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "No left turn can be made here.",
+            "comment": {
+              "@type": "Comment",
+              "text": "No left turn can be made here."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Signs with a red circle and diagonal line over a black symbol indicate that the action represented by the symbol is prohibited. In this case, the sign indicates that left turns are prohibited.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "This sign means: | Signs with a red circle and diagonal line over a black symbol indicate that the action represented by the symbol is prohibited. In this case, the sign indicates that left turns are prohibited."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "This sign means: -  Real 2025 DMV Questions ",
+          "targetName": "This sign means:",
+          "targetUrl": "https://www.dmv-written-test.com/question/this-sign-means_dWX4M2rw.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "This sign means:",
+          "url": "https://www.dmv-written-test.com/images-car/tennessee-no_left_turn.png",
+          "description": "This sign means:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "You must notify the DMV within five days if you:",
+        "about": {
+          "@type": "Thing",
+          "name": "You must notify the DMV within five days if you:"
+        },
+        "assesses": "You must notify the DMV within five days if you: | You must notify the DMV within five days if you: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "If you sell or transfer a vehicle, you must report the sale or transfer to the DMV within five days.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Sell or transfer your vehicle.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Sell or transfer your vehicle."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Fail a smog test.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Fail a smog test."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Get a new prescription for lenses or contacts.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Get a new prescription for lenses or contacts."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Sell or transfer your vehicle.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Sell or transfer your vehicle."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "If you sell or transfer a vehicle, you must report the sale or transfer to the DMV within five days.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "You must notify the DMV within five days if you: | If you sell or transfer a vehicle, you must report the sale or transfer to the DMV within five days."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "You must notify the DMV within five days if you: -  Real 2025 DMV Questions ",
+          "targetName": "You must notify the DMV within five days if you:",
+          "targetUrl": "https://www.dmv-written-test.com/question/you-must-notify-the-dmv-within-five-days-if-you_pWXjEKye.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "You must notify the DMV within five days if you:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "You must notify the DMV within five days if you:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Unless otherwise posted, the speed limit in a residential area is:",
+        "about": {
+          "@type": "Thing",
+          "name": "Unless otherwise posted, the speed limit in a residential area is:"
+        },
+        "assesses": "Unless otherwise posted, the speed limit in a residential area is: | Unless otherwise posted, the speed limit in a residential area is: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Unless otherwise posted, the speed limit in business and residential districts is 25 mph.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "20 mph.",
+            "comment": {
+              "@type": "Comment",
+              "text": "20 mph."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "25 mph.",
+            "comment": {
+              "@type": "Comment",
+              "text": "25 mph."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "30 mph.",
+            "comment": {
+              "@type": "Comment",
+              "text": "30 mph."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "25 mph.",
+            "comment": {
+              "@type": "Comment",
+              "text": "25 mph."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Unless otherwise posted, the speed limit in business and residential districts is 25 mph.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "Unless otherwise posted, the speed limit in a residential area is: | Unless otherwise posted, the speed limit in business and residential districts is 25 mph."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "Unless otherwise posted, the speed limit in a residential area is: -  Real 2025 DMV Questions ",
+          "targetName": "Unless otherwise posted, the speed limit in a residential area is:",
+          "targetUrl": "https://www.dmv-written-test.com/question/unless-otherwise-posted-the-speed-limit-in-a-residential-area-is_mVyeMoy5.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "Unless otherwise posted, the speed limit in a residential area is:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "Unless otherwise posted, the speed limit in a residential area is:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Which of these statements is true about drinking alcohol and driving?",
+        "about": {
+          "@type": "Thing",
+          "name": "Which of these statements is true about drinking alcohol and driving?"
+        },
+        "assesses": "Which of these statements is true about drinking alcohol and driving? | Which of these statements is true about drinking alcohol and driving? -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Being under the influence of alcohol affects your judgment. Good judgement is necessary to react appropriately to things that you see or hear while on the road. Even if you are below the legal blood alcohol limit, consuming any amount of alcohol is likely to affect your ability to drive safely.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "If you can walk in a straight line after drinking, it is safe to drive.",
+            "comment": {
+              "@type": "Comment",
+              "text": "If you can walk in a straight line after drinking, it is safe to drive."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "If you are under the legal blood alcohol concentration limit, your driving isn't impaired.",
+            "comment": {
+              "@type": "Comment",
+              "text": "If you are under the legal blood alcohol concentration limit, your driving isn't impaired."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Alcohol affects judgement, which is needed to drive safely.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Alcohol affects judgement, which is needed to drive safely."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Alcohol affects judgement, which is needed to drive safely.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Alcohol affects judgement, which is needed to drive safely."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Being under the influence of alcohol affects your judgment. Good judgement is necessary to react appropriately to things that you see or hear while on the road. Even if you are below the legal blood alcohol limit, consuming any amount of alcohol is likely to affect your ability to drive safely.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "Which of these statements is true about drinking alcohol and driving? | Being under the influence of alcohol affects your judgment. Good judgement is necessary to react appropriately to things that you see or hear while on the road. Even if you are below the legal blood alcohol limit, consuming any amount of alcohol is likely to affect your ability to drive safely."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "Which of these statements is true about drinking alcohol and driving? -  Real 2025 DMV Questions ",
+          "targetName": "Which of these statements is true about drinking alcohol and driving?",
+          "targetUrl": "https://www.dmv-written-test.com/question/which-of-these-statements-is-true-about-drinking-alcohol-and-driving_KeX84EXk.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "Which of these statements is true about drinking alcohol and driving?",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "Which of these statements is true about drinking alcohol and driving?"
+        }
+      }
+    ],
+    "abstract": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>.",
+    "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "assesses": "FREE California Permit Test 2 - Real 2025 DMV Test Questions | The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "url": "https://www.dmv-written-test.com/california/practice-test-2.html",
+    "isPartOf": {
+      "@context": "http://schema.org",
+      "@type": "CreativeWorkSeries",
+      "name": "FREE California Permit Test 2 - Real 2025 DMV Test Questions",
+      "issn": "california/practice-test-2.html",
+      "accessMode": "textOnVisual",
+      "about": {
+        "@type": "Thing",
+        "name": "FREE California Permit Test 2 - Real 2025 DMV Test Questions"
+      },
+      "lastReviewed": "2025-04-24T13:00:17.000000Z",
+      "mainContentOfPage": {
+        "@type": "WebPageElement",
+        "cssSelector": [
+          "#series-description"
+        ]
+      },
+      "aggregateRating": {
+        "@type": "aggregateRating",
+        "ratingValue": "4.7729",
+        "reviewCount": 15137,
+        "bestRating": 5,
+        "worstRating": 1
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "author": "DMV Written Test",
+        "name": "2025 California Permit Test 2",
+        "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>."
+      },
+      "significantLink": "https://cheat-sheets.dmv-written-test.com/en/california/car",
+      "specialty": "www.dmv-written-test.com",
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "name": "DMV Written Test",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "DMV Written Test",
+            "url": "https://www.dmv-written-test.com",
+            "item": {
+              "@id": "https://www.dmv-written-test.com",
+              "name": "DMV Written Test"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "california",
+            "url": "https://www.dmv-written-test.com/california",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california",
+              "name": "DMV Written Test 2025 California - DMV Practice Test - Real CA DMV Questions!"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "2025 California Permit Test 2",
+            "url": "https://www.dmv-written-test.com/california/practice-test-2.html",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california/practice-test-2.html",
+              "name": "2025 California Permit Test 2"
+            }
+          }
+        ]
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "xpath": [
+          "/html/head/title",
+          "/html/head/meta[@name='description']/@content"
+        ],
+        "url": "https://www.dmv-written-test.com/california/practice-test-2.html"
+      }
+    },
+    "provider": {
+      "@type": "Organization",
+      "name": "DMV Written Test",
+      "legalName": "Infinity Loop Capital LLC, CORP2000",
+      "slogan": "DMV",
+      "url": "https://www.dmv-written-test.com",
+      "email": "support@dmv-written-test.com",
+      "address": {
+        "@type": "PostalAddress",
+        "name": "Infinity Loop Capital LLC, CORP2000",
+        "addressLocality": "lindengasse 56/2",
+        "addressRegion": "32 West Loockerman Street, Suite 107, 19904 Dover DE"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": " ",
+        "contactType": "customer service"
+      },
+      "logo": {
+        "@type": "ImageObject",
+        "name": "DMV Written Test",
+        "url": "https://www.dmv-written-test.com/images/meta/logo.png",
+        "description": "DMV Written Test"
+      },
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "copyrightYear": "2025",
+    "dateCreated": "2021-11-23T12:41:43.000000Z",
+    "datePublished": "2021-11-23T12:41:43.000000Z",
+    "dateModified": "2025-04-24T13:00:17.000000Z",
+    "learningResourceType": "Car",
+    "educationalUse": "assignment",
+    "interactivityType": "mixed",
+    "accessMode": "textOnVisual",
+    "educationalLevel": "intermediate",
+    "typicalAgeRange": "16-72",
+    "educationalAlignment": {
+      "@type": "AlignmentObject",
+      "alignmentType": "educationalSubject",
+      "educationalFramework": "DMV Written Test",
+      "targetDescription": "DMV Written Test is the best at helping you pass your permit exam.  We only use real DMV questions on our practice tests and cheat sheets!",
+      "targetName": "DMV Written Test - DMV Practice Test 2025 - Real DMV Questions!",
+      "targetUrl": "https://www.dmv-written-test.com"
+    },
+    "image": {
+      "@type": "ImageObject",
+      "author": "DMV Written Test",
+      "name": "DMV Written Test",
+      "url": "https://www.dmv-written-test.com/images/meta/cover-1200x630.png",
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "inLanguage": {
+      "@type": "Language",
+      "name": "English",
+      "alternateName": "en"
+    }
+  }
+]

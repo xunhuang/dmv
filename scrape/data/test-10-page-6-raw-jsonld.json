@@ -1,0 +1,651 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "Quiz",
+    "name": "FREE California Permit Test 10 - Real 2025 DMV Test Questions",
+    "headline": "2025 California Permit Test 10",
+    "alternativeHeadline": "2025 California Permit Test 10 | DMV Written Test",
+    "about": {
+      "@type": "Thing",
+      "name": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car."
+    },
+    "hasPart": [
+      {
+        "@type": "Question",
+        "name": "This road sign means:",
+        "about": {
+          "@type": "Thing",
+          "name": "This road sign means:"
+        },
+        "assesses": "This road sign means: | This road sign means: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images-car/georgia-do_not_enter.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "This sign marks a one-way road, entrance, or exit. If you are facing this sign, traffic is coming toward you. Turn around if you are driving toward this sign.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "You are about to enter a one-way street from the wrong direction.",
+            "comment": {
+              "@type": "Comment",
+              "text": "You are about to enter a one-way street from the wrong direction."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "U-turns are prohibited.",
+            "comment": {
+              "@type": "Comment",
+              "text": "U-turns are prohibited."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "You may proceed if the way is clear.",
+            "comment": {
+              "@type": "Comment",
+              "text": "You may proceed if the way is clear."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "You are about to enter a one-way street from the wrong direction.",
+            "comment": {
+              "@type": "Comment",
+              "text": "You are about to enter a one-way street from the wrong direction."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "This sign marks a one-way road, entrance, or exit. If you are facing this sign, traffic is coming toward you. Turn around if you are driving toward this sign.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "This road sign means: | This sign marks a one-way road, entrance, or exit. If you are facing this sign, traffic is coming toward you. Turn around if you are driving toward this sign."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "This road sign means: -  Real 2025 DMV Questions ",
+          "targetName": "This road sign means:",
+          "targetUrl": "https://www.dmv-written-test.com/question/this-road-sign-means_7er2NArJ.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "This road sign means:",
+          "url": "https://www.dmv-written-test.com/images-car/georgia-do_not_enter.png",
+          "description": "This road sign means:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "If you have an argument with another person and you are angry, you should:",
+        "about": {
+          "@type": "Thing",
+          "name": "If you have an argument with another person and you are angry, you should:"
+        },
+        "assesses": "If you have an argument with another person and you are angry, you should: | If you have an argument with another person and you are angry, you should: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Your emotions affect your ability to drive safely. If you are overly angry, excited, afraid, worried, or depressed, you should give yourself time to calm down before operating a vehicle. You need to be able to mentally focus on driving without thinking about the things that made you upset.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Loudly play the radio while driving so you won’t think about your argument.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Loudly play the radio while driving so you won’t think about your argument."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Take a few minutes to cool off before driving.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Take a few minutes to cool off before driving."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Drive on the interstate to let off steam. ",
+            "comment": {
+              "@type": "Comment",
+              "text": "Drive on the interstate to let off steam. "
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Take a few minutes to cool off before driving.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Take a few minutes to cool off before driving."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Your emotions affect your ability to drive safely. If you are overly angry, excited, afraid, worried, or depressed, you should give yourself time to calm down before operating a vehicle. You need to be able to mentally focus on driving without thinking about the things that made you upset.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "If you have an argument with another person and you are angry, you should: | Your emotions affect your ability to drive safely. If you are overly angry, excited, afraid, worried, or depressed, you should give yourself time to calm down before operating a vehicle. You need to be able to mentally focus on driving without thinking about the things that made you upset."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "If you have an argument with another person and you are angry, you should: -  Real 2025 DMV Questions ",
+          "targetName": "If you have an argument with another person and you are angry, you should:",
+          "targetUrl": "https://www.dmv-written-test.com/question/if-you-have-an-argument-with-another-person-and-you-are-angry-you-should_RdPEz8yV.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "If you have an argument with another person and you are angry, you should:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "If you have an argument with another person and you are angry, you should:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "You can help keep the driver behind you a safe distance away from your vehicle by:",
+        "about": {
+          "@type": "Thing",
+          "name": "You can help keep the driver behind you a safe distance away from your vehicle by:"
+        },
+        "assesses": "You can help keep the driver behind you a safe distance away from your vehicle by: | You can help keep the driver behind you a safe distance away from your vehicle by: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "It is not always easy to maintain a safe distance behind your vehicle. However, you can help keep the driver behind you a safe distance away from your vehicle by maintaining a steady speed and signaling turns, lane changes, and deceleration in advance.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Driving 10 mph faster than the car behind you.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Driving 10 mph faster than the car behind you."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Driving 10 mph slower than the car behind you.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Driving 10 mph slower than the car behind you."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Maintaining a steady speed.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Maintaining a steady speed."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Maintaining a steady speed.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Maintaining a steady speed."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "It is not always easy to maintain a safe distance behind your vehicle. However, you can help keep the driver behind you a safe distance away from your vehicle by maintaining a steady speed and signaling turns, lane changes, and deceleration in advance.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "You can help keep the driver behind you a safe distance away from your vehicle by: | It is not always easy to maintain a safe distance behind your vehicle. However, you can help keep the driver behind you a safe distance away from your vehicle by maintaining a steady speed and signaling turns, lane changes, and deceleration in advance."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "You can help keep the driver behind you a safe distance away from your vehicle by: -  Real 2025 DMV Questions ",
+          "targetName": "You can help keep the driver behind you a safe distance away from your vehicle by:",
+          "targetUrl": "https://www.dmv-written-test.com/question/you-can-help-keep-the-driver-behind-you-a-safe-distance-away-from-your-vehicle-by_0yd466yY.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "You can help keep the driver behind you a safe distance away from your vehicle by:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "You can help keep the driver behind you a safe distance away from your vehicle by:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "A peace officer is signaling for you to drive to the edge of the roadway. You decide to ignore the officer's warning and flee the scene. You are guilty of a misdemeanor and can be punished by being:",
+        "about": {
+          "@type": "Thing",
+          "name": "A peace officer is signaling for you to drive to the edge of the roadway. You decide to ignore the officer's warning and flee the scene. You are guilty of a misdemeanor and can be punished by being:"
+        },
+        "assesses": "A peace officer is signaling for you to drive to the edge of the roadway. You decide to ignore the officer's warning and flee the scene. You are guilty of a misdemeanor and can be punished by being: | A peace officer is signaling for you to drive to the edge of the roadway. You decide to ignore the officer's warning and flee the scene. You are guilty of a misdemeanor and can be punished by being: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Any person, while operating a motor vehicle, who willfully flees or attempts to evade a peace officer performing his or her duties is guilty of a misdemeanor punishable by imprisonment in a county jail for not more than one year.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Fined up to $1,000.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Fined up to $1,000."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Jailed in the county jail for not more than one year.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Jailed in the county jail for not more than one year."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Given a warning and a citation.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Given a warning and a citation."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Jailed in the county jail for not more than one year.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Jailed in the county jail for not more than one year."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Any person, while operating a motor vehicle, who willfully flees or attempts to evade a peace officer performing his or her duties is guilty of a misdemeanor punishable by imprisonment in a county jail for not more than one year.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "A peace officer is signaling for you to drive to the edge of the roadway. You decide to ignore the officer's warning and flee the scene. You are guilty of a misdemeanor and can be punished by being: | Any person, while operating a motor vehicle, who willfully flees or attempts to evade a peace officer performing his or her duties is guilty of a misdemeanor punishable by imprisonment in a county jail for not more than one year."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "A peace officer is signaling for you to drive to the edge of the roadway. You decide to ignore the officer's warning and flee the scene. You are guilty of a misdemeanor and can be punished by being: -  Real 2025 DMV Questions ",
+          "targetName": "A peace officer is signaling for you to drive to the edge of the roadway. You decide to ignore the officer's warning and flee the scene. You are guilty of a misdemeanor and can be punished by being:",
+          "targetUrl": "https://www.dmv-written-test.com/question/a-peace-officer-is-signaling-for-you-to-drive-to-the-edge-of-the-roadway-you-decide-to-ignore-the-officers-warning-and-flee-the-scene-you-are-guilty-of-a-misdemeanor-and-can-be-punished-by-being_mVyeLlP5.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "A peace officer is signaling for you to drive to the edge of the roadway. You decide to ignore the officer's warning and flee the scene. You are guilty of a misdemeanor and can be punished by being:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "A peace officer is signaling for you to drive to the edge of the roadway. You decide to ignore the officer's warning and flee the scene. You are guilty of a misdemeanor and can be punished by being:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Animals may be transported in the back of a pickup truck only if:",
+        "about": {
+          "@type": "Thing",
+          "name": "Animals may be transported in the back of a pickup truck only if:"
+        },
+        "assesses": "Animals may be transported in the back of a pickup truck only if: | Animals may be transported in the back of a pickup truck only if: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "An animal must not be transported in the back of a pickup or other truck unless the animal is properly secured to prevent it from falling, jumping, or being thrown from the vehicle.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "The sides of the truck bed are at least 18 inches high.",
+            "comment": {
+              "@type": "Comment",
+              "text": "The sides of the truck bed are at least 18 inches high."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "They are properly secured.",
+            "comment": {
+              "@type": "Comment",
+              "text": "They are properly secured."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "The tailgate of the truck is closed.",
+            "comment": {
+              "@type": "Comment",
+              "text": "The tailgate of the truck is closed."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "They are properly secured.",
+            "comment": {
+              "@type": "Comment",
+              "text": "They are properly secured."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "An animal must not be transported in the back of a pickup or other truck unless the animal is properly secured to prevent it from falling, jumping, or being thrown from the vehicle.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "Animals may be transported in the back of a pickup truck only if: | An animal must not be transported in the back of a pickup or other truck unless the animal is properly secured to prevent it from falling, jumping, or being thrown from the vehicle."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "Animals may be transported in the back of a pickup truck only if: -  Real 2025 DMV Questions ",
+          "targetName": "Animals may be transported in the back of a pickup truck only if:",
+          "targetUrl": "https://www.dmv-written-test.com/question/animals-may-be-transported-in-the-back-of-a-pickup-truck-only-if_YWXbW9rQ.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "Animals may be transported in the back of a pickup truck only if:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "Animals may be transported in the back of a pickup truck only if:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is the benefit of a space cushion around your vehicle?",
+        "about": {
+          "@type": "Thing",
+          "name": "What is the benefit of a space cushion around your vehicle?"
+        },
+        "assesses": "What is the benefit of a space cushion around your vehicle? | What is the benefit of a space cushion around your vehicle? -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Keeping space around your vehicle is important to ensure that you have time to safely react if another driver makes a mistake. For example, extra space around your vehicle may give you time to brake or maneuver out of the way of a vehicle veering into your lane. ",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Other drivers can cut in front of you, improving the flow of traffic.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Other drivers can cut in front of you, improving the flow of traffic."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "If another driver makes a mistake, you have time to react.",
+            "comment": {
+              "@type": "Comment",
+              "text": "If another driver makes a mistake, you have time to react."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "It inflates to protect you from injury in the case of a collision.",
+            "comment": {
+              "@type": "Comment",
+              "text": "It inflates to protect you from injury in the case of a collision."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "If another driver makes a mistake, you have time to react.",
+            "comment": {
+              "@type": "Comment",
+              "text": "If another driver makes a mistake, you have time to react."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Keeping space around your vehicle is important to ensure that you have time to safely react if another driver makes a mistake. For example, extra space around your vehicle may give you time to brake or maneuver out of the way of a vehicle veering into your lane. ",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "What is the benefit of a space cushion around your vehicle? | Keeping space around your vehicle is important to ensure that you have time to safely react if another driver makes a mistake. For example, extra space around your vehicle may give you time to brake or maneuver out of the way of a vehicle veering into your lane. "
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "What is the benefit of a space cushion around your vehicle? -  Real 2025 DMV Questions ",
+          "targetName": "What is the benefit of a space cushion around your vehicle?",
+          "targetUrl": "https://www.dmv-written-test.com/question/what-is-the-benefit-of-a-space-cushion-around-your-vehicle_4RXogX6q.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "What is the benefit of a space cushion around your vehicle?",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "What is the benefit of a space cushion around your vehicle?"
+        }
+      }
+    ],
+    "abstract": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>.",
+    "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "assesses": "FREE California Permit Test 10 - Real 2025 DMV Test Questions | The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "url": "https://www.dmv-written-test.com/california/practice-test-10.html",
+    "isPartOf": {
+      "@context": "http://schema.org",
+      "@type": "CreativeWorkSeries",
+      "name": "FREE California Permit Test 10 - Real 2025 DMV Test Questions",
+      "issn": "california/practice-test-10.html",
+      "accessMode": "textOnVisual",
+      "about": {
+        "@type": "Thing",
+        "name": "FREE California Permit Test 10 - Real 2025 DMV Test Questions"
+      },
+      "lastReviewed": "2024-02-29T15:03:00.000000Z",
+      "mainContentOfPage": {
+        "@type": "WebPageElement",
+        "cssSelector": [
+          "#series-description"
+        ]
+      },
+      "aggregateRating": {
+        "@type": "aggregateRating",
+        "ratingValue": "4.8383",
+        "reviewCount": 1602,
+        "bestRating": 5,
+        "worstRating": 1
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "author": "DMV Written Test",
+        "name": "2025 California Permit Test 10",
+        "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>."
+      },
+      "significantLink": "https://cheat-sheets.dmv-written-test.com/en/california/car",
+      "specialty": "www.dmv-written-test.com",
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "name": "DMV Written Test",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "DMV Written Test",
+            "url": "https://www.dmv-written-test.com",
+            "item": {
+              "@id": "https://www.dmv-written-test.com",
+              "name": "DMV Written Test"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "california",
+            "url": "https://www.dmv-written-test.com/california",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california",
+              "name": "DMV Written Test 2025 California - DMV Practice Test - Real CA DMV Questions!"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "2025 California Permit Test 10",
+            "url": "https://www.dmv-written-test.com/california/practice-test-10.html",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california/practice-test-10.html",
+              "name": "2025 California Permit Test 10"
+            }
+          }
+        ]
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "xpath": [
+          "/html/head/title",
+          "/html/head/meta[@name='description']/@content"
+        ],
+        "url": "https://www.dmv-written-test.com/california/practice-test-10.html"
+      }
+    },
+    "provider": {
+      "@type": "Organization",
+      "name": "DMV Written Test",
+      "legalName": "Infinity Loop Capital LLC, CORP2000",
+      "slogan": "DMV",
+      "url": "https://www.dmv-written-test.com",
+      "email": "support@dmv-written-test.com",
+      "address": {
+        "@type": "PostalAddress",
+        "name": "Infinity Loop Capital LLC, CORP2000",
+        "addressLocality": "lindengasse 56/2",
+        "addressRegion": "32 West Loockerman Street, Suite 107, 19904 Dover DE"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": " ",
+        "contactType": "customer service"
+      },
+      "logo": {
+        "@type": "ImageObject",
+        "name": "DMV Written Test",
+        "url": "https://www.dmv-written-test.com/images/meta/logo.png",
+        "description": "DMV Written Test"
+      },
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "copyrightYear": "2025",
+    "dateCreated": "2021-11-23T12:41:47.000000Z",
+    "datePublished": "2021-11-23T12:41:47.000000Z",
+    "dateModified": "2024-02-29T15:03:00.000000Z",
+    "learningResourceType": "Car",
+    "educationalUse": "assignment",
+    "interactivityType": "mixed",
+    "accessMode": "textOnVisual",
+    "educationalLevel": "intermediate",
+    "typicalAgeRange": "16-72",
+    "educationalAlignment": {
+      "@type": "AlignmentObject",
+      "alignmentType": "educationalSubject",
+      "educationalFramework": "DMV Written Test",
+      "targetDescription": "DMV Written Test is the best at helping you pass your permit exam.  We only use real DMV questions on our practice tests and cheat sheets!",
+      "targetName": "DMV Written Test - DMV Practice Test 2025 - Real DMV Questions!",
+      "targetUrl": "https://www.dmv-written-test.com"
+    },
+    "image": {
+      "@type": "ImageObject",
+      "author": "DMV Written Test",
+      "name": "DMV Written Test",
+      "url": "https://www.dmv-written-test.com/images/meta/cover-1200x630.png",
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "inLanguage": {
+      "@type": "Language",
+      "name": "English",
+      "alternateName": "en"
+    }
+  }
+]

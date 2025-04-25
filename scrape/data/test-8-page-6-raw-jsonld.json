@@ -1,0 +1,651 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "Quiz",
+    "name": "FREE California Permit Test 8 - Real 2025 DMV Test Questions",
+    "headline": "2025 California Permit Test 8",
+    "alternativeHeadline": "2025 California Permit Test 8 | DMV Written Test",
+    "about": {
+      "@type": "Thing",
+      "name": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car."
+    },
+    "hasPart": [
+      {
+        "@type": "Question",
+        "name": "This white sign means you should not pass other vehicles:",
+        "about": {
+          "@type": "Thing",
+          "name": "This white sign means you should not pass other vehicles:"
+        },
+        "assesses": "This white sign means you should not pass other vehicles: | This white sign means you should not pass other vehicles: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images-car/california-do_not_pass.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "A white rectangular sign indicates that you must obey the stated rule. This sign means that drivers should not pass other vehicles for any reason.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Until after you pass the sign.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Until after you pass the sign."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Unless it seems safe to do so.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Unless it seems safe to do so."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "For any reason.",
+            "comment": {
+              "@type": "Comment",
+              "text": "For any reason."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "For any reason.",
+            "comment": {
+              "@type": "Comment",
+              "text": "For any reason."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "A white rectangular sign indicates that you must obey the stated rule. This sign means that drivers should not pass other vehicles for any reason.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "This white sign means you should not pass other vehicles: | A white rectangular sign indicates that you must obey the stated rule. This sign means that drivers should not pass other vehicles for any reason."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "This white sign means you should not pass other vehicles: -  Real 2025 DMV Questions ",
+          "targetName": "This white sign means you should not pass other vehicles:",
+          "targetUrl": "https://www.dmv-written-test.com/question/this-white-sign-means-you-should-not-pass-other-vehicles_oOykBdPB.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "This white sign means you should not pass other vehicles:",
+          "url": "https://www.dmv-written-test.com/images-car/california-do_not_pass.png",
+          "description": "This white sign means you should not pass other vehicles:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What does this road sign mean?",
+        "about": {
+          "@type": "Thing",
+          "name": "What does this road sign mean?"
+        },
+        "assesses": "What does this road sign mean? | What does this road sign mean? -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images-car/georgia-slippery_when_wet.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "This sign indicates that the road may be slippery when wet. Exercise caution when driving on a slippery road.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Winding road",
+            "comment": {
+              "@type": "Comment",
+              "text": "Winding road"
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Loose gravel",
+            "comment": {
+              "@type": "Comment",
+              "text": "Loose gravel"
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Slippery when wet",
+            "comment": {
+              "@type": "Comment",
+              "text": "Slippery when wet"
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Slippery when wet",
+            "comment": {
+              "@type": "Comment",
+              "text": "Slippery when wet"
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "This sign indicates that the road may be slippery when wet. Exercise caution when driving on a slippery road.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "What does this road sign mean? | This sign indicates that the road may be slippery when wet. Exercise caution when driving on a slippery road."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "What does this road sign mean? -  Real 2025 DMV Questions ",
+          "targetName": "What does this road sign mean?",
+          "targetUrl": "https://www.dmv-written-test.com/question/what-does-this-road-sign-mean_2MXLVqPw.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "What does this road sign mean?",
+          "url": "https://www.dmv-written-test.com/images-car/georgia-slippery_when_wet.png",
+          "description": "What does this road sign mean?"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "When changing lanes, you can check your blind spot by:",
+        "about": {
+          "@type": "Thing",
+          "name": "When changing lanes, you can check your blind spot by:"
+        },
+        "assesses": "When changing lanes, you can check your blind spot by: | When changing lanes, you can check your blind spot by: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Even if your vehicle is properly equipped with mirrors, there are blind spots that cannot be seen by using the mirrors. Before changing lanes, look over your shoulder to check these areas.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Using the inside rearview mirror.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Using the inside rearview mirror."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Turning your head and looking over your shoulder.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Turning your head and looking over your shoulder."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Using your side mirror.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Using your side mirror."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Turning your head and looking over your shoulder.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Turning your head and looking over your shoulder."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Even if your vehicle is properly equipped with mirrors, there are blind spots that cannot be seen by using the mirrors. Before changing lanes, look over your shoulder to check these areas.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "When changing lanes, you can check your blind spot by: | Even if your vehicle is properly equipped with mirrors, there are blind spots that cannot be seen by using the mirrors. Before changing lanes, look over your shoulder to check these areas."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "When changing lanes, you can check your blind spot by: -  Real 2025 DMV Questions ",
+          "targetName": "When changing lanes, you can check your blind spot by:",
+          "targetUrl": "https://www.dmv-written-test.com/question/when-changing-lanes-you-can-check-your-blind-spot-by_wGPJqYr5.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "When changing lanes, you can check your blind spot by:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "When changing lanes, you can check your blind spot by:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "When driving in fog, you should use your:",
+        "about": {
+          "@type": "Thing",
+          "name": "When driving in fog, you should use your:"
+        },
+        "assesses": "When driving in fog, you should use your: | When driving in fog, you should use your: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "It is best to postpone driving until a fog clears. However, if you must drive in the fog, you should do so slowly and use your windshield wipers and low beam headlights.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Fog lights only.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Fog lights only."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "High beams.",
+            "comment": {
+              "@type": "Comment",
+              "text": "High beams."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Low beams.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Low beams."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Low beams.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Low beams."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "It is best to postpone driving until a fog clears. However, if you must drive in the fog, you should do so slowly and use your windshield wipers and low beam headlights.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "When driving in fog, you should use your: | It is best to postpone driving until a fog clears. However, if you must drive in the fog, you should do so slowly and use your windshield wipers and low beam headlights."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "When driving in fog, you should use your: -  Real 2025 DMV Questions ",
+          "targetName": "When driving in fog, you should use your:",
+          "targetUrl": "https://www.dmv-written-test.com/question/when-driving-in-fog-you-should-use-your_96XKgwXE.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "When driving in fog, you should use your:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "When driving in fog, you should use your:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Having a driver license is a:",
+        "about": {
+          "@type": "Thing",
+          "name": "Having a driver license is a:"
+        },
+        "assesses": "Having a driver license is a: | Having a driver license is a: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "It is important to remember that driving is a privilege and that all drivers play a role in ensuring that everyone remains safe on the roadways. If you prove to be abusive of that privilege, the privilege may be revoked.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Requirement.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Requirement."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Privilege.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Privilege."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Right.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Right."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Privilege.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Privilege."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "It is important to remember that driving is a privilege and that all drivers play a role in ensuring that everyone remains safe on the roadways. If you prove to be abusive of that privilege, the privilege may be revoked.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "Having a driver license is a: | It is important to remember that driving is a privilege and that all drivers play a role in ensuring that everyone remains safe on the roadways. If you prove to be abusive of that privilege, the privilege may be revoked."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "Having a driver license is a: -  Real 2025 DMV Questions ",
+          "targetName": "Having a driver license is a:",
+          "targetUrl": "https://www.dmv-written-test.com/question/having-a-driver-license-is-a_bVyvY4PG.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "Having a driver license is a:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "Having a driver license is a:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "When you see this black and yellow sign, it means:",
+        "about": {
+          "@type": "Thing",
+          "name": "When you see this black and yellow sign, it means:"
+        },
+        "assesses": "When you see this black and yellow sign, it means: | When you see this black and yellow sign, it means: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images-car/alaska-sharp_turn_to_right.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Warning signs are usually yellow with black markings. They alert you to conditions that are immediately ahead. This sign tells drivers to slow down and prepare for an abrupt change in direction at an extreme angle.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "The road to the right is for one-way traffic only.",
+            "comment": {
+              "@type": "Comment",
+              "text": "The road to the right is for one-way traffic only."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "There is a detour to the right due to road construction.",
+            "comment": {
+              "@type": "Comment",
+              "text": "There is a detour to the right due to road construction."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "The road ahead changes direction at an extreme angle.",
+            "comment": {
+              "@type": "Comment",
+              "text": "The road ahead changes direction at an extreme angle."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "The road ahead changes direction at an extreme angle.",
+            "comment": {
+              "@type": "Comment",
+              "text": "The road ahead changes direction at an extreme angle."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Warning signs are usually yellow with black markings. They alert you to conditions that are immediately ahead. This sign tells drivers to slow down and prepare for an abrupt change in direction at an extreme angle.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "When you see this black and yellow sign, it means: | Warning signs are usually yellow with black markings. They alert you to conditions that are immediately ahead. This sign tells drivers to slow down and prepare for an abrupt change in direction at an extreme angle."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "When you see this black and yellow sign, it means: -  Real 2025 DMV Questions ",
+          "targetName": "When you see this black and yellow sign, it means:",
+          "targetUrl": "https://www.dmv-written-test.com/question/when-you-see-this-black-and-yellow-sign-it-means_5zXBWxrv.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "When you see this black and yellow sign, it means:",
+          "url": "https://www.dmv-written-test.com/images-car/alaska-sharp_turn_to_right.png",
+          "description": "When you see this black and yellow sign, it means:"
+        }
+      }
+    ],
+    "abstract": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>.",
+    "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "assesses": "FREE California Permit Test 8 - Real 2025 DMV Test Questions | The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "url": "https://www.dmv-written-test.com/california/practice-test-8.html",
+    "isPartOf": {
+      "@context": "http://schema.org",
+      "@type": "CreativeWorkSeries",
+      "name": "FREE California Permit Test 8 - Real 2025 DMV Test Questions",
+      "issn": "california/practice-test-8.html",
+      "accessMode": "textOnVisual",
+      "about": {
+        "@type": "Thing",
+        "name": "FREE California Permit Test 8 - Real 2025 DMV Test Questions"
+      },
+      "lastReviewed": "2024-02-29T15:03:00.000000Z",
+      "mainContentOfPage": {
+        "@type": "WebPageElement",
+        "cssSelector": [
+          "#series-description"
+        ]
+      },
+      "aggregateRating": {
+        "@type": "aggregateRating",
+        "ratingValue": "4.8385",
+        "reviewCount": 2056,
+        "bestRating": 5,
+        "worstRating": 1
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "author": "DMV Written Test",
+        "name": "2025 California Permit Test 8",
+        "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>."
+      },
+      "significantLink": "https://cheat-sheets.dmv-written-test.com/en/california/car",
+      "specialty": "www.dmv-written-test.com",
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "name": "DMV Written Test",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "DMV Written Test",
+            "url": "https://www.dmv-written-test.com",
+            "item": {
+              "@id": "https://www.dmv-written-test.com",
+              "name": "DMV Written Test"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "california",
+            "url": "https://www.dmv-written-test.com/california",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california",
+              "name": "DMV Written Test 2025 California - DMV Practice Test - Real CA DMV Questions!"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "2025 California Permit Test 8",
+            "url": "https://www.dmv-written-test.com/california/practice-test-8.html",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california/practice-test-8.html",
+              "name": "2025 California Permit Test 8"
+            }
+          }
+        ]
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "xpath": [
+          "/html/head/title",
+          "/html/head/meta[@name='description']/@content"
+        ],
+        "url": "https://www.dmv-written-test.com/california/practice-test-8.html"
+      }
+    },
+    "provider": {
+      "@type": "Organization",
+      "name": "DMV Written Test",
+      "legalName": "Infinity Loop Capital LLC, CORP2000",
+      "slogan": "DMV",
+      "url": "https://www.dmv-written-test.com",
+      "email": "support@dmv-written-test.com",
+      "address": {
+        "@type": "PostalAddress",
+        "name": "Infinity Loop Capital LLC, CORP2000",
+        "addressLocality": "lindengasse 56/2",
+        "addressRegion": "32 West Loockerman Street, Suite 107, 19904 Dover DE"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": " ",
+        "contactType": "customer service"
+      },
+      "logo": {
+        "@type": "ImageObject",
+        "name": "DMV Written Test",
+        "url": "https://www.dmv-written-test.com/images/meta/logo.png",
+        "description": "DMV Written Test"
+      },
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "copyrightYear": "2025",
+    "dateCreated": "2021-11-23T12:41:46.000000Z",
+    "datePublished": "2021-11-23T12:41:46.000000Z",
+    "dateModified": "2024-02-29T15:03:00.000000Z",
+    "learningResourceType": "Car",
+    "educationalUse": "assignment",
+    "interactivityType": "mixed",
+    "accessMode": "textOnVisual",
+    "educationalLevel": "intermediate",
+    "typicalAgeRange": "16-72",
+    "educationalAlignment": {
+      "@type": "AlignmentObject",
+      "alignmentType": "educationalSubject",
+      "educationalFramework": "DMV Written Test",
+      "targetDescription": "DMV Written Test is the best at helping you pass your permit exam.  We only use real DMV questions on our practice tests and cheat sheets!",
+      "targetName": "DMV Written Test - DMV Practice Test 2025 - Real DMV Questions!",
+      "targetUrl": "https://www.dmv-written-test.com"
+    },
+    "image": {
+      "@type": "ImageObject",
+      "author": "DMV Written Test",
+      "name": "DMV Written Test",
+      "url": "https://www.dmv-written-test.com/images/meta/cover-1200x630.png",
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "inLanguage": {
+      "@type": "Language",
+      "name": "English",
+      "alternateName": "en"
+    }
+  }
+]

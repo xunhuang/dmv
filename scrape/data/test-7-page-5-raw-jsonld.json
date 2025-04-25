@@ -1,0 +1,651 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "Quiz",
+    "name": "FREE California Permit Test 7 - Real 2025 DMV Test Questions",
+    "headline": "2025 California Permit Test 7",
+    "alternativeHeadline": "2025 California Permit Test 7 | DMV Written Test",
+    "about": {
+      "@type": "Thing",
+      "name": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car."
+    },
+    "hasPart": [
+      {
+        "@type": "Question",
+        "name": "It is legal to make a left turn at a red traffic light after stopping only if:",
+        "about": {
+          "@type": "Thing",
+          "name": "It is legal to make a left turn at a red traffic light after stopping only if:"
+        },
+        "assesses": "It is legal to make a left turn at a red traffic light after stopping only if: | It is legal to make a left turn at a red traffic light after stopping only if: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "After coming to a complete stop, you may turn left at a red light only if you are traveling on a one-way street and turning onto another one-way street. Only make the turn if there are no posted signs prohibiting such a turn.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "You are traveling on a two-way street and turning onto a two-way street.",
+            "comment": {
+              "@type": "Comment",
+              "text": "You are traveling on a two-way street and turning onto a two-way street."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "You are traveling on a one-way street and turning onto another one-way street.",
+            "comment": {
+              "@type": "Comment",
+              "text": "You are traveling on a one-way street and turning onto another one-way street."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "You yield to all other traffic at the intersection.",
+            "comment": {
+              "@type": "Comment",
+              "text": "You yield to all other traffic at the intersection."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "You are traveling on a one-way street and turning onto another one-way street.",
+            "comment": {
+              "@type": "Comment",
+              "text": "You are traveling on a one-way street and turning onto another one-way street."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "After coming to a complete stop, you may turn left at a red light only if you are traveling on a one-way street and turning onto another one-way street. Only make the turn if there are no posted signs prohibiting such a turn.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "It is legal to make a left turn at a red traffic light after stopping only if: | After coming to a complete stop, you may turn left at a red light only if you are traveling on a one-way street and turning onto another one-way street. Only make the turn if there are no posted signs prohibiting such a turn."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "It is legal to make a left turn at a red traffic light after stopping only if: -  Real 2025 DMV Questions ",
+          "targetName": "It is legal to make a left turn at a red traffic light after stopping only if:",
+          "targetUrl": "https://www.dmv-written-test.com/question/it-is-legal-to-make-a-left-turn-at-a-red-traffic-light-after-stopping-only-if_ElPZeKr2.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "It is legal to make a left turn at a red traffic light after stopping only if:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "It is legal to make a left turn at a red traffic light after stopping only if:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "You have allowed the wheels of your vehicle to run off the edge of the pavement. What should you do first?",
+        "about": {
+          "@type": "Thing",
+          "name": "You have allowed the wheels of your vehicle to run off the edge of the pavement. What should you do first?"
+        },
+        "assesses": "You have allowed the wheels of your vehicle to run off the edge of the pavement. What should you do first? | You have allowed the wheels of your vehicle to run off the edge of the pavement. What should you do first? -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "If your vehicle leaves the roadway, hold the steering wheel firmly, release the gas pedal, and gently apply the brakes. Wait until your speed has reduced, check the traffic, and look for a place to safely return to the roadway by merging back into traffic. Overcompensating by jerking the wheel to return to the roadway can cause you to lose control of your vehicle or may cause your car to go into other lanes of traffic.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Turn the front wheels slightly to the left to edge the car back onto the pavement.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Turn the front wheels slightly to the left to edge the car back onto the pavement."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Hold the steering wheel firmly, release the gas pedal, and gently apply the brakes.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Hold the steering wheel firmly, release the gas pedal, and gently apply the brakes."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Apply the brakes and turn the front wheels sharply to the left.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Apply the brakes and turn the front wheels sharply to the left."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Hold the steering wheel firmly, release the gas pedal, and gently apply the brakes.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Hold the steering wheel firmly, release the gas pedal, and gently apply the brakes."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "If your vehicle leaves the roadway, hold the steering wheel firmly, release the gas pedal, and gently apply the brakes. Wait until your speed has reduced, check the traffic, and look for a place to safely return to the roadway by merging back into traffic. Overcompensating by jerking the wheel to return to the roadway can cause you to lose control of your vehicle or may cause your car to go into other lanes of traffic.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "You have allowed the wheels of your vehicle to run off the edge of the pavement. What should you do first? | If your vehicle leaves the roadway, hold the steering wheel firmly, release the gas pedal, and gently apply the brakes. Wait until your speed has reduced, check the traffic, and look for a place to safely return to the roadway by merging back into traffic. Overcompensating by jerking the wheel to return to the roadway can cause you to lose control of your vehicle or may cause your car to go into other lanes of traffic."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "You have allowed the wheels of your vehicle to run off the edge of the pavement. What should you do first? -  Real 2025 DMV Questions ",
+          "targetName": "You have allowed the wheels of your vehicle to run off the edge of the pavement. What should you do first?",
+          "targetUrl": "https://www.dmv-written-test.com/question/you-have-allowed-the-wheels-of-your-vehicle-to-run-off-the-edge-of-the-pavement-what-should-you-do-first_LBXpYxr9.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "You have allowed the wheels of your vehicle to run off the edge of the pavement. What should you do first?",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "You have allowed the wheels of your vehicle to run off the edge of the pavement. What should you do first?"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "This sign means:",
+        "about": {
+          "@type": "Thing",
+          "name": "This sign means:"
+        },
+        "assesses": "This sign means: | This sign means: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images-car/georgia-divided_highway_ends_2.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Warning signs are usually yellow with black markings. This sign warns that the divided highway ends ahead. Prepare to change lanes or shift lane position.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Curves ahead.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Curves ahead."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Divided highway starts.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Divided highway starts."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Divided highway ends.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Divided highway ends."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Divided highway ends.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Divided highway ends."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Warning signs are usually yellow with black markings. This sign warns that the divided highway ends ahead. Prepare to change lanes or shift lane position.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "This sign means: | Warning signs are usually yellow with black markings. This sign warns that the divided highway ends ahead. Prepare to change lanes or shift lane position."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "This sign means: -  Real 2025 DMV Questions ",
+          "targetName": "This sign means:",
+          "targetUrl": "https://www.dmv-written-test.com/question/this-sign-means_RdPEpGrV.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "This sign means:",
+          "url": "https://www.dmv-written-test.com/images-car/georgia-divided_highway_ends_2.png",
+          "description": "This sign means:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Which of the following increases your chances of being in a collision?",
+        "about": {
+          "@type": "Thing",
+          "name": "Which of the following increases your chances of being in a collision?"
+        },
+        "assesses": "Which of the following increases your chances of being in a collision? | Which of the following increases your chances of being in a collision? -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Every time you pass another vehicle, you increase your chances of being in a collision.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Looking over your shoulder while making lane changes",
+            "comment": {
+              "@type": "Comment",
+              "text": "Looking over your shoulder while making lane changes"
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Continuously changing lanes to pass other vehicles",
+            "comment": {
+              "@type": "Comment",
+              "text": "Continuously changing lanes to pass other vehicles"
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Adjusting your rearview mirror before you start driving",
+            "comment": {
+              "@type": "Comment",
+              "text": "Adjusting your rearview mirror before you start driving"
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Continuously changing lanes to pass other vehicles",
+            "comment": {
+              "@type": "Comment",
+              "text": "Continuously changing lanes to pass other vehicles"
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Every time you pass another vehicle, you increase your chances of being in a collision.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "Which of the following increases your chances of being in a collision? | Every time you pass another vehicle, you increase your chances of being in a collision."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "Which of the following increases your chances of being in a collision? -  Real 2025 DMV Questions ",
+          "targetName": "Which of the following increases your chances of being in a collision?",
+          "targetUrl": "https://www.dmv-written-test.com/question/which-of-the-following-increases-your-chances-of-being-in-a-collision_RnXggNXp.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "Which of the following increases your chances of being in a collision?",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "Which of the following increases your chances of being in a collision?"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "To avoid hydroplaning while driving in rainy conditions, you should:",
+        "about": {
+          "@type": "Thing",
+          "name": "To avoid hydroplaning while driving in rainy conditions, you should:"
+        },
+        "assesses": "To avoid hydroplaning while driving in rainy conditions, you should: | To avoid hydroplaning while driving in rainy conditions, you should: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "When driving too quickly in wet conditions, your tires may lose all contact with the road surface. Loss of traction will cause the vehicle to ride on top of the water, which is called \"hydroplaning.\" The best way to prevent this from happening is to drive more slowly in rainy or wet conditions than you would when driving during ideal weather conditions.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Drive at a speed appropriate for ideal conditions.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Drive at a speed appropriate for ideal conditions."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Apply your brakes as soon as your car starts to skid.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Apply your brakes as soon as your car starts to skid."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Slow down.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Slow down."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Slow down.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Slow down."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "When driving too quickly in wet conditions, your tires may lose all contact with the road surface. Loss of traction will cause the vehicle to ride on top of the water, which is called \"hydroplaning.\" The best way to prevent this from happening is to drive more slowly in rainy or wet conditions than you would when driving during ideal weather conditions.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "To avoid hydroplaning while driving in rainy conditions, you should: | When driving too quickly in wet conditions, your tires may lose all contact with the road surface. Loss of traction will cause the vehicle to ride on top of the water, which is called \"hydroplaning.\" The best way to prevent this from happening is to drive more slowly in rainy or wet conditions than you would when driving during ideal weather conditions."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "To avoid hydroplaning while driving in rainy conditions, you should: -  Real 2025 DMV Questions ",
+          "targetName": "To avoid hydroplaning while driving in rainy conditions, you should:",
+          "targetUrl": "https://www.dmv-written-test.com/question/to-avoid-hydroplaning-while-driving-in-rainy-conditions-you-should_VlPR7Mya.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "To avoid hydroplaning while driving in rainy conditions, you should:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "To avoid hydroplaning while driving in rainy conditions, you should:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "If you come across livestock or other animals on the roadway, you should:",
+        "about": {
+          "@type": "Thing",
+          "name": "If you come across livestock or other animals on the roadway, you should:"
+        },
+        "assesses": "If you come across livestock or other animals on the roadway, you should: | If you come across livestock or other animals on the roadway, you should: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "If you are driving and come across an animal of any kind in the road, try to slow down and stop if it's safe to do so. Swerving to avoid an animal can be dangerous because your vehicle may lose control and cause an accident.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Swerve out of the way.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Swerve out of the way."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Slow down and stop.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Slow down and stop."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Ignore them.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Ignore them."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Slow down and stop.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Slow down and stop."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "If you are driving and come across an animal of any kind in the road, try to slow down and stop if it's safe to do so. Swerving to avoid an animal can be dangerous because your vehicle may lose control and cause an accident.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "If you come across livestock or other animals on the roadway, you should: | If you are driving and come across an animal of any kind in the road, try to slow down and stop if it's safe to do so. Swerving to avoid an animal can be dangerous because your vehicle may lose control and cause an accident."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "If you come across livestock or other animals on the roadway, you should: -  Real 2025 DMV Questions ",
+          "targetName": "If you come across livestock or other animals on the roadway, you should:",
+          "targetUrl": "https://www.dmv-written-test.com/question/if-you-come-across-livestock-or-other-animals-on-the-roadway-you-should_nXgVapyp.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "If you come across livestock or other animals on the roadway, you should:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "If you come across livestock or other animals on the roadway, you should:"
+        }
+      }
+    ],
+    "abstract": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>.",
+    "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "assesses": "FREE California Permit Test 7 - Real 2025 DMV Test Questions | The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "url": "https://www.dmv-written-test.com/california/practice-test-7.html",
+    "isPartOf": {
+      "@context": "http://schema.org",
+      "@type": "CreativeWorkSeries",
+      "name": "FREE California Permit Test 7 - Real 2025 DMV Test Questions",
+      "issn": "california/practice-test-7.html",
+      "accessMode": "textOnVisual",
+      "about": {
+        "@type": "Thing",
+        "name": "FREE California Permit Test 7 - Real 2025 DMV Test Questions"
+      },
+      "lastReviewed": "2024-02-29T15:02:59.000000Z",
+      "mainContentOfPage": {
+        "@type": "WebPageElement",
+        "cssSelector": [
+          "#series-description"
+        ]
+      },
+      "aggregateRating": {
+        "@type": "aggregateRating",
+        "ratingValue": "4.7618",
+        "reviewCount": 4261,
+        "bestRating": 5,
+        "worstRating": 1
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "author": "DMV Written Test",
+        "name": "2025 California Permit Test 7",
+        "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>."
+      },
+      "significantLink": "https://cheat-sheets.dmv-written-test.com/en/california/car",
+      "specialty": "www.dmv-written-test.com",
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "name": "DMV Written Test",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "DMV Written Test",
+            "url": "https://www.dmv-written-test.com",
+            "item": {
+              "@id": "https://www.dmv-written-test.com",
+              "name": "DMV Written Test"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "california",
+            "url": "https://www.dmv-written-test.com/california",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california",
+              "name": "DMV Written Test 2025 California - DMV Practice Test - Real CA DMV Questions!"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "2025 California Permit Test 7",
+            "url": "https://www.dmv-written-test.com/california/practice-test-7.html",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california/practice-test-7.html",
+              "name": "2025 California Permit Test 7"
+            }
+          }
+        ]
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "xpath": [
+          "/html/head/title",
+          "/html/head/meta[@name='description']/@content"
+        ],
+        "url": "https://www.dmv-written-test.com/california/practice-test-7.html"
+      }
+    },
+    "provider": {
+      "@type": "Organization",
+      "name": "DMV Written Test",
+      "legalName": "Infinity Loop Capital LLC, CORP2000",
+      "slogan": "DMV",
+      "url": "https://www.dmv-written-test.com",
+      "email": "support@dmv-written-test.com",
+      "address": {
+        "@type": "PostalAddress",
+        "name": "Infinity Loop Capital LLC, CORP2000",
+        "addressLocality": "lindengasse 56/2",
+        "addressRegion": "32 West Loockerman Street, Suite 107, 19904 Dover DE"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": " ",
+        "contactType": "customer service"
+      },
+      "logo": {
+        "@type": "ImageObject",
+        "name": "DMV Written Test",
+        "url": "https://www.dmv-written-test.com/images/meta/logo.png",
+        "description": "DMV Written Test"
+      },
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "copyrightYear": "2025",
+    "dateCreated": "2021-11-23T12:41:46.000000Z",
+    "datePublished": "2021-11-23T12:41:46.000000Z",
+    "dateModified": "2024-02-29T15:02:59.000000Z",
+    "learningResourceType": "Car",
+    "educationalUse": "assignment",
+    "interactivityType": "mixed",
+    "accessMode": "textOnVisual",
+    "educationalLevel": "intermediate",
+    "typicalAgeRange": "16-72",
+    "educationalAlignment": {
+      "@type": "AlignmentObject",
+      "alignmentType": "educationalSubject",
+      "educationalFramework": "DMV Written Test",
+      "targetDescription": "DMV Written Test is the best at helping you pass your permit exam.  We only use real DMV questions on our practice tests and cheat sheets!",
+      "targetName": "DMV Written Test - DMV Practice Test 2025 - Real DMV Questions!",
+      "targetUrl": "https://www.dmv-written-test.com"
+    },
+    "image": {
+      "@type": "ImageObject",
+      "author": "DMV Written Test",
+      "name": "DMV Written Test",
+      "url": "https://www.dmv-written-test.com/images/meta/cover-1200x630.png",
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "inLanguage": {
+      "@type": "Language",
+      "name": "English",
+      "alternateName": "en"
+    }
+  }
+]

@@ -1,0 +1,651 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "Quiz",
+    "name": "FREE California Permit Test 10 - Real 2025 DMV Test Questions",
+    "headline": "2025 California Permit Test 10",
+    "alternativeHeadline": "2025 California Permit Test 10 | DMV Written Test",
+    "about": {
+      "@type": "Thing",
+      "name": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car."
+    },
+    "hasPart": [
+      {
+        "@type": "Question",
+        "name": "You should use your horn when:",
+        "about": {
+          "@type": "Thing",
+          "name": "You should use your horn when:"
+        },
+        "assesses": "You should use your horn when: | You should use your horn when: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Only use your horn when it is necessary to avoid collisions. Do not use your horn if a driver or bicyclist is moving slowly and you want him or her to drive faster or get out of your way.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Another vehicle is in your way.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Another vehicle is in your way."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "It may help prevent a collision.",
+            "comment": {
+              "@type": "Comment",
+              "text": "It may help prevent a collision."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Another driver makes a mistake.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Another driver makes a mistake."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "It may help prevent a collision.",
+            "comment": {
+              "@type": "Comment",
+              "text": "It may help prevent a collision."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Only use your horn when it is necessary to avoid collisions. Do not use your horn if a driver or bicyclist is moving slowly and you want him or her to drive faster or get out of your way.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "You should use your horn when: | Only use your horn when it is necessary to avoid collisions. Do not use your horn if a driver or bicyclist is moving slowly and you want him or her to drive faster or get out of your way."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "You should use your horn when: -  Real 2025 DMV Questions ",
+          "targetName": "You should use your horn when:",
+          "targetUrl": "https://www.dmv-written-test.com/question/you-should-use-your-horn-when_b2XlgzyY.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "You should use your horn when:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "You should use your horn when:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Placard abuse will result in:",
+        "about": {
+          "@type": "Thing",
+          "name": "Placard abuse will result in:"
+        },
+        "assesses": "Placard abuse will result in: | Placard abuse will result in: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Abuse of a disabled placard or plate is a misdemeanor. Placard abuse can result in the loss of special parking privileges, a fine of up to $1,000, and up to six months of jail time.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Placard revocation only.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Placard revocation only."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Only a fine.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Only a fine."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Placard revocation, a fine, and/or jail time.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Placard revocation, a fine, and/or jail time."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Placard revocation, a fine, and/or jail time.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Placard revocation, a fine, and/or jail time."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Abuse of a disabled placard or plate is a misdemeanor. Placard abuse can result in the loss of special parking privileges, a fine of up to $1,000, and up to six months of jail time.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "Placard abuse will result in: | Abuse of a disabled placard or plate is a misdemeanor. Placard abuse can result in the loss of special parking privileges, a fine of up to $1,000, and up to six months of jail time."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "Placard abuse will result in: -  Real 2025 DMV Questions ",
+          "targetName": "Placard abuse will result in:",
+          "targetUrl": "https://www.dmv-written-test.com/question/placard-abuse-will-result-in_er2WMgPJ.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "Placard abuse will result in:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "Placard abuse will result in:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "This sign means:",
+        "about": {
+          "@type": "Thing",
+          "name": "This sign means:"
+        },
+        "assesses": "This sign means: | This sign means: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images-car/illinois-slippery_pavement.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "All roads are slippery and dangerous when wet. This sign warns of conditions that can cause a driver to lose control of a car. A driver should slow down when coming upon wet pavement because it takes longer to stop.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Slippery when wet.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Slippery when wet."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Stop sign ahead.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Stop sign ahead."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "No U-turn.",
+            "comment": {
+              "@type": "Comment",
+              "text": "No U-turn."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Slippery when wet.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Slippery when wet."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "All roads are slippery and dangerous when wet. This sign warns of conditions that can cause a driver to lose control of a car. A driver should slow down when coming upon wet pavement because it takes longer to stop.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "This sign means: | All roads are slippery and dangerous when wet. This sign warns of conditions that can cause a driver to lose control of a car. A driver should slow down when coming upon wet pavement because it takes longer to stop."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "This sign means: -  Real 2025 DMV Questions ",
+          "targetName": "This sign means:",
+          "targetUrl": "https://www.dmv-written-test.com/question/this-sign-means_ElPZbKP2.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "This sign means:",
+          "url": "https://www.dmv-written-test.com/images-car/illinois-slippery_pavement.png",
+          "description": "This sign means:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "When driving at night, you should:",
+        "about": {
+          "@type": "Thing",
+          "name": "When driving at night, you should:"
+        },
+        "assesses": "When driving at night, you should: | When driving at night, you should: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Driving at night is more hazardous than daytime driving because the lowered visibility makes it difficult to judge speed, distances, and other potential hazards. Increase your following distance to help prevent a potential collision if the vehicle in front of you should stop abruptly. Use your headlights when driving at night, following the rules for proper usage of high beams and low beams.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Always use your high beams.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Always use your high beams."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Look directly at the headlights of an oncoming vehicle.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Look directly at the headlights of an oncoming vehicle."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Increase your following distance.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Increase your following distance."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Increase your following distance.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Increase your following distance."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Driving at night is more hazardous than daytime driving because the lowered visibility makes it difficult to judge speed, distances, and other potential hazards. Increase your following distance to help prevent a potential collision if the vehicle in front of you should stop abruptly. Use your headlights when driving at night, following the rules for proper usage of high beams and low beams.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "When driving at night, you should: | Driving at night is more hazardous than daytime driving because the lowered visibility makes it difficult to judge speed, distances, and other potential hazards. Increase your following distance to help prevent a potential collision if the vehicle in front of you should stop abruptly. Use your headlights when driving at night, following the rules for proper usage of high beams and low beams."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "When driving at night, you should: -  Real 2025 DMV Questions ",
+          "targetName": "When driving at night, you should:",
+          "targetUrl": "https://www.dmv-written-test.com/question/when-driving-at-night-you-should_WYPw79PJ.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "When driving at night, you should:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "When driving at night, you should:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "On rainy, snowy, or foggy days, turn on your windshield wipers and use your headlights:",
+        "about": {
+          "@type": "Thing",
+          "name": "On rainy, snowy, or foggy days, turn on your windshield wipers and use your headlights:"
+        },
+        "assesses": "On rainy, snowy, or foggy days, turn on your windshield wipers and use your headlights: | On rainy, snowy, or foggy days, turn on your windshield wipers and use your headlights: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Turn on your headlights when it is cloudy, raining, snowing, or foggy. If weather conditions require you to use your windshield wipers, you are required to turn on your low beam headlights.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "On the high beam setting.",
+            "comment": {
+              "@type": "Comment",
+              "text": "On the high beam setting."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "So other drivers can see you.",
+            "comment": {
+              "@type": "Comment",
+              "text": "So other drivers can see you."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Only when driving on the freeway.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Only when driving on the freeway."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "So other drivers can see you.",
+            "comment": {
+              "@type": "Comment",
+              "text": "So other drivers can see you."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Turn on your headlights when it is cloudy, raining, snowing, or foggy. If weather conditions require you to use your windshield wipers, you are required to turn on your low beam headlights.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "On rainy, snowy, or foggy days, turn on your windshield wipers and use your headlights: | Turn on your headlights when it is cloudy, raining, snowing, or foggy. If weather conditions require you to use your windshield wipers, you are required to turn on your low beam headlights."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "On rainy, snowy, or foggy days, turn on your windshield wipers and use your headlights: -  Real 2025 DMV Questions ",
+          "targetName": "On rainy, snowy, or foggy days, turn on your windshield wipers and use your headlights:",
+          "targetUrl": "https://www.dmv-written-test.com/question/on-rainy-snowy-or-foggy-days-turn-on-your-windshield-wipers-and-use-your-headlights_RnXg1NPp.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "On rainy, snowy, or foggy days, turn on your windshield wipers and use your headlights:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "On rainy, snowy, or foggy days, turn on your windshield wipers and use your headlights:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "If you approach a flashing red traffic light, you:",
+        "about": {
+          "@type": "Thing",
+          "name": "If you approach a flashing red traffic light, you:"
+        },
+        "assesses": "If you approach a flashing red traffic light, you: | If you approach a flashing red traffic light, you: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images-car/maryland-flashing_red_light.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Treat a flashing red light the same as a stop sign. Come to a complete stop at the stop line or, if there is no stop line, prior to the crosswalk and before entering the intersection. Yield to all other traffic and pedestrians.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Are traveling in the wrong direction.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Are traveling in the wrong direction."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Must treat the intersection as if it is controlled by a stop sign.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Must treat the intersection as if it is controlled by a stop sign."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "May not proceed until it changes to green.",
+            "comment": {
+              "@type": "Comment",
+              "text": "May not proceed until it changes to green."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Must treat the intersection as if it is controlled by a stop sign.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Must treat the intersection as if it is controlled by a stop sign."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Treat a flashing red light the same as a stop sign. Come to a complete stop at the stop line or, if there is no stop line, prior to the crosswalk and before entering the intersection. Yield to all other traffic and pedestrians.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "If you approach a flashing red traffic light, you: | Treat a flashing red light the same as a stop sign. Come to a complete stop at the stop line or, if there is no stop line, prior to the crosswalk and before entering the intersection. Yield to all other traffic and pedestrians."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "If you approach a flashing red traffic light, you: -  Real 2025 DMV Questions ",
+          "targetName": "If you approach a flashing red traffic light, you:",
+          "targetUrl": "https://www.dmv-written-test.com/question/if-you-approach-a-flashing-red-traffic-light-you_7wXaODPg.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "If you approach a flashing red traffic light, you:",
+          "url": "https://www.dmv-written-test.com/images-car/maryland-flashing_red_light.png",
+          "description": "If you approach a flashing red traffic light, you:"
+        }
+      }
+    ],
+    "abstract": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>.",
+    "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "assesses": "FREE California Permit Test 10 - Real 2025 DMV Test Questions | The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "url": "https://www.dmv-written-test.com/california/practice-test-10.html",
+    "isPartOf": {
+      "@context": "http://schema.org",
+      "@type": "CreativeWorkSeries",
+      "name": "FREE California Permit Test 10 - Real 2025 DMV Test Questions",
+      "issn": "california/practice-test-10.html",
+      "accessMode": "textOnVisual",
+      "about": {
+        "@type": "Thing",
+        "name": "FREE California Permit Test 10 - Real 2025 DMV Test Questions"
+      },
+      "lastReviewed": "2024-02-29T15:03:00.000000Z",
+      "mainContentOfPage": {
+        "@type": "WebPageElement",
+        "cssSelector": [
+          "#series-description"
+        ]
+      },
+      "aggregateRating": {
+        "@type": "aggregateRating",
+        "ratingValue": "4.8383",
+        "reviewCount": 1602,
+        "bestRating": 5,
+        "worstRating": 1
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "author": "DMV Written Test",
+        "name": "2025 California Permit Test 10",
+        "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>."
+      },
+      "significantLink": "https://cheat-sheets.dmv-written-test.com/en/california/car",
+      "specialty": "www.dmv-written-test.com",
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "name": "DMV Written Test",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "DMV Written Test",
+            "url": "https://www.dmv-written-test.com",
+            "item": {
+              "@id": "https://www.dmv-written-test.com",
+              "name": "DMV Written Test"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "california",
+            "url": "https://www.dmv-written-test.com/california",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california",
+              "name": "DMV Written Test 2025 California - DMV Practice Test - Real CA DMV Questions!"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "2025 California Permit Test 10",
+            "url": "https://www.dmv-written-test.com/california/practice-test-10.html",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california/practice-test-10.html",
+              "name": "2025 California Permit Test 10"
+            }
+          }
+        ]
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "xpath": [
+          "/html/head/title",
+          "/html/head/meta[@name='description']/@content"
+        ],
+        "url": "https://www.dmv-written-test.com/california/practice-test-10.html"
+      }
+    },
+    "provider": {
+      "@type": "Organization",
+      "name": "DMV Written Test",
+      "legalName": "Infinity Loop Capital LLC, CORP2000",
+      "slogan": "DMV",
+      "url": "https://www.dmv-written-test.com",
+      "email": "support@dmv-written-test.com",
+      "address": {
+        "@type": "PostalAddress",
+        "name": "Infinity Loop Capital LLC, CORP2000",
+        "addressLocality": "lindengasse 56/2",
+        "addressRegion": "32 West Loockerman Street, Suite 107, 19904 Dover DE"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": " ",
+        "contactType": "customer service"
+      },
+      "logo": {
+        "@type": "ImageObject",
+        "name": "DMV Written Test",
+        "url": "https://www.dmv-written-test.com/images/meta/logo.png",
+        "description": "DMV Written Test"
+      },
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "copyrightYear": "2025",
+    "dateCreated": "2021-11-23T12:41:47.000000Z",
+    "datePublished": "2021-11-23T12:41:47.000000Z",
+    "dateModified": "2024-02-29T15:03:00.000000Z",
+    "learningResourceType": "Car",
+    "educationalUse": "assignment",
+    "interactivityType": "mixed",
+    "accessMode": "textOnVisual",
+    "educationalLevel": "intermediate",
+    "typicalAgeRange": "16-72",
+    "educationalAlignment": {
+      "@type": "AlignmentObject",
+      "alignmentType": "educationalSubject",
+      "educationalFramework": "DMV Written Test",
+      "targetDescription": "DMV Written Test is the best at helping you pass your permit exam.  We only use real DMV questions on our practice tests and cheat sheets!",
+      "targetName": "DMV Written Test - DMV Practice Test 2025 - Real DMV Questions!",
+      "targetUrl": "https://www.dmv-written-test.com"
+    },
+    "image": {
+      "@type": "ImageObject",
+      "author": "DMV Written Test",
+      "name": "DMV Written Test",
+      "url": "https://www.dmv-written-test.com/images/meta/cover-1200x630.png",
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "inLanguage": {
+      "@type": "Language",
+      "name": "English",
+      "alternateName": "en"
+    }
+  }
+]

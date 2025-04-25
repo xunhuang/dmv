@@ -1,0 +1,651 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "Quiz",
+    "name": "FREE California Permit Test 15 - Real 2025 DMV Test Questions",
+    "headline": "2025 California Permit Test 15",
+    "alternativeHeadline": "2025 California Permit Test 15 | DMV Written Test",
+    "about": {
+      "@type": "Thing",
+      "name": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car."
+    },
+    "hasPart": [
+      {
+        "@type": "Question",
+        "name": "Which of these statements is true about drugs and driving?",
+        "about": {
+          "@type": "Thing",
+          "name": "Which of these statements is true about drugs and driving?"
+        },
+        "assesses": "Which of these statements is true about drugs and driving? | Which of these statements is true about drugs and driving? -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Legal prescription and over-the-counter drugs can impair your ability to drive, including drugs taken for colds, hay fever, allergies, or to calm nerves or muscles. It is illegal to drive while under the influence of any drug that impairs your ability to drive safely; this law does not differentiate between illegal, prescription, or over-the-counter drugs.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Any prescription drug is safe to use if you don't feel drowsy.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Any prescription drug is safe to use if you don't feel drowsy."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Even over-the-counter drugs can impair your driving.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Even over-the-counter drugs can impair your driving."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Only illegal drugs can impair your driving.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Only illegal drugs can impair your driving."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Even over-the-counter drugs can impair your driving.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Even over-the-counter drugs can impair your driving."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Legal prescription and over-the-counter drugs can impair your ability to drive, including drugs taken for colds, hay fever, allergies, or to calm nerves or muscles. It is illegal to drive while under the influence of any drug that impairs your ability to drive safely; this law does not differentiate between illegal, prescription, or over-the-counter drugs.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "Which of these statements is true about drugs and driving? | Legal prescription and over-the-counter drugs can impair your ability to drive, including drugs taken for colds, hay fever, allergies, or to calm nerves or muscles. It is illegal to drive while under the influence of any drug that impairs your ability to drive safely; this law does not differentiate between illegal, prescription, or over-the-counter drugs."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "Which of these statements is true about drugs and driving? -  Real 2025 DMV Questions ",
+          "targetName": "Which of these statements is true about drugs and driving?",
+          "targetUrl": "https://www.dmv-written-test.com/question/which-of-these-statements-is-true-about-drugs-and-driving_bVyvMEPG.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "Which of these statements is true about drugs and driving?",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "Which of these statements is true about drugs and driving?"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Drivers must use their seat belt:",
+        "about": {
+          "@type": "Thing",
+          "name": "Drivers must use their seat belt:"
+        },
+        "assesses": "Drivers must use their seat belt: | Drivers must use their seat belt: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Drivers must always wear seat belts and may be cited for failure to do so.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Unless they are driving a vehicle built before 1978.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Unless they are driving a vehicle built before 1978."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Unless they are driving a limousine.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Unless they are driving a limousine."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "And failure to do so will result in a traffic ticket.",
+            "comment": {
+              "@type": "Comment",
+              "text": "And failure to do so will result in a traffic ticket."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "And failure to do so will result in a traffic ticket.",
+            "comment": {
+              "@type": "Comment",
+              "text": "And failure to do so will result in a traffic ticket."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Drivers must always wear seat belts and may be cited for failure to do so.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "Drivers must use their seat belt: | Drivers must always wear seat belts and may be cited for failure to do so."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "Drivers must use their seat belt: -  Real 2025 DMV Questions ",
+          "targetName": "Drivers must use their seat belt:",
+          "targetUrl": "https://www.dmv-written-test.com/question/drivers-must-use-their-seat-belt_QayAAQyz.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "Drivers must use their seat belt:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "Drivers must use their seat belt:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "All of the following are dangerous to do while driving. Which is also illegal?",
+        "about": {
+          "@type": "Thing",
+          "name": "All of the following are dangerous to do while driving. Which is also illegal?"
+        },
+        "assesses": "All of the following are dangerous to do while driving. Which is also illegal? | All of the following are dangerous to do while driving. Which is also illegal? -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "It is illegal to drive while wearing a headset or earplugs in both ears.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Wearing a headset that covers both ears.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Wearing a headset that covers both ears."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Having one or more interior lights on.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Having one or more interior lights on."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Using cruise control on residential streets.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Using cruise control on residential streets."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Wearing a headset that covers both ears.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Wearing a headset that covers both ears."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "It is illegal to drive while wearing a headset or earplugs in both ears.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "All of the following are dangerous to do while driving. Which is also illegal? | It is illegal to drive while wearing a headset or earplugs in both ears."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "All of the following are dangerous to do while driving. Which is also illegal? -  Real 2025 DMV Questions ",
+          "targetName": "All of the following are dangerous to do while driving. Which is also illegal?",
+          "targetUrl": "https://www.dmv-written-test.com/question/all-of-the-following-are-dangerous-to-do-while-driving-which-is-also-illegal_WaXWpJrk.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "All of the following are dangerous to do while driving. Which is also illegal?",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "All of the following are dangerous to do while driving. Which is also illegal?"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "California's \"Basic Speed Law\" says:",
+        "about": {
+          "@type": "Thing",
+          "name": "California's \"Basic Speed Law\" says:"
+        },
+        "assesses": "California's \"Basic Speed Law\" says: | California's \"Basic Speed Law\" says: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "The \"Basic Speed Law\" means that you may never drive faster than would be safe in current conditions. For example, if you drive 45 mph in a 55 mph zone during a dense fog, even though you are below the posted limit, you may be cited for driving too fast for conditions.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "You should never drive faster than posted speed limits.",
+            "comment": {
+              "@type": "Comment",
+              "text": "You should never drive faster than posted speed limits."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "You should never drive faster than is safe for current conditions.",
+            "comment": {
+              "@type": "Comment",
+              "text": "You should never drive faster than is safe for current conditions."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "The maximum speed limit in California is 70 mph on certain freeways.",
+            "comment": {
+              "@type": "Comment",
+              "text": "The maximum speed limit in California is 70 mph on certain freeways."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "You should never drive faster than is safe for current conditions.",
+            "comment": {
+              "@type": "Comment",
+              "text": "You should never drive faster than is safe for current conditions."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "The \"Basic Speed Law\" means that you may never drive faster than would be safe in current conditions. For example, if you drive 45 mph in a 55 mph zone during a dense fog, even though you are below the posted limit, you may be cited for driving too fast for conditions.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "California's \"Basic Speed Law\" says: | The \"Basic Speed Law\" means that you may never drive faster than would be safe in current conditions. For example, if you drive 45 mph in a 55 mph zone during a dense fog, even though you are below the posted limit, you may be cited for driving too fast for conditions."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "California's \"Basic Speed Law\" says: -  Real 2025 DMV Questions ",
+          "targetName": "California's \"Basic Speed Law\" says:",
+          "targetUrl": "https://www.dmv-written-test.com/question/californias-basic-speed-law-says_LBXp5dr9.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "California's \"Basic Speed Law\" says:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "California's \"Basic Speed Law\" says:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "A steady yellow traffic signal light is a warning that the light is about to change to red. If you are already within the intersection when a green light changes to yellow, you should:",
+        "about": {
+          "@type": "Thing",
+          "name": "A steady yellow traffic signal light is a warning that the light is about to change to red. If you are already within the intersection when a green light changes to yellow, you should:"
+        },
+        "assesses": "A steady yellow traffic signal light is a warning that the light is about to change to red. If you are already within the intersection when a green light changes to yellow, you should: | A steady yellow traffic signal light is a warning that the light is about to change to red. If you are already within the intersection when a green light changes to yellow, you should: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "If you are already within an intersection when the traffic light turns yellow, you should clear the intersection as quickly as possible.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Stop.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Stop."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Continue moving and clear the intersection safely.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Continue moving and clear the intersection safely."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Increase your speed so as not to cause an accident.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Increase your speed so as not to cause an accident."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Continue moving and clear the intersection safely.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Continue moving and clear the intersection safely."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "If you are already within an intersection when the traffic light turns yellow, you should clear the intersection as quickly as possible.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "A steady yellow traffic signal light is a warning that the light is about to change to red. If you are already within the intersection when a green light changes to yellow, you should: | If you are already within an intersection when the traffic light turns yellow, you should clear the intersection as quickly as possible."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "A steady yellow traffic signal light is a warning that the light is about to change to red. If you are already within the intersection when a green light changes to yellow, you should: -  Real 2025 DMV Questions ",
+          "targetName": "A steady yellow traffic signal light is a warning that the light is about to change to red. If you are already within the intersection when a green light changes to yellow, you should:",
+          "targetUrl": "https://www.dmv-written-test.com/question/a-steady-yellow-traffic-signal-light-is-a-warning-that-the-light-is-about-to-change-to-red-if-you-are-already-within-the-intersection-when-a-green-light-changes-to-yellow-you-should_gerxlErb.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "A steady yellow traffic signal light is a warning that the light is about to change to red. If you are already within the intersection when a green light changes to yellow, you should:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "A steady yellow traffic signal light is a warning that the light is about to change to red. If you are already within the intersection when a green light changes to yellow, you should:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "On freezing, wet days, which of the following roadways is most likely to hide spots of ice?",
+        "about": {
+          "@type": "Thing",
+          "name": "On freezing, wet days, which of the following roadways is most likely to hide spots of ice?"
+        },
+        "assesses": "On freezing, wet days, which of the following roadways is most likely to hide spots of ice? | On freezing, wet days, which of the following roadways is most likely to hide spots of ice? -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Bridges and overpasses tend to freeze before the rest of the road does. They can hide spots of ice.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Roadways near the tops of hills",
+            "comment": {
+              "@type": "Comment",
+              "text": "Roadways near the tops of hills"
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Roadways on bridges and overpasses",
+            "comment": {
+              "@type": "Comment",
+              "text": "Roadways on bridges and overpasses"
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Roadways paved with asphalt",
+            "comment": {
+              "@type": "Comment",
+              "text": "Roadways paved with asphalt"
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Roadways on bridges and overpasses",
+            "comment": {
+              "@type": "Comment",
+              "text": "Roadways on bridges and overpasses"
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Bridges and overpasses tend to freeze before the rest of the road does. They can hide spots of ice.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "On freezing, wet days, which of the following roadways is most likely to hide spots of ice? | Bridges and overpasses tend to freeze before the rest of the road does. They can hide spots of ice."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "On freezing, wet days, which of the following roadways is most likely to hide spots of ice? -  Real 2025 DMV Questions ",
+          "targetName": "On freezing, wet days, which of the following roadways is most likely to hide spots of ice?",
+          "targetUrl": "https://www.dmv-written-test.com/question/on-freezing-wet-days-which-of-the-following-roadways-is-most-likely-to-hide-spots-of-ice_ZmymVdXx.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "On freezing, wet days, which of the following roadways is most likely to hide spots of ice?",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "On freezing, wet days, which of the following roadways is most likely to hide spots of ice?"
+        }
+      }
+    ],
+    "abstract": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>.",
+    "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "assesses": "FREE California Permit Test 15 - Real 2025 DMV Test Questions | The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "url": "https://www.dmv-written-test.com/california/practice-test-15.html",
+    "isPartOf": {
+      "@context": "http://schema.org",
+      "@type": "CreativeWorkSeries",
+      "name": "FREE California Permit Test 15 - Real 2025 DMV Test Questions",
+      "issn": "california/practice-test-15.html",
+      "accessMode": "textOnVisual",
+      "about": {
+        "@type": "Thing",
+        "name": "FREE California Permit Test 15 - Real 2025 DMV Test Questions"
+      },
+      "lastReviewed": "2022-01-07T10:57:08.000000Z",
+      "mainContentOfPage": {
+        "@type": "WebPageElement",
+        "cssSelector": [
+          "#series-description"
+        ]
+      },
+      "aggregateRating": {
+        "@type": "aggregateRating",
+        "ratingValue": "4.9005",
+        "reviewCount": 1719,
+        "bestRating": 5,
+        "worstRating": 1
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "author": "DMV Written Test",
+        "name": "2025 California Permit Test 15",
+        "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>."
+      },
+      "significantLink": "https://cheat-sheets.dmv-written-test.com/en/california/car",
+      "specialty": "www.dmv-written-test.com",
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "name": "DMV Written Test",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "DMV Written Test",
+            "url": "https://www.dmv-written-test.com",
+            "item": {
+              "@id": "https://www.dmv-written-test.com",
+              "name": "DMV Written Test"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "california",
+            "url": "https://www.dmv-written-test.com/california",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california",
+              "name": "DMV Written Test 2025 California - DMV Practice Test - Real CA DMV Questions!"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "2025 California Permit Test 15",
+            "url": "https://www.dmv-written-test.com/california/practice-test-15.html",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california/practice-test-15.html",
+              "name": "2025 California Permit Test 15"
+            }
+          }
+        ]
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "xpath": [
+          "/html/head/title",
+          "/html/head/meta[@name='description']/@content"
+        ],
+        "url": "https://www.dmv-written-test.com/california/practice-test-15.html"
+      }
+    },
+    "provider": {
+      "@type": "Organization",
+      "name": "DMV Written Test",
+      "legalName": "Infinity Loop Capital LLC, CORP2000",
+      "slogan": "DMV",
+      "url": "https://www.dmv-written-test.com",
+      "email": "support@dmv-written-test.com",
+      "address": {
+        "@type": "PostalAddress",
+        "name": "Infinity Loop Capital LLC, CORP2000",
+        "addressLocality": "lindengasse 56/2",
+        "addressRegion": "32 West Loockerman Street, Suite 107, 19904 Dover DE"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": " ",
+        "contactType": "customer service"
+      },
+      "logo": {
+        "@type": "ImageObject",
+        "name": "DMV Written Test",
+        "url": "https://www.dmv-written-test.com/images/meta/logo.png",
+        "description": "DMV Written Test"
+      },
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "copyrightYear": "2025",
+    "dateCreated": "2021-11-23T12:41:50.000000Z",
+    "datePublished": "2021-11-23T12:41:50.000000Z",
+    "dateModified": "2022-01-07T10:57:08.000000Z",
+    "learningResourceType": "Car",
+    "educationalUse": "assignment",
+    "interactivityType": "mixed",
+    "accessMode": "textOnVisual",
+    "educationalLevel": "intermediate",
+    "typicalAgeRange": "16-72",
+    "educationalAlignment": {
+      "@type": "AlignmentObject",
+      "alignmentType": "educationalSubject",
+      "educationalFramework": "DMV Written Test",
+      "targetDescription": "DMV Written Test is the best at helping you pass your permit exam.  We only use real DMV questions on our practice tests and cheat sheets!",
+      "targetName": "DMV Written Test - DMV Practice Test 2025 - Real DMV Questions!",
+      "targetUrl": "https://www.dmv-written-test.com"
+    },
+    "image": {
+      "@type": "ImageObject",
+      "author": "DMV Written Test",
+      "name": "DMV Written Test",
+      "url": "https://www.dmv-written-test.com/images/meta/cover-1200x630.png",
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "inLanguage": {
+      "@type": "Language",
+      "name": "English",
+      "alternateName": "en"
+    }
+  }
+]

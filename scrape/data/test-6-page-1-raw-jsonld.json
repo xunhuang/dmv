@@ -1,0 +1,651 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "Quiz",
+    "name": "FREE California Permit Test 6 - Real 2025 DMV Test Questions",
+    "headline": "2025 California Permit Test 6",
+    "alternativeHeadline": "2025 California Permit Test 6 | DMV Written Test",
+    "about": {
+      "@type": "Thing",
+      "name": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car."
+    },
+    "hasPart": [
+      {
+        "@type": "Question",
+        "name": "When planning to pass another vehicle, you should:",
+        "about": {
+          "@type": "Thing",
+          "name": "When planning to pass another vehicle, you should:"
+        },
+        "assesses": "When planning to pass another vehicle, you should: | When planning to pass another vehicle, you should: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "When planning to pass, do not count on having enough time to pass several vehicles at once or assume that other drivers will make room for you. When you can see both headlights of the passed vehicle in your rearview mirror, you may have enough room to return to your driving lane.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Not count on other drivers to make room for you.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Not count on other drivers to make room for you."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Assume the driver will let you pass if you use your turn signal.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Assume the driver will let you pass if you use your turn signal."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Assume the driver will maintain a constant speed.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Assume the driver will maintain a constant speed."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Not count on other drivers to make room for you.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Not count on other drivers to make room for you."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "When planning to pass, do not count on having enough time to pass several vehicles at once or assume that other drivers will make room for you. When you can see both headlights of the passed vehicle in your rearview mirror, you may have enough room to return to your driving lane.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "When planning to pass another vehicle, you should: | When planning to pass, do not count on having enough time to pass several vehicles at once or assume that other drivers will make room for you. When you can see both headlights of the passed vehicle in your rearview mirror, you may have enough room to return to your driving lane."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "When planning to pass another vehicle, you should: -  Real 2025 DMV Questions ",
+          "targetName": "When planning to pass another vehicle, you should:",
+          "targetUrl": "https://www.dmv-written-test.com/question/when-planning-to-pass-another-vehicle-you-should_12yNogXV.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "When planning to pass another vehicle, you should:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "When planning to pass another vehicle, you should:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "You hit a parked vehicle and can't find the owner. What must you do?",
+        "about": {
+          "@type": "Thing",
+          "name": "You hit a parked vehicle and can't find the owner. What must you do?"
+        },
+        "assesses": "You hit a parked vehicle and can't find the owner. What must you do? | You hit a parked vehicle and can't find the owner. What must you do? -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "If you hit a parked vehicle or other property, you must leave a note with your name, phone number, and address securely attached to the vehicle or property that you hit.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Call your insurance company when you get home.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Call your insurance company when you get home."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Wait for the owner to return.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Wait for the owner to return."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Leave a note with your name and address on the parked vehicle.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Leave a note with your name and address on the parked vehicle."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Leave a note with your name and address on the parked vehicle.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Leave a note with your name and address on the parked vehicle."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "If you hit a parked vehicle or other property, you must leave a note with your name, phone number, and address securely attached to the vehicle or property that you hit.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "You hit a parked vehicle and can't find the owner. What must you do? | If you hit a parked vehicle or other property, you must leave a note with your name, phone number, and address securely attached to the vehicle or property that you hit."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "You hit a parked vehicle and can't find the owner. What must you do? -  Real 2025 DMV Questions ",
+          "targetName": "You hit a parked vehicle and can't find the owner. What must you do?",
+          "targetUrl": "https://www.dmv-written-test.com/question/you-hit-a-parked-vehicle-and-cant-find-the-owner-what-must-you-do_KeX8NEPk.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "You hit a parked vehicle and can't find the owner. What must you do?",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "You hit a parked vehicle and can't find the owner. What must you do?"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "If you are driving and you see animals standing near the roadway:",
+        "about": {
+          "@type": "Thing",
+          "name": "If you are driving and you see animals standing near the roadway:"
+        },
+        "assesses": "If you are driving and you see animals standing near the roadway: | If you are driving and you see animals standing near the roadway: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Slow down and proceed with caution if you see animals that are standing near the roadway. They may unexpectedly bolt or change direction at the last moment. Some animals travel in packs, so there may be more animals just out of sight that are also near the road.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Speed up to scare them away.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Speed up to scare them away."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Slow down and proceed with caution.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Slow down and proceed with caution."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Quickly swerve into the next lane.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Quickly swerve into the next lane."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Slow down and proceed with caution.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Slow down and proceed with caution."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Slow down and proceed with caution if you see animals that are standing near the roadway. They may unexpectedly bolt or change direction at the last moment. Some animals travel in packs, so there may be more animals just out of sight that are also near the road.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "If you are driving and you see animals standing near the roadway: | Slow down and proceed with caution if you see animals that are standing near the roadway. They may unexpectedly bolt or change direction at the last moment. Some animals travel in packs, so there may be more animals just out of sight that are also near the road."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "If you are driving and you see animals standing near the roadway: -  Real 2025 DMV Questions ",
+          "targetName": "If you are driving and you see animals standing near the roadway:",
+          "targetUrl": "https://www.dmv-written-test.com/question/if-you-are-driving-and-you-see-animals-standing-near-the-roadway_YWXbamyQ.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "If you are driving and you see animals standing near the roadway:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "If you are driving and you see animals standing near the roadway:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "This sign means:",
+        "about": {
+          "@type": "Thing",
+          "name": "This sign means:"
+        },
+        "assesses": "This sign means: | This sign means: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images-car/arkansas-no_left_turn.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "This sign means drivers cannot make a left turn. It is unsafe and unlawful to make a left turn at an intersection where this sign is posted.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "All traffic must turn left. ",
+            "comment": {
+              "@type": "Comment",
+              "text": "All traffic must turn left. "
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "No left turn.",
+            "comment": {
+              "@type": "Comment",
+              "text": "No left turn."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "No U-turn.",
+            "comment": {
+              "@type": "Comment",
+              "text": "No U-turn."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "No left turn.",
+            "comment": {
+              "@type": "Comment",
+              "text": "No left turn."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "This sign means drivers cannot make a left turn. It is unsafe and unlawful to make a left turn at an intersection where this sign is posted.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "This sign means: | This sign means drivers cannot make a left turn. It is unsafe and unlawful to make a left turn at an intersection where this sign is posted."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "This sign means: -  Real 2025 DMV Questions ",
+          "targetName": "This sign means:",
+          "targetUrl": "https://www.dmv-written-test.com/question/this-sign-means_90ydzNrY.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "This sign means:",
+          "url": "https://www.dmv-written-test.com/images-car/arkansas-no_left_turn.png",
+          "description": "This sign means:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Which of the following statements about blind spots is true?",
+        "about": {
+          "@type": "Thing",
+          "name": "Which of the following statements about blind spots is true?"
+        },
+        "assesses": "Which of the following statements about blind spots is true? | Which of the following statements about blind spots is true? -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Blind spots are areas that a driver cannot see if they look in their mirrors. Large trucks have large blind spots that drivers of other vehicles should avoid.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "They are eliminated if you have one outside mirror on each side of the vehicle.",
+            "comment": {
+              "@type": "Comment",
+              "text": "They are eliminated if you have one outside mirror on each side of the vehicle."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Large trucks have bigger blind spots than most passenger vehicles.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Large trucks have bigger blind spots than most passenger vehicles."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Blind spots can be checked by looking in your rearview mirrors.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Blind spots can be checked by looking in your rearview mirrors."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Large trucks have bigger blind spots than most passenger vehicles.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Large trucks have bigger blind spots than most passenger vehicles."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Blind spots are areas that a driver cannot see if they look in their mirrors. Large trucks have large blind spots that drivers of other vehicles should avoid.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "Which of the following statements about blind spots is true? | Blind spots are areas that a driver cannot see if they look in their mirrors. Large trucks have large blind spots that drivers of other vehicles should avoid."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "Which of the following statements about blind spots is true? -  Real 2025 DMV Questions ",
+          "targetName": "Which of the following statements about blind spots is true?",
+          "targetUrl": "https://www.dmv-written-test.com/question/which-of-the-following-statements-about-blind-spots-is-true_2MXLDJXw.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "Which of the following statements about blind spots is true?",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "Which of the following statements about blind spots is true?"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "You should yield to a pedestrian:",
+        "about": {
+          "@type": "Thing",
+          "name": "You should yield to a pedestrian:"
+        },
+        "assesses": "You should yield to a pedestrian: | You should yield to a pedestrian: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Always be aware of pedestrians near your vehicle. You must do everything you can to prevent striking a pedestrian, regardless of the circumstances.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Only if they are in a crosswalk.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Only if they are in a crosswalk."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "At all times, even if the pedestrian is not obeying traffic laws.",
+            "comment": {
+              "@type": "Comment",
+              "text": "At all times, even if the pedestrian is not obeying traffic laws."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Only if the traffic lights are in the pedestrian's favor.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Only if the traffic lights are in the pedestrian's favor."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "At all times, even if the pedestrian is not obeying traffic laws.",
+            "comment": {
+              "@type": "Comment",
+              "text": "At all times, even if the pedestrian is not obeying traffic laws."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Always be aware of pedestrians near your vehicle. You must do everything you can to prevent striking a pedestrian, regardless of the circumstances.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "You should yield to a pedestrian: | Always be aware of pedestrians near your vehicle. You must do everything you can to prevent striking a pedestrian, regardless of the circumstances."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "You should yield to a pedestrian: -  Real 2025 DMV Questions ",
+          "targetName": "You should yield to a pedestrian:",
+          "targetUrl": "https://www.dmv-written-test.com/question/you-should-yield-to-a-pedestrian_OykEZBrB.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "You should yield to a pedestrian:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "You should yield to a pedestrian:"
+        }
+      }
+    ],
+    "abstract": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>.",
+    "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "assesses": "FREE California Permit Test 6 - Real 2025 DMV Test Questions | The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "url": "https://www.dmv-written-test.com/california/practice-test-6.html",
+    "isPartOf": {
+      "@context": "http://schema.org",
+      "@type": "CreativeWorkSeries",
+      "name": "FREE California Permit Test 6 - Real 2025 DMV Test Questions",
+      "issn": "california/practice-test-6.html",
+      "accessMode": "textOnVisual",
+      "about": {
+        "@type": "Thing",
+        "name": "FREE California Permit Test 6 - Real 2025 DMV Test Questions"
+      },
+      "lastReviewed": "2024-02-29T15:02:59.000000Z",
+      "mainContentOfPage": {
+        "@type": "WebPageElement",
+        "cssSelector": [
+          "#series-description"
+        ]
+      },
+      "aggregateRating": {
+        "@type": "aggregateRating",
+        "ratingValue": "4.7947",
+        "reviewCount": 3794,
+        "bestRating": 5,
+        "worstRating": 1
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "author": "DMV Written Test",
+        "name": "2025 California Permit Test 6",
+        "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>."
+      },
+      "significantLink": "https://cheat-sheets.dmv-written-test.com/en/california/car",
+      "specialty": "www.dmv-written-test.com",
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "name": "DMV Written Test",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "DMV Written Test",
+            "url": "https://www.dmv-written-test.com",
+            "item": {
+              "@id": "https://www.dmv-written-test.com",
+              "name": "DMV Written Test"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "california",
+            "url": "https://www.dmv-written-test.com/california",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california",
+              "name": "DMV Written Test 2025 California - DMV Practice Test - Real CA DMV Questions!"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "2025 California Permit Test 6",
+            "url": "https://www.dmv-written-test.com/california/practice-test-6.html",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california/practice-test-6.html",
+              "name": "2025 California Permit Test 6"
+            }
+          }
+        ]
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "xpath": [
+          "/html/head/title",
+          "/html/head/meta[@name='description']/@content"
+        ],
+        "url": "https://www.dmv-written-test.com/california/practice-test-6.html"
+      }
+    },
+    "provider": {
+      "@type": "Organization",
+      "name": "DMV Written Test",
+      "legalName": "Infinity Loop Capital LLC, CORP2000",
+      "slogan": "DMV",
+      "url": "https://www.dmv-written-test.com",
+      "email": "support@dmv-written-test.com",
+      "address": {
+        "@type": "PostalAddress",
+        "name": "Infinity Loop Capital LLC, CORP2000",
+        "addressLocality": "lindengasse 56/2",
+        "addressRegion": "32 West Loockerman Street, Suite 107, 19904 Dover DE"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": " ",
+        "contactType": "customer service"
+      },
+      "logo": {
+        "@type": "ImageObject",
+        "name": "DMV Written Test",
+        "url": "https://www.dmv-written-test.com/images/meta/logo.png",
+        "description": "DMV Written Test"
+      },
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "copyrightYear": "2025",
+    "dateCreated": "2021-11-23T12:41:45.000000Z",
+    "datePublished": "2021-11-23T12:41:45.000000Z",
+    "dateModified": "2024-02-29T15:02:59.000000Z",
+    "learningResourceType": "Car",
+    "educationalUse": "assignment",
+    "interactivityType": "mixed",
+    "accessMode": "textOnVisual",
+    "educationalLevel": "intermediate",
+    "typicalAgeRange": "16-72",
+    "educationalAlignment": {
+      "@type": "AlignmentObject",
+      "alignmentType": "educationalSubject",
+      "educationalFramework": "DMV Written Test",
+      "targetDescription": "DMV Written Test is the best at helping you pass your permit exam.  We only use real DMV questions on our practice tests and cheat sheets!",
+      "targetName": "DMV Written Test - DMV Practice Test 2025 - Real DMV Questions!",
+      "targetUrl": "https://www.dmv-written-test.com"
+    },
+    "image": {
+      "@type": "ImageObject",
+      "author": "DMV Written Test",
+      "name": "DMV Written Test",
+      "url": "https://www.dmv-written-test.com/images/meta/cover-1200x630.png",
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "inLanguage": {
+      "@type": "Language",
+      "name": "English",
+      "alternateName": "en"
+    }
+  }
+]

@@ -1,0 +1,651 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "Quiz",
+    "name": "FREE California Permit Test 3 - Real 2025 DMV Test Questions",
+    "headline": "2025 California Permit Test 3",
+    "alternativeHeadline": "2025 California Permit Test 3 | DMV Written Test",
+    "about": {
+      "@type": "Thing",
+      "name": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car."
+    },
+    "hasPart": [
+      {
+        "@type": "Question",
+        "name": "When parking your vehicle on any hill:",
+        "about": {
+          "@type": "Thing",
+          "name": "When parking your vehicle on any hill:"
+        },
+        "assesses": "When parking your vehicle on any hill: | When parking your vehicle on any hill: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "When parking on a hill, you should always leave your vehicle in gear or in the \"park\" position. If there is no curb, you should turn your front wheels so that the vehicle will roll away from the center of the road if the brakes fail. If there is a curb, the front wheels should be turned toward it (if headed downhill) or away from and gently touching it (if headed uphill).",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "One of your rear wheels should touch the curb.",
+            "comment": {
+              "@type": "Comment",
+              "text": "One of your rear wheels should touch the curb."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Use your parking brake and leave the vehicle in \"park.\"",
+            "comment": {
+              "@type": "Comment",
+              "text": "Use your parking brake and leave the vehicle in \"park.\""
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Your front wheels should be parallel to the road, if there is no curb.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Your front wheels should be parallel to the road, if there is no curb."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Use your parking brake and leave the vehicle in \"park.\"",
+            "comment": {
+              "@type": "Comment",
+              "text": "Use your parking brake and leave the vehicle in \"park.\""
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "When parking on a hill, you should always leave your vehicle in gear or in the \"park\" position. If there is no curb, you should turn your front wheels so that the vehicle will roll away from the center of the road if the brakes fail. If there is a curb, the front wheels should be turned toward it (if headed downhill) or away from and gently touching it (if headed uphill).",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "When parking your vehicle on any hill: | When parking on a hill, you should always leave your vehicle in gear or in the \"park\" position. If there is no curb, you should turn your front wheels so that the vehicle will roll away from the center of the road if the brakes fail. If there is a curb, the front wheels should be turned toward it (if headed downhill) or away from and gently touching it (if headed uphill)."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "When parking your vehicle on any hill: -  Real 2025 DMV Questions ",
+          "targetName": "When parking your vehicle on any hill:",
+          "targetUrl": "https://www.dmv-written-test.com/question/when-parking-your-vehicle-on-any-hill_7VPQbdya.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "When parking your vehicle on any hill:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "When parking your vehicle on any hill:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "It is more dangerous to drive at night than during the day because:",
+        "about": {
+          "@type": "Thing",
+          "name": "It is more dangerous to drive at night than during the day because:"
+        },
+        "assesses": "It is more dangerous to drive at night than during the day because: | It is more dangerous to drive at night than during the day because: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "With decreased visibility and the glare of oncoming headlights, you cannot see as far ahead at night as you can during the day. Always use headlights and exercise caution when driving in the dark.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "You cannot see as far ahead at night. ",
+            "comment": {
+              "@type": "Comment",
+              "text": "You cannot see as far ahead at night. "
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "The road is always more slippery at night.",
+            "comment": {
+              "@type": "Comment",
+              "text": "The road is always more slippery at night."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Your reaction time is slower at night.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Your reaction time is slower at night."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "You cannot see as far ahead at night. ",
+            "comment": {
+              "@type": "Comment",
+              "text": "You cannot see as far ahead at night. "
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "With decreased visibility and the glare of oncoming headlights, you cannot see as far ahead at night as you can during the day. Always use headlights and exercise caution when driving in the dark.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "It is more dangerous to drive at night than during the day because: | With decreased visibility and the glare of oncoming headlights, you cannot see as far ahead at night as you can during the day. Always use headlights and exercise caution when driving in the dark."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "It is more dangerous to drive at night than during the day because: -  Real 2025 DMV Questions ",
+          "targetName": "It is more dangerous to drive at night than during the day because:",
+          "targetUrl": "https://www.dmv-written-test.com/question/it-is-more-dangerous-to-drive-at-night-than-during-the-day-because_12yNDvrV.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "It is more dangerous to drive at night than during the day because:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "It is more dangerous to drive at night than during the day because:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "At dawn or dusk and in rain or snow, it can be hard to see and be seen. A good way to let other drivers know you are there is to turn:",
+        "about": {
+          "@type": "Thing",
+          "name": "At dawn or dusk and in rain or snow, it can be hard to see and be seen. A good way to let other drivers know you are there is to turn:"
+        },
+        "assesses": "At dawn or dusk and in rain or snow, it can be hard to see and be seen. A good way to let other drivers know you are there is to turn: | At dawn or dusk and in rain or snow, it can be hard to see and be seen. A good way to let other drivers know you are there is to turn: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "You must use your headlights at any time when conditions prevent you from seeing other vehicles and when it may be difficult for other drivers to see you. Always use your low beam headlights if weather conditions require you to use your windshield wipers.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Up the instrumental panel lights.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Up the instrumental panel lights."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "On your parking lights.",
+            "comment": {
+              "@type": "Comment",
+              "text": "On your parking lights."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "On your headlights.",
+            "comment": {
+              "@type": "Comment",
+              "text": "On your headlights."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "On your headlights.",
+            "comment": {
+              "@type": "Comment",
+              "text": "On your headlights."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "You must use your headlights at any time when conditions prevent you from seeing other vehicles and when it may be difficult for other drivers to see you. Always use your low beam headlights if weather conditions require you to use your windshield wipers.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "At dawn or dusk and in rain or snow, it can be hard to see and be seen. A good way to let other drivers know you are there is to turn: | You must use your headlights at any time when conditions prevent you from seeing other vehicles and when it may be difficult for other drivers to see you. Always use your low beam headlights if weather conditions require you to use your windshield wipers."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "At dawn or dusk and in rain or snow, it can be hard to see and be seen. A good way to let other drivers know you are there is to turn: -  Real 2025 DMV Questions ",
+          "targetName": "At dawn or dusk and in rain or snow, it can be hard to see and be seen. A good way to let other drivers know you are there is to turn:",
+          "targetUrl": "https://www.dmv-written-test.com/question/at-dawn-or-dusk-and-in-rain-or-snow-it-can-be-hard-to-see-and-be-seen-a-good-way-to-let-other-drivers-know-you-are-there-is-to-turn_9nrDeOPA.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "At dawn or dusk and in rain or snow, it can be hard to see and be seen. A good way to let other drivers know you are there is to turn:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "At dawn or dusk and in rain or snow, it can be hard to see and be seen. A good way to let other drivers know you are there is to turn:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Large trucks turning onto a street with two lanes in each direction:",
+        "about": {
+          "@type": "Thing",
+          "name": "Large trucks turning onto a street with two lanes in each direction:"
+        },
+        "assesses": "Large trucks turning onto a street with two lanes in each direction: | Large trucks turning onto a street with two lanes in each direction: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Large trucks must often swing wide to complete a right turn. A truck making a right turn may initially appear to be turning left because of the need to swing wide. When behind a turning truck, you should pay attention to the truck's turn signal to be aware of which way the trucker actually intends to turn.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "May complete the turn in either of the two lanes.",
+            "comment": {
+              "@type": "Comment",
+              "text": "May complete the turn in either of the two lanes."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Often have to use the left lane to complete the turn.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Often have to use the left lane to complete the turn."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Must stay in the right lane at all times while turning.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Must stay in the right lane at all times while turning."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Often have to use the left lane to complete the turn.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Often have to use the left lane to complete the turn."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Large trucks must often swing wide to complete a right turn. A truck making a right turn may initially appear to be turning left because of the need to swing wide. When behind a turning truck, you should pay attention to the truck's turn signal to be aware of which way the trucker actually intends to turn.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "Large trucks turning onto a street with two lanes in each direction: | Large trucks must often swing wide to complete a right turn. A truck making a right turn may initially appear to be turning left because of the need to swing wide. When behind a turning truck, you should pay attention to the truck's turn signal to be aware of which way the trucker actually intends to turn."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "Large trucks turning onto a street with two lanes in each direction: -  Real 2025 DMV Questions ",
+          "targetName": "Large trucks turning onto a street with two lanes in each direction:",
+          "targetUrl": "https://www.dmv-written-test.com/question/large-trucks-turning-onto-a-street-with-two-lanes-in-each-direction_96XKqePE.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "Large trucks turning onto a street with two lanes in each direction:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "Large trucks turning onto a street with two lanes in each direction:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "You should not start across an intersection if you know you will block the intersection when the light turns red:",
+        "about": {
+          "@type": "Thing",
+          "name": "You should not start across an intersection if you know you will block the intersection when the light turns red:"
+        },
+        "assesses": "You should not start across an intersection if you know you will block the intersection when the light turns red: | You should not start across an intersection if you know you will block the intersection when the light turns red: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Even if the signal is green, you must not enter an intersection unless you can get completely across before the light turns red. If you block the intersection, you can be cited.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Under any circumstances.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Under any circumstances."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Unless you entered the intersection on a yellow light.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Unless you entered the intersection on a yellow light."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Unless you entered the intersection on a green light.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Unless you entered the intersection on a green light."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Under any circumstances.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Under any circumstances."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Even if the signal is green, you must not enter an intersection unless you can get completely across before the light turns red. If you block the intersection, you can be cited.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "You should not start across an intersection if you know you will block the intersection when the light turns red: | Even if the signal is green, you must not enter an intersection unless you can get completely across before the light turns red. If you block the intersection, you can be cited."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "You should not start across an intersection if you know you will block the intersection when the light turns red: -  Real 2025 DMV Questions ",
+          "targetName": "You should not start across an intersection if you know you will block the intersection when the light turns red:",
+          "targetUrl": "https://www.dmv-written-test.com/question/you-should-not-start-across-an-intersection-if-you-know-you-will-block-the-intersection-when-the-light-turns-red_7er242yJ.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "You should not start across an intersection if you know you will block the intersection when the light turns red:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "You should not start across an intersection if you know you will block the intersection when the light turns red:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "When turning left at an intersection:",
+        "about": {
+          "@type": "Thing",
+          "name": "When turning left at an intersection:"
+        },
+        "assesses": "When turning left at an intersection: | When turning left at an intersection: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "When turning left at an intersection, yield the right-of-way to oncoming traffic and pedestrians. Once the intersection is clear and applicable signals allow, you may complete the turn.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "You should always yield to oncoming traffic and pedestrians.",
+            "comment": {
+              "@type": "Comment",
+              "text": "You should always yield to oncoming traffic and pedestrians."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Oncoming traffic and pedestrians should yield to you.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Oncoming traffic and pedestrians should yield to you."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "You should never yield to oncoming traffic and pedestrians.",
+            "comment": {
+              "@type": "Comment",
+              "text": "You should never yield to oncoming traffic and pedestrians."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "You should always yield to oncoming traffic and pedestrians.",
+            "comment": {
+              "@type": "Comment",
+              "text": "You should always yield to oncoming traffic and pedestrians."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "When turning left at an intersection, yield the right-of-way to oncoming traffic and pedestrians. Once the intersection is clear and applicable signals allow, you may complete the turn.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "When turning left at an intersection: | When turning left at an intersection, yield the right-of-way to oncoming traffic and pedestrians. Once the intersection is clear and applicable signals allow, you may complete the turn."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "When turning left at an intersection: -  Real 2025 DMV Questions ",
+          "targetName": "When turning left at an intersection:",
+          "targetUrl": "https://www.dmv-written-test.com/question/when-turning-left-at-an-intersection_WZyO2NPz.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "When turning left at an intersection:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "When turning left at an intersection:"
+        }
+      }
+    ],
+    "abstract": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>.",
+    "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "assesses": "FREE California Permit Test 3 - Real 2025 DMV Test Questions | The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "url": "https://www.dmv-written-test.com/california/practice-test-3.html",
+    "isPartOf": {
+      "@context": "http://schema.org",
+      "@type": "CreativeWorkSeries",
+      "name": "FREE California Permit Test 3 - Real 2025 DMV Test Questions",
+      "issn": "california/practice-test-3.html",
+      "accessMode": "textOnVisual",
+      "about": {
+        "@type": "Thing",
+        "name": "FREE California Permit Test 3 - Real 2025 DMV Test Questions"
+      },
+      "lastReviewed": "2025-01-10T09:26:54.000000Z",
+      "mainContentOfPage": {
+        "@type": "WebPageElement",
+        "cssSelector": [
+          "#series-description"
+        ]
+      },
+      "aggregateRating": {
+        "@type": "aggregateRating",
+        "ratingValue": "4.7800",
+        "reviewCount": 8592,
+        "bestRating": 5,
+        "worstRating": 1
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "author": "DMV Written Test",
+        "name": "2025 California Permit Test 3",
+        "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>."
+      },
+      "significantLink": "https://cheat-sheets.dmv-written-test.com/en/california/car",
+      "specialty": "www.dmv-written-test.com",
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "name": "DMV Written Test",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "DMV Written Test",
+            "url": "https://www.dmv-written-test.com",
+            "item": {
+              "@id": "https://www.dmv-written-test.com",
+              "name": "DMV Written Test"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "california",
+            "url": "https://www.dmv-written-test.com/california",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california",
+              "name": "DMV Written Test 2025 California - DMV Practice Test - Real CA DMV Questions!"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "2025 California Permit Test 3",
+            "url": "https://www.dmv-written-test.com/california/practice-test-3.html",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california/practice-test-3.html",
+              "name": "2025 California Permit Test 3"
+            }
+          }
+        ]
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "xpath": [
+          "/html/head/title",
+          "/html/head/meta[@name='description']/@content"
+        ],
+        "url": "https://www.dmv-written-test.com/california/practice-test-3.html"
+      }
+    },
+    "provider": {
+      "@type": "Organization",
+      "name": "DMV Written Test",
+      "legalName": "Infinity Loop Capital LLC, CORP2000",
+      "slogan": "DMV",
+      "url": "https://www.dmv-written-test.com",
+      "email": "support@dmv-written-test.com",
+      "address": {
+        "@type": "PostalAddress",
+        "name": "Infinity Loop Capital LLC, CORP2000",
+        "addressLocality": "lindengasse 56/2",
+        "addressRegion": "32 West Loockerman Street, Suite 107, 19904 Dover DE"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": " ",
+        "contactType": "customer service"
+      },
+      "logo": {
+        "@type": "ImageObject",
+        "name": "DMV Written Test",
+        "url": "https://www.dmv-written-test.com/images/meta/logo.png",
+        "description": "DMV Written Test"
+      },
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "copyrightYear": "2025",
+    "dateCreated": "2021-11-23T12:41:44.000000Z",
+    "datePublished": "2021-11-23T12:41:44.000000Z",
+    "dateModified": "2025-01-10T09:26:54.000000Z",
+    "learningResourceType": "Car",
+    "educationalUse": "assignment",
+    "interactivityType": "mixed",
+    "accessMode": "textOnVisual",
+    "educationalLevel": "intermediate",
+    "typicalAgeRange": "16-72",
+    "educationalAlignment": {
+      "@type": "AlignmentObject",
+      "alignmentType": "educationalSubject",
+      "educationalFramework": "DMV Written Test",
+      "targetDescription": "DMV Written Test is the best at helping you pass your permit exam.  We only use real DMV questions on our practice tests and cheat sheets!",
+      "targetName": "DMV Written Test - DMV Practice Test 2025 - Real DMV Questions!",
+      "targetUrl": "https://www.dmv-written-test.com"
+    },
+    "image": {
+      "@type": "ImageObject",
+      "author": "DMV Written Test",
+      "name": "DMV Written Test",
+      "url": "https://www.dmv-written-test.com/images/meta/cover-1200x630.png",
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "inLanguage": {
+      "@type": "Language",
+      "name": "English",
+      "alternateName": "en"
+    }
+  }
+]

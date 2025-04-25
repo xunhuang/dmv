@@ -1,0 +1,651 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "Quiz",
+    "name": "FREE California Permit Test 15 - Real 2025 DMV Test Questions",
+    "headline": "2025 California Permit Test 15",
+    "alternativeHeadline": "2025 California Permit Test 15 | DMV Written Test",
+    "about": {
+      "@type": "Thing",
+      "name": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car."
+    },
+    "hasPart": [
+      {
+        "@type": "Question",
+        "name": "Which of the following statements is correct?",
+        "about": {
+          "@type": "Thing",
+          "name": "Which of the following statements is correct?"
+        },
+        "assesses": "Which of the following statements is correct? | Which of the following statements is correct? -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Use your right foot for both braking and accelerating. You should apply the brakes gently with increasing pressure so that your vehicle stops gradually and smoothly.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Use your left foot to brake.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Use your left foot to brake."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Use your right foot for both braking and accelerating your vehicle.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Use your right foot for both braking and accelerating your vehicle."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "You should always brake abruptly to ensure stopping.",
+            "comment": {
+              "@type": "Comment",
+              "text": "You should always brake abruptly to ensure stopping."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Use your right foot for both braking and accelerating your vehicle.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Use your right foot for both braking and accelerating your vehicle."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Use your right foot for both braking and accelerating. You should apply the brakes gently with increasing pressure so that your vehicle stops gradually and smoothly.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "Which of the following statements is correct? | Use your right foot for both braking and accelerating. You should apply the brakes gently with increasing pressure so that your vehicle stops gradually and smoothly."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "Which of the following statements is correct? -  Real 2025 DMV Questions ",
+          "targetName": "Which of the following statements is correct?",
+          "targetUrl": "https://www.dmv-written-test.com/question/which-of-the-following-statements-is-correct_VzXzgxrl.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "Which of the following statements is correct?",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "Which of the following statements is correct?"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Which statement is true?",
+        "about": {
+          "@type": "Thing",
+          "name": "Which statement is true?"
+        },
+        "assesses": "Which statement is true? | Which statement is true? -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "You must stop at a railroad crossing when directed to do so by a flagger, stop sign, or warning signal. Use caution when driving near railroad tracks.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "You should put on your cruise control near a railroad crossing to maintain a constant speed.",
+            "comment": {
+              "@type": "Comment",
+              "text": "You should put on your cruise control near a railroad crossing to maintain a constant speed."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "You must stop at a railroad crossing when directed to do so by a flagger or stop sign.",
+            "comment": {
+              "@type": "Comment",
+              "text": "You must stop at a railroad crossing when directed to do so by a flagger or stop sign."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "You have the right-of-way at a railroad crossing and do not need to stop.",
+            "comment": {
+              "@type": "Comment",
+              "text": "You have the right-of-way at a railroad crossing and do not need to stop."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "You must stop at a railroad crossing when directed to do so by a flagger or stop sign.",
+            "comment": {
+              "@type": "Comment",
+              "text": "You must stop at a railroad crossing when directed to do so by a flagger or stop sign."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "You must stop at a railroad crossing when directed to do so by a flagger, stop sign, or warning signal. Use caution when driving near railroad tracks.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "Which statement is true? | You must stop at a railroad crossing when directed to do so by a flagger, stop sign, or warning signal. Use caution when driving near railroad tracks."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "Which statement is true? -  Real 2025 DMV Questions ",
+          "targetName": "Which statement is true?",
+          "targetUrl": "https://www.dmv-written-test.com/question/which-statement-is-true_LMPnxQXR.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "Which statement is true?",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "Which statement is true?"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Which of the following blocks the smooth flow of traffic?",
+        "about": {
+          "@type": "Thing",
+          "name": "Which of the following blocks the smooth flow of traffic?"
+        },
+        "assesses": "Which of the following blocks the smooth flow of traffic? | Which of the following blocks the smooth flow of traffic? -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Rubbernecking (the practice of slowing down to look at collisions or other out-of-the-ordinary things) contributes to traffic congestion and should be avoided.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Slowing down to look at collision scene.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Slowing down to look at collision scene."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Avoiding unnecessary lane changes.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Avoiding unnecessary lane changes."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Using public transportation instead of your vehicle.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Using public transportation instead of your vehicle."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Slowing down to look at collision scene.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Slowing down to look at collision scene."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Rubbernecking (the practice of slowing down to look at collisions or other out-of-the-ordinary things) contributes to traffic congestion and should be avoided.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "Which of the following blocks the smooth flow of traffic? | Rubbernecking (the practice of slowing down to look at collisions or other out-of-the-ordinary things) contributes to traffic congestion and should be avoided."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "Which of the following blocks the smooth flow of traffic? -  Real 2025 DMV Questions ",
+          "targetName": "Which of the following blocks the smooth flow of traffic?",
+          "targetUrl": "https://www.dmv-written-test.com/question/which-of-the-following-blocks-the-smooth-flow-of-traffic_eOrVJBrQ.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "Which of the following blocks the smooth flow of traffic?",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "Which of the following blocks the smooth flow of traffic?"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "If it feels like your tires have lost contact with the surface of the road, you should:",
+        "about": {
+          "@type": "Thing",
+          "name": "If it feels like your tires have lost contact with the surface of the road, you should:"
+        },
+        "assesses": "If it feels like your tires have lost contact with the surface of the road, you should: | If it feels like your tires have lost contact with the surface of the road, you should: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "If it feels like your tires have lost contact with the surface of the road, you should ease your foot off the gas pedal and stay off the brakes. Do not try to stop or turn until your tires are gripping the road again.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Slow down by shifting into a lower gear.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Slow down by shifting into a lower gear."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Ease your foot off the gas pedal.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Ease your foot off the gas pedal."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Slow down by pumping the brakes quickly and firmly.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Slow down by pumping the brakes quickly and firmly."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Ease your foot off the gas pedal.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Ease your foot off the gas pedal."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "If it feels like your tires have lost contact with the surface of the road, you should ease your foot off the gas pedal and stay off the brakes. Do not try to stop or turn until your tires are gripping the road again.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "If it feels like your tires have lost contact with the surface of the road, you should: | If it feels like your tires have lost contact with the surface of the road, you should ease your foot off the gas pedal and stay off the brakes. Do not try to stop or turn until your tires are gripping the road again."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "If it feels like your tires have lost contact with the surface of the road, you should: -  Real 2025 DMV Questions ",
+          "targetName": "If it feels like your tires have lost contact with the surface of the road, you should:",
+          "targetUrl": "https://www.dmv-written-test.com/question/if-it-feels-like-your-tires-have-lost-contact-with-the-surface-of-the-road-you-should_lPZ11ar2.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "If it feels like your tires have lost contact with the surface of the road, you should:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "If it feels like your tires have lost contact with the surface of the road, you should:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "When you tailgate other drivers (drive closely to their rear bumper):",
+        "about": {
+          "@type": "Thing",
+          "name": "When you tailgate other drivers (drive closely to their rear bumper):"
+        },
+        "assesses": "When you tailgate other drivers (drive closely to their rear bumper): | When you tailgate other drivers (drive closely to their rear bumper): -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Most rear-end collisions are caused by tailgating. To avoid tailgating, use the “Three Second Rule.” When the vehicle ahead of you passes a certain point, such as a sign, count “one-thousand-one, one-thousand-two, one-thousand-three.” If you pass the same point before you finish counting, you are following too closely.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "You can frustrate the other drivers and make them angry.",
+            "comment": {
+              "@type": "Comment",
+              "text": "You can frustrate the other drivers and make them angry."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Your actions cannot result in a traffic citation.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Your actions cannot result in a traffic citation."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "You help reduce traffic congestion.",
+            "comment": {
+              "@type": "Comment",
+              "text": "You help reduce traffic congestion."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "You can frustrate the other drivers and make them angry.",
+            "comment": {
+              "@type": "Comment",
+              "text": "You can frustrate the other drivers and make them angry."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Most rear-end collisions are caused by tailgating. To avoid tailgating, use the “Three Second Rule.” When the vehicle ahead of you passes a certain point, such as a sign, count “one-thousand-one, one-thousand-two, one-thousand-three.” If you pass the same point before you finish counting, you are following too closely.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "When you tailgate other drivers (drive closely to their rear bumper): | Most rear-end collisions are caused by tailgating. To avoid tailgating, use the “Three Second Rule.” When the vehicle ahead of you passes a certain point, such as a sign, count “one-thousand-one, one-thousand-two, one-thousand-three.” If you pass the same point before you finish counting, you are following too closely."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "When you tailgate other drivers (drive closely to their rear bumper): -  Real 2025 DMV Questions ",
+          "targetName": "When you tailgate other drivers (drive closely to their rear bumper):",
+          "targetUrl": "https://www.dmv-written-test.com/question/when-you-tailgate-other-drivers-drive-closely-to-their-rear-bumper_ElPZ8gX2.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "When you tailgate other drivers (drive closely to their rear bumper):",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "When you tailgate other drivers (drive closely to their rear bumper):"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Animals may be transported in the back of a pickup truck only if:",
+        "about": {
+          "@type": "Thing",
+          "name": "Animals may be transported in the back of a pickup truck only if:"
+        },
+        "assesses": "Animals may be transported in the back of a pickup truck only if: | Animals may be transported in the back of a pickup truck only if: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "An animal must not be transported in the back of a pickup or other truck unless the animal is properly secured to prevent it from falling, jumping, or being thrown from the vehicle.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "The sides of the truck bed are at least 18 inches high.",
+            "comment": {
+              "@type": "Comment",
+              "text": "The sides of the truck bed are at least 18 inches high."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "They are properly secured.",
+            "comment": {
+              "@type": "Comment",
+              "text": "They are properly secured."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "The tailgate of the truck is closed.",
+            "comment": {
+              "@type": "Comment",
+              "text": "The tailgate of the truck is closed."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "They are properly secured.",
+            "comment": {
+              "@type": "Comment",
+              "text": "They are properly secured."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "An animal must not be transported in the back of a pickup or other truck unless the animal is properly secured to prevent it from falling, jumping, or being thrown from the vehicle.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "Animals may be transported in the back of a pickup truck only if: | An animal must not be transported in the back of a pickup or other truck unless the animal is properly secured to prevent it from falling, jumping, or being thrown from the vehicle."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "Animals may be transported in the back of a pickup truck only if: -  Real 2025 DMV Questions ",
+          "targetName": "Animals may be transported in the back of a pickup truck only if:",
+          "targetUrl": "https://www.dmv-written-test.com/question/animals-may-be-transported-in-the-back-of-a-pickup-truck-only-if_YWXbW9rQ.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "Animals may be transported in the back of a pickup truck only if:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "Animals may be transported in the back of a pickup truck only if:"
+        }
+      }
+    ],
+    "abstract": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>.",
+    "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "assesses": "FREE California Permit Test 15 - Real 2025 DMV Test Questions | The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "url": "https://www.dmv-written-test.com/california/practice-test-15.html",
+    "isPartOf": {
+      "@context": "http://schema.org",
+      "@type": "CreativeWorkSeries",
+      "name": "FREE California Permit Test 15 - Real 2025 DMV Test Questions",
+      "issn": "california/practice-test-15.html",
+      "accessMode": "textOnVisual",
+      "about": {
+        "@type": "Thing",
+        "name": "FREE California Permit Test 15 - Real 2025 DMV Test Questions"
+      },
+      "lastReviewed": "2022-01-07T10:57:08.000000Z",
+      "mainContentOfPage": {
+        "@type": "WebPageElement",
+        "cssSelector": [
+          "#series-description"
+        ]
+      },
+      "aggregateRating": {
+        "@type": "aggregateRating",
+        "ratingValue": "4.9005",
+        "reviewCount": 1719,
+        "bestRating": 5,
+        "worstRating": 1
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "author": "DMV Written Test",
+        "name": "2025 California Permit Test 15",
+        "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>."
+      },
+      "significantLink": "https://cheat-sheets.dmv-written-test.com/en/california/car",
+      "specialty": "www.dmv-written-test.com",
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "name": "DMV Written Test",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "DMV Written Test",
+            "url": "https://www.dmv-written-test.com",
+            "item": {
+              "@id": "https://www.dmv-written-test.com",
+              "name": "DMV Written Test"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "california",
+            "url": "https://www.dmv-written-test.com/california",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california",
+              "name": "DMV Written Test 2025 California - DMV Practice Test - Real CA DMV Questions!"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "2025 California Permit Test 15",
+            "url": "https://www.dmv-written-test.com/california/practice-test-15.html",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california/practice-test-15.html",
+              "name": "2025 California Permit Test 15"
+            }
+          }
+        ]
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "xpath": [
+          "/html/head/title",
+          "/html/head/meta[@name='description']/@content"
+        ],
+        "url": "https://www.dmv-written-test.com/california/practice-test-15.html"
+      }
+    },
+    "provider": {
+      "@type": "Organization",
+      "name": "DMV Written Test",
+      "legalName": "Infinity Loop Capital LLC, CORP2000",
+      "slogan": "DMV",
+      "url": "https://www.dmv-written-test.com",
+      "email": "support@dmv-written-test.com",
+      "address": {
+        "@type": "PostalAddress",
+        "name": "Infinity Loop Capital LLC, CORP2000",
+        "addressLocality": "lindengasse 56/2",
+        "addressRegion": "32 West Loockerman Street, Suite 107, 19904 Dover DE"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": " ",
+        "contactType": "customer service"
+      },
+      "logo": {
+        "@type": "ImageObject",
+        "name": "DMV Written Test",
+        "url": "https://www.dmv-written-test.com/images/meta/logo.png",
+        "description": "DMV Written Test"
+      },
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "copyrightYear": "2025",
+    "dateCreated": "2021-11-23T12:41:50.000000Z",
+    "datePublished": "2021-11-23T12:41:50.000000Z",
+    "dateModified": "2022-01-07T10:57:08.000000Z",
+    "learningResourceType": "Car",
+    "educationalUse": "assignment",
+    "interactivityType": "mixed",
+    "accessMode": "textOnVisual",
+    "educationalLevel": "intermediate",
+    "typicalAgeRange": "16-72",
+    "educationalAlignment": {
+      "@type": "AlignmentObject",
+      "alignmentType": "educationalSubject",
+      "educationalFramework": "DMV Written Test",
+      "targetDescription": "DMV Written Test is the best at helping you pass your permit exam.  We only use real DMV questions on our practice tests and cheat sheets!",
+      "targetName": "DMV Written Test - DMV Practice Test 2025 - Real DMV Questions!",
+      "targetUrl": "https://www.dmv-written-test.com"
+    },
+    "image": {
+      "@type": "ImageObject",
+      "author": "DMV Written Test",
+      "name": "DMV Written Test",
+      "url": "https://www.dmv-written-test.com/images/meta/cover-1200x630.png",
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "inLanguage": {
+      "@type": "Language",
+      "name": "English",
+      "alternateName": "en"
+    }
+  }
+]

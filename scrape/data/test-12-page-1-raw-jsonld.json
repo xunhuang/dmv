@@ -1,0 +1,651 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "Quiz",
+    "name": "FREE California Permit Test 12 - Real 2025 DMV Test Questions",
+    "headline": "2025 California Permit Test 12",
+    "alternativeHeadline": "2025 California Permit Test 12 | DMV Written Test",
+    "about": {
+      "@type": "Thing",
+      "name": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car."
+    },
+    "hasPart": [
+      {
+        "@type": "Question",
+        "name": "You are driving on a freeway with a posted speed limit of 65 mph. Traffic is traveling at 70 mph. You may legally drive:",
+        "about": {
+          "@type": "Thing",
+          "name": "You are driving on a freeway with a posted speed limit of 65 mph. Traffic is traveling at 70 mph. You may legally drive:"
+        },
+        "assesses": "You are driving on a freeway with a posted speed limit of 65 mph. Traffic is traveling at 70 mph. You may legally drive: | You are driving on a freeway with a posted speed limit of 65 mph. Traffic is traveling at 70 mph. You may legally drive: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "On most California highways, the maximum speed limit is 65 mph. You may drive at 70 mph only if the speed limit is posted as such.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "70 mph or faster to keep up with the speed of traffic.",
+            "comment": {
+              "@type": "Comment",
+              "text": "70 mph or faster to keep up with the speed of traffic."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Between 65 mph and 70 mph.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Between 65 mph and 70 mph."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "No faster than 65 mph.",
+            "comment": {
+              "@type": "Comment",
+              "text": "No faster than 65 mph."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "No faster than 65 mph.",
+            "comment": {
+              "@type": "Comment",
+              "text": "No faster than 65 mph."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "On most California highways, the maximum speed limit is 65 mph. You may drive at 70 mph only if the speed limit is posted as such.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "You are driving on a freeway with a posted speed limit of 65 mph. Traffic is traveling at 70 mph. You may legally drive: | On most California highways, the maximum speed limit is 65 mph. You may drive at 70 mph only if the speed limit is posted as such."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "You are driving on a freeway with a posted speed limit of 65 mph. Traffic is traveling at 70 mph. You may legally drive: -  Real 2025 DMV Questions ",
+          "targetName": "You are driving on a freeway with a posted speed limit of 65 mph. Traffic is traveling at 70 mph. You may legally drive:",
+          "targetUrl": "https://www.dmv-written-test.com/question/you-are-driving-on-a-freeway-with-a-posted-speed-limit-of-65-mph-traffic-is-traveling-at-70-mph-you-may-legally-drive_7VPQV7ya.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "You are driving on a freeway with a posted speed limit of 65 mph. Traffic is traveling at 70 mph. You may legally drive:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "You are driving on a freeway with a posted speed limit of 65 mph. Traffic is traveling at 70 mph. You may legally drive:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "When driving in fog, it is best to drive with:",
+        "about": {
+          "@type": "Thing",
+          "name": "When driving in fog, it is best to drive with:"
+        },
+        "assesses": "When driving in fog, it is best to drive with: | When driving in fog, it is best to drive with: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Use your low beam headlights when driving in fog, rain, or snow. High beam lights can reflect off the weather conditions, lowering visibility even more.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "High beam headlights.",
+            "comment": {
+              "@type": "Comment",
+              "text": "High beam headlights."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Low beam headlights.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Low beam headlights."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Four-way flashers.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Four-way flashers."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Low beam headlights.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Low beam headlights."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Use your low beam headlights when driving in fog, rain, or snow. High beam lights can reflect off the weather conditions, lowering visibility even more.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "When driving in fog, it is best to drive with: | Use your low beam headlights when driving in fog, rain, or snow. High beam lights can reflect off the weather conditions, lowering visibility even more."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "When driving in fog, it is best to drive with: -  Real 2025 DMV Questions ",
+          "targetName": "When driving in fog, it is best to drive with:",
+          "targetUrl": "https://www.dmv-written-test.com/question/when-driving-in-fog-it-is-best-to-drive-with_LBXp7dy9.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "When driving in fog, it is best to drive with:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "When driving in fog, it is best to drive with:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "If your wheels drop off the roadway or pavement edge, you should:",
+        "about": {
+          "@type": "Thing",
+          "name": "If your wheels drop off the roadway or pavement edge, you should:"
+        },
+        "assesses": "If your wheels drop off the roadway or pavement edge, you should: | If your wheels drop off the roadway or pavement edge, you should: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "If your wheels drop off the roadway or pavement edge, do not attempt to turn back onto the roadway immediately. Instead, reduce your speed, check traffic, and gradually turn back onto the roadway when it is safe to do so.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Wait until it is safe to do so, then gradually re-enter the roadway.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Wait until it is safe to do so, then gradually re-enter the roadway."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Turn back onto the roadway immediately.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Turn back onto the roadway immediately."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Stop.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Stop."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Wait until it is safe to do so, then gradually re-enter the roadway.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Wait until it is safe to do so, then gradually re-enter the roadway."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "If your wheels drop off the roadway or pavement edge, do not attempt to turn back onto the roadway immediately. Instead, reduce your speed, check traffic, and gradually turn back onto the roadway when it is safe to do so.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "If your wheels drop off the roadway or pavement edge, you should: | If your wheels drop off the roadway or pavement edge, do not attempt to turn back onto the roadway immediately. Instead, reduce your speed, check traffic, and gradually turn back onto the roadway when it is safe to do so."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "If your wheels drop off the roadway or pavement edge, you should: -  Real 2025 DMV Questions ",
+          "targetName": "If your wheels drop off the roadway or pavement edge, you should:",
+          "targetUrl": "https://www.dmv-written-test.com/question/if-your-wheels-drop-off-the-roadway-or-pavement-edge-you-should_b2Xl6APY.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "If your wheels drop off the roadway or pavement edge, you should:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "If your wheels drop off the roadway or pavement edge, you should:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "As you enter into a roundabout, you should slow down and:",
+        "about": {
+          "@type": "Thing",
+          "name": "As you enter into a roundabout, you should slow down and:"
+        },
+        "assesses": "As you enter into a roundabout, you should slow down and: | As you enter into a roundabout, you should slow down and: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "When entering a roundabout, you must yield to pedestrians, bicyclists, and traffic already in the roundabout.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Yield to any crossing pedestrians and bicyclists.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Yield to any crossing pedestrians and bicyclists."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Yield to any car already within the roundabout.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Yield to any car already within the roundabout."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Both of the above.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Both of the above."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Both of the above.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Both of the above."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "When entering a roundabout, you must yield to pedestrians, bicyclists, and traffic already in the roundabout.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "As you enter into a roundabout, you should slow down and: | When entering a roundabout, you must yield to pedestrians, bicyclists, and traffic already in the roundabout."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "As you enter into a roundabout, you should slow down and: -  Real 2025 DMV Questions ",
+          "targetName": "As you enter into a roundabout, you should slow down and:",
+          "targetUrl": "https://www.dmv-written-test.com/question/as-you-enter-into-a-roundabout-you-should-slow-down-and_7er292XJ.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "As you enter into a roundabout, you should slow down and:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "As you enter into a roundabout, you should slow down and:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Streets and highways are most slippery:",
+        "about": {
+          "@type": "Thing",
+          "name": "Streets and highways are most slippery:"
+        },
+        "assesses": "Streets and highways are most slippery: | Streets and highways are most slippery: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Driving during the first half hour of rainfall is dangerous because roadways become extremely slippery when the water mixes with oil and other chemicals on the road surfaces that have not yet washed away. Use extra caution when driving on slippery roads.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "When it has been raining hard for several hours.",
+            "comment": {
+              "@type": "Comment",
+              "text": "When it has been raining hard for several hours."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "When they are clean and dry.",
+            "comment": {
+              "@type": "Comment",
+              "text": "When they are clean and dry."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Just after it starts to rain.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Just after it starts to rain."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Just after it starts to rain.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Just after it starts to rain."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Driving during the first half hour of rainfall is dangerous because roadways become extremely slippery when the water mixes with oil and other chemicals on the road surfaces that have not yet washed away. Use extra caution when driving on slippery roads.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "Streets and highways are most slippery: | Driving during the first half hour of rainfall is dangerous because roadways become extremely slippery when the water mixes with oil and other chemicals on the road surfaces that have not yet washed away. Use extra caution when driving on slippery roads."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "Streets and highways are most slippery: -  Real 2025 DMV Questions ",
+          "targetName": "Streets and highways are most slippery:",
+          "targetUrl": "https://www.dmv-written-test.com/question/streets-and-highways-are-most-slippery_YWXbRDXQ.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "Streets and highways are most slippery:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "Streets and highways are most slippery:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "If you hit an animal with your vehicle while driving on a California highway, you should:",
+        "about": {
+          "@type": "Thing",
+          "name": "If you hit an animal with your vehicle while driving on a California highway, you should:"
+        },
+        "assesses": "If you hit an animal with your vehicle while driving on a California highway, you should: | If you hit an animal with your vehicle while driving on a California highway, you should: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "If you injure or kill an animal on the roadway, you should call CHP, the nearest humane society, or the police. You should not leave the animal to die or try to move the animal.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Move the injured animal off the road.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Move the injured animal off the road."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Call the humane society.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Call the humane society."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Continue driving.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Continue driving."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Call the humane society.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Call the humane society."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "If you injure or kill an animal on the roadway, you should call CHP, the nearest humane society, or the police. You should not leave the animal to die or try to move the animal.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "If you hit an animal with your vehicle while driving on a California highway, you should: | If you injure or kill an animal on the roadway, you should call CHP, the nearest humane society, or the police. You should not leave the animal to die or try to move the animal."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "If you hit an animal with your vehicle while driving on a California highway, you should: -  Real 2025 DMV Questions ",
+          "targetName": "If you hit an animal with your vehicle while driving on a California highway, you should:",
+          "targetUrl": "https://www.dmv-written-test.com/question/if-you-hit-an-animal-with-your-vehicle-while-driving-on-a-california-highway-you-should_dX6jGlXk.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "If you hit an animal with your vehicle while driving on a California highway, you should:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "If you hit an animal with your vehicle while driving on a California highway, you should:"
+        }
+      }
+    ],
+    "abstract": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>.",
+    "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "assesses": "FREE California Permit Test 12 - Real 2025 DMV Test Questions | The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "url": "https://www.dmv-written-test.com/california/practice-test-12.html",
+    "isPartOf": {
+      "@context": "http://schema.org",
+      "@type": "CreativeWorkSeries",
+      "name": "FREE California Permit Test 12 - Real 2025 DMV Test Questions",
+      "issn": "california/practice-test-12.html",
+      "accessMode": "textOnVisual",
+      "about": {
+        "@type": "Thing",
+        "name": "FREE California Permit Test 12 - Real 2025 DMV Test Questions"
+      },
+      "lastReviewed": "2022-01-07T10:57:08.000000Z",
+      "mainContentOfPage": {
+        "@type": "WebPageElement",
+        "cssSelector": [
+          "#series-description"
+        ]
+      },
+      "aggregateRating": {
+        "@type": "aggregateRating",
+        "ratingValue": "4.8540",
+        "reviewCount": 1267,
+        "bestRating": 5,
+        "worstRating": 1
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "author": "DMV Written Test",
+        "name": "2025 California Permit Test 12",
+        "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>."
+      },
+      "significantLink": "https://cheat-sheets.dmv-written-test.com/en/california/car",
+      "specialty": "www.dmv-written-test.com",
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "name": "DMV Written Test",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "DMV Written Test",
+            "url": "https://www.dmv-written-test.com",
+            "item": {
+              "@id": "https://www.dmv-written-test.com",
+              "name": "DMV Written Test"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "california",
+            "url": "https://www.dmv-written-test.com/california",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california",
+              "name": "DMV Written Test 2025 California - DMV Practice Test - Real CA DMV Questions!"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "2025 California Permit Test 12",
+            "url": "https://www.dmv-written-test.com/california/practice-test-12.html",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california/practice-test-12.html",
+              "name": "2025 California Permit Test 12"
+            }
+          }
+        ]
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "xpath": [
+          "/html/head/title",
+          "/html/head/meta[@name='description']/@content"
+        ],
+        "url": "https://www.dmv-written-test.com/california/practice-test-12.html"
+      }
+    },
+    "provider": {
+      "@type": "Organization",
+      "name": "DMV Written Test",
+      "legalName": "Infinity Loop Capital LLC, CORP2000",
+      "slogan": "DMV",
+      "url": "https://www.dmv-written-test.com",
+      "email": "support@dmv-written-test.com",
+      "address": {
+        "@type": "PostalAddress",
+        "name": "Infinity Loop Capital LLC, CORP2000",
+        "addressLocality": "lindengasse 56/2",
+        "addressRegion": "32 West Loockerman Street, Suite 107, 19904 Dover DE"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": " ",
+        "contactType": "customer service"
+      },
+      "logo": {
+        "@type": "ImageObject",
+        "name": "DMV Written Test",
+        "url": "https://www.dmv-written-test.com/images/meta/logo.png",
+        "description": "DMV Written Test"
+      },
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "copyrightYear": "2025",
+    "dateCreated": "2021-11-23T12:41:48.000000Z",
+    "datePublished": "2021-11-23T12:41:48.000000Z",
+    "dateModified": "2022-01-07T10:57:08.000000Z",
+    "learningResourceType": "Car",
+    "educationalUse": "assignment",
+    "interactivityType": "mixed",
+    "accessMode": "textOnVisual",
+    "educationalLevel": "intermediate",
+    "typicalAgeRange": "16-72",
+    "educationalAlignment": {
+      "@type": "AlignmentObject",
+      "alignmentType": "educationalSubject",
+      "educationalFramework": "DMV Written Test",
+      "targetDescription": "DMV Written Test is the best at helping you pass your permit exam.  We only use real DMV questions on our practice tests and cheat sheets!",
+      "targetName": "DMV Written Test - DMV Practice Test 2025 - Real DMV Questions!",
+      "targetUrl": "https://www.dmv-written-test.com"
+    },
+    "image": {
+      "@type": "ImageObject",
+      "author": "DMV Written Test",
+      "name": "DMV Written Test",
+      "url": "https://www.dmv-written-test.com/images/meta/cover-1200x630.png",
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "inLanguage": {
+      "@type": "Language",
+      "name": "English",
+      "alternateName": "en"
+    }
+  }
+]

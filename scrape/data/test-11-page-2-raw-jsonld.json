@@ -1,0 +1,651 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "Quiz",
+    "name": "FREE California Permit Test 11 - Real 2025 DMV Test Questions",
+    "headline": "2025 California Permit Test 11",
+    "alternativeHeadline": "2025 California Permit Test 11 | DMV Written Test",
+    "about": {
+      "@type": "Thing",
+      "name": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car."
+    },
+    "hasPart": [
+      {
+        "@type": "Question",
+        "name": "If there is no crosswalk and you see a pedestrian crossing your lane, you should:",
+        "about": {
+          "@type": "Thing",
+          "name": "If there is no crosswalk and you see a pedestrian crossing your lane, you should:"
+        },
+        "assesses": "If there is no crosswalk and you see a pedestrian crossing your lane, you should: | If there is no crosswalk and you see a pedestrian crossing your lane, you should: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Drivers must always yield the right-of-way to pedestrians in the roadway, even if there is not a marked crosswalk.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Make sure the pedestrian can see you before proceeding.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Make sure the pedestrian can see you before proceeding."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Cautiously drive around the pedestrian.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Cautiously drive around the pedestrian."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Stop and let the pedestrian finish crossing.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Stop and let the pedestrian finish crossing."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Stop and let the pedestrian finish crossing.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Stop and let the pedestrian finish crossing."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Drivers must always yield the right-of-way to pedestrians in the roadway, even if there is not a marked crosswalk.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "If there is no crosswalk and you see a pedestrian crossing your lane, you should: | Drivers must always yield the right-of-way to pedestrians in the roadway, even if there is not a marked crosswalk."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "If there is no crosswalk and you see a pedestrian crossing your lane, you should: -  Real 2025 DMV Questions ",
+          "targetName": "If there is no crosswalk and you see a pedestrian crossing your lane, you should:",
+          "targetUrl": "https://www.dmv-written-test.com/question/if-there-is-no-crosswalk-and-you-see-a-pedestrian-crossing-your-lane-you-should_AOX5xygG.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "If there is no crosswalk and you see a pedestrian crossing your lane, you should:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "If there is no crosswalk and you see a pedestrian crossing your lane, you should:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "While driving at night, a vehicle coming toward you has its high beams on, making it hard for you to see the road ahead. You should:",
+        "about": {
+          "@type": "Thing",
+          "name": "While driving at night, a vehicle coming toward you has its high beams on, making it hard for you to see the road ahead. You should:"
+        },
+        "assesses": "While driving at night, a vehicle coming toward you has its high beams on, making it hard for you to see the road ahead. You should: | While driving at night, a vehicle coming toward you has its high beams on, making it hard for you to see the road ahead. You should: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "If an oncoming driver fails to dim their high beams, you should avoid looking directly at the headlights. Instead, look toward the right edge of your lane and watch the oncoming vehicle out of the corner of your eye.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Look ahead toward the left edge of your lane.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Look ahead toward the left edge of your lane."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Look ahead toward the right edge of your lane.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Look ahead toward the right edge of your lane."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Look straight ahead in your lane.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Look straight ahead in your lane."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Look ahead toward the right edge of your lane.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Look ahead toward the right edge of your lane."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "If an oncoming driver fails to dim their high beams, you should avoid looking directly at the headlights. Instead, look toward the right edge of your lane and watch the oncoming vehicle out of the corner of your eye.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "While driving at night, a vehicle coming toward you has its high beams on, making it hard for you to see the road ahead. You should: | If an oncoming driver fails to dim their high beams, you should avoid looking directly at the headlights. Instead, look toward the right edge of your lane and watch the oncoming vehicle out of the corner of your eye."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "While driving at night, a vehicle coming toward you has its high beams on, making it hard for you to see the road ahead. You should: -  Real 2025 DMV Questions ",
+          "targetName": "While driving at night, a vehicle coming toward you has its high beams on, making it hard for you to see the road ahead. You should:",
+          "targetUrl": "https://www.dmv-written-test.com/question/while-driving-at-night-a-vehicle-coming-toward-you-has-its-high-beams-on-making-it-hard-for-you-to-see-the-road-ahead-you-should_LBXpKly9.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "While driving at night, a vehicle coming toward you has its high beams on, making it hard for you to see the road ahead. You should:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "While driving at night, a vehicle coming toward you has its high beams on, making it hard for you to see the road ahead. You should:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "When preparing to make a left turn from a two-way street, you should drive:",
+        "about": {
+          "@type": "Thing",
+          "name": "When preparing to make a left turn from a two-way street, you should drive:"
+        },
+        "assesses": "When preparing to make a left turn from a two-way street, you should drive: | When preparing to make a left turn from a two-way street, you should drive: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "When you are turning left from a two-way street, begin in the lane closest to the centerline and start your turn just before the front of your car reaches the center of the intersection. Do not cut the corner. Steering hand-over-hand, turn into the first available legal lane.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Near the right-hand side of the road.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Near the right-hand side of the road."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Near the centerline.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Near the centerline."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "On the left of the centerline.",
+            "comment": {
+              "@type": "Comment",
+              "text": "On the left of the centerline."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Near the centerline.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Near the centerline."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "When you are turning left from a two-way street, begin in the lane closest to the centerline and start your turn just before the front of your car reaches the center of the intersection. Do not cut the corner. Steering hand-over-hand, turn into the first available legal lane.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "When preparing to make a left turn from a two-way street, you should drive: | When you are turning left from a two-way street, begin in the lane closest to the centerline and start your turn just before the front of your car reaches the center of the intersection. Do not cut the corner. Steering hand-over-hand, turn into the first available legal lane."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "When preparing to make a left turn from a two-way street, you should drive: -  Real 2025 DMV Questions ",
+          "targetName": "When preparing to make a left turn from a two-way street, you should drive:",
+          "targetUrl": "https://www.dmv-written-test.com/question/when-preparing-to-make-a-left-turn-from-a-two-way-street-you-should-drive_7VPQvZya.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "When preparing to make a left turn from a two-way street, you should drive:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "When preparing to make a left turn from a two-way street, you should drive:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is a potential effect of taking a prescription drug while drinking alcohol?",
+        "about": {
+          "@type": "Thing",
+          "name": "What is a potential effect of taking a prescription drug while drinking alcohol?"
+        },
+        "assesses": "What is a potential effect of taking a prescription drug while drinking alcohol? | What is a potential effect of taking a prescription drug while drinking alcohol? -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Legal medications, both prescription and over-the-counter, can impair your ability to drive. They can be particularly dangerous when used in combination with alcohol.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "There will likely be no effect.",
+            "comment": {
+              "@type": "Comment",
+              "text": "There will likely be no effect."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "It will make you more alert.",
+            "comment": {
+              "@type": "Comment",
+              "text": "It will make you more alert."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "It can make you unfit to drive.",
+            "comment": {
+              "@type": "Comment",
+              "text": "It can make you unfit to drive."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "It can make you unfit to drive.",
+            "comment": {
+              "@type": "Comment",
+              "text": "It can make you unfit to drive."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Legal medications, both prescription and over-the-counter, can impair your ability to drive. They can be particularly dangerous when used in combination with alcohol.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "What is a potential effect of taking a prescription drug while drinking alcohol? | Legal medications, both prescription and over-the-counter, can impair your ability to drive. They can be particularly dangerous when used in combination with alcohol."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "What is a potential effect of taking a prescription drug while drinking alcohol? -  Real 2025 DMV Questions ",
+          "targetName": "What is a potential effect of taking a prescription drug while drinking alcohol?",
+          "targetUrl": "https://www.dmv-written-test.com/question/what-is-a-potential-effect-of-taking-a-prescription-drug-while-drinking-alcohol_LMPn3QyR.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "What is a potential effect of taking a prescription drug while drinking alcohol?",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "What is a potential effect of taking a prescription drug while drinking alcohol?"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "All of the following practices are dangerous to do while driving. Which of these is also illegal?",
+        "about": {
+          "@type": "Thing",
+          "name": "All of the following practices are dangerous to do while driving. Which of these is also illegal?"
+        },
+        "assesses": "All of the following practices are dangerous to do while driving. Which of these is also illegal? | All of the following practices are dangerous to do while driving. Which of these is also illegal? -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Even people with good hearing cannot hear well if the radio or CD player is blaring. Do not wear a headset or earplugs in both ears while driving; it is against the law.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Listening to music through headphones that cover both ears.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Listening to music through headphones that cover both ears."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Adjusting your outside mirrors.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Adjusting your outside mirrors."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Transporting an unrestrained animal inside the vehicle.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Transporting an unrestrained animal inside the vehicle."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Listening to music through headphones that cover both ears.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Listening to music through headphones that cover both ears."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Even people with good hearing cannot hear well if the radio or CD player is blaring. Do not wear a headset or earplugs in both ears while driving; it is against the law.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "All of the following practices are dangerous to do while driving. Which of these is also illegal? | Even people with good hearing cannot hear well if the radio or CD player is blaring. Do not wear a headset or earplugs in both ears while driving; it is against the law."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "All of the following practices are dangerous to do while driving. Which of these is also illegal? -  Real 2025 DMV Questions ",
+          "targetName": "All of the following practices are dangerous to do while driving. Which of these is also illegal?",
+          "targetUrl": "https://www.dmv-written-test.com/question/all-of-the-following-practices-are-dangerous-to-do-while-driving-which-of-these-is-also-illegal_9dX6zjXk.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "All of the following practices are dangerous to do while driving. Which of these is also illegal?",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "All of the following practices are dangerous to do while driving. Which of these is also illegal?"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "You are approaching a railroad crossing with no warning devices and are unable to see 400 feet down the tracks in one direction. The speed limit is:",
+        "about": {
+          "@type": "Thing",
+          "name": "You are approaching a railroad crossing with no warning devices and are unable to see 400 feet down the tracks in one direction. The speed limit is:"
+        },
+        "assesses": "You are approaching a railroad crossing with no warning devices and are unable to see 400 feet down the tracks in one direction. The speed limit is: | You are approaching a railroad crossing with no warning devices and are unable to see 400 feet down the tracks in one direction. The speed limit is: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Within 100 feet of a railroad crossing where you cannot see 400 feet down the tracks in both directions, the speed limit is 15 mph. However, you may drive faster if the crossing is controlled by gates, a warning signal, or a flagger.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "15 mph.",
+            "comment": {
+              "@type": "Comment",
+              "text": "15 mph."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "20 mph.",
+            "comment": {
+              "@type": "Comment",
+              "text": "20 mph."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "25 mph.",
+            "comment": {
+              "@type": "Comment",
+              "text": "25 mph."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "15 mph.",
+            "comment": {
+              "@type": "Comment",
+              "text": "15 mph."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Within 100 feet of a railroad crossing where you cannot see 400 feet down the tracks in both directions, the speed limit is 15 mph. However, you may drive faster if the crossing is controlled by gates, a warning signal, or a flagger.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "You are approaching a railroad crossing with no warning devices and are unable to see 400 feet down the tracks in one direction. The speed limit is: | Within 100 feet of a railroad crossing where you cannot see 400 feet down the tracks in both directions, the speed limit is 15 mph. However, you may drive faster if the crossing is controlled by gates, a warning signal, or a flagger."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "You are approaching a railroad crossing with no warning devices and are unable to see 400 feet down the tracks in one direction. The speed limit is: -  Real 2025 DMV Questions ",
+          "targetName": "You are approaching a railroad crossing with no warning devices and are unable to see 400 feet down the tracks in one direction. The speed limit is:",
+          "targetUrl": "https://www.dmv-written-test.com/question/you-are-approaching-a-railroad-crossing-with-no-warning-devices-and-are-unable-to-see-400-feet-down-the-tracks-in-one-direction-the-speed-limit-is_YWXbJYXQ.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "You are approaching a railroad crossing with no warning devices and are unable to see 400 feet down the tracks in one direction. The speed limit is:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "You are approaching a railroad crossing with no warning devices and are unable to see 400 feet down the tracks in one direction. The speed limit is:"
+        }
+      }
+    ],
+    "abstract": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>.",
+    "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "assesses": "FREE California Permit Test 11 - Real 2025 DMV Test Questions | The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "url": "https://www.dmv-written-test.com/california/practice-test-11.html",
+    "isPartOf": {
+      "@context": "http://schema.org",
+      "@type": "CreativeWorkSeries",
+      "name": "FREE California Permit Test 11 - Real 2025 DMV Test Questions",
+      "issn": "california/practice-test-11.html",
+      "accessMode": "textOnVisual",
+      "about": {
+        "@type": "Thing",
+        "name": "FREE California Permit Test 11 - Real 2025 DMV Test Questions"
+      },
+      "lastReviewed": "2022-01-07T10:57:08.000000Z",
+      "mainContentOfPage": {
+        "@type": "WebPageElement",
+        "cssSelector": [
+          "#series-description"
+        ]
+      },
+      "aggregateRating": {
+        "@type": "aggregateRating",
+        "ratingValue": "4.8419",
+        "reviewCount": 1335,
+        "bestRating": 5,
+        "worstRating": 1
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "author": "DMV Written Test",
+        "name": "2025 California Permit Test 11",
+        "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>."
+      },
+      "significantLink": "https://cheat-sheets.dmv-written-test.com/en/california/car",
+      "specialty": "www.dmv-written-test.com",
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "name": "DMV Written Test",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "DMV Written Test",
+            "url": "https://www.dmv-written-test.com",
+            "item": {
+              "@id": "https://www.dmv-written-test.com",
+              "name": "DMV Written Test"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "california",
+            "url": "https://www.dmv-written-test.com/california",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california",
+              "name": "DMV Written Test 2025 California - DMV Practice Test - Real CA DMV Questions!"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "2025 California Permit Test 11",
+            "url": "https://www.dmv-written-test.com/california/practice-test-11.html",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california/practice-test-11.html",
+              "name": "2025 California Permit Test 11"
+            }
+          }
+        ]
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "xpath": [
+          "/html/head/title",
+          "/html/head/meta[@name='description']/@content"
+        ],
+        "url": "https://www.dmv-written-test.com/california/practice-test-11.html"
+      }
+    },
+    "provider": {
+      "@type": "Organization",
+      "name": "DMV Written Test",
+      "legalName": "Infinity Loop Capital LLC, CORP2000",
+      "slogan": "DMV",
+      "url": "https://www.dmv-written-test.com",
+      "email": "support@dmv-written-test.com",
+      "address": {
+        "@type": "PostalAddress",
+        "name": "Infinity Loop Capital LLC, CORP2000",
+        "addressLocality": "lindengasse 56/2",
+        "addressRegion": "32 West Loockerman Street, Suite 107, 19904 Dover DE"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": " ",
+        "contactType": "customer service"
+      },
+      "logo": {
+        "@type": "ImageObject",
+        "name": "DMV Written Test",
+        "url": "https://www.dmv-written-test.com/images/meta/logo.png",
+        "description": "DMV Written Test"
+      },
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "copyrightYear": "2025",
+    "dateCreated": "2021-11-23T12:41:48.000000Z",
+    "datePublished": "2021-11-23T12:41:48.000000Z",
+    "dateModified": "2022-01-07T10:57:08.000000Z",
+    "learningResourceType": "Car",
+    "educationalUse": "assignment",
+    "interactivityType": "mixed",
+    "accessMode": "textOnVisual",
+    "educationalLevel": "intermediate",
+    "typicalAgeRange": "16-72",
+    "educationalAlignment": {
+      "@type": "AlignmentObject",
+      "alignmentType": "educationalSubject",
+      "educationalFramework": "DMV Written Test",
+      "targetDescription": "DMV Written Test is the best at helping you pass your permit exam.  We only use real DMV questions on our practice tests and cheat sheets!",
+      "targetName": "DMV Written Test - DMV Practice Test 2025 - Real DMV Questions!",
+      "targetUrl": "https://www.dmv-written-test.com"
+    },
+    "image": {
+      "@type": "ImageObject",
+      "author": "DMV Written Test",
+      "name": "DMV Written Test",
+      "url": "https://www.dmv-written-test.com/images/meta/cover-1200x630.png",
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "inLanguage": {
+      "@type": "Language",
+      "name": "English",
+      "alternateName": "en"
+    }
+  }
+]

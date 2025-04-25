@@ -1,0 +1,651 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "Quiz",
+    "name": "FREE California Permit Test 17 - Real 2025 DMV Test Questions",
+    "headline": "2025 California Permit Test 17",
+    "alternativeHeadline": "2025 California Permit Test 17 | DMV Written Test",
+    "about": {
+      "@type": "Thing",
+      "name": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car."
+    },
+    "hasPart": [
+      {
+        "@type": "Question",
+        "name": "To help avoid skidding on slippery surfaces, you should:",
+        "about": {
+          "@type": "Thing",
+          "name": "To help avoid skidding on slippery surfaces, you should:"
+        },
+        "assesses": "To help avoid skidding on slippery surfaces, you should: | To help avoid skidding on slippery surfaces, you should: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Slow down before you enter a curve because you do not know what may be ahead. Braking on a curve may cause you to skid.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Shift to a lower gear after starting down a steep hill.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Shift to a lower gear after starting down a steep hill."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Speed up to enter curves and slow down to exit them.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Speed up to enter curves and slow down to exit them."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Slow down before entering curves and intersections.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Slow down before entering curves and intersections."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Slow down before entering curves and intersections.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Slow down before entering curves and intersections."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Slow down before you enter a curve because you do not know what may be ahead. Braking on a curve may cause you to skid.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "To help avoid skidding on slippery surfaces, you should: | Slow down before you enter a curve because you do not know what may be ahead. Braking on a curve may cause you to skid."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "To help avoid skidding on slippery surfaces, you should: -  Real 2025 DMV Questions ",
+          "targetName": "To help avoid skidding on slippery surfaces, you should:",
+          "targetUrl": "https://www.dmv-written-test.com/question/to-help-avoid-skidding-on-slippery-surfaces-you-should_LMPnYbrR.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "To help avoid skidding on slippery surfaces, you should:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "To help avoid skidding on slippery surfaces, you should:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What does this road sign mean?",
+        "about": {
+          "@type": "Thing",
+          "name": "What does this road sign mean?"
+        },
+        "assesses": "What does this road sign mean? | What does this road sign mean? -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images-car/georgia-hill.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Warning signs are usually yellow with black markings. This sign indicates that you are approaching a steep hill. Slow down and be ready to shift to a lower gear to control your speed and protect your brakes from damage.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Falling rocks",
+            "comment": {
+              "@type": "Comment",
+              "text": "Falling rocks"
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Trucks use second gear",
+            "comment": {
+              "@type": "Comment",
+              "text": "Trucks use second gear"
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Steep hill",
+            "comment": {
+              "@type": "Comment",
+              "text": "Steep hill"
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Steep hill",
+            "comment": {
+              "@type": "Comment",
+              "text": "Steep hill"
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Warning signs are usually yellow with black markings. This sign indicates that you are approaching a steep hill. Slow down and be ready to shift to a lower gear to control your speed and protect your brakes from damage.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "What does this road sign mean? | Warning signs are usually yellow with black markings. This sign indicates that you are approaching a steep hill. Slow down and be ready to shift to a lower gear to control your speed and protect your brakes from damage."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "What does this road sign mean? -  Real 2025 DMV Questions ",
+          "targetName": "What does this road sign mean?",
+          "targetUrl": "https://www.dmv-written-test.com/question/what-does-this-road-sign-mean_mVye0bP5.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "What does this road sign mean?",
+          "url": "https://www.dmv-written-test.com/images-car/georgia-hill.png",
+          "description": "What does this road sign mean?"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Dim your headlights for oncoming vehicles or when you are within 300 feet of a vehicle:",
+        "about": {
+          "@type": "Thing",
+          "name": "Dim your headlights for oncoming vehicles or when you are within 300 feet of a vehicle:"
+        },
+        "assesses": "Dim your headlights for oncoming vehicles or when you are within 300 feet of a vehicle: | Dim your headlights for oncoming vehicles or when you are within 300 feet of a vehicle: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "You are required to dim your headlights to low beams within 500 feet of a vehicle that is coming toward you and within 300 feet of a vehicle that you are following.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "That you are approaching from behind.",
+            "comment": {
+              "@type": "Comment",
+              "text": "That you are approaching from behind."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Approaching you from behind.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Approaching you from behind."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "That you have already passed.",
+            "comment": {
+              "@type": "Comment",
+              "text": "That you have already passed."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "That you are approaching from behind.",
+            "comment": {
+              "@type": "Comment",
+              "text": "That you are approaching from behind."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "You are required to dim your headlights to low beams within 500 feet of a vehicle that is coming toward you and within 300 feet of a vehicle that you are following.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "Dim your headlights for oncoming vehicles or when you are within 300 feet of a vehicle: | You are required to dim your headlights to low beams within 500 feet of a vehicle that is coming toward you and within 300 feet of a vehicle that you are following."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "Dim your headlights for oncoming vehicles or when you are within 300 feet of a vehicle: -  Real 2025 DMV Questions ",
+          "targetName": "Dim your headlights for oncoming vehicles or when you are within 300 feet of a vehicle:",
+          "targetUrl": "https://www.dmv-written-test.com/question/dim-your-headlights-for-oncoming-vehicles-or-when-you-are-within-300-feet-of-a-vehicle_7er28yJb.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "Dim your headlights for oncoming vehicles or when you are within 300 feet of a vehicle:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "Dim your headlights for oncoming vehicles or when you are within 300 feet of a vehicle:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Slowing down just to look at collisions or anything else out-of-the-ordinary:",
+        "about": {
+          "@type": "Thing",
+          "name": "Slowing down just to look at collisions or anything else out-of-the-ordinary:"
+        },
+        "assesses": "Slowing down just to look at collisions or anything else out-of-the-ordinary: | Slowing down just to look at collisions or anything else out-of-the-ordinary: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Avoid \"rubbernecking,\" or slowing down to look at collisions or anything else out-of-the-ordinary. This helps to relieve traffic congestion.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Causes traffic congestion.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Causes traffic congestion."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Prevents rear-end collisions.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Prevents rear-end collisions."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Improves traffic flow by preventing collisions.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Improves traffic flow by preventing collisions."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Causes traffic congestion.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Causes traffic congestion."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Avoid \"rubbernecking,\" or slowing down to look at collisions or anything else out-of-the-ordinary. This helps to relieve traffic congestion.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "Slowing down just to look at collisions or anything else out-of-the-ordinary: | Avoid \"rubbernecking,\" or slowing down to look at collisions or anything else out-of-the-ordinary. This helps to relieve traffic congestion."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "Slowing down just to look at collisions or anything else out-of-the-ordinary: -  Real 2025 DMV Questions ",
+          "targetName": "Slowing down just to look at collisions or anything else out-of-the-ordinary:",
+          "targetUrl": "https://www.dmv-written-test.com/question/slowing-down-just-to-look-at-collisions-or-anything-else-out-of-the-ordinary_RdPEKKXV.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "Slowing down just to look at collisions or anything else out-of-the-ordinary:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "Slowing down just to look at collisions or anything else out-of-the-ordinary:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Remove all snow, frost, and ice from:",
+        "about": {
+          "@type": "Thing",
+          "name": "Remove all snow, frost, and ice from:"
+        },
+        "assesses": "Remove all snow, frost, and ice from: | Remove all snow, frost, and ice from: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "It is important that you are able to see clearly through all of your vehicle's windows, including the windshield. Remove all snow, ice, and frost from your vehicle's windows and mirrors before you start to drive.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Just the windshield.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Just the windshield."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "All windows.",
+            "comment": {
+              "@type": "Comment",
+              "text": "All windows."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Just the windshield and passenger window.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Just the windshield and passenger window."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "All windows.",
+            "comment": {
+              "@type": "Comment",
+              "text": "All windows."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "It is important that you are able to see clearly through all of your vehicle's windows, including the windshield. Remove all snow, ice, and frost from your vehicle's windows and mirrors before you start to drive.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "Remove all snow, frost, and ice from: | It is important that you are able to see clearly through all of your vehicle's windows, including the windshield. Remove all snow, ice, and frost from your vehicle's windows and mirrors before you start to drive."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "Remove all snow, frost, and ice from: -  Real 2025 DMV Questions ",
+          "targetName": "Remove all snow, frost, and ice from:",
+          "targetUrl": "https://www.dmv-written-test.com/question/remove-all-snow-frost-and-ice-from_erxGZEXb.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "Remove all snow, frost, and ice from:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "Remove all snow, frost, and ice from:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is the purpose of rumble strips?",
+        "about": {
+          "@type": "Thing",
+          "name": "What is the purpose of rumble strips?"
+        },
+        "assesses": "What is the purpose of rumble strips? | What is the purpose of rumble strips? -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Rumble strips create noise and vibrations to warn drowsy or inattentive drivers that they are straying off of the road or are approaching a stop sign or signal.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "They alert drivers to potential tire problems.",
+            "comment": {
+              "@type": "Comment",
+              "text": "They alert drivers to potential tire problems."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "They test a vehicle's shock absorbers.",
+            "comment": {
+              "@type": "Comment",
+              "text": "They test a vehicle's shock absorbers."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Through vibration and sound, they alert inattentive drivers to the fact that their vehicles have left the travel lane.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Through vibration and sound, they alert inattentive drivers to the fact that their vehicles have left the travel lane."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Through vibration and sound, they alert inattentive drivers to the fact that their vehicles have left the travel lane.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Through vibration and sound, they alert inattentive drivers to the fact that their vehicles have left the travel lane."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Rumble strips create noise and vibrations to warn drowsy or inattentive drivers that they are straying off of the road or are approaching a stop sign or signal.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "What is the purpose of rumble strips? | Rumble strips create noise and vibrations to warn drowsy or inattentive drivers that they are straying off of the road or are approaching a stop sign or signal."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "What is the purpose of rumble strips? -  Real 2025 DMV Questions ",
+          "targetName": "What is the purpose of rumble strips?",
+          "targetUrl": "https://www.dmv-written-test.com/question/what-is-the-purpose-of-rumble-strips_GPJZKQP5.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "What is the purpose of rumble strips?",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "What is the purpose of rumble strips?"
+        }
+      }
+    ],
+    "abstract": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>.",
+    "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "assesses": "FREE California Permit Test 17 - Real 2025 DMV Test Questions | The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "url": "https://www.dmv-written-test.com/california/practice-test-17.html",
+    "isPartOf": {
+      "@context": "http://schema.org",
+      "@type": "CreativeWorkSeries",
+      "name": "FREE California Permit Test 17 - Real 2025 DMV Test Questions",
+      "issn": "california/practice-test-17.html",
+      "accessMode": "textOnVisual",
+      "about": {
+        "@type": "Thing",
+        "name": "FREE California Permit Test 17 - Real 2025 DMV Test Questions"
+      },
+      "lastReviewed": "2022-01-07T10:57:08.000000Z",
+      "mainContentOfPage": {
+        "@type": "WebPageElement",
+        "cssSelector": [
+          "#series-description"
+        ]
+      },
+      "aggregateRating": {
+        "@type": "aggregateRating",
+        "ratingValue": "4.4000",
+        "reviewCount": 40,
+        "bestRating": 5,
+        "worstRating": 1
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "author": "DMV Written Test",
+        "name": "2025 California Permit Test 17",
+        "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>."
+      },
+      "significantLink": "https://cheat-sheets.dmv-written-test.com/en/california/car",
+      "specialty": "www.dmv-written-test.com",
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "name": "DMV Written Test",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "DMV Written Test",
+            "url": "https://www.dmv-written-test.com",
+            "item": {
+              "@id": "https://www.dmv-written-test.com",
+              "name": "DMV Written Test"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "california",
+            "url": "https://www.dmv-written-test.com/california",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california",
+              "name": "DMV Written Test 2025 California - DMV Practice Test - Real CA DMV Questions!"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "2025 California Permit Test 17",
+            "url": "https://www.dmv-written-test.com/california/practice-test-17.html",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california/practice-test-17.html",
+              "name": "2025 California Permit Test 17"
+            }
+          }
+        ]
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "xpath": [
+          "/html/head/title",
+          "/html/head/meta[@name='description']/@content"
+        ],
+        "url": "https://www.dmv-written-test.com/california/practice-test-17.html"
+      }
+    },
+    "provider": {
+      "@type": "Organization",
+      "name": "DMV Written Test",
+      "legalName": "Infinity Loop Capital LLC, CORP2000",
+      "slogan": "DMV",
+      "url": "https://www.dmv-written-test.com",
+      "email": "support@dmv-written-test.com",
+      "address": {
+        "@type": "PostalAddress",
+        "name": "Infinity Loop Capital LLC, CORP2000",
+        "addressLocality": "lindengasse 56/2",
+        "addressRegion": "32 West Loockerman Street, Suite 107, 19904 Dover DE"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": " ",
+        "contactType": "customer service"
+      },
+      "logo": {
+        "@type": "ImageObject",
+        "name": "DMV Written Test",
+        "url": "https://www.dmv-written-test.com/images/meta/logo.png",
+        "description": "DMV Written Test"
+      },
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "copyrightYear": "2025",
+    "dateCreated": "2021-11-23T12:41:51.000000Z",
+    "datePublished": "2021-11-23T12:41:51.000000Z",
+    "dateModified": "2022-01-07T10:57:08.000000Z",
+    "learningResourceType": "Car",
+    "educationalUse": "assignment",
+    "interactivityType": "mixed",
+    "accessMode": "textOnVisual",
+    "educationalLevel": "intermediate",
+    "typicalAgeRange": "16-72",
+    "educationalAlignment": {
+      "@type": "AlignmentObject",
+      "alignmentType": "educationalSubject",
+      "educationalFramework": "DMV Written Test",
+      "targetDescription": "DMV Written Test is the best at helping you pass your permit exam.  We only use real DMV questions on our practice tests and cheat sheets!",
+      "targetName": "DMV Written Test - DMV Practice Test 2025 - Real DMV Questions!",
+      "targetUrl": "https://www.dmv-written-test.com"
+    },
+    "image": {
+      "@type": "ImageObject",
+      "author": "DMV Written Test",
+      "name": "DMV Written Test",
+      "url": "https://www.dmv-written-test.com/images/meta/cover-1200x630.png",
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "inLanguage": {
+      "@type": "Language",
+      "name": "English",
+      "alternateName": "en"
+    }
+  }
+]

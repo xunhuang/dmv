@@ -1,0 +1,651 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "Quiz",
+    "name": "FREE California Permit Test 20 - Real 2025 DMV Test Questions",
+    "headline": "2025 California Permit Test 20",
+    "alternativeHeadline": "2025 California Permit Test 20 | DMV Written Test",
+    "about": {
+      "@type": "Thing",
+      "name": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car."
+    },
+    "hasPart": [
+      {
+        "@type": "Question",
+        "name": "While driving on a roadway with a single broken white centerline: ",
+        "about": {
+          "@type": "Thing",
+          "name": "While driving on a roadway with a single broken white centerline: "
+        },
+        "assesses": "While driving on a roadway with a single broken white centerline:  | While driving on a roadway with a single broken white centerline:  -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "White lines between lanes indicate that the lanes are traveling in the same direction. Broken white line markings indicate that it is legal to pass another vehicle when safe.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "You must stay within your lane.",
+            "comment": {
+              "@type": "Comment",
+              "text": "You must stay within your lane."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "You may cross the centerline to change lanes.",
+            "comment": {
+              "@type": "Comment",
+              "text": "You may cross the centerline to change lanes."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "You may change lanes only from the left lane.",
+            "comment": {
+              "@type": "Comment",
+              "text": "You may change lanes only from the left lane."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "You may cross the centerline to change lanes.",
+            "comment": {
+              "@type": "Comment",
+              "text": "You may cross the centerline to change lanes."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "White lines between lanes indicate that the lanes are traveling in the same direction. Broken white line markings indicate that it is legal to pass another vehicle when safe.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "While driving on a roadway with a single broken white centerline:  | White lines between lanes indicate that the lanes are traveling in the same direction. Broken white line markings indicate that it is legal to pass another vehicle when safe."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "While driving on a roadway with a single broken white centerline:  -  Real 2025 DMV Questions ",
+          "targetName": "While driving on a roadway with a single broken white centerline: ",
+          "targetUrl": "https://www.dmv-written-test.com/question/while-driving-on-a-roadway-with-a-single-broken-white-centerline_wGPJ2xP5.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "While driving on a roadway with a single broken white centerline: ",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "While driving on a roadway with a single broken white centerline: "
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "You are entering a freeway. Check traffic on the freeway by:",
+        "about": {
+          "@type": "Thing",
+          "name": "You are entering a freeway. Check traffic on the freeway by:"
+        },
+        "assesses": "You are entering a freeway. Check traffic on the freeway by: | You are entering a freeway. Check traffic on the freeway by: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "When entering any roadway, you must be aware of traffic conditions. Use your side mirror and look over your shoulder to help you see and anticipate traffic when entering a freeway.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Using your rearview and side mirrors.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Using your rearview and side mirrors."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Using your rearview mirror.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Using your rearview mirror."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Using your side mirror and looking over your shoulder.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Using your side mirror and looking over your shoulder."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Using your side mirror and looking over your shoulder.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Using your side mirror and looking over your shoulder."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "When entering any roadway, you must be aware of traffic conditions. Use your side mirror and look over your shoulder to help you see and anticipate traffic when entering a freeway.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "You are entering a freeway. Check traffic on the freeway by: | When entering any roadway, you must be aware of traffic conditions. Use your side mirror and look over your shoulder to help you see and anticipate traffic when entering a freeway."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "You are entering a freeway. Check traffic on the freeway by: -  Real 2025 DMV Questions ",
+          "targetName": "You are entering a freeway. Check traffic on the freeway by:",
+          "targetUrl": "https://www.dmv-written-test.com/question/you-are-entering-a-freeway-check-traffic-on-the-freeway-by_Vr0JgVyd.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "You are entering a freeway. Check traffic on the freeway by:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "You are entering a freeway. Check traffic on the freeway by:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "It is legal to drive with an alcoholic beverage container that has been opened only if the container is:",
+        "about": {
+          "@type": "Thing",
+          "name": "It is legal to drive with an alcoholic beverage container that has been opened only if the container is:"
+        },
+        "assesses": "It is legal to drive with an alcoholic beverage container that has been opened only if the container is: | It is legal to drive with an alcoholic beverage container that has been opened only if the container is: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Any opened alcoholic beverage container must be kept in the trunk of the vehicle, or in another place where passengers do not sit. Keeping an opened alcoholic drink in the glove compartment is specifically prohibited. However, in a bus, taxi, camper, or motor home, these restrictions do not apply to non-driving passengers.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Under the front seat.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Under the front seat."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "In the glove department.",
+            "comment": {
+              "@type": "Comment",
+              "text": "In the glove department."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "In the trunk.",
+            "comment": {
+              "@type": "Comment",
+              "text": "In the trunk."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "In the trunk.",
+            "comment": {
+              "@type": "Comment",
+              "text": "In the trunk."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Any opened alcoholic beverage container must be kept in the trunk of the vehicle, or in another place where passengers do not sit. Keeping an opened alcoholic drink in the glove compartment is specifically prohibited. However, in a bus, taxi, camper, or motor home, these restrictions do not apply to non-driving passengers.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "It is legal to drive with an alcoholic beverage container that has been opened only if the container is: | Any opened alcoholic beverage container must be kept in the trunk of the vehicle, or in another place where passengers do not sit. Keeping an opened alcoholic drink in the glove compartment is specifically prohibited. However, in a bus, taxi, camper, or motor home, these restrictions do not apply to non-driving passengers."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "It is legal to drive with an alcoholic beverage container that has been opened only if the container is: -  Real 2025 DMV Questions ",
+          "targetName": "It is legal to drive with an alcoholic beverage container that has been opened only if the container is:",
+          "targetUrl": "https://www.dmv-written-test.com/question/it-is-legal-to-drive-with-an-alcoholic-beverage-container-that-has-been-opened-only-if-the-container-is_mVyeJeX5.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "It is legal to drive with an alcoholic beverage container that has been opened only if the container is:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "It is legal to drive with an alcoholic beverage container that has been opened only if the container is:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "This yellow sign means:",
+        "about": {
+          "@type": "Thing",
+          "name": "This yellow sign means:"
+        },
+        "assesses": "This yellow sign means: | This yellow sign means: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images-car/arizona-sharp_right_turn.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Some warning signs have a fluorescent yellow-green background. These signs warn of upcoming conditions, including roads with curves and sharp turns.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "There is a sharp turn to the right.",
+            "comment": {
+              "@type": "Comment",
+              "text": "There is a sharp turn to the right."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "The lane must turn right.",
+            "comment": {
+              "@type": "Comment",
+              "text": "The lane must turn right."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "A right turn is permitted on a green arrow only.",
+            "comment": {
+              "@type": "Comment",
+              "text": "A right turn is permitted on a green arrow only."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "There is a sharp turn to the right.",
+            "comment": {
+              "@type": "Comment",
+              "text": "There is a sharp turn to the right."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Some warning signs have a fluorescent yellow-green background. These signs warn of upcoming conditions, including roads with curves and sharp turns.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "This yellow sign means: | Some warning signs have a fluorescent yellow-green background. These signs warn of upcoming conditions, including roads with curves and sharp turns."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "This yellow sign means: -  Real 2025 DMV Questions ",
+          "targetName": "This yellow sign means:",
+          "targetUrl": "https://www.dmv-written-test.com/question/this-yellow-sign-means_QayA9Qyz.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "This yellow sign means:",
+          "url": "https://www.dmv-written-test.com/images-car/arizona-sharp_right_turn.png",
+          "description": "This yellow sign means:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is a crosswalk?",
+        "about": {
+          "@type": "Thing",
+          "name": "What is a crosswalk?"
+        },
+        "assesses": "What is a crosswalk? | What is a crosswalk? -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Pedestrian crosswalks are often shown by white, solid lines to emphasize pedestrian crossing points. Crosswalks may have additional lines between the white, solid lines or in place of the parallel lines. However, crosswalks may also be unmarked.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Another name for a four-way intersection.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Another name for a four-way intersection."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "An area designated for road construction workers.",
+            "comment": {
+              "@type": "Comment",
+              "text": "An area designated for road construction workers."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "The area where pedestrians may cross the roadway.",
+            "comment": {
+              "@type": "Comment",
+              "text": "The area where pedestrians may cross the roadway."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "The area where pedestrians may cross the roadway.",
+            "comment": {
+              "@type": "Comment",
+              "text": "The area where pedestrians may cross the roadway."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Pedestrian crosswalks are often shown by white, solid lines to emphasize pedestrian crossing points. Crosswalks may have additional lines between the white, solid lines or in place of the parallel lines. However, crosswalks may also be unmarked.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "What is a crosswalk? | Pedestrian crosswalks are often shown by white, solid lines to emphasize pedestrian crossing points. Crosswalks may have additional lines between the white, solid lines or in place of the parallel lines. However, crosswalks may also be unmarked."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "What is a crosswalk? -  Real 2025 DMV Questions ",
+          "targetName": "What is a crosswalk?",
+          "targetUrl": "https://www.dmv-written-test.com/question/what-is-a-crosswalk_WZyOmNrz.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "What is a crosswalk?",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "What is a crosswalk?"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "You were parked and have been waiting a long time with your turn signal on to re-enter traffic. However, traffic is heavy. You should:",
+        "about": {
+          "@type": "Thing",
+          "name": "You were parked and have been waiting a long time with your turn signal on to re-enter traffic. However, traffic is heavy. You should:"
+        },
+        "assesses": "You were parked and have been waiting a long time with your turn signal on to re-enter traffic. However, traffic is heavy. You should: | You were parked and have been waiting a long time with your turn signal on to re-enter traffic. However, traffic is heavy. You should: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "If you have been parked on the side of a road, you must yield to existing traffic when re-entering the road. ",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Continue waiting and yielding to traffic in the lane.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Continue waiting and yielding to traffic in the lane."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Slowly inch your vehicle into the traffic lane.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Slowly inch your vehicle into the traffic lane."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Drive on the shoulder until a gap in traffic appears.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Drive on the shoulder until a gap in traffic appears."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Continue waiting and yielding to traffic in the lane.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Continue waiting and yielding to traffic in the lane."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "If you have been parked on the side of a road, you must yield to existing traffic when re-entering the road. ",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "You were parked and have been waiting a long time with your turn signal on to re-enter traffic. However, traffic is heavy. You should: | If you have been parked on the side of a road, you must yield to existing traffic when re-entering the road. "
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "You were parked and have been waiting a long time with your turn signal on to re-enter traffic. However, traffic is heavy. You should: -  Real 2025 DMV Questions ",
+          "targetName": "You were parked and have been waiting a long time with your turn signal on to re-enter traffic. However, traffic is heavy. You should:",
+          "targetUrl": "https://www.dmv-written-test.com/question/you-were-parked-and-have-been-waiting-a-long-time-with-your-turn-signal-on-to-re-enter-traffic-however-traffic-is-heavy-you-should_RdPEeKPV.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "You were parked and have been waiting a long time with your turn signal on to re-enter traffic. However, traffic is heavy. You should:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "You were parked and have been waiting a long time with your turn signal on to re-enter traffic. However, traffic is heavy. You should:"
+        }
+      }
+    ],
+    "abstract": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>.",
+    "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "assesses": "FREE California Permit Test 20 - Real 2025 DMV Test Questions | The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "url": "https://www.dmv-written-test.com/california/practice-test-20.html",
+    "isPartOf": {
+      "@context": "http://schema.org",
+      "@type": "CreativeWorkSeries",
+      "name": "FREE California Permit Test 20 - Real 2025 DMV Test Questions",
+      "issn": "california/practice-test-20.html",
+      "accessMode": "textOnVisual",
+      "about": {
+        "@type": "Thing",
+        "name": "FREE California Permit Test 20 - Real 2025 DMV Test Questions"
+      },
+      "lastReviewed": "2022-01-07T10:57:08.000000Z",
+      "mainContentOfPage": {
+        "@type": "WebPageElement",
+        "cssSelector": [
+          "#series-description"
+        ]
+      },
+      "aggregateRating": {
+        "@type": "aggregateRating",
+        "ratingValue": "4.5122",
+        "reviewCount": 41,
+        "bestRating": 5,
+        "worstRating": 1
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "author": "DMV Written Test",
+        "name": "2025 California Permit Test 20",
+        "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>."
+      },
+      "significantLink": "https://cheat-sheets.dmv-written-test.com/en/california/car",
+      "specialty": "www.dmv-written-test.com",
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "name": "DMV Written Test",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "DMV Written Test",
+            "url": "https://www.dmv-written-test.com",
+            "item": {
+              "@id": "https://www.dmv-written-test.com",
+              "name": "DMV Written Test"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "california",
+            "url": "https://www.dmv-written-test.com/california",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california",
+              "name": "DMV Written Test 2025 California - DMV Practice Test - Real CA DMV Questions!"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "2025 California Permit Test 20",
+            "url": "https://www.dmv-written-test.com/california/practice-test-20.html",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california/practice-test-20.html",
+              "name": "2025 California Permit Test 20"
+            }
+          }
+        ]
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "xpath": [
+          "/html/head/title",
+          "/html/head/meta[@name='description']/@content"
+        ],
+        "url": "https://www.dmv-written-test.com/california/practice-test-20.html"
+      }
+    },
+    "provider": {
+      "@type": "Organization",
+      "name": "DMV Written Test",
+      "legalName": "Infinity Loop Capital LLC, CORP2000",
+      "slogan": "DMV",
+      "url": "https://www.dmv-written-test.com",
+      "email": "support@dmv-written-test.com",
+      "address": {
+        "@type": "PostalAddress",
+        "name": "Infinity Loop Capital LLC, CORP2000",
+        "addressLocality": "lindengasse 56/2",
+        "addressRegion": "32 West Loockerman Street, Suite 107, 19904 Dover DE"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": " ",
+        "contactType": "customer service"
+      },
+      "logo": {
+        "@type": "ImageObject",
+        "name": "DMV Written Test",
+        "url": "https://www.dmv-written-test.com/images/meta/logo.png",
+        "description": "DMV Written Test"
+      },
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "copyrightYear": "2025",
+    "dateCreated": "2021-11-23T12:41:52.000000Z",
+    "datePublished": "2021-11-23T12:41:52.000000Z",
+    "dateModified": "2022-01-07T10:57:08.000000Z",
+    "learningResourceType": "Car",
+    "educationalUse": "assignment",
+    "interactivityType": "mixed",
+    "accessMode": "textOnVisual",
+    "educationalLevel": "intermediate",
+    "typicalAgeRange": "16-72",
+    "educationalAlignment": {
+      "@type": "AlignmentObject",
+      "alignmentType": "educationalSubject",
+      "educationalFramework": "DMV Written Test",
+      "targetDescription": "DMV Written Test is the best at helping you pass your permit exam.  We only use real DMV questions on our practice tests and cheat sheets!",
+      "targetName": "DMV Written Test - DMV Practice Test 2025 - Real DMV Questions!",
+      "targetUrl": "https://www.dmv-written-test.com"
+    },
+    "image": {
+      "@type": "ImageObject",
+      "author": "DMV Written Test",
+      "name": "DMV Written Test",
+      "url": "https://www.dmv-written-test.com/images/meta/cover-1200x630.png",
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "inLanguage": {
+      "@type": "Language",
+      "name": "English",
+      "alternateName": "en"
+    }
+  }
+]

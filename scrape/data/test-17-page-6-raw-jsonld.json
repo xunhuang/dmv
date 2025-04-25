@@ -1,0 +1,651 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "Quiz",
+    "name": "FREE California Permit Test 17 - Real 2025 DMV Test Questions",
+    "headline": "2025 California Permit Test 17",
+    "alternativeHeadline": "2025 California Permit Test 17 | DMV Written Test",
+    "about": {
+      "@type": "Thing",
+      "name": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car."
+    },
+    "hasPart": [
+      {
+        "@type": "Question",
+        "name": "This sign means:",
+        "about": {
+          "@type": "Thing",
+          "name": "This sign means:"
+        },
+        "assesses": "This sign means: | This sign means: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images-car/illinois-slow_moving_vehicle.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "This sign is displayed on slow-moving vehicles.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Slow-moving vehicle.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Slow-moving vehicle."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Road construction/maintenance area.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Road construction/maintenance area."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Traffic signal ahead.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Traffic signal ahead."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Slow-moving vehicle.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Slow-moving vehicle."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "This sign is displayed on slow-moving vehicles.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "This sign means: | This sign is displayed on slow-moving vehicles."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "This sign means: -  Real 2025 DMV Questions ",
+          "targetName": "This sign means:",
+          "targetUrl": "https://www.dmv-written-test.com/question/this-sign-means_LBXpN9P9.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "This sign means:",
+          "url": "https://www.dmv-written-test.com/images-car/illinois-slow_moving_vehicle.png",
+          "description": "This sign means:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Which of these statements is true about large trucks?",
+        "about": {
+          "@type": "Thing",
+          "name": "Which of these statements is true about large trucks?"
+        },
+        "assesses": "Which of these statements is true about large trucks? | Which of these statements is true about large trucks? -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Large trucks take longer to stop than other vehicles traveling at the same speed. The average passenger vehicle traveling at 55 mph can stop within 400 feet. However, a large truck traveling at the same speed can take almost 800 feet to stop.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "They take longer to stop than passenger vehicles.",
+            "comment": {
+              "@type": "Comment",
+              "text": "They take longer to stop than passenger vehicles."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "They all have air brakes that allow them to stop quickly.",
+            "comment": {
+              "@type": "Comment",
+              "text": "They all have air brakes that allow them to stop quickly."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "They are more maneuverable than passenger vehicles.",
+            "comment": {
+              "@type": "Comment",
+              "text": "They are more maneuverable than passenger vehicles."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "They take longer to stop than passenger vehicles.",
+            "comment": {
+              "@type": "Comment",
+              "text": "They take longer to stop than passenger vehicles."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Large trucks take longer to stop than other vehicles traveling at the same speed. The average passenger vehicle traveling at 55 mph can stop within 400 feet. However, a large truck traveling at the same speed can take almost 800 feet to stop.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "Which of these statements is true about large trucks? | Large trucks take longer to stop than other vehicles traveling at the same speed. The average passenger vehicle traveling at 55 mph can stop within 400 feet. However, a large truck traveling at the same speed can take almost 800 feet to stop."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "Which of these statements is true about large trucks? -  Real 2025 DMV Questions ",
+          "targetName": "Which of these statements is true about large trucks?",
+          "targetUrl": "https://www.dmv-written-test.com/question/which-of-these-statements-is-true-about-large-trucks_wGPJwjy5.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "Which of these statements is true about large trucks?",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "Which of these statements is true about large trucks?"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "There is a vehicle stopped on the right shoulder of the road with its hazard lights on. You should:",
+        "about": {
+          "@type": "Thing",
+          "name": "There is a vehicle stopped on the right shoulder of the road with its hazard lights on. You should:"
+        },
+        "assesses": "There is a vehicle stopped on the right shoulder of the road with its hazard lights on. You should: | There is a vehicle stopped on the right shoulder of the road with its hazard lights on. You should: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "If you see a vehicle’s hazard lights ahead, slow down. There may be a collision or other road emergency ahead. Stop and give assistance if asked by anyone, or pass very carefully.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Change lanes to the left and speed up.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Change lanes to the left and speed up."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Slow down and pass very carefully.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Slow down and pass very carefully."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Stop your vehicle until you can see what has happened.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Stop your vehicle until you can see what has happened."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Slow down and pass very carefully.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Slow down and pass very carefully."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "If you see a vehicle’s hazard lights ahead, slow down. There may be a collision or other road emergency ahead. Stop and give assistance if asked by anyone, or pass very carefully.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "There is a vehicle stopped on the right shoulder of the road with its hazard lights on. You should: | If you see a vehicle’s hazard lights ahead, slow down. There may be a collision or other road emergency ahead. Stop and give assistance if asked by anyone, or pass very carefully."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "There is a vehicle stopped on the right shoulder of the road with its hazard lights on. You should: -  Real 2025 DMV Questions ",
+          "targetName": "There is a vehicle stopped on the right shoulder of the road with its hazard lights on. You should:",
+          "targetUrl": "https://www.dmv-written-test.com/question/there-is-a-vehicle-stopped-on-the-right-shoulder-of-the-road-with-its-hazard-lights-on-you-should_kVr0gQXd.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "There is a vehicle stopped on the right shoulder of the road with its hazard lights on. You should:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "There is a vehicle stopped on the right shoulder of the road with its hazard lights on. You should:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "When you see this sign, you:",
+        "about": {
+          "@type": "Thing",
+          "name": "When you see this sign, you:"
+        },
+        "assesses": "When you see this sign, you: | When you see this sign, you: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images-car/california-railroad_crossing.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "This sign indicates that you are approaching a railroad crossing. You must look, listen, slow down, and prepare to stop. Wait for any trains to pass before you proceed.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Are approaching a railroad crossing and should prepare to stop.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Are approaching a railroad crossing and should prepare to stop."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Will always stop at the upcoming railroad crossing.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Will always stop at the upcoming railroad crossing."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Should stop and wait for a signal before crossing the railroad tracks.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Should stop and wait for a signal before crossing the railroad tracks."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Are approaching a railroad crossing and should prepare to stop.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Are approaching a railroad crossing and should prepare to stop."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "This sign indicates that you are approaching a railroad crossing. You must look, listen, slow down, and prepare to stop. Wait for any trains to pass before you proceed.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "When you see this sign, you: | This sign indicates that you are approaching a railroad crossing. You must look, listen, slow down, and prepare to stop. Wait for any trains to pass before you proceed."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "When you see this sign, you: -  Real 2025 DMV Questions ",
+          "targetName": "When you see this sign, you:",
+          "targetUrl": "https://www.dmv-written-test.com/question/when-you-see-this-sign-you_WaXW0Drk.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "When you see this sign, you:",
+          "url": "https://www.dmv-written-test.com/images-car/california-railroad_crossing.png",
+          "description": "When you see this sign, you:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "To prevent yourself from becoming an aggressive driver:",
+        "about": {
+          "@type": "Thing",
+          "name": "To prevent yourself from becoming an aggressive driver:"
+        },
+        "assesses": "To prevent yourself from becoming an aggressive driver: | To prevent yourself from becoming an aggressive driver: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "To prevent yourself from becoming an aggressive driver, concentrate on driving and don't take the actions of other drivers personally. Be realistic about your travel time, drive within posted speed limits, and be forgiving of other drivers using the roadway.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Relax and concentrate on driving.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Relax and concentrate on driving."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Drive above the posted speed limit.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Drive above the posted speed limit."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Tailgate the driver in front of you.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Tailgate the driver in front of you."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Relax and concentrate on driving.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Relax and concentrate on driving."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "To prevent yourself from becoming an aggressive driver, concentrate on driving and don't take the actions of other drivers personally. Be realistic about your travel time, drive within posted speed limits, and be forgiving of other drivers using the roadway.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "To prevent yourself from becoming an aggressive driver: | To prevent yourself from becoming an aggressive driver, concentrate on driving and don't take the actions of other drivers personally. Be realistic about your travel time, drive within posted speed limits, and be forgiving of other drivers using the roadway."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "To prevent yourself from becoming an aggressive driver: -  Real 2025 DMV Questions ",
+          "targetName": "To prevent yourself from becoming an aggressive driver:",
+          "targetUrl": "https://www.dmv-written-test.com/question/to-prevent-yourself-from-becoming-an-aggressive-driver_jVP3LRyv.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "To prevent yourself from becoming an aggressive driver:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "To prevent yourself from becoming an aggressive driver:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Which of the following is true about vehicles displaying a diamond-shaped sign that indicates a hazardous load?",
+        "about": {
+          "@type": "Thing",
+          "name": "Which of the following is true about vehicles displaying a diamond-shaped sign that indicates a hazardous load?"
+        },
+        "assesses": "Which of the following is true about vehicles displaying a diamond-shaped sign that indicates a hazardous load? | Which of the following is true about vehicles displaying a diamond-shaped sign that indicates a hazardous load? -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Vehicles displaying hazardous load signs are required to stop before crossing railroad tracks.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "They are not allowed to drive on freeways.",
+            "comment": {
+              "@type": "Comment",
+              "text": "They are not allowed to drive on freeways."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "They must stop before crossing railroad tracks.",
+            "comment": {
+              "@type": "Comment",
+              "text": "They must stop before crossing railroad tracks."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "They are not allowed to exceed 35 mph.",
+            "comment": {
+              "@type": "Comment",
+              "text": "They are not allowed to exceed 35 mph."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "They must stop before crossing railroad tracks.",
+            "comment": {
+              "@type": "Comment",
+              "text": "They must stop before crossing railroad tracks."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Vehicles displaying hazardous load signs are required to stop before crossing railroad tracks.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "Which of the following is true about vehicles displaying a diamond-shaped sign that indicates a hazardous load? | Vehicles displaying hazardous load signs are required to stop before crossing railroad tracks."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "Which of the following is true about vehicles displaying a diamond-shaped sign that indicates a hazardous load? -  Real 2025 DMV Questions ",
+          "targetName": "Which of the following is true about vehicles displaying a diamond-shaped sign that indicates a hazardous load?",
+          "targetUrl": "https://www.dmv-written-test.com/question/which-of-the-following-is-true-about-vehicles-displaying-a-diamond-shaped-sign-that-indicates-a-hazardous-load_AOX58Eyg.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "Which of the following is true about vehicles displaying a diamond-shaped sign that indicates a hazardous load?",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "Which of the following is true about vehicles displaying a diamond-shaped sign that indicates a hazardous load?"
+        }
+      }
+    ],
+    "abstract": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>.",
+    "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "assesses": "FREE California Permit Test 17 - Real 2025 DMV Test Questions | The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "url": "https://www.dmv-written-test.com/california/practice-test-17.html",
+    "isPartOf": {
+      "@context": "http://schema.org",
+      "@type": "CreativeWorkSeries",
+      "name": "FREE California Permit Test 17 - Real 2025 DMV Test Questions",
+      "issn": "california/practice-test-17.html",
+      "accessMode": "textOnVisual",
+      "about": {
+        "@type": "Thing",
+        "name": "FREE California Permit Test 17 - Real 2025 DMV Test Questions"
+      },
+      "lastReviewed": "2022-01-07T10:57:08.000000Z",
+      "mainContentOfPage": {
+        "@type": "WebPageElement",
+        "cssSelector": [
+          "#series-description"
+        ]
+      },
+      "aggregateRating": {
+        "@type": "aggregateRating",
+        "ratingValue": "4.4000",
+        "reviewCount": 40,
+        "bestRating": 5,
+        "worstRating": 1
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "author": "DMV Written Test",
+        "name": "2025 California Permit Test 17",
+        "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>."
+      },
+      "significantLink": "https://cheat-sheets.dmv-written-test.com/en/california/car",
+      "specialty": "www.dmv-written-test.com",
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "name": "DMV Written Test",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "DMV Written Test",
+            "url": "https://www.dmv-written-test.com",
+            "item": {
+              "@id": "https://www.dmv-written-test.com",
+              "name": "DMV Written Test"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "california",
+            "url": "https://www.dmv-written-test.com/california",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california",
+              "name": "DMV Written Test 2025 California - DMV Practice Test - Real CA DMV Questions!"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "2025 California Permit Test 17",
+            "url": "https://www.dmv-written-test.com/california/practice-test-17.html",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california/practice-test-17.html",
+              "name": "2025 California Permit Test 17"
+            }
+          }
+        ]
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "xpath": [
+          "/html/head/title",
+          "/html/head/meta[@name='description']/@content"
+        ],
+        "url": "https://www.dmv-written-test.com/california/practice-test-17.html"
+      }
+    },
+    "provider": {
+      "@type": "Organization",
+      "name": "DMV Written Test",
+      "legalName": "Infinity Loop Capital LLC, CORP2000",
+      "slogan": "DMV",
+      "url": "https://www.dmv-written-test.com",
+      "email": "support@dmv-written-test.com",
+      "address": {
+        "@type": "PostalAddress",
+        "name": "Infinity Loop Capital LLC, CORP2000",
+        "addressLocality": "lindengasse 56/2",
+        "addressRegion": "32 West Loockerman Street, Suite 107, 19904 Dover DE"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": " ",
+        "contactType": "customer service"
+      },
+      "logo": {
+        "@type": "ImageObject",
+        "name": "DMV Written Test",
+        "url": "https://www.dmv-written-test.com/images/meta/logo.png",
+        "description": "DMV Written Test"
+      },
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "copyrightYear": "2025",
+    "dateCreated": "2021-11-23T12:41:51.000000Z",
+    "datePublished": "2021-11-23T12:41:51.000000Z",
+    "dateModified": "2022-01-07T10:57:08.000000Z",
+    "learningResourceType": "Car",
+    "educationalUse": "assignment",
+    "interactivityType": "mixed",
+    "accessMode": "textOnVisual",
+    "educationalLevel": "intermediate",
+    "typicalAgeRange": "16-72",
+    "educationalAlignment": {
+      "@type": "AlignmentObject",
+      "alignmentType": "educationalSubject",
+      "educationalFramework": "DMV Written Test",
+      "targetDescription": "DMV Written Test is the best at helping you pass your permit exam.  We only use real DMV questions on our practice tests and cheat sheets!",
+      "targetName": "DMV Written Test - DMV Practice Test 2025 - Real DMV Questions!",
+      "targetUrl": "https://www.dmv-written-test.com"
+    },
+    "image": {
+      "@type": "ImageObject",
+      "author": "DMV Written Test",
+      "name": "DMV Written Test",
+      "url": "https://www.dmv-written-test.com/images/meta/cover-1200x630.png",
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "inLanguage": {
+      "@type": "Language",
+      "name": "English",
+      "alternateName": "en"
+    }
+  }
+]

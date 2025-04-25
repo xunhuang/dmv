@@ -1,0 +1,651 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "Quiz",
+    "name": "FREE California Permit Test  - Real 2025 DMV Test Questions",
+    "headline": "2025 California Permit Test",
+    "alternativeHeadline": "2025 California Permit Test | DMV Written Test",
+    "about": {
+      "@type": "Thing",
+      "name": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car."
+    },
+    "hasPart": [
+      {
+        "@type": "Question",
+        "name": "When backing up:",
+        "about": {
+          "@type": "Thing",
+          "name": "When backing up:"
+        },
+        "assesses": "When backing up: | When backing up: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "When backing up, place your right arm on the back of the passenger seat and look directly through the rear window. Do not depend on your rearview or side mirrors as mirrors do not show directly behind your vehicle. Only drive in reverse at a low speed.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Look through the rear window.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Look through the rear window."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Press hard on the gas pedal.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Press hard on the gas pedal."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Rely only on your rearview mirror.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Rely only on your rearview mirror."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Look through the rear window.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Look through the rear window."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "When backing up, place your right arm on the back of the passenger seat and look directly through the rear window. Do not depend on your rearview or side mirrors as mirrors do not show directly behind your vehicle. Only drive in reverse at a low speed.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "When backing up: | When backing up, place your right arm on the back of the passenger seat and look directly through the rear window. Do not depend on your rearview or side mirrors as mirrors do not show directly behind your vehicle. Only drive in reverse at a low speed."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "When backing up: -  Real 2025 DMV Questions ",
+          "targetName": "When backing up:",
+          "targetUrl": "https://www.dmv-written-test.com/question/when-backing-up_OrVaa1XQ.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "When backing up:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "When backing up:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "You are approaching an intersection at the posted speed limit when the signal turns yellow. You should:",
+        "about": {
+          "@type": "Thing",
+          "name": "You are approaching an intersection at the posted speed limit when the signal turns yellow. You should:"
+        },
+        "assesses": "You are approaching an intersection at the posted speed limit when the signal turns yellow. You should: | You are approaching an intersection at the posted speed limit when the signal turns yellow. You should: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "A solid yellow light means \"caution\" and signals that the light will soon turn red. You should stop at a solid yellow light if you can do so safely; otherwise, you should cautiously cross the intersection.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Slow down and proceed through the intersection without caution.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Slow down and proceed through the intersection without caution."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Speed up to cross the intersection before the light turns red.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Speed up to cross the intersection before the light turns red."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Stop before entering the intersection, if you can do so safely.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Stop before entering the intersection, if you can do so safely."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Stop before entering the intersection, if you can do so safely.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Stop before entering the intersection, if you can do so safely."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "A solid yellow light means \"caution\" and signals that the light will soon turn red. You should stop at a solid yellow light if you can do so safely; otherwise, you should cautiously cross the intersection.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "You are approaching an intersection at the posted speed limit when the signal turns yellow. You should: | A solid yellow light means \"caution\" and signals that the light will soon turn red. You should stop at a solid yellow light if you can do so safely; otherwise, you should cautiously cross the intersection."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "You are approaching an intersection at the posted speed limit when the signal turns yellow. You should: -  Real 2025 DMV Questions ",
+          "targetName": "You are approaching an intersection at the posted speed limit when the signal turns yellow. You should:",
+          "targetUrl": "https://www.dmv-written-test.com/question/you-are-approaching-an-intersection-at-the-posted-speed-limit-when-the-signal-turns-yellow-you-should_pWXjlaPe.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "You are approaching an intersection at the posted speed limit when the signal turns yellow. You should:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "You are approaching an intersection at the posted speed limit when the signal turns yellow. You should:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "A person may legally ride in the back of a pickup truck when:",
+        "about": {
+          "@type": "Thing",
+          "name": "A person may legally ride in the back of a pickup truck when:"
+        },
+        "assesses": "A person may legally ride in the back of a pickup truck when: | A person may legally ride in the back of a pickup truck when: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Do not allow a person to ride in the back of a pickup or other truck unless the vehicle is equipped with seats and the person uses both the seat and a safety belt.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "The sides of the pickup bed are at least 24 inches high.",
+            "comment": {
+              "@type": "Comment",
+              "text": "The sides of the pickup bed are at least 24 inches high."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "The back of the pickup is covered with a camper shell.",
+            "comment": {
+              "@type": "Comment",
+              "text": "The back of the pickup is covered with a camper shell."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "In a secured seat and while using an approved safety belt.",
+            "comment": {
+              "@type": "Comment",
+              "text": "In a secured seat and while using an approved safety belt."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "In a secured seat and while using an approved safety belt.",
+            "comment": {
+              "@type": "Comment",
+              "text": "In a secured seat and while using an approved safety belt."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Do not allow a person to ride in the back of a pickup or other truck unless the vehicle is equipped with seats and the person uses both the seat and a safety belt.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "A person may legally ride in the back of a pickup truck when: | Do not allow a person to ride in the back of a pickup or other truck unless the vehicle is equipped with seats and the person uses both the seat and a safety belt."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "A person may legally ride in the back of a pickup truck when: -  Real 2025 DMV Questions ",
+          "targetName": "A person may legally ride in the back of a pickup truck when:",
+          "targetUrl": "https://www.dmv-written-test.com/question/a-person-may-legally-ride-in-the-back-of-a-pickup-truck-when_23XMGmPz.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "A person may legally ride in the back of a pickup truck when:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "A person may legally ride in the back of a pickup truck when:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Which of these statements is true about drugs and driving?",
+        "about": {
+          "@type": "Thing",
+          "name": "Which of these statements is true about drugs and driving?"
+        },
+        "assesses": "Which of these statements is true about drugs and driving? | Which of these statements is true about drugs and driving? -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Legal prescription and over-the-counter drugs can impair your ability to drive, including drugs taken for colds, hay fever, allergies, or to calm nerves or muscles. It is illegal to drive while under the influence of any drug that impairs your ability to drive safely; this law does not differentiate between illegal, prescription, or over-the-counter drugs.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Any prescription drug is safe to use if you don't feel drowsy.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Any prescription drug is safe to use if you don't feel drowsy."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Even over-the-counter drugs can impair your driving.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Even over-the-counter drugs can impair your driving."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Only illegal drugs can impair your driving.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Only illegal drugs can impair your driving."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Even over-the-counter drugs can impair your driving.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Even over-the-counter drugs can impair your driving."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Legal prescription and over-the-counter drugs can impair your ability to drive, including drugs taken for colds, hay fever, allergies, or to calm nerves or muscles. It is illegal to drive while under the influence of any drug that impairs your ability to drive safely; this law does not differentiate between illegal, prescription, or over-the-counter drugs.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "Which of these statements is true about drugs and driving? | Legal prescription and over-the-counter drugs can impair your ability to drive, including drugs taken for colds, hay fever, allergies, or to calm nerves or muscles. It is illegal to drive while under the influence of any drug that impairs your ability to drive safely; this law does not differentiate between illegal, prescription, or over-the-counter drugs."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "Which of these statements is true about drugs and driving? -  Real 2025 DMV Questions ",
+          "targetName": "Which of these statements is true about drugs and driving?",
+          "targetUrl": "https://www.dmv-written-test.com/question/which-of-these-statements-is-true-about-drugs-and-driving_bVyvMEPG.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "Which of these statements is true about drugs and driving?",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "Which of these statements is true about drugs and driving?"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "When you are behind a motorcycle, you should:",
+        "about": {
+          "@type": "Thing",
+          "name": "When you are behind a motorcycle, you should:"
+        },
+        "assesses": "When you are behind a motorcycle, you should: | When you are behind a motorcycle, you should: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "When following a motorcyclist, allow for at least a three- to four-second following distance. Motorcycles can stop quickly and following them too closely endangers your life and that of the motorcyclist. If the motorcyclist should fall, you need extra distance to avoid the rider. The chances of a fall are greatest on wet and icy roads, gravel roads, and metal surfaces such as bridges, gratings, and streetcar or railroad tracks.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Be ready to use your horn.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Be ready to use your horn."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Drive more slowly.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Drive more slowly."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Allow a larger following distance.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Allow a larger following distance."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Allow a larger following distance.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Allow a larger following distance."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "When following a motorcyclist, allow for at least a three- to four-second following distance. Motorcycles can stop quickly and following them too closely endangers your life and that of the motorcyclist. If the motorcyclist should fall, you need extra distance to avoid the rider. The chances of a fall are greatest on wet and icy roads, gravel roads, and metal surfaces such as bridges, gratings, and streetcar or railroad tracks.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "When you are behind a motorcycle, you should: | When following a motorcyclist, allow for at least a three- to four-second following distance. Motorcycles can stop quickly and following them too closely endangers your life and that of the motorcyclist. If the motorcyclist should fall, you need extra distance to avoid the rider. The chances of a fall are greatest on wet and icy roads, gravel roads, and metal surfaces such as bridges, gratings, and streetcar or railroad tracks."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "When you are behind a motorcycle, you should: -  Real 2025 DMV Questions ",
+          "targetName": "When you are behind a motorcycle, you should:",
+          "targetUrl": "https://www.dmv-written-test.com/question/when-you-are-behind-a-motorcycle-you-should_bVyv0drG.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "When you are behind a motorcycle, you should:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "When you are behind a motorcycle, you should:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "When driving at night on a dimly lit street, you should:",
+        "about": {
+          "@type": "Thing",
+          "name": "When driving at night on a dimly lit street, you should:"
+        },
+        "assesses": "When driving at night on a dimly lit street, you should: | When driving at night on a dimly lit street, you should: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "You should drive more slowly at night than during the day because it is not possible to see as far ahead at night. You should make sure that you can stop within the area illuminated by your headlights.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Drive slowly enough that you can stop within the area illuminated by your headlights.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Drive slowly enough that you can stop within the area illuminated by your headlights."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Turn on your high beam headlights to better see the vehicles ahead of you.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Turn on your high beam headlights to better see the vehicles ahead of you."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Keep the instrument panel lights bright to be more visible to other drivers.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Keep the instrument panel lights bright to be more visible to other drivers."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Drive slowly enough that you can stop within the area illuminated by your headlights.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Drive slowly enough that you can stop within the area illuminated by your headlights."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "You should drive more slowly at night than during the day because it is not possible to see as far ahead at night. You should make sure that you can stop within the area illuminated by your headlights.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "When driving at night on a dimly lit street, you should: | You should drive more slowly at night than during the day because it is not possible to see as far ahead at night. You should make sure that you can stop within the area illuminated by your headlights."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "When driving at night on a dimly lit street, you should: -  Real 2025 DMV Questions ",
+          "targetName": "When driving at night on a dimly lit street, you should:",
+          "targetUrl": "https://www.dmv-written-test.com/question/when-driving-at-night-on-a-dimly-lit-street-you-should_ElPZ1gr2.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "When driving at night on a dimly lit street, you should:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "When driving at night on a dimly lit street, you should:"
+        }
+      }
+    ],
+    "abstract": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>.",
+    "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "assesses": "FREE California Permit Test  - Real 2025 DMV Test Questions | The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "url": "https://www.dmv-written-test.com/california/practice-test-1.html",
+    "isPartOf": {
+      "@context": "http://schema.org",
+      "@type": "CreativeWorkSeries",
+      "name": "FREE California Permit Test  - Real 2025 DMV Test Questions",
+      "issn": "california/practice-test-1.html",
+      "accessMode": "textOnVisual",
+      "about": {
+        "@type": "Thing",
+        "name": "FREE California Permit Test  - Real 2025 DMV Test Questions"
+      },
+      "lastReviewed": "2025-04-24T13:00:08.000000Z",
+      "mainContentOfPage": {
+        "@type": "WebPageElement",
+        "cssSelector": [
+          "#series-description"
+        ]
+      },
+      "aggregateRating": {
+        "@type": "aggregateRating",
+        "ratingValue": "4.7111",
+        "reviewCount": 30785,
+        "bestRating": 5,
+        "worstRating": 1
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "author": "DMV Written Test",
+        "name": "2025 California Permit Test",
+        "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>."
+      },
+      "significantLink": "https://cheat-sheets.dmv-written-test.com/en/california/car",
+      "specialty": "www.dmv-written-test.com",
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "name": "DMV Written Test",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "DMV Written Test",
+            "url": "https://www.dmv-written-test.com",
+            "item": {
+              "@id": "https://www.dmv-written-test.com",
+              "name": "DMV Written Test"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "california",
+            "url": "https://www.dmv-written-test.com/california",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california",
+              "name": "DMV Written Test 2025 California - DMV Practice Test - Real CA DMV Questions!"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "2025 California Permit Test",
+            "url": "https://www.dmv-written-test.com/california/practice-test-1.html",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california/practice-test-1.html",
+              "name": "2025 California Permit Test"
+            }
+          }
+        ]
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "xpath": [
+          "/html/head/title",
+          "/html/head/meta[@name='description']/@content"
+        ],
+        "url": "https://www.dmv-written-test.com/california/practice-test-1.html"
+      }
+    },
+    "provider": {
+      "@type": "Organization",
+      "name": "DMV Written Test",
+      "legalName": "Infinity Loop Capital LLC, CORP2000",
+      "slogan": "DMV",
+      "url": "https://www.dmv-written-test.com",
+      "email": "support@dmv-written-test.com",
+      "address": {
+        "@type": "PostalAddress",
+        "name": "Infinity Loop Capital LLC, CORP2000",
+        "addressLocality": "lindengasse 56/2",
+        "addressRegion": "32 West Loockerman Street, Suite 107, 19904 Dover DE"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": " ",
+        "contactType": "customer service"
+      },
+      "logo": {
+        "@type": "ImageObject",
+        "name": "DMV Written Test",
+        "url": "https://www.dmv-written-test.com/images/meta/logo.png",
+        "description": "DMV Written Test"
+      },
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "copyrightYear": "2025",
+    "dateCreated": "2021-11-23T12:41:43.000000Z",
+    "datePublished": "2021-11-23T12:41:43.000000Z",
+    "dateModified": "2025-04-24T13:00:08.000000Z",
+    "learningResourceType": "Car",
+    "educationalUse": "assignment",
+    "interactivityType": "mixed",
+    "accessMode": "textOnVisual",
+    "educationalLevel": "intermediate",
+    "typicalAgeRange": "16-72",
+    "educationalAlignment": {
+      "@type": "AlignmentObject",
+      "alignmentType": "educationalSubject",
+      "educationalFramework": "DMV Written Test",
+      "targetDescription": "DMV Written Test is the best at helping you pass your permit exam.  We only use real DMV questions on our practice tests and cheat sheets!",
+      "targetName": "DMV Written Test - DMV Practice Test 2025 - Real DMV Questions!",
+      "targetUrl": "https://www.dmv-written-test.com"
+    },
+    "image": {
+      "@type": "ImageObject",
+      "author": "DMV Written Test",
+      "name": "DMV Written Test",
+      "url": "https://www.dmv-written-test.com/images/meta/cover-1200x630.png",
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "inLanguage": {
+      "@type": "Language",
+      "name": "English",
+      "alternateName": "en"
+    }
+  }
+]

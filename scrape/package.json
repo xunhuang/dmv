@@ -1,0 +1,12 @@
+{
+  "name": "dmv-scraper",
+  "version": "1.0.0",
+  "description": "Script to scrape DMV practice test questions",
+  "main": "scraper.js",
+  "scripts": {
+    "start": "node scraper.js"
+  },
+  "dependencies": {
+    "jsdom": "^22.0.0"
+  }
+}

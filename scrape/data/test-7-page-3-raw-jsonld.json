@@ -1,0 +1,651 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "Quiz",
+    "name": "FREE California Permit Test 7 - Real 2025 DMV Test Questions",
+    "headline": "2025 California Permit Test 7",
+    "alternativeHeadline": "2025 California Permit Test 7 | DMV Written Test",
+    "about": {
+      "@type": "Thing",
+      "name": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car."
+    },
+    "hasPart": [
+      {
+        "@type": "Question",
+        "name": "A broken yellow line beside a solid yellow line indicates that passing is:",
+        "about": {
+          "@type": "Thing",
+          "name": "A broken yellow line beside a solid yellow line indicates that passing is:"
+        },
+        "assesses": "A broken yellow line beside a solid yellow line indicates that passing is: | A broken yellow line beside a solid yellow line indicates that passing is: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "When the center of the road is marked by a solid yellow line beside a broken yellow line, passing is permitted from the side next to the broken line and prohibited from the side next to the solid line.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Permitted from the side next to the solid yellow line.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Permitted from the side next to the solid yellow line."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Not permitted from either direction.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Not permitted from either direction."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Permitted from the side next to the broken yellow line.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Permitted from the side next to the broken yellow line."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Permitted from the side next to the broken yellow line.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Permitted from the side next to the broken yellow line."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "When the center of the road is marked by a solid yellow line beside a broken yellow line, passing is permitted from the side next to the broken line and prohibited from the side next to the solid line.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "A broken yellow line beside a solid yellow line indicates that passing is: | When the center of the road is marked by a solid yellow line beside a broken yellow line, passing is permitted from the side next to the broken line and prohibited from the side next to the solid line."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "A broken yellow line beside a solid yellow line indicates that passing is: -  Real 2025 DMV Questions ",
+          "targetName": "A broken yellow line beside a solid yellow line indicates that passing is:",
+          "targetUrl": "https://www.dmv-written-test.com/question/a-broken-yellow-line-beside-a-solid-yellow-line-indicates-that-passing-is_pWXj9aye.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "A broken yellow line beside a solid yellow line indicates that passing is:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "A broken yellow line beside a solid yellow line indicates that passing is:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "You want to make a right turn at the corner. A pedestrian with a guide dog is at the corner ready to cross the street in front of you. Before making your right turn, you should:",
+        "about": {
+          "@type": "Thing",
+          "name": "You want to make a right turn at the corner. A pedestrian with a guide dog is at the corner ready to cross the street in front of you. Before making your right turn, you should:"
+        },
+        "assesses": "You want to make a right turn at the corner. A pedestrian with a guide dog is at the corner ready to cross the street in front of you. Before making your right turn, you should: | You want to make a right turn at the corner. A pedestrian with a guide dog is at the corner ready to cross the street in front of you. Before making your right turn, you should: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Pedestrians using guide dogs or white canes (with or without a red tip) must be given the right-of-way at all times.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Turn off your engine until the person crosses the street.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Turn off your engine until the person crosses the street."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Tell the pedestrian when to cross the street.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Tell the pedestrian when to cross the street."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Wait until the person crosses the street.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Wait until the person crosses the street."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Wait until the person crosses the street.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Wait until the person crosses the street."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Pedestrians using guide dogs or white canes (with or without a red tip) must be given the right-of-way at all times.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "You want to make a right turn at the corner. A pedestrian with a guide dog is at the corner ready to cross the street in front of you. Before making your right turn, you should: | Pedestrians using guide dogs or white canes (with or without a red tip) must be given the right-of-way at all times."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "You want to make a right turn at the corner. A pedestrian with a guide dog is at the corner ready to cross the street in front of you. Before making your right turn, you should: -  Real 2025 DMV Questions ",
+          "targetName": "You want to make a right turn at the corner. A pedestrian with a guide dog is at the corner ready to cross the street in front of you. Before making your right turn, you should:",
+          "targetUrl": "https://www.dmv-written-test.com/question/you-want-to-make-a-right-turn-at-the-corner-a-pedestrian-with-a-guide-dog-is-at-the-corner-ready-to-cross-the-street-in-front-of-you-before-making-your-right-turn-you-should_x3PGDlyk.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "You want to make a right turn at the corner. A pedestrian with a guide dog is at the corner ready to cross the street in front of you. Before making your right turn, you should:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "You want to make a right turn at the corner. A pedestrian with a guide dog is at the corner ready to cross the street in front of you. Before making your right turn, you should:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "To turn left from a one-way street with multiple lanes onto a two-way street, start the turn in:",
+        "about": {
+          "@type": "Thing",
+          "name": "To turn left from a one-way street with multiple lanes onto a two-way street, start the turn in:"
+        },
+        "assesses": "To turn left from a one-way street with multiple lanes onto a two-way street, start the turn in: | To turn left from a one-way street with multiple lanes onto a two-way street, start the turn in: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "When making a left turn from a one-way street onto a two-way street, start from the far left lane.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "The far left lane.",
+            "comment": {
+              "@type": "Comment",
+              "text": "The far left lane."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Any available lane.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Any available lane."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "The lane closest to the middle of the street.",
+            "comment": {
+              "@type": "Comment",
+              "text": "The lane closest to the middle of the street."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "The far left lane.",
+            "comment": {
+              "@type": "Comment",
+              "text": "The far left lane."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "When making a left turn from a one-way street onto a two-way street, start from the far left lane.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "To turn left from a one-way street with multiple lanes onto a two-way street, start the turn in: | When making a left turn from a one-way street onto a two-way street, start from the far left lane."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "To turn left from a one-way street with multiple lanes onto a two-way street, start the turn in: -  Real 2025 DMV Questions ",
+          "targetName": "To turn left from a one-way street with multiple lanes onto a two-way street, start the turn in:",
+          "targetUrl": "https://www.dmv-written-test.com/question/to-turn-left-from-a-one-way-street-with-multiple-lanes-onto-a-two-way-street-start-the-turn-in_KeX8erk2.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "To turn left from a one-way street with multiple lanes onto a two-way street, start the turn in:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "To turn left from a one-way street with multiple lanes onto a two-way street, start the turn in:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "This sign means:",
+        "about": {
+          "@type": "Thing",
+          "name": "This sign means:"
+        },
+        "assesses": "This sign means: | This sign means: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images-car/georgia-no_right_turn.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Where this sign is posted, it is prohibited to make a right turn. It would be unsafe and unlawful to make a right turn at an intersection with this sign.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "No U-turn.",
+            "comment": {
+              "@type": "Comment",
+              "text": "No U-turn."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "No left turn.",
+            "comment": {
+              "@type": "Comment",
+              "text": "No left turn."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "No right turn.",
+            "comment": {
+              "@type": "Comment",
+              "text": "No right turn."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "No right turn.",
+            "comment": {
+              "@type": "Comment",
+              "text": "No right turn."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Where this sign is posted, it is prohibited to make a right turn. It would be unsafe and unlawful to make a right turn at an intersection with this sign.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "This sign means: | Where this sign is posted, it is prohibited to make a right turn. It would be unsafe and unlawful to make a right turn at an intersection with this sign."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "This sign means: -  Real 2025 DMV Questions ",
+          "targetName": "This sign means:",
+          "targetUrl": "https://www.dmv-written-test.com/question/this-sign-means_Y5y9VaXZ.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "This sign means:",
+          "url": "https://www.dmv-written-test.com/images-car/georgia-no_right_turn.png",
+          "description": "This sign means:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "You may drive off of the paved roadway to pass another vehicle:",
+        "about": {
+          "@type": "Thing",
+          "name": "You may drive off of the paved roadway to pass another vehicle:"
+        },
+        "assesses": "You may drive off of the paved roadway to pass another vehicle: | You may drive off of the paved roadway to pass another vehicle: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "You may never drive off the paved or main-traveled portion of the road and onto the shoulder to pass another vehicle.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "If the shoulder is wide enough to accommodate your vehicle.",
+            "comment": {
+              "@type": "Comment",
+              "text": "If the shoulder is wide enough to accommodate your vehicle."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "If the vehicle ahead of you is turning left.",
+            "comment": {
+              "@type": "Comment",
+              "text": "If the vehicle ahead of you is turning left."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Under no circumstances.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Under no circumstances."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Under no circumstances.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Under no circumstances."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "You may never drive off the paved or main-traveled portion of the road and onto the shoulder to pass another vehicle.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "You may drive off of the paved roadway to pass another vehicle: | You may never drive off the paved or main-traveled portion of the road and onto the shoulder to pass another vehicle."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "You may drive off of the paved roadway to pass another vehicle: -  Real 2025 DMV Questions ",
+          "targetName": "You may drive off of the paved roadway to pass another vehicle:",
+          "targetUrl": "https://www.dmv-written-test.com/question/you-may-drive-off-of-the-paved-roadway-to-pass-another-vehicle_RnXgV1yp.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "You may drive off of the paved roadway to pass another vehicle:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "You may drive off of the paved roadway to pass another vehicle:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "The speed limit at an uncontrolled railroad crossing is:",
+        "about": {
+          "@type": "Thing",
+          "name": "The speed limit at an uncontrolled railroad crossing is:"
+        },
+        "assesses": "The speed limit at an uncontrolled railroad crossing is: | The speed limit at an uncontrolled railroad crossing is: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "When you are within 100 feet of an uncontrolled railroad crossing where you cannot see the tracks for 400 feet in both directions, the speed limit is 15 mph.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "25 mph.",
+            "comment": {
+              "@type": "Comment",
+              "text": "25 mph."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "15 mph.",
+            "comment": {
+              "@type": "Comment",
+              "text": "15 mph."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "20 mph.",
+            "comment": {
+              "@type": "Comment",
+              "text": "20 mph."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "15 mph.",
+            "comment": {
+              "@type": "Comment",
+              "text": "15 mph."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "When you are within 100 feet of an uncontrolled railroad crossing where you cannot see the tracks for 400 feet in both directions, the speed limit is 15 mph.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "The speed limit at an uncontrolled railroad crossing is: | When you are within 100 feet of an uncontrolled railroad crossing where you cannot see the tracks for 400 feet in both directions, the speed limit is 15 mph."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "The speed limit at an uncontrolled railroad crossing is: -  Real 2025 DMV Questions ",
+          "targetName": "The speed limit at an uncontrolled railroad crossing is:",
+          "targetUrl": "https://www.dmv-written-test.com/question/the-speed-limit-at-an-uncontrolled-railroad-crossing-is_KzP7JRr6.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "The speed limit at an uncontrolled railroad crossing is:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "The speed limit at an uncontrolled railroad crossing is:"
+        }
+      }
+    ],
+    "abstract": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>.",
+    "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "assesses": "FREE California Permit Test 7 - Real 2025 DMV Test Questions | The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "url": "https://www.dmv-written-test.com/california/practice-test-7.html",
+    "isPartOf": {
+      "@context": "http://schema.org",
+      "@type": "CreativeWorkSeries",
+      "name": "FREE California Permit Test 7 - Real 2025 DMV Test Questions",
+      "issn": "california/practice-test-7.html",
+      "accessMode": "textOnVisual",
+      "about": {
+        "@type": "Thing",
+        "name": "FREE California Permit Test 7 - Real 2025 DMV Test Questions"
+      },
+      "lastReviewed": "2024-02-29T15:02:59.000000Z",
+      "mainContentOfPage": {
+        "@type": "WebPageElement",
+        "cssSelector": [
+          "#series-description"
+        ]
+      },
+      "aggregateRating": {
+        "@type": "aggregateRating",
+        "ratingValue": "4.7618",
+        "reviewCount": 4261,
+        "bestRating": 5,
+        "worstRating": 1
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "author": "DMV Written Test",
+        "name": "2025 California Permit Test 7",
+        "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>."
+      },
+      "significantLink": "https://cheat-sheets.dmv-written-test.com/en/california/car",
+      "specialty": "www.dmv-written-test.com",
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "name": "DMV Written Test",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "DMV Written Test",
+            "url": "https://www.dmv-written-test.com",
+            "item": {
+              "@id": "https://www.dmv-written-test.com",
+              "name": "DMV Written Test"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "california",
+            "url": "https://www.dmv-written-test.com/california",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california",
+              "name": "DMV Written Test 2025 California - DMV Practice Test - Real CA DMV Questions!"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "2025 California Permit Test 7",
+            "url": "https://www.dmv-written-test.com/california/practice-test-7.html",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california/practice-test-7.html",
+              "name": "2025 California Permit Test 7"
+            }
+          }
+        ]
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "xpath": [
+          "/html/head/title",
+          "/html/head/meta[@name='description']/@content"
+        ],
+        "url": "https://www.dmv-written-test.com/california/practice-test-7.html"
+      }
+    },
+    "provider": {
+      "@type": "Organization",
+      "name": "DMV Written Test",
+      "legalName": "Infinity Loop Capital LLC, CORP2000",
+      "slogan": "DMV",
+      "url": "https://www.dmv-written-test.com",
+      "email": "support@dmv-written-test.com",
+      "address": {
+        "@type": "PostalAddress",
+        "name": "Infinity Loop Capital LLC, CORP2000",
+        "addressLocality": "lindengasse 56/2",
+        "addressRegion": "32 West Loockerman Street, Suite 107, 19904 Dover DE"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": " ",
+        "contactType": "customer service"
+      },
+      "logo": {
+        "@type": "ImageObject",
+        "name": "DMV Written Test",
+        "url": "https://www.dmv-written-test.com/images/meta/logo.png",
+        "description": "DMV Written Test"
+      },
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "copyrightYear": "2025",
+    "dateCreated": "2021-11-23T12:41:46.000000Z",
+    "datePublished": "2021-11-23T12:41:46.000000Z",
+    "dateModified": "2024-02-29T15:02:59.000000Z",
+    "learningResourceType": "Car",
+    "educationalUse": "assignment",
+    "interactivityType": "mixed",
+    "accessMode": "textOnVisual",
+    "educationalLevel": "intermediate",
+    "typicalAgeRange": "16-72",
+    "educationalAlignment": {
+      "@type": "AlignmentObject",
+      "alignmentType": "educationalSubject",
+      "educationalFramework": "DMV Written Test",
+      "targetDescription": "DMV Written Test is the best at helping you pass your permit exam.  We only use real DMV questions on our practice tests and cheat sheets!",
+      "targetName": "DMV Written Test - DMV Practice Test 2025 - Real DMV Questions!",
+      "targetUrl": "https://www.dmv-written-test.com"
+    },
+    "image": {
+      "@type": "ImageObject",
+      "author": "DMV Written Test",
+      "name": "DMV Written Test",
+      "url": "https://www.dmv-written-test.com/images/meta/cover-1200x630.png",
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "inLanguage": {
+      "@type": "Language",
+      "name": "English",
+      "alternateName": "en"
+    }
+  }
+]

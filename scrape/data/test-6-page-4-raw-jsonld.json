@@ -1,0 +1,651 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "Quiz",
+    "name": "FREE California Permit Test 6 - Real 2025 DMV Test Questions",
+    "headline": "2025 California Permit Test 6",
+    "alternativeHeadline": "2025 California Permit Test 6 | DMV Written Test",
+    "about": {
+      "@type": "Thing",
+      "name": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car."
+    },
+    "hasPart": [
+      {
+        "@type": "Question",
+        "name": "When driving in fog, you should:",
+        "about": {
+          "@type": "Thing",
+          "name": "When driving in fog, you should:"
+        },
+        "assesses": "When driving in fog, you should: | When driving in fog, you should: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Drivers should use low beam headlights when driving in fog. High beams will reflect back at the driver, making it difficult to see.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Use your high beam headlights.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Use your high beam headlights."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Use your parking lights.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Use your parking lights."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Use your low beam headlights.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Use your low beam headlights."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Use your low beam headlights.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Use your low beam headlights."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Drivers should use low beam headlights when driving in fog. High beams will reflect back at the driver, making it difficult to see.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "When driving in fog, you should: | Drivers should use low beam headlights when driving in fog. High beams will reflect back at the driver, making it difficult to see."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "When driving in fog, you should: -  Real 2025 DMV Questions ",
+          "targetName": "When driving in fog, you should:",
+          "targetUrl": "https://www.dmv-written-test.com/question/when-driving-in-fog-you-should_BXp5Ezr9.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "When driving in fog, you should:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "When driving in fog, you should:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "You want to turn left at an upcoming corner. Yield the right-of-way to:",
+        "about": {
+          "@type": "Thing",
+          "name": "You want to turn left at an upcoming corner. Yield the right-of-way to:"
+        },
+        "assesses": "You want to turn left at an upcoming corner. Yield the right-of-way to: | You want to turn left at an upcoming corner. Yield the right-of-way to: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "When making a left turn, you must yield to pedestrians, bicyclists, or other vehicles moving on their green light.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Oncoming vehicles also turning left.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Oncoming vehicles also turning left."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "All approaching vehicles.",
+            "comment": {
+              "@type": "Comment",
+              "text": "All approaching vehicles."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Pedestrians on the sidewalk waiting for a \"Walk\" signal.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Pedestrians on the sidewalk waiting for a \"Walk\" signal."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "All approaching vehicles.",
+            "comment": {
+              "@type": "Comment",
+              "text": "All approaching vehicles."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "When making a left turn, you must yield to pedestrians, bicyclists, or other vehicles moving on their green light.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "You want to turn left at an upcoming corner. Yield the right-of-way to: | When making a left turn, you must yield to pedestrians, bicyclists, or other vehicles moving on their green light."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "You want to turn left at an upcoming corner. Yield the right-of-way to: -  Real 2025 DMV Questions ",
+          "targetName": "You want to turn left at an upcoming corner. Yield the right-of-way to:",
+          "targetUrl": "https://www.dmv-written-test.com/question/you-want-to-turn-left-at-an-upcoming-corner-yield-the-right-of-way-to_dWX45Wrw.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "You want to turn left at an upcoming corner. Yield the right-of-way to:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "You want to turn left at an upcoming corner. Yield the right-of-way to:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "To help avoid skidding on slippery surfaces, you should:",
+        "about": {
+          "@type": "Thing",
+          "name": "To help avoid skidding on slippery surfaces, you should:"
+        },
+        "assesses": "To help avoid skidding on slippery surfaces, you should: | To help avoid skidding on slippery surfaces, you should: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Slow down before you enter a curve because you do not know what may be ahead. Braking on a curve may cause you to skid.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Shift to a lower gear after starting down a steep hill.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Shift to a lower gear after starting down a steep hill."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Speed up to enter curves and slow down to exit them.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Speed up to enter curves and slow down to exit them."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Slow down before entering curves and intersections.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Slow down before entering curves and intersections."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Slow down before entering curves and intersections.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Slow down before entering curves and intersections."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Slow down before you enter a curve because you do not know what may be ahead. Braking on a curve may cause you to skid.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "To help avoid skidding on slippery surfaces, you should: | Slow down before you enter a curve because you do not know what may be ahead. Braking on a curve may cause you to skid."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "To help avoid skidding on slippery surfaces, you should: -  Real 2025 DMV Questions ",
+          "targetName": "To help avoid skidding on slippery surfaces, you should:",
+          "targetUrl": "https://www.dmv-written-test.com/question/to-help-avoid-skidding-on-slippery-surfaces-you-should_LMPnYbrR.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "To help avoid skidding on slippery surfaces, you should:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "To help avoid skidding on slippery surfaces, you should:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "California's Move Over law requires:",
+        "about": {
+          "@type": "Thing",
+          "name": "California's Move Over law requires:"
+        },
+        "assesses": "California's Move Over law requires: | California's Move Over law requires: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "If an emergency vehicle with its lights on is stopped on the side of the road, California drivers are required to vacate the lane directly next to the vehicle, if possible. If a driver cannot move over safely, they must slow down and proceed with caution. This law also applies when approaching a stopped tow truck or Department of Transportation vehicle.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "All vehicles to stay in the right lane at all times.",
+            "comment": {
+              "@type": "Comment",
+              "text": "All vehicles to stay in the right lane at all times."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Trucks to use the left lane.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Trucks to use the left lane."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "All vehicles to vacate the lane closest to an emergency vehicle that is stopped with its lights flashing.",
+            "comment": {
+              "@type": "Comment",
+              "text": "All vehicles to vacate the lane closest to an emergency vehicle that is stopped with its lights flashing."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "All vehicles to vacate the lane closest to an emergency vehicle that is stopped with its lights flashing.",
+            "comment": {
+              "@type": "Comment",
+              "text": "All vehicles to vacate the lane closest to an emergency vehicle that is stopped with its lights flashing."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "If an emergency vehicle with its lights on is stopped on the side of the road, California drivers are required to vacate the lane directly next to the vehicle, if possible. If a driver cannot move over safely, they must slow down and proceed with caution. This law also applies when approaching a stopped tow truck or Department of Transportation vehicle.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "California's Move Over law requires: | If an emergency vehicle with its lights on is stopped on the side of the road, California drivers are required to vacate the lane directly next to the vehicle, if possible. If a driver cannot move over safely, they must slow down and proceed with caution. This law also applies when approaching a stopped tow truck or Department of Transportation vehicle."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "California's Move Over law requires: -  Real 2025 DMV Questions ",
+          "targetName": "California's Move Over law requires:",
+          "targetUrl": "https://www.dmv-written-test.com/question/californias-move-over-law-requires_nrDYWaPA.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "California's Move Over law requires:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "California's Move Over law requires:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "When you drive through a construction zone, you should:",
+        "about": {
+          "@type": "Thing",
+          "name": "When you drive through a construction zone, you should:"
+        },
+        "assesses": "When you drive through a construction zone, you should: | When you drive through a construction zone, you should: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "To avoid contributing to chronic traffic congestion, you should not \"rubberneck.\" That is, you should not slow down to look at out-of-the-ordinary things.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Stop to watch the workers.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Stop to watch the workers."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Decrease your following distance.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Decrease your following distance."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Pass the construction zone carefully and not “rubberneck.\"",
+            "comment": {
+              "@type": "Comment",
+              "text": "Pass the construction zone carefully and not “rubberneck.\""
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Pass the construction zone carefully and not “rubberneck.\"",
+            "comment": {
+              "@type": "Comment",
+              "text": "Pass the construction zone carefully and not “rubberneck.\""
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "To avoid contributing to chronic traffic congestion, you should not \"rubberneck.\" That is, you should not slow down to look at out-of-the-ordinary things.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "When you drive through a construction zone, you should: | To avoid contributing to chronic traffic congestion, you should not \"rubberneck.\" That is, you should not slow down to look at out-of-the-ordinary things."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "When you drive through a construction zone, you should: -  Real 2025 DMV Questions ",
+          "targetName": "When you drive through a construction zone, you should:",
+          "targetUrl": "https://www.dmv-written-test.com/question/when-you-drive-through-a-construction-zone-you-should_ZmymOrx9.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "When you drive through a construction zone, you should:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "When you drive through a construction zone, you should:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "This symbol is used for:",
+        "about": {
+          "@type": "Thing",
+          "name": "This symbol is used for:"
+        },
+        "assesses": "This symbol is used for: | This symbol is used for: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images-car/iowa-slow_moving_vehicle.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "A reflective orange triangle on the rear of a vehicle means it travels only at slow speeds. You may see this sign on roadwork equipment, farm vehicles, or horse-drawn wagons and carriages. It appears as a solid orange triangle during the day and a hollow red triangle at night.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Dangerous intersections.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Dangerous intersections."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Slow-moving vehicles.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Slow-moving vehicles."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Yield signs.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Yield signs."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Slow-moving vehicles.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Slow-moving vehicles."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "A reflective orange triangle on the rear of a vehicle means it travels only at slow speeds. You may see this sign on roadwork equipment, farm vehicles, or horse-drawn wagons and carriages. It appears as a solid orange triangle during the day and a hollow red triangle at night.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "This symbol is used for: | A reflective orange triangle on the rear of a vehicle means it travels only at slow speeds. You may see this sign on roadwork equipment, farm vehicles, or horse-drawn wagons and carriages. It appears as a solid orange triangle during the day and a hollow red triangle at night."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "This symbol is used for: -  Real 2025 DMV Questions ",
+          "targetName": "This symbol is used for:",
+          "targetUrl": "https://www.dmv-written-test.com/question/this-symbol-is-used-for_WaXWDLrk.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "This symbol is used for:",
+          "url": "https://www.dmv-written-test.com/images-car/iowa-slow_moving_vehicle.png",
+          "description": "This symbol is used for:"
+        }
+      }
+    ],
+    "abstract": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>.",
+    "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "assesses": "FREE California Permit Test 6 - Real 2025 DMV Test Questions | The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "url": "https://www.dmv-written-test.com/california/practice-test-6.html",
+    "isPartOf": {
+      "@context": "http://schema.org",
+      "@type": "CreativeWorkSeries",
+      "name": "FREE California Permit Test 6 - Real 2025 DMV Test Questions",
+      "issn": "california/practice-test-6.html",
+      "accessMode": "textOnVisual",
+      "about": {
+        "@type": "Thing",
+        "name": "FREE California Permit Test 6 - Real 2025 DMV Test Questions"
+      },
+      "lastReviewed": "2024-02-29T15:02:59.000000Z",
+      "mainContentOfPage": {
+        "@type": "WebPageElement",
+        "cssSelector": [
+          "#series-description"
+        ]
+      },
+      "aggregateRating": {
+        "@type": "aggregateRating",
+        "ratingValue": "4.7947",
+        "reviewCount": 3794,
+        "bestRating": 5,
+        "worstRating": 1
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "author": "DMV Written Test",
+        "name": "2025 California Permit Test 6",
+        "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>."
+      },
+      "significantLink": "https://cheat-sheets.dmv-written-test.com/en/california/car",
+      "specialty": "www.dmv-written-test.com",
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "name": "DMV Written Test",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "DMV Written Test",
+            "url": "https://www.dmv-written-test.com",
+            "item": {
+              "@id": "https://www.dmv-written-test.com",
+              "name": "DMV Written Test"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "california",
+            "url": "https://www.dmv-written-test.com/california",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california",
+              "name": "DMV Written Test 2025 California - DMV Practice Test - Real CA DMV Questions!"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "2025 California Permit Test 6",
+            "url": "https://www.dmv-written-test.com/california/practice-test-6.html",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california/practice-test-6.html",
+              "name": "2025 California Permit Test 6"
+            }
+          }
+        ]
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "xpath": [
+          "/html/head/title",
+          "/html/head/meta[@name='description']/@content"
+        ],
+        "url": "https://www.dmv-written-test.com/california/practice-test-6.html"
+      }
+    },
+    "provider": {
+      "@type": "Organization",
+      "name": "DMV Written Test",
+      "legalName": "Infinity Loop Capital LLC, CORP2000",
+      "slogan": "DMV",
+      "url": "https://www.dmv-written-test.com",
+      "email": "support@dmv-written-test.com",
+      "address": {
+        "@type": "PostalAddress",
+        "name": "Infinity Loop Capital LLC, CORP2000",
+        "addressLocality": "lindengasse 56/2",
+        "addressRegion": "32 West Loockerman Street, Suite 107, 19904 Dover DE"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": " ",
+        "contactType": "customer service"
+      },
+      "logo": {
+        "@type": "ImageObject",
+        "name": "DMV Written Test",
+        "url": "https://www.dmv-written-test.com/images/meta/logo.png",
+        "description": "DMV Written Test"
+      },
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "copyrightYear": "2025",
+    "dateCreated": "2021-11-23T12:41:45.000000Z",
+    "datePublished": "2021-11-23T12:41:45.000000Z",
+    "dateModified": "2024-02-29T15:02:59.000000Z",
+    "learningResourceType": "Car",
+    "educationalUse": "assignment",
+    "interactivityType": "mixed",
+    "accessMode": "textOnVisual",
+    "educationalLevel": "intermediate",
+    "typicalAgeRange": "16-72",
+    "educationalAlignment": {
+      "@type": "AlignmentObject",
+      "alignmentType": "educationalSubject",
+      "educationalFramework": "DMV Written Test",
+      "targetDescription": "DMV Written Test is the best at helping you pass your permit exam.  We only use real DMV questions on our practice tests and cheat sheets!",
+      "targetName": "DMV Written Test - DMV Practice Test 2025 - Real DMV Questions!",
+      "targetUrl": "https://www.dmv-written-test.com"
+    },
+    "image": {
+      "@type": "ImageObject",
+      "author": "DMV Written Test",
+      "name": "DMV Written Test",
+      "url": "https://www.dmv-written-test.com/images/meta/cover-1200x630.png",
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "inLanguage": {
+      "@type": "Language",
+      "name": "English",
+      "alternateName": "en"
+    }
+  }
+]

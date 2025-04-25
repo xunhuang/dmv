@@ -1,0 +1,651 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "Quiz",
+    "name": "FREE California Permit Test 14 - Real 2025 DMV Test Questions",
+    "headline": "2025 California Permit Test 14",
+    "alternativeHeadline": "2025 California Permit Test 14 | DMV Written Test",
+    "about": {
+      "@type": "Thing",
+      "name": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car."
+    },
+    "hasPart": [
+      {
+        "@type": "Question",
+        "name": "If you are driving and a tire suddenly goes flat, you should:",
+        "about": {
+          "@type": "Thing",
+          "name": "If you are driving and a tire suddenly goes flat, you should:"
+        },
+        "assesses": "If you are driving and a tire suddenly goes flat, you should: | If you are driving and a tire suddenly goes flat, you should: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "If a tire blows out or suddenly goes flat while you are driving, grip the steering wheel firmly and keep the vehicle aiming straight. Take your foot off the accelerator and do not brake. Allow the vehicle to slow by itself and use the brakes gently, but only if necessary. Pull off the road when it is safe to do so.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Rapidly pump the brake pedal several times.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Rapidly pump the brake pedal several times."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Slow down gradually and not brake.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Slow down gradually and not brake."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Press down on the brake pedal as hard as you can.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Press down on the brake pedal as hard as you can."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Slow down gradually and not brake.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Slow down gradually and not brake."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "If a tire blows out or suddenly goes flat while you are driving, grip the steering wheel firmly and keep the vehicle aiming straight. Take your foot off the accelerator and do not brake. Allow the vehicle to slow by itself and use the brakes gently, but only if necessary. Pull off the road when it is safe to do so.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "If you are driving and a tire suddenly goes flat, you should: | If a tire blows out or suddenly goes flat while you are driving, grip the steering wheel firmly and keep the vehicle aiming straight. Take your foot off the accelerator and do not brake. Allow the vehicle to slow by itself and use the brakes gently, but only if necessary. Pull off the road when it is safe to do so."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "If you are driving and a tire suddenly goes flat, you should: -  Real 2025 DMV Questions ",
+          "targetName": "If you are driving and a tire suddenly goes flat, you should:",
+          "targetUrl": "https://www.dmv-written-test.com/question/if-you-are-driving-and-a-tire-suddenly-goes-flat-you-should_7wXaqBXg.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "If you are driving and a tire suddenly goes flat, you should:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "If you are driving and a tire suddenly goes flat, you should:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Which of the following statements about driving speed is true?",
+        "about": {
+          "@type": "Thing",
+          "name": "Which of the following statements about driving speed is true?"
+        },
+        "assesses": "Which of the following statements about driving speed is true? | Which of the following statements about driving speed is true? -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "As driving speeds increase, the chance of a fatality in the case of a collision increases. If you are going faster than 80 miles per hour, you have almost no chance of living through a crash. The speed you drive affects your stopping distance, so you should increase your following distance as you increase your speed.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "As your speed increases, the chance of a fatality increases.",
+            "comment": {
+              "@type": "Comment",
+              "text": "As your speed increases, the chance of a fatality increases."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "As your speed increases, so should your following distance.",
+            "comment": {
+              "@type": "Comment",
+              "text": "As your speed increases, so should your following distance."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Both of the above.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Both of the above."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Both of the above.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Both of the above."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "As driving speeds increase, the chance of a fatality in the case of a collision increases. If you are going faster than 80 miles per hour, you have almost no chance of living through a crash. The speed you drive affects your stopping distance, so you should increase your following distance as you increase your speed.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "Which of the following statements about driving speed is true? | As driving speeds increase, the chance of a fatality in the case of a collision increases. If you are going faster than 80 miles per hour, you have almost no chance of living through a crash. The speed you drive affects your stopping distance, so you should increase your following distance as you increase your speed."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "Which of the following statements about driving speed is true? -  Real 2025 DMV Questions ",
+          "targetName": "Which of the following statements about driving speed is true?",
+          "targetUrl": "https://www.dmv-written-test.com/question/which-of-the-following-statements-about-driving-speed-is-true_pWXjxYPe.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "Which of the following statements about driving speed is true?",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "Which of the following statements about driving speed is true?"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "You want to park uphill on a two-way road and there is no curb. Which direction do you turn your front wheels?",
+        "about": {
+          "@type": "Thing",
+          "name": "You want to park uphill on a two-way road and there is no curb. Which direction do you turn your front wheels?"
+        },
+        "assesses": "You want to park uphill on a two-way road and there is no curb. Which direction do you turn your front wheels? | You want to park uphill on a two-way road and there is no curb. Which direction do you turn your front wheels? -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "When parking either uphill or downhill on a road that has no curb, you should turn your wheels so that the vehicle will roll away from the center of the road if the brakes fail.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Straight ahead",
+            "comment": {
+              "@type": "Comment",
+              "text": "Straight ahead"
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Right, toward the side of the road",
+            "comment": {
+              "@type": "Comment",
+              "text": "Right, toward the side of the road"
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Left, toward the center of the road",
+            "comment": {
+              "@type": "Comment",
+              "text": "Left, toward the center of the road"
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Right, toward the side of the road",
+            "comment": {
+              "@type": "Comment",
+              "text": "Right, toward the side of the road"
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "When parking either uphill or downhill on a road that has no curb, you should turn your wheels so that the vehicle will roll away from the center of the road if the brakes fail.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "You want to park uphill on a two-way road and there is no curb. Which direction do you turn your front wheels? | When parking either uphill or downhill on a road that has no curb, you should turn your wheels so that the vehicle will roll away from the center of the road if the brakes fail."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "You want to park uphill on a two-way road and there is no curb. Which direction do you turn your front wheels? -  Real 2025 DMV Questions ",
+          "targetName": "You want to park uphill on a two-way road and there is no curb. Which direction do you turn your front wheels?",
+          "targetUrl": "https://www.dmv-written-test.com/question/you-want-to-park-uphill-on-a-two-way-road-and-there-is-no-curb-which-direction-do-you-turn-your-front-wheels_12yNOXVE.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "You want to park uphill on a two-way road and there is no curb. Which direction do you turn your front wheels?",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "You want to park uphill on a two-way road and there is no curb. Which direction do you turn your front wheels?"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "If you have a green light but traffic is blocking the intersection, you should:",
+        "about": {
+          "@type": "Thing",
+          "name": "If you have a green light but traffic is blocking the intersection, you should:"
+        },
+        "assesses": "If you have a green light but traffic is blocking the intersection, you should: | If you have a green light but traffic is blocking the intersection, you should: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Even if your traffic light is green, you must not enter an intersection unless you can get completely across the intersection before the light turns red. If you block the intersection, you can be cited.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Stay out of the intersection until traffic clears.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Stay out of the intersection until traffic clears."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Enter the intersection and wait until traffic clears.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Enter the intersection and wait until traffic clears."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "Merge into another lane and try to go around the traffic.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Merge into another lane and try to go around the traffic."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Stay out of the intersection until traffic clears.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Stay out of the intersection until traffic clears."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Even if your traffic light is green, you must not enter an intersection unless you can get completely across the intersection before the light turns red. If you block the intersection, you can be cited.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "If you have a green light but traffic is blocking the intersection, you should: | Even if your traffic light is green, you must not enter an intersection unless you can get completely across the intersection before the light turns red. If you block the intersection, you can be cited."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "If you have a green light but traffic is blocking the intersection, you should: -  Real 2025 DMV Questions ",
+          "targetName": "If you have a green light but traffic is blocking the intersection, you should:",
+          "targetUrl": "https://www.dmv-written-test.com/question/if-you-have-a-green-light-but-traffic-is-blocking-the-intersection-you-should_LMPnnxPR.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "If you have a green light but traffic is blocking the intersection, you should:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "If you have a green light but traffic is blocking the intersection, you should:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Before changing lanes or attempting to pass another vehicle, you should:",
+        "about": {
+          "@type": "Thing",
+          "name": "Before changing lanes or attempting to pass another vehicle, you should:"
+        },
+        "assesses": "Before changing lanes or attempting to pass another vehicle, you should: | Before changing lanes or attempting to pass another vehicle, you should: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "Every time you want to change lanes or otherwise move your vehicle to the right or left, signal to alert other drivers to your intentions. Always check your mirrors and turn your head to check your blind spot before attempting any lateral move.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Check your blind spots and mirrors.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Check your blind spots and mirrors."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "Signal your intention before changing lanes.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Signal your intention before changing lanes."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "All of the above.",
+            "comment": {
+              "@type": "Comment",
+              "text": "All of the above."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "All of the above.",
+            "comment": {
+              "@type": "Comment",
+              "text": "All of the above."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "Every time you want to change lanes or otherwise move your vehicle to the right or left, signal to alert other drivers to your intentions. Always check your mirrors and turn your head to check your blind spot before attempting any lateral move.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "Before changing lanes or attempting to pass another vehicle, you should: | Every time you want to change lanes or otherwise move your vehicle to the right or left, signal to alert other drivers to your intentions. Always check your mirrors and turn your head to check your blind spot before attempting any lateral move."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "Before changing lanes or attempting to pass another vehicle, you should: -  Real 2025 DMV Questions ",
+          "targetName": "Before changing lanes or attempting to pass another vehicle, you should:",
+          "targetUrl": "https://www.dmv-written-test.com/question/before-changing-lanes-or-attempting-to-pass-another-vehicle-you-should_mVye8pP5.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "Before changing lanes or attempting to pass another vehicle, you should:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "Before changing lanes or attempting to pass another vehicle, you should:"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Always carefully look for motorcycles before you change lanes because:",
+        "about": {
+          "@type": "Thing",
+          "name": "Always carefully look for motorcycles before you change lanes because:"
+        },
+        "assesses": "Always carefully look for motorcycles before you change lanes because: | Always carefully look for motorcycles before you change lanes because: -  Real 2025 DMV Questions ",
+        "thumbnailUrl": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "answerCount": 3,
+        "eduQuestionType": "Multiple choice",
+        "learningResourceType": "Practice problem",
+        "encodingFormat": "text/html",
+        "text": "You should check carefully for motorcycles when changing lanes because their small size makes it easy for them to disappear into your blind spots.",
+        "suggestedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Their small size can make them hard to see.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Their small size can make them hard to see."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 2,
+            "text": "They usually have the right-of-way at intersections.",
+            "comment": {
+              "@type": "Comment",
+              "text": "They usually have the right-of-way at intersections."
+            }
+          },
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 3,
+            "text": "It is illegal for motorcycles to share traffic lanes.",
+            "comment": {
+              "@type": "Comment",
+              "text": "It is illegal for motorcycles to share traffic lanes."
+            }
+          }
+        ],
+        "acceptedAnswer": [
+          {
+            "@type": "Answer",
+            "encodingFormat": "text/html",
+            "position": 1,
+            "text": "Their small size can make them hard to see.",
+            "comment": {
+              "@type": "Comment",
+              "text": "Their small size can make them hard to see."
+            },
+            "answerExplanation": {
+              "@type": "Comment",
+              "text": "You should check carefully for motorcycles when changing lanes because their small size makes it easy for them to disappear into your blind spots.",
+              "encodingFormat": "text/html"
+            }
+          }
+        ],
+        "comment": {
+          "@type": "Comment",
+          "text": "Always carefully look for motorcycles before you change lanes because: | You should check carefully for motorcycles when changing lanes because their small size makes it easy for them to disappear into your blind spots."
+        },
+        "educationalAlignment": {
+          "@type": "AlignmentObject",
+          "alignmentType": "educationalSubject",
+          "educationalFramework": "DMV Written Test",
+          "targetDescription": "Always carefully look for motorcycles before you change lanes because: -  Real 2025 DMV Questions ",
+          "targetName": "Always carefully look for motorcycles before you change lanes because:",
+          "targetUrl": "https://www.dmv-written-test.com/question/always-carefully-look-for-motorcycles-before-you-change-lanes-because_wGPJQjr5.html"
+        },
+        "image": {
+          "@type": "ImageObject",
+          "author": "DMV Written Test",
+          "name": "Always carefully look for motorcycles before you change lanes because:",
+          "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+          "description": "Always carefully look for motorcycles before you change lanes because:"
+        }
+      }
+    ],
+    "abstract": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>.",
+    "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "assesses": "FREE California Permit Test 14 - Real 2025 DMV Test Questions | The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit https://cheat-sheets.dmv-written-test.com/en/california/car.",
+    "url": "https://www.dmv-written-test.com/california/practice-test-14.html",
+    "isPartOf": {
+      "@context": "http://schema.org",
+      "@type": "CreativeWorkSeries",
+      "name": "FREE California Permit Test 14 - Real 2025 DMV Test Questions",
+      "issn": "california/practice-test-14.html",
+      "accessMode": "textOnVisual",
+      "about": {
+        "@type": "Thing",
+        "name": "FREE California Permit Test 14 - Real 2025 DMV Test Questions"
+      },
+      "lastReviewed": "2022-01-07T10:57:08.000000Z",
+      "mainContentOfPage": {
+        "@type": "WebPageElement",
+        "cssSelector": [
+          "#series-description"
+        ]
+      },
+      "aggregateRating": {
+        "@type": "aggregateRating",
+        "ratingValue": "4.8470",
+        "reviewCount": 1144,
+        "bestRating": 5,
+        "worstRating": 1
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "author": "DMV Written Test",
+        "name": "2025 California Permit Test 14",
+        "url": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png",
+        "description": "The following questions are from real DMV written tests. These are some of the actual permit questions you will face in California. Each permit practice test question has three answer choices. Select one answer for each question and select \"grade this section.\" You can find this button at the bottom of the drivers license quiz.  For a complete list of questions and answers for California please visit <a href=\"https://cheat-sheets.dmv-written-test.com/en/california/car\" title=\"Get Your CA DMV Cheat Sheet Now!\">https://cheat-sheets.dmv-written-test.com/en/california/car</a>."
+      },
+      "significantLink": "https://cheat-sheets.dmv-written-test.com/en/california/car",
+      "specialty": "www.dmv-written-test.com",
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "name": "DMV Written Test",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "DMV Written Test",
+            "url": "https://www.dmv-written-test.com",
+            "item": {
+              "@id": "https://www.dmv-written-test.com",
+              "name": "DMV Written Test"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "california",
+            "url": "https://www.dmv-written-test.com/california",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california",
+              "name": "DMV Written Test 2025 California - DMV Practice Test - Real CA DMV Questions!"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "2025 California Permit Test 14",
+            "url": "https://www.dmv-written-test.com/california/practice-test-14.html",
+            "item": {
+              "@id": "https://www.dmv-written-test.com/california/practice-test-14.html",
+              "name": "2025 California Permit Test 14"
+            }
+          }
+        ]
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "xpath": [
+          "/html/head/title",
+          "/html/head/meta[@name='description']/@content"
+        ],
+        "url": "https://www.dmv-written-test.com/california/practice-test-14.html"
+      }
+    },
+    "provider": {
+      "@type": "Organization",
+      "name": "DMV Written Test",
+      "legalName": "Infinity Loop Capital LLC, CORP2000",
+      "slogan": "DMV",
+      "url": "https://www.dmv-written-test.com",
+      "email": "support@dmv-written-test.com",
+      "address": {
+        "@type": "PostalAddress",
+        "name": "Infinity Loop Capital LLC, CORP2000",
+        "addressLocality": "lindengasse 56/2",
+        "addressRegion": "32 West Loockerman Street, Suite 107, 19904 Dover DE"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": " ",
+        "contactType": "customer service"
+      },
+      "logo": {
+        "@type": "ImageObject",
+        "name": "DMV Written Test",
+        "url": "https://www.dmv-written-test.com/images/meta/logo.png",
+        "description": "DMV Written Test"
+      },
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "copyrightYear": "2025",
+    "dateCreated": "2021-11-23T12:41:49.000000Z",
+    "datePublished": "2021-11-23T12:41:49.000000Z",
+    "dateModified": "2022-01-07T10:57:08.000000Z",
+    "learningResourceType": "Car",
+    "educationalUse": "assignment",
+    "interactivityType": "mixed",
+    "accessMode": "textOnVisual",
+    "educationalLevel": "intermediate",
+    "typicalAgeRange": "16-72",
+    "educationalAlignment": {
+      "@type": "AlignmentObject",
+      "alignmentType": "educationalSubject",
+      "educationalFramework": "DMV Written Test",
+      "targetDescription": "DMV Written Test is the best at helping you pass your permit exam.  We only use real DMV questions on our practice tests and cheat sheets!",
+      "targetName": "DMV Written Test - DMV Practice Test 2025 - Real DMV Questions!",
+      "targetUrl": "https://www.dmv-written-test.com"
+    },
+    "image": {
+      "@type": "ImageObject",
+      "author": "DMV Written Test",
+      "name": "DMV Written Test",
+      "url": "https://www.dmv-written-test.com/images/meta/cover-1200x630.png",
+      "description": "Don't just take our word for it. Read what our satisfied users have to say about their DMV Practice Test experience."
+    },
+    "inLanguage": {
+      "@type": "Language",
+      "name": "English",
+      "alternateName": "en"
+    }
+  }
+]
