@@ -1,0 +1,175 @@
+{
+  "5": [
+    {
+      "question": "How can your health affect your driving?",
+      "options": [
+        { "text": "All of these factors can affect your driving", "isCorrect": true },
+        { "text": "Only vision affects driving, other health factors do not matter", "isCorrect": false, "explanation": "The handbook states that vision, hearing, fatigue, physical and mental health, and medications can all affect your driving ability." },
+        { "text": "Only medications prescribed by a doctor can affect driving", "isCorrect": false, "explanation": "Both prescription and over-the-counter medications can make you an unsafe driver." },
+        { "text": "Health only matters for commercial drivers, not regular drivers", "isCorrect": false, "explanation": "Health factors affect all drivers, not just commercial drivers." }
+      ]
+    },
+    {
+      "question": "What is prohibited regarding the use of headsets or earplugs while driving?",
+      "options": [
+        { "text": "It is illegal to wear a headset or earplugs in both ears while driving", "isCorrect": true },
+        { "text": "It is illegal to wear any headset or earplug even in one ear", "isCorrect": false, "explanation": "The handbook specifically states it's illegal to wear headsets or earplugs in both ears, implying one ear may be acceptable." },
+        { "text": "Headsets are legal but earplugs are illegal", "isCorrect": false, "explanation": "Both headsets and earplugs in both ears are illegal while driving." },
+        { "text": "Headsets and earplugs are legal as long as you can hear emergency vehicles", "isCorrect": false, "explanation": "The law specifically prohibits wearing headsets or earplugs in both ears regardless of your ability to hear emergency vehicles." }
+      ]
+    },
+    {
+      "question": "What is the recommended hand position for hand-to-hand steering?",
+      "options": [
+        { "text": "9 and 3 o'clock or 8 and 4 o'clock", "isCorrect": true },
+        { "text": "10 and 2 o'clock", "isCorrect": false, "explanation": "The handbook recommends 9 and 3 o'clock or 8 and 4 o'clock, not 10 and 2 o'clock." },
+        { "text": "7 and 5 o'clock", "isCorrect": false, "explanation": "7 and 5 o'clock is not a recommended hand position." },
+        { "text": "12 o'clock with one hand", "isCorrect": false, "explanation": "Using one hand at 12 o'clock is only recommended in specific situations like backing up, not as a general steering method." }
+      ]
+    },
+    {
+      "question": "When should you use hand-over-hand steering?",
+      "options": [
+        { "text": "When turning at low speeds, parking, or recovering from a skid", "isCorrect": true },
+        { "text": "For all highway driving", "isCorrect": false, "explanation": "Hand-over-hand steering is for low-speed maneuvers, not highway driving." },
+        { "text": "Only during emergencies", "isCorrect": false, "explanation": "Hand-over-hand steering is used for various situations, not just emergencies." },
+        { "text": "Never, as it's dangerous in all situations", "isCorrect": false, "explanation": "Hand-over-hand steering is a proper technique for specific situations like low-speed turns." }
+      ]
+    },
+    {
+      "question": "In what situations is one-hand steering appropriate?",
+      "options": [
+        { "text": "When turning while backing up or when operating vehicle controls", "isCorrect": true },
+        { "text": "Always, as it provides better control", "isCorrect": false, "explanation": "One-hand steering is only appropriate in limited situations, not as a general practice." },
+        { "text": "When driving on straight highways", "isCorrect": false, "explanation": "The handbook doesn't recommend one-hand steering for driving on straight highways." },
+        { "text": "When talking on a cell phone", "isCorrect": false, "explanation": "Talking on a handheld cell phone while driving is illegal in California." }
+      ]
+    },
+    {
+      "question": "How far before making a turn should you signal?",
+      "options": [
+        { "text": "At least 100 feet", "isCorrect": true },
+        { "text": "At least 50 feet", "isCorrect": false, "explanation": "The handbook states you should signal at least 100 feet before turning, not 50 feet." },
+        { "text": "At least 200 feet", "isCorrect": false, "explanation": "While signaling earlier is not wrong, the minimum requirement is at least 100 feet." },
+        { "text": "Only when you begin to turn", "isCorrect": false, "explanation": "Signaling only when beginning to turn is too late and does not give other drivers adequate warning." }
+      ]
+    },
+    {
+      "question": "How long before changing lanes on a freeway should you signal?",
+      "options": [
+        { "text": "At least 5 seconds", "isCorrect": true },
+        { "text": "At least 3 seconds", "isCorrect": false, "explanation": "For freeway lane changes, you need to signal at least 5 seconds before changing lanes, not 3 seconds." },
+        { "text": "At least 100 feet", "isCorrect": false, "explanation": "Freeway signals are measured in time (5 seconds) rather than distance." },
+        { "text": "Only when you begin to change lanes", "isCorrect": false, "explanation": "Signaling only when beginning to change lanes is too late and unsafe for freeway driving." }
+      ]
+    },
+    {
+      "question": "When should you use your vehicle's horn?",
+      "options": [
+        { "text": "To avoid collisions or alert traffic on narrow mountain roads", "isCorrect": true },
+        { "text": "To express frustration at other drivers", "isCorrect": false, "explanation": "Using your horn to express frustration is not an appropriate use." },
+        { "text": "To greet other drivers you know", "isCorrect": false, "explanation": "Horns are safety devices, not greeting signals." },
+        { "text": "Whenever someone is driving too slowly", "isCorrect": false, "explanation": "Using your horn because someone is driving slowly is not an appropriate use." }
+      ]
+    },
+    {
+      "question": "When should you dim your high-beam headlights to low beams?",
+      "options": [
+        { "text": "Within 500 feet of an oncoming vehicle or 300 feet of a vehicle you're following", "isCorrect": true },
+        { "text": "Only when in city areas", "isCorrect": false, "explanation": "You need to dim your high beams regardless of location when approaching or following other vehicles." },
+        { "text": "Within 100 feet of any other vehicle", "isCorrect": false, "explanation": "The correct distances are 500 feet for oncoming vehicles and 300 feet for vehicles you're following." },
+        { "text": "Only when another driver flashes their lights at you", "isCorrect": false, "explanation": "You should dim your lights based on distance, not just when another driver signals you." }
+      ]
+    },
+    {
+      "question": "Under what conditions must you use your low-beam headlights?",
+      "options": [
+        { "text": "In adverse weather when using windshield wipers due to fog, rain, or snow", "isCorrect": true },
+        { "text": "Only from 30 minutes after sunset until 30 minutes before sunrise", "isCorrect": false, "explanation": "While headlights are required during these hours, they're also required in adverse weather conditions." },
+        { "text": "Only when driving in rural areas", "isCorrect": false, "explanation": "Headlight requirements apply to all areas, not just rural ones." },
+        { "text": "Only when visibility is less than 500 feet", "isCorrect": false, "explanation": "The handbook states headlights are required when it's too dark to see from 1,000 feet away, not 500 feet." }
+      ]
+    },
+    {
+      "question": "What should you do if you need to stop on the road due to vehicle trouble?",
+      "options": [
+        { "text": "Turn on your emergency flashers and pull off the road away from traffic if possible", "isCorrect": true },
+        { "text": "Stop immediately where you are", "isCorrect": false, "explanation": "You should try to pull off the road away from traffic, not stop immediately where you are." },
+        { "text": "Coast to a stop without using any lights or signals", "isCorrect": false, "explanation": "You should use emergency flashers to alert other drivers of your situation." },
+        { "text": "Turn off your vehicle completely including all lights", "isCorrect": false, "explanation": "You should keep emergency flashers on to make your vehicle visible to other drivers." }
+      ]
+    },
+    {
+      "question": "If you can see a collision or hazard ahead, how should you warn drivers behind you?",
+      "options": [
+        { "text": "Turn on emergency flashers, tap your brake pedal, or use a hand signal", "isCorrect": true },
+        { "text": "Only use your horn", "isCorrect": false, "explanation": "While a horn may be used, emergency flashers, brake taps, and hand signals are better ways to warn drivers behind you." },
+        { "text": "Speed up to get away from the hazard", "isCorrect": false, "explanation": "Speeding up doesn't warn drivers behind you and may lead you into the hazard." },
+        { "text": "Change lanes without signaling", "isCorrect": false, "explanation": "Changing lanes without signaling is dangerous and doesn't warn drivers behind you." }
+      ]
+    },
+    {
+      "question": "When should you use your vehicle's parking lights instead of headlights?",
+      "options": [
+        { "text": "Never, it is illegal to drive using only parking lights", "isCorrect": true },
+        { "text": "When driving in well-lit city areas", "isCorrect": false, "explanation": "It's illegal to drive using only parking lights in any situation." },
+        { "text": "When driving at dusk or dawn", "isCorrect": false, "explanation": "You should use proper headlights, not just parking lights, when driving at dusk or dawn." },
+        { "text": "When it's raining or foggy", "isCorrect": false, "explanation": "In rain or fog, you need low-beam headlights, not parking lights." }
+      ]
+    },
+    {
+      "question": "In addition to dawn and dusk, when should you use your headlights to help other drivers see your vehicle?",
+      "options": [
+        { "text": "When the sun is low on the horizon", "isCorrect": true },
+        { "text": "Only when it's completely dark", "isCorrect": false, "explanation": "Headlights should be used in various conditions of reduced visibility, not just complete darkness." },
+        { "text": "Only when other drivers have their headlights on", "isCorrect": false, "explanation": "You should use your headlights based on visibility conditions, not just what other drivers are doing." },
+        { "text": "Only during official sunset and sunrise hours", "isCorrect": false, "explanation": "There are many conditions besides official sunset/sunrise when headlights improve visibility." }
+      ]
+    },
+    {
+      "question": "What are the ONLY two situations that may require steering with one hand?",
+      "options": [
+        { "text": "When turning while backing up or when operating vehicle controls", "isCorrect": true },
+        { "text": "When driving on straight roads or talking on a hands-free phone", "isCorrect": false, "explanation": "One-hand steering is not recommended for straight roads, and using a phone while driving should minimize distraction." },
+        { "text": "When eating or drinking while driving", "isCorrect": false, "explanation": "Eating or drinking while driving is not mentioned as a legitimate reason for one-hand steering." },
+        { "text": "When driving at low speeds or in parking lots", "isCorrect": false, "explanation": "Low-speed driving does not justify one-hand steering according to the handbook." }
+      ]
+    },
+    {
+      "question": "What might a physician be required to report to the DMV regarding their patients?",
+      "options": [
+        { "text": "Medical conditions that may affect the ability to drive safely, such as lapse of consciousness", "isCorrect": true },
+        { "text": "All medical conditions of anyone with a driver's license", "isCorrect": false, "explanation": "Physicians only report conditions that may affect safe driving, not all medical conditions." },
+        { "text": "Only conditions that have already caused an accident", "isCorrect": false, "explanation": "Physicians report conditions that may affect driving ability, not just those that have already caused accidents." },
+        { "text": "Only terminal illnesses", "isCorrect": false, "explanation": "Physicians report any condition that may affect driving ability, not just terminal illnesses." }
+      ]
+    },
+    {
+      "question": "What hand position should you start with when using hand-over-hand steering?",
+      "options": [
+        { "text": "8 and 4 o'clock", "isCorrect": true },
+        { "text": "9 and 3 o'clock", "isCorrect": false, "explanation": "For hand-over-hand steering, the handbook specifically recommends starting at 8 and 4 o'clock." },
+        { "text": "10 and 2 o'clock", "isCorrect": false, "explanation": "The handbook does not recommend 10 and 2 o'clock for hand-over-hand steering." },
+        { "text": "7 and 5 o'clock", "isCorrect": false, "explanation": "7 and 5 o'clock is not a recommended starting position for hand-over-hand steering." }
+      ]
+    },
+    {
+      "question": "What should you do during a turn when using hand-to-hand steering?",
+      "options": [
+        { "text": "Keep your hands in the recommended positions and do not cross them over the middle", "isCorrect": true },
+        { "text": "Cross your hands over the middle of the wheel", "isCorrect": false, "explanation": "The handbook specifically says not to cross your hands over the middle of the steering wheel." },
+        { "text": "Remove one hand from the wheel during the turn", "isCorrect": false, "explanation": "You should keep both hands on the wheel during turns when using hand-to-hand steering." },
+        { "text": "Switch to one-hand steering during the turn", "isCorrect": false, "explanation": "One-hand steering is not recommended for making turns except when backing up." }
+      ]
+    },
+    {
+      "question": "Which of these health factors can affect your driving ability?",
+      "options": [
+        { "text": "Fatigue and drowsiness", "isCorrect": true },
+        { "text": "Only vision problems", "isCorrect": false, "explanation": "While vision is important, other factors like fatigue, medications, and hearing also affect driving ability." },
+        { "text": "Only diagnosed mental health conditions", "isCorrect": false, "explanation": "Many health factors, not just diagnosed mental health conditions, can affect driving." },
+        { "text": "Only conditions that require prescription medication", "isCorrect": false, "explanation": "Many health factors, including those not requiring medication, can affect driving ability." }
+      ]
+    }
+  ]
+}

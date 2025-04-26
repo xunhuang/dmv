@@ -1,0 +1,184 @@
+{
+  "4": [
+    {
+      "question": "What must you do if you legally change your name?",
+      "options": [
+        { "text": "Notify DMV and update your driver's license", "isCorrect": true },
+        { "text": "Nothing until your license expires", "isCorrect": false, "explanation": "You must notify DMV when you legally change your name, not wait until your license expires." },
+        { "text": "Only update your vehicle registration", "isCorrect": false, "explanation": "You need to update your driver's license, not just your vehicle registration, when you legally change your name." },
+        { "text": "Retake the driving test", "isCorrect": false, "explanation": "Changing your name does not require retaking the driving test." }
+      ]
+    },
+    {
+      "question": "How long do you have to notify DMV if you move to a new address?",
+      "options": [
+        { "text": "10 days", "isCorrect": true },
+        { "text": "30 days", "isCorrect": false, "explanation": "You must notify DMV within 10 days of moving, not 30 days." },
+        { "text": "60 days", "isCorrect": false, "explanation": "You must notify DMV within 10 days of moving, not 60 days." },
+        { "text": "Only when renewing your license", "isCorrect": false, "explanation": "You must notify DMV within 10 days of moving, not wait until renewal." }
+      ]
+    },
+    {
+      "question": "When you change your address, do you automatically receive a new driver's license?",
+      "options": [
+        { "text": "No, you must request a replacement for a fee", "isCorrect": true },
+        { "text": "Yes, it is sent automatically", "isCorrect": false, "explanation": "You do not automatically get a new driver's license when you change your address." },
+        { "text": "Only if your license is about to expire", "isCorrect": false, "explanation": "Changing your address does not trigger an automatic license replacement regardless of expiration date." },
+        { "text": "Yes, but only if you visit a DMV office", "isCorrect": false, "explanation": "You must specifically request a replacement license; it's not automatically issued when you report an address change." }
+      ]
+    },
+    {
+      "question": "What should you do with your old driver's license after receiving a replacement?",
+      "options": [
+        { "text": "Destroy it because it is no longer valid", "isCorrect": true },
+        { "text": "Keep it as a backup ID", "isCorrect": false, "explanation": "Once you receive a replacement, your old license is no longer valid and should be destroyed." },
+        { "text": "Return it to the DMV", "isCorrect": false, "explanation": "You should destroy your old license after receiving a replacement, not return it to DMV." },
+        { "text": "Continue to use it until the expiration date", "isCorrect": false, "explanation": "Your old license becomes invalid once a replacement is issued, regardless of the expiration date." }
+      ]
+    },
+    {
+      "question": "Is it legal to drive with an expired driver's license?",
+      "options": [
+        { "text": "No, it is against the law", "isCorrect": true },
+        { "text": "Yes, as long as it's less than 30 days expired", "isCorrect": false, "explanation": "It is against the law to drive with an expired driver's license, regardless of how recently it expired." },
+        { "text": "Yes, if you have applied for renewal", "isCorrect": false, "explanation": "Even if you've applied for renewal, it's illegal to drive with an expired license without a valid temporary license." },
+        { "text": "Only for essential trips", "isCorrect": false, "explanation": "It is illegal to drive with an expired license for any type of trip." }
+      ]
+    },
+    {
+      "question": "How can you request a replacement for a lost, stolen, or damaged driver's license?",
+      "options": [
+        { "text": "Visit dmv.ca.gov/dlservices or a DMV office", "isCorrect": true },
+        { "text": "Call the local police department", "isCorrect": false, "explanation": "You need to contact DMV, not the police, to replace a lost, stolen, or damaged license." },
+        { "text": "Wait until your license renewal date", "isCorrect": false, "explanation": "You should replace a lost, stolen, or damaged license immediately, not wait for renewal." },
+        { "text": "Apply through the postal service", "isCorrect": false, "explanation": "You cannot apply for a replacement license through the postal service; you must use DMV's website or visit a DMV office." }
+      ]
+    },
+    {
+      "question": "What may be required before DMV can issue you a driver's license?",
+      "options": [
+        { "text": "Additional proof of your identity", "isCorrect": true },
+        { "text": "Recommendation from a driving instructor", "isCorrect": false, "explanation": "DMV may require additional proof of identity, not a recommendation from a driving instructor." },
+        { "text": "Proof of vehicle ownership", "isCorrect": false, "explanation": "You don't need to own a vehicle to get a driver's license." },
+        { "text": "Social media account verification", "isCorrect": false, "explanation": "DMV does not require social media account verification to issue a driver's license." }
+      ]
+    },
+    {
+      "question": "If you are out-of-state and cannot renew your driver's license, what can you request?",
+      "options": [
+        { "text": "A one-year extension of your driver's license", "isCorrect": true },
+        { "text": "Permission to drive with an expired license", "isCorrect": false, "explanation": "You can request an extension, not permission to drive with an expired license." },
+        { "text": "An out-of-state license", "isCorrect": false, "explanation": "You would request an extension of your California license, not an out-of-state license." },
+        { "text": "A temporary digital license", "isCorrect": false, "explanation": "California DMV offers a one-year extension, not a temporary digital license, for out-of-state drivers who cannot renew." }
+      ]
+    },
+    {
+      "question": "How do you submit a request for a one-year extension if you are out-of-state?",
+      "options": [
+        { "text": "Email dl-extensions@dmv.ca.gov with your info", "isCorrect": true },
+        { "text": "Send a letter to the DMV headquarters", "isCorrect": false, "explanation": "You should email dl-extensions@dmv.ca.gov, not send a letter to DMV headquarters." },
+        { "text": "Apply through the DMV mobile app", "isCorrect": false, "explanation": "You need to email dl-extensions@dmv.ca.gov; there is no mobile app option mentioned for this purpose." },
+        { "text": "Call the DMV customer service line", "isCorrect": false, "explanation": "You should email dl-extensions@dmv.ca.gov rather than calling DMV customer service." }
+      ]
+    },
+    {
+      "question": "What information must you include when requesting an out-of-state extension?",
+      "options": [
+        { "text": "Name, driver's license number, birth date, California residence address, and out-of-state address", "isCorrect": true },
+        { "text": "Only your name and driver's license number", "isCorrect": false, "explanation": "You must also include birth date, California residence address, and out-of-state address." },
+        { "text": "Only your social security number and current location", "isCorrect": false, "explanation": "You need to provide name, driver's license number, birth date, California residence address, and out-of-state address." },
+        { "text": "Only your passport information and reason for travel", "isCorrect": false, "explanation": "You need to provide name, driver's license number, birth date, California residence address, and out-of-state address, not passport information." }
+      ]
+    },
+    {
+      "question": "Are limited-term driver's licenses eligible for the out-of-state extension?",
+      "options": [
+        { "text": "No", "isCorrect": true },
+        { "text": "Yes", "isCorrect": false, "explanation": "Limited-term driver's licenses are not eligible for the out-of-state extension." },
+        { "text": "Only if extended by a court order", "isCorrect": false, "explanation": "Limited-term driver's licenses are not eligible for the out-of-state extension, regardless of court orders." },
+        { "text": "Only for military personnel", "isCorrect": false, "explanation": "Limited-term driver's licenses are not eligible for the out-of-state extension, even for military personnel." }
+      ]
+    },
+    {
+      "question": "What must you do before DMV can issue you a driver's license if your identity document expires on the same date as your driver's license?",
+      "options": [
+        { "text": "Provide a valid identity document", "isCorrect": true },
+        { "text": "Only renew your driver's license", "isCorrect": false, "explanation": "If your identity document expires on the same date as your license, you must provide a valid identity document." },
+        { "text": "Take a new driver's test", "isCorrect": false, "explanation": "A new driver's test is not required; you need to provide a valid identity document." },
+        { "text": "Pay a special processing fee", "isCorrect": false, "explanation": "You need to provide a valid identity document, not just pay a special fee." }
+      ]
+    },
+    {
+      "question": "If you are a minor, what additional requirement is there when replacing a driver's license?",
+      "options": [
+        { "text": "Your parent or guardian must sign the application", "isCorrect": true },
+        { "text": "You must have a school ID", "isCorrect": false, "explanation": "A minor needs a parent or guardian signature, not specifically a school ID." },
+        { "text": "You must bring a birth certificate", "isCorrect": false, "explanation": "While identification is needed, the specific requirement mentioned is that a parent or guardian must sign the application." },
+        { "text": "You must retake the driving test", "isCorrect": false, "explanation": "Minors don't need to retake the driving test to replace a license, but they do need a parent or guardian signature." }
+      ]
+    },
+    {
+      "question": "How can you change your address with the DMV?",
+      "options": [
+        { "text": "Submit a change of address online at dmv.ca.gov/addresschange or by mail", "isCorrect": true },
+        { "text": "Only by visiting a DMV office in person", "isCorrect": false, "explanation": "You can change your address online or by mail; an in-person visit is not required." },
+        { "text": "Only through the post office", "isCorrect": false, "explanation": "You need to submit the change directly to DMV online or by mail, not through the post office." },
+        { "text": "By calling the DMV customer service line", "isCorrect": false, "explanation": "The handbook specifically mentions online or mail options, not a phone option." }
+      ]
+    },
+    {
+      "question": "What happens if your old driver's license is found after you've received a replacement?",
+      "options": [
+        { "text": "You should destroy it as it's no longer valid", "isCorrect": true },
+        { "text": "You can use either license", "isCorrect": false, "explanation": "Once you receive a replacement, your old license is no longer valid and should be destroyed." },
+        { "text": "You must return it to DMV", "isCorrect": false, "explanation": "You should destroy your old license if found after receiving a replacement, not return it to DMV." },
+        { "text": "You can keep it as a secondary ID", "isCorrect": false, "explanation": "Your old license is no longer valid after a replacement is issued and should not be used as ID." }
+      ]
+    },
+    {
+      "question": "When must you provide additional proof of identity to DMV?",
+      "options": [
+        { "text": "When your driver's license and identity document expire on the same date", "isCorrect": true },
+        { "text": "Only when getting your first license", "isCorrect": false, "explanation": "You may also need to provide additional proof if your identity document expires on the same date as your license." },
+        { "text": "Only after a traffic violation", "isCorrect": false, "explanation": "Traffic violations don't typically trigger a need for additional identity proof; document expiration dates are the issue mentioned." },
+        { "text": "Only when changing your name", "isCorrect": false, "explanation": "While you need to provide documentation when changing your name, the question specifically addresses when both your license and identity document expire together." }
+      ]
+    },
+    {
+      "question": "Who is responsible for ensuring DMV has your correct mailing address?",
+      "options": [
+        { "text": "You are responsible", "isCorrect": true },
+        { "text": "The post office", "isCorrect": false, "explanation": "It is your responsibility to ensure DMV has your correct address, not the post office's." },
+        { "text": "The DMV", "isCorrect": false, "explanation": "You are responsible for ensuring DMV has your correct address, not the DMV itself." },
+        { "text": "Your insurance company", "isCorrect": false, "explanation": "You are responsible for ensuring DMV has your correct address, not your insurance company." }
+      ]
+    },
+    {
+      "question": "When should you request a one-year extension for your driver's license if you are out-of-state?",
+      "options": [
+        { "text": "Before your driver's license expires", "isCorrect": true },
+        { "text": "After your driver's license expires", "isCorrect": false, "explanation": "You should request the extension before your license expires, not after." },
+        { "text": "Only if you're moving back to California", "isCorrect": false, "explanation": "You should request the extension if you cannot renew due to being out-of-state, regardless of plans to return." },
+        { "text": "Only after living out-of-state for one year", "isCorrect": false, "explanation": "You should request the extension before your license expires if you cannot renew due to being out-of-state." }
+      ]
+    },
+    {
+      "question": "What does DMV require you to do when you make an identity-related change to your driver's license?",
+      "options": [
+        { "text": "Provide additional proof of your identity", "isCorrect": true },
+        { "text": "Pay a higher fee than for regular renewals", "isCorrect": false, "explanation": "The handbook mentions providing additional proof of identity, not specifically a higher fee." },
+        { "text": "Always appear in person at a DMV office", "isCorrect": false, "explanation": "While you may need to provide identity documentation, the handbook doesn't state all identity changes require in-person visits." },
+        { "text": "Retake both written and driving tests", "isCorrect": false, "explanation": "Identity changes don't typically require retaking tests; they require additional proof of identity." }
+      ]
+    },
+    {
+      "question": "What should you do to renew or replace a lost, stolen, or damaged driver's license?",
+      "options": [
+        { "text": "Visit dmv.ca.gov/dlservices or a DMV office", "isCorrect": true },
+        { "text": "File a police report first", "isCorrect": false, "explanation": "You should contact DMV directly to replace a lost, stolen, or damaged license; filing a police report first is not required." },
+        { "text": "Get a temporary license from law enforcement", "isCorrect": false, "explanation": "You need to contact DMV directly, not law enforcement, to get a replacement license." },
+        { "text": "Wait for your renewal notice", "isCorrect": false, "explanation": "You should replace a lost, stolen, or damaged license right away, not wait for a renewal notice." }
+      ]
+    }
+  ]
+}

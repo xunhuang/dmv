@@ -1,0 +1,188 @@
+{
+  "14": [
+    {
+      "question": "What is a behind-the-wheel drive test?",
+      "options": [
+        { "text": "A test where you have control of the vehicle and are accompanied by a DMV examiner who evaluates your driving skills", "isCorrect": true },
+        { "text": "A written test about vehicle control techniques", "isCorrect": false, "explanation": "This describes a knowledge test, not a behind-the-wheel drive test." },
+        { "text": "A test where the DMV examiner drives while you observe", "isCorrect": false, "explanation": "During a behind-the-wheel test, you are the one driving while the examiner evaluates." },
+        { "text": "A simulation test done on a computer", "isCorrect": false, "explanation": "The behind-the-wheel test is done in an actual vehicle, not a simulation." }
+      ]
+    },
+    {
+      "question": "What does BAC (Blood Alcohol Concentration) measure?",
+      "options": [
+        { "text": "The amount of alcohol in your blood", "isCorrect": true },
+        { "text": "The amount of time alcohol remains in your system", "isCorrect": false, "explanation": "BAC measures the concentration of alcohol in blood, not how long it remains." },
+        { "text": "The number of alcoholic drinks consumed", "isCorrect": false, "explanation": "BAC measures alcohol concentration in blood, not the number of drinks consumed." },
+        { "text": "Your body's tolerance to alcohol", "isCorrect": false, "explanation": "BAC is a measurement of alcohol in blood, not your tolerance level." }
+      ]
+    },
+    {
+      "question": "What is DPE in the California Driver's Handbook?",
+      "options": [
+        { "text": "Driving Performance Evaluation - the portion of the behind-the-wheel test when a DMV examiner evaluates your driving skills", "isCorrect": true },
+        { "text": "Driver Permit Examination - the written test for an instruction permit", "isCorrect": false, "explanation": "DPE stands for Driving Performance Evaluation, not Driver Permit Examination." },
+        { "text": "Department of Public Education - the agency that oversees driver education", "isCorrect": false, "explanation": "DPE stands for Driving Performance Evaluation, not Department of Public Education." },
+        { "text": "Defensive Position Exercise - a required driving maneuver", "isCorrect": false, "explanation": "DPE stands for Driving Performance Evaluation, not Defensive Position Exercise." }
+      ]
+    },
+    {
+      "question": "According to the glossary, who is considered a pedestrian?",
+      "options": [
+        { "text": "A person walking or a person with a disability using a tricycle, quadricycle, or wheelchair for transportation", "isCorrect": true },
+        { "text": "Only people who are walking on foot", "isCorrect": false, "explanation": "The definition also includes people with disabilities using certain mobility devices." },
+        { "text": "Anyone not in a motor vehicle", "isCorrect": false, "explanation": "While pedestrians are not in motor vehicles, the definition is more specific." },
+        { "text": "Only people crossing at crosswalks", "isCorrect": false, "explanation": "Pedestrian status is not limited to crosswalk usage." }
+      ]
+    },
+    {
+      "question": "What does 'right-of-way' determine?",
+      "options": [
+        { "text": "Who is allowed to go first in situations where vehicles, pedestrians, and cyclists meet on the road", "isCorrect": true },
+        { "text": "Which side of the road to drive on", "isCorrect": false, "explanation": "Right-of-way determines who goes first at intersections and other meeting points, not which side to drive on." },
+        { "text": "The legal boundaries of a roadway", "isCorrect": false, "explanation": "Right-of-way refers to who proceeds first, not physical boundaries." },
+        { "text": "The maximum speed limit on a road", "isCorrect": false, "explanation": "Right-of-way is about traffic flow priority, not speed limits." }
+      ]
+    },
+    {
+      "question": "What is the three-second rule in driving?",
+      "options": [
+        { "text": "A rule that helps you estimate how closely to follow other vehicles by counting three seconds between when they pass a point and when you do", "isCorrect": true },
+        { "text": "The maximum time allowed at a stop sign", "isCorrect": false, "explanation": "The three-second rule is about safe following distance, not stop sign timing." },
+        { "text": "How long to hold your brakes after stopping", "isCorrect": false, "explanation": "The three-second rule is about maintaining safe following distance while in motion." },
+        { "text": "The time allowed to respond to a traffic signal change", "isCorrect": false, "explanation": "The three-second rule refers to maintaining safe following distance between vehicles." }
+      ]
+    },
+    {
+      "question": "What is a traffic citation?",
+      "options": [
+        { "text": "An official summons issued by law enforcement for violating a traffic law", "isCorrect": true },
+        { "text": "A driver's license renewal notice", "isCorrect": false, "explanation": "A traffic citation is issued for violations, not for license renewals." },
+        { "text": "A warning from the DMV about points on your record", "isCorrect": false, "explanation": "A traffic citation is issued by law enforcement at the time of a violation." },
+        { "text": "A recommendation for traffic school", "isCorrect": false, "explanation": "While traffic school might be an option after receiving a citation, the citation itself is the official summons for a violation." }
+      ]
+    },
+    {
+      "question": "Who are considered Vulnerable Road Users (VRUs)?",
+      "options": [
+        { "text": "Non-motorized road users such as cyclists, pedestrians, and persons with disabilities using wheelchairs, tricycles, or quadricycles", "isCorrect": true },
+        { "text": "Only children and elderly pedestrians", "isCorrect": false, "explanation": "VRUs include all non-motorized road users regardless of age." },
+        { "text": "Only motorcyclists", "isCorrect": false, "explanation": "While motorcyclists may be vulnerable, the term specifically refers to non-motorized road users." },
+        { "text": "Emergency vehicles with lights flashing", "isCorrect": false, "explanation": "Emergency vehicles are motorized and not considered VRUs." }
+      ]
+    },
+    {
+      "question": "What does it mean to 'yield' in driving?",
+      "options": [
+        { "text": "To wait for, slow down, and be ready to stop (if necessary) to allow other vehicles or pedestrians who have right-of-way to proceed", "isCorrect": true },
+        { "text": "To always come to a complete stop", "isCorrect": false, "explanation": "Yielding means being prepared to stop if necessary, but doesn't always require a complete stop." },
+        { "text": "To increase your speed to merge with traffic", "isCorrect": false, "explanation": "Yielding involves slowing down, not speeding up." },
+        { "text": "To change lanes immediately", "isCorrect": false, "explanation": "Yielding relates to giving right-of-way, not necessarily changing lanes." }
+      ]
+    },
+    {
+      "question": "What must you do at an intersection with a flashing red traffic signal light?",
+      "options": [
+        { "text": "Stop, then proceed when it is safe", "isCorrect": true },
+        { "text": "Slow down and proceed with caution", "isCorrect": false, "explanation": "A flashing red light requires a complete stop, like a stop sign." },
+        { "text": "Stop only if other vehicles are present", "isCorrect": false, "explanation": "You must stop at a flashing red light regardless of whether other vehicles are present." },
+        { "text": "Stop and wait until the light changes", "isCorrect": false, "explanation": "After stopping at a flashing red light, you can proceed when safe without waiting for the light to change." }
+      ]
+    },
+    {
+      "question": "What is the purpose of a traffic break conducted by law enforcement?",
+      "options": [
+        { "text": "To slow or stop traffic to remove hazards or during poor visibility conditions", "isCorrect": true },
+        { "text": "To issue citations to multiple drivers", "isCorrect": false, "explanation": "Traffic breaks are safety measures, not enforcement actions." },
+        { "text": "To close a road permanently", "isCorrect": false, "explanation": "Traffic breaks are temporary measures to address immediate safety concerns." },
+        { "text": "To test drivers' reaction times", "isCorrect": false, "explanation": "Traffic breaks serve practical safety purposes, not to test drivers." }
+      ]
+    },
+    {
+      "question": "What is hydroplaning?",
+      "options": [
+        { "text": "When a vehicle rides on water because the tires lose all contact with the road", "isCorrect": true },
+        { "text": "Driving through deep puddles", "isCorrect": false, "explanation": "Hydroplaning specifically refers to when tires lose contact with the road due to water." },
+        { "text": "Using windshield wipers during rain", "isCorrect": false, "explanation": "Hydroplaning refers to a dangerous loss of traction, not to using vehicle equipment." },
+        { "text": "Splashing water on other vehicles", "isCorrect": false, "explanation": "Hydroplaning is a safety hazard related to your own vehicle's traction, not about affecting other vehicles." }
+      ]
+    },
+    {
+      "question": "What is a center left turn lane used for?",
+      "options": [
+        { "text": "To prepare for and make a left turn or U-turn", "isCorrect": true },
+        { "text": "Regular travel in either direction", "isCorrect": false, "explanation": "The center left turn lane is not for regular travel." },
+        { "text": "Passing slower vehicles", "isCorrect": false, "explanation": "It's illegal to use the center left turn lane for passing." },
+        { "text": "Emergency vehicles only", "isCorrect": false, "explanation": "The center left turn lane is for all vehicles needing to make left turns, not just emergency vehicles." }
+      ]
+    },
+    {
+      "question": "What is a bicycle boulevard?",
+      "options": [
+        { "text": "A street that prioritizes bicycle travel on streets shared with vehicle traffic", "isCorrect": true },
+        { "text": "A road where bicycles are the only vehicles allowed", "isCorrect": false, "explanation": "Bicycle boulevards are shared with vehicle traffic, not exclusively for bicycles." },
+        { "text": "A specially marked bicycle lane on highways", "isCorrect": false, "explanation": "Bicycle boulevards are streets, not just lanes on highways." },
+        { "text": "A path completely separated from vehicle traffic", "isCorrect": false, "explanation": "Bicycle boulevards share the road with vehicles, unlike separate bicycle paths." }
+      ]
+    },
+    {
+      "question": "What is a turnout area or lane?",
+      "options": [
+        { "text": "A special area or lane on two-lane roads where slow vehicles can allow others to pass", "isCorrect": true },
+        { "text": "An area to make U-turns", "isCorrect": false, "explanation": "Turnout areas are for letting other vehicles pass, not specifically for making U-turns." },
+        { "text": "A type of exit ramp", "isCorrect": false, "explanation": "Turnout areas are not exit ramps but rather areas for temporary use to allow passing." },
+        { "text": "A designated area for emergency vehicles only", "isCorrect": false, "explanation": "Turnout areas are for any slow-moving vehicle to allow others to pass, not just for emergency vehicles." }
+      ]
+    },
+    {
+      "question": "What is the No Zone related to large vehicles?",
+      "options": [
+        { "text": "The large blind spots around trucks where your vehicle can disappear from the truck driver's view", "isCorrect": true },
+        { "text": "Areas where trucks are not allowed to drive", "isCorrect": false, "explanation": "The No Zone refers to blind spots around large vehicles, not restricted driving areas." },
+        { "text": "Places where parking is prohibited", "isCorrect": false, "explanation": "The No Zone is about visibility and blind spots, not parking regulations." },
+        { "text": "Sections of the road damaged by heavy vehicles", "isCorrect": false, "explanation": "The No Zone refers to blind spots around large vehicles, not road damage." }
+      ]
+    },
+    {
+      "question": "What does the Basic Speed Law in California state?",
+      "options": [
+        { "text": "You may never drive faster than is safe for current conditions, regardless of the posted speed limit", "isCorrect": true },
+        { "text": "You must always drive at exactly the posted speed limit", "isCorrect": false, "explanation": "The Basic Speed Law requires adjusting speed for conditions, even if below the posted limit." },
+        { "text": "The minimum speed on highways is 45 mph", "isCorrect": false, "explanation": "The Basic Speed Law is about maximum safe speeds, not minimum speeds." },
+        { "text": "Speed limits only apply during daylight hours", "isCorrect": false, "explanation": "The Basic Speed Law applies at all times, regardless of lighting conditions." }
+      ]
+    },
+    {
+      "question": "What is a DMV administrative hearing?",
+      "options": [
+        { "text": "A hearing conducted by DMV that provides an opportunity to be heard before action is taken against your driving privilege", "isCorrect": true },
+        { "text": "A class for traffic violators", "isCorrect": false, "explanation": "An administrative hearing is a legal proceeding, not an educational class." },
+        { "text": "The process of renewing your license", "isCorrect": false, "explanation": "An administrative hearing is related to potential actions against your license, not routine renewal." },
+        { "text": "A meeting to dispute parking tickets", "isCorrect": false, "explanation": "DMV administrative hearings deal with driving privileges, not parking violations." }
+      ]
+    },
+    {
+      "question": "What is carbon monoxide as it relates to vehicles?",
+      "options": [
+        { "text": "A deadly odorless gas released from a vehicle's exhaust pipe", "isCorrect": true },
+        { "text": "A harmless component of gasoline", "isCorrect": false, "explanation": "Carbon monoxide is toxic and potentially deadly, not harmless." },
+        { "text": "A substance that improves fuel efficiency", "isCorrect": false, "explanation": "Carbon monoxide is a dangerous byproduct, not something that improves vehicle performance." },
+        { "text": "A chemical used in cleaning windshields", "isCorrect": false, "explanation": "Carbon monoxide is an exhaust gas, not a cleaning agent." }
+      ]
+    },
+    {
+      "question": "What is the Mature Driver Improvement Program?",
+      "options": [
+        { "text": "An eight-hour course for drivers 55 years and older covering topics of special interest to mature drivers", "isCorrect": true },
+        { "text": "A mandatory annual test for drivers over 70", "isCorrect": false, "explanation": "The program is optional, not mandatory, and it's for drivers 55 and older." },
+        { "text": "A restricted license program for seniors", "isCorrect": false, "explanation": "The program is educational, not a license restriction program." },
+        {
+          "text": "A discount program for senior car insurance without any educational requirements",
+          "isCorrect": false,
+          "explanation": "While insurance discounts may be available"
+        }
+      ]
+    }
+  ]
+}

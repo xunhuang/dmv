@@ -1,0 +1,184 @@
+{
+  "10": [
+    {
+      "question": "What is the minimum bodily injury liability coverage required for California auto insurance?",
+      "options": [
+        { "text": "$15,000 for a single death or injury, $30,000 for death or injury to more than one person", "isCorrect": true },
+        { "text": "$25,000 for a single death or injury, $50,000 for death or injury to more than one person", "isCorrect": false, "explanation": "The minimum required is $15,000 for single injury/death and $30,000 for multiple injuries/deaths." },
+        { "text": "$10,000 for a single death or injury, $20,000 for death or injury to more than one person", "isCorrect": false, "explanation": "These amounts are below the minimum required in California." },
+        { "text": "$50,000 for a single death or injury, $100,000 for death or injury to more than one person", "isCorrect": false, "explanation": "These amounts exceed the minimum requirements in California." }
+      ]
+    },
+    {
+      "question": "What is the minimum property damage liability coverage required in California?",
+      "options": [
+        { "text": "$5,000", "isCorrect": true },
+        { "text": "$10,000", "isCorrect": false, "explanation": "The minimum property damage coverage required is $5,000, not $10,000." },
+        { "text": "$15,000", "isCorrect": false, "explanation": "The minimum property damage coverage required is $5,000, not $15,000." },
+        { "text": "$25,000", "isCorrect": false, "explanation": "The minimum property damage coverage required is $5,000, not $25,000." }
+      ]
+    },
+    {
+      "question": "Who takes on financial responsibility for drivers under 18 years old?",
+      "options": [
+        { "text": "Parents or guardians", "isCorrect": true },
+        { "text": "The teenage driver", "isCorrect": false, "explanation": "Drivers under 18 are not financially responsible; their parents or guardians are." },
+        { "text": "The insurance company", "isCorrect": false, "explanation": "Insurance companies provide coverage, but parents/guardians take on the financial responsibility." },
+        { "text": "The Department of Motor Vehicles", "isCorrect": false, "explanation": "The DMV does not take on financial responsibility for any drivers." }
+      ]
+    },
+    {
+      "question": "What should you do if you cannot afford liability insurance in California?",
+      "options": [
+        { "text": "You may be eligible for the California Low Cost Automobile Insurance Program", "isCorrect": true },
+        { "text": "Drive without insurance until you can afford it", "isCorrect": false, "explanation": "Driving without insurance is illegal in California." },
+        { "text": "Request a waiver from DMV", "isCorrect": false, "explanation": "The DMV does not offer insurance waivers; you must maintain proper coverage." },
+        { "text": "Register your vehicle in another state with lower requirements", "isCorrect": false, "explanation": "This would be illegal if you live in California." }
+      ]
+    },
+    {
+      "question": "What are the most common causes of collisions?",
+      "options": [
+        { "text": "Driver distractions, unsafe speed, improper turns, and not following right-of-way rules", "isCorrect": true },
+        { "text": "Weather conditions only", "isCorrect": false, "explanation": "While weather can be a factor, driver behaviors like distractions and unsafe speed are more common causes." },
+        { "text": "Vehicle mechanical failures only", "isCorrect": false, "explanation": "While mechanical failures can cause collisions, driver behaviors are more common causes." },
+        { "text": "Road design flaws only", "isCorrect": false, "explanation": "While road design can be a factor, driver behaviors are more common causes of collisions." }
+      ]
+    },
+    {
+      "question": "What must you do if you are involved in a collision?",
+      "options": [
+        { "text": "Stop, even if no one is hurt", "isCorrect": true },
+        { "text": "Stop only if someone is injured", "isCorrect": false, "explanation": "You must stop regardless of whether anyone is injured." },
+        { "text": "Leave the scene if your vehicle is still drivable", "isCorrect": false, "explanation": "Leaving the scene of an accident (hit-and-run) is illegal and severely punished." },
+        { "text": "Stop only if there is property damage over $2,000", "isCorrect": false, "explanation": "You must stop regardless of the amount of damage." }
+      ]
+    },
+    {
+      "question": "When must you report a collision to DMV?",
+      "options": [
+        { "text": "Within 10 days if the collision caused more than $1,000 in damage or if anyone was injured or killed", "isCorrect": true },
+        { "text": "Only if someone was killed in the collision", "isCorrect": false, "explanation": "You must report if there's over $1,000 in damage OR if anyone was injured or killed." },
+        { "text": "Within 30 days regardless of damage amount", "isCorrect": false, "explanation": "The requirement is within 10 days, not 30, and only if damage exceeds $1,000 or there are injuries/fatalities." },
+        { "text": "Only if you were at fault in the collision", "isCorrect": false, "explanation": "You must report regardless of who was at fault." }
+      ]
+    },
+    {
+      "question": "What form must each driver file with DMV after a reportable collision?",
+      "options": [
+        { "text": "Report of Traffic Accident Occurring in California (SR 1)", "isCorrect": true },
+        { "text": "California Collision Report (CR 2)", "isCorrect": false, "explanation": "The correct form is the SR 1, not CR 2." },
+        { "text": "Traffic Incident Report (TIR 1)", "isCorrect": false, "explanation": "The correct form is the SR 1, not TIR 1." },
+        { "text": "DMV Accident Notification (DAN 5)", "isCorrect": false, "explanation": "The correct form is the SR 1, not DAN 5." }
+      ]
+    },
+    {
+      "question": "What happens if you're in a collision without proper insurance coverage?",
+      "options": [
+        { "text": "Your driving privilege will be suspended for up to four years", "isCorrect": true },
+        { "text": "You will receive a fine but can continue driving", "isCorrect": false, "explanation": "Your driving privilege will be suspended, not just fined." },
+        { "text": "You must pay a fee to DMV but can keep driving", "isCorrect": false, "explanation": "Your driving privilege will be suspended; paying a fee is not sufficient." },
+        { "text": "Nothing, as long as you weren't at fault", "isCorrect": false, "explanation": "Your driving privilege will be suspended regardless of who was at fault." }
+      ]
+    },
+    {
+      "question": "How can you get your driver's license back after a suspension for being in a collision without insurance?",
+      "options": [
+        { "text": "Provide a California Insurance Proof Certificate (SR 22/SR 1P) and maintain it during the last three years of the suspension", "isCorrect": true },
+        { "text": "Pay a reinstatement fee only", "isCorrect": false, "explanation": "You must provide an SR 22/SR 1P and maintain it; a fee alone is not sufficient." },
+        { "text": "Wait until the four-year suspension period is over", "isCorrect": false, "explanation": "You can get your license back during the last three years of the suspension if you maintain an SR 22/SR 1P." },
+        { "text": "Complete a traffic school course", "isCorrect": false, "explanation": "Traffic school does not resolve insurance-related suspensions." }
+      ]
+    },
+    {
+      "question": "What should you do if you hit a parked car or other property and cannot find the owner?",
+      "options": [
+        { "text": "Leave a note with your name, phone number, and address securely attached to the vehicle or property and report the collision to law enforcement", "isCorrect": true },
+        { "text": "Take a photo of the damage and leave", "isCorrect": false, "explanation": "You must leave your contact information and report the incident to law enforcement." },
+        { "text": "Report it to your insurance company only", "isCorrect": false, "explanation": "You must leave your contact information and report to law enforcement, not just your insurance." },
+        { "text": "There's no need to do anything if no one saw you", "isCorrect": false, "explanation": "Leaving without providing information is a hit-and-run, which is illegal." }
+      ]
+    },
+    {
+      "question": "When should you call 911 after a collision?",
+      "options": [
+        { "text": "Right away if anyone is hurt", "isCorrect": true },
+        { "text": "Only if someone is killed", "isCorrect": false, "explanation": "You should call 911 immediately if anyone is injured, not just in case of fatality." },
+        { "text": "Only after exchanging information with the other driver", "isCorrect": false, "explanation": "Call 911 immediately if anyone is injured, before exchanging information." },
+        { "text": "Only after moving vehicles out of traffic", "isCorrect": false, "explanation": "If someone is injured, call 911 first before moving vehicles." }
+      ]
+    },
+    {
+      "question": "What information must you show to the other driver if you're in a collision?",
+      "options": [
+        { "text": "Driver's license, vehicle registration card, insurance information, and current address", "isCorrect": true },
+        { "text": "Only your name and phone number", "isCorrect": false, "explanation": "You must show your driver's license, registration, insurance information, and current address." },
+        { "text": "Only your insurance information", "isCorrect": false, "explanation": "You must show your driver's license, registration, insurance information, and current address." },
+        { "text": "Only your driver's license", "isCorrect": false, "explanation": "You must show your driver's license, registration, insurance information, and current address." }
+      ]
+    },
+    {
+      "question": "When must you report a collision to law enforcement?",
+      "options": [
+        { "text": "Within 24 hours if anyone is injured or killed", "isCorrect": true },
+        { "text": "Within 48 hours for any collision", "isCorrect": false, "explanation": "You must report to law enforcement within 24 hours if there are injuries or fatalities." },
+        { "text": "Only if property damage exceeds $5,000", "isCorrect": false, "explanation": "You must report within 24 hours if anyone is injured or killed, regardless of damage amount." },
+        { "text": "Only if the other driver doesn't have insurance", "isCorrect": false, "explanation": "You must report within 24 hours if anyone is injured or killed, regardless of insurance status." }
+      ]
+    },
+    {
+      "question": "What happens if you fail to file a collision report with DMV when required?",
+      "options": [
+        { "text": "Your driving privilege will be suspended", "isCorrect": true },
+        { "text": "You'll receive a warning letter only", "isCorrect": false, "explanation": "Failure to file a required report results in suspension of your driving privilege, not just a warning." },
+        { "text": "You'll need to pay a small fine", "isCorrect": false, "explanation": "Your driving privilege will be suspended, not just fined." },
+        { "text": "Nothing, the report is optional", "isCorrect": false, "explanation": "The report is mandatory in specified circumstances, not optional." }
+      ]
+    },
+    {
+      "question": "What happens if a collision resulting in damage or injuries appears on your driver's record?",
+      "options": [
+        { "text": "It is added to your driver's record regardless of who caused the collision", "isCorrect": true },
+        { "text": "It is only added if you were at fault", "isCorrect": false, "explanation": "The collision is added to your record regardless of who was at fault." },
+        { "text": "It is only added if it resulted in a ticket", "isCorrect": false, "explanation": "The collision is added to your record based on damage amount or injuries, not whether you received a ticket." },
+        { "text": "It is only added if your insurance company reports it", "isCorrect": false, "explanation": "DMV adds the collision to your record based on required reporting, not insurance company reports." }
+      ]
+    },
+    {
+      "question": "What should you do if you kill or injure an animal in a collision?",
+      "options": [
+        { "text": "Call the nearest humane society or law enforcement and don't try to move an injured animal", "isCorrect": true },
+        { "text": "Move the animal off the road and continue driving", "isCorrect": false, "explanation": "You should call for help and not attempt to move an injured animal." },
+        { "text": "You're not required to do anything for animals", "isCorrect": false, "explanation": "You should report injured or killed animals to the humane society or law enforcement." },
+        { "text": "Only report it if it was a domestic pet", "isCorrect": false, "explanation": "You should report any animal that is injured or killed, not just domestic pets." }
+      ]
+    },
+    {
+      "question": "Who must file a collision report with DMV?",
+      "options": [
+        { "text": "Each driver involved in the collision must file their own report", "isCorrect": true },
+        { "text": "Only the driver who caused the collision", "isCorrect": false, "explanation": "Each driver must file a report regardless of who was at fault." },
+        { "text": "Only the driver who suffered the most damage", "isCorrect": false, "explanation": "Each driver must file their own report, not just the one with the most damage." },
+        { "text": "Law enforcement will file the report for all drivers", "isCorrect": false, "explanation": "Law enforcement does not file the DMV report for you; each driver must file their own." }
+      ]
+    },
+    {
+      "question": "What should you do if you see a vehicle's emergency flashers ahead on the road?",
+      "options": [
+        { "text": "Slow down as there may be a collision or other road emergency", "isCorrect": true },
+        { "text": "Maintain your speed but change lanes", "isCorrect": false, "explanation": "You should slow down when you see emergency flashers ahead." },
+        { "text": "Speed up to pass the potential hazard quickly", "isCorrect": false, "explanation": "Speeding up could be dangerous; you should slow down when you see emergency flashers." },
+        { "text": "Ignore them as they're probably not important", "isCorrect": false, "explanation": "Emergency flashers indicate a potential hazard that requires caution and reduced speed." }
+      ]
+    },
+    {
+      "question": "What is the California Low Cost Automobile Insurance Program?",
+      "options": [
+        { "text": "A program for those who cannot afford standard liability insurance", "isCorrect": true },
+        { "text": "Insurance for low-value vehicles only", "isCorrect": false, "explanation": "The program is based on the driver's income eligibility, not the value of the vehicle." },
+        { "text": "Insurance with reduced coverage limits only for seniors", "isCorrect": false, "explanation": "The program is for any eligible low-income driver, not just seniors." },
+        { "text": "Free insurance provided by the state", "isCorrect": false, "explanation": "The program offers low-cost insurance, not free insurance." }
+      ]
+    }
+  ]
+}

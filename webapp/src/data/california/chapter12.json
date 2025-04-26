@@ -1,0 +1,184 @@
+{
+  "12": [
+    {
+      "question": "What is the basis for DMV to reexamine a driver's ability to operate a motor vehicle safely?",
+      "options": [
+        { "text": "A physical or mental condition or poor driver's record", "isCorrect": true },
+        { "text": "The driver's age", "isCorrect": false, "explanation": "The handbook specifically states that a driver's age is not the basis for reexamination." },
+        { "text": "The make and model of the vehicle", "isCorrect": false, "explanation": "Vehicle type is not a basis for driver reexamination." },
+        { "text": "The number of years a person has been driving", "isCorrect": false, "explanation": "Experience level is not specifically mentioned as a basis for reexamination." }
+      ]
+    },
+    {
+      "question": "Who can refer a driver to DMV for reexamination?",
+      "options": [
+        { "text": "A physician, law enforcement officer, or family member", "isCorrect": true },
+        { "text": "Only law enforcement officers", "isCorrect": false, "explanation": "Physicians and family members can also make referrals." },
+        { "text": "Only medical professionals", "isCorrect": false, "explanation": "Law enforcement and family members can also make referrals." },
+        { "text": "Any concerned citizen", "isCorrect": false, "explanation": "The handbook specifically lists physicians, law enforcement, and family members." }
+      ]
+    },
+    {
+      "question": "What form is used to request a driver reexamination?",
+      "options": [
+        { "text": "Request for Driver Reexamination form", "isCorrect": true },
+        { "text": "Driver Safety Assessment form", "isCorrect": false, "explanation": "This is not the correct form name mentioned in the handbook." },
+        { "text": "Medical Evaluation Request form", "isCorrect": false, "explanation": "This is not the correct form name mentioned in the handbook." },
+        { "text": "Driver Competency Report", "isCorrect": false, "explanation": "This is not the correct form name mentioned in the handbook." }
+      ]
+    },
+    {
+      "question": "What cognitive disorders are mentioned as presenting a significant challenge to safe driving?",
+      "options": [
+        { "text": "Dementia, seizure disorder, brain tumor, Parkinson's disease, stroke, or vertigo", "isCorrect": true },
+        { "text": "Only Alzheimer's disease", "isCorrect": false, "explanation": "The handbook lists multiple conditions, not just Alzheimer's disease." },
+        { "text": "Only conditions that affect vision", "isCorrect": false, "explanation": "The handbook mentions several cognitive disorders, not just vision-related conditions." },
+        { "text": "Only conditions that affect physical movement", "isCorrect": false, "explanation": "The handbook specifically mentions cognitive disorders, not just physical limitations." }
+      ]
+    },
+    {
+      "question": "What may DMV do during a driver reexamination process?",
+      "options": [
+        { "text": "Request medical information, conduct a reexamination, require tests, issue a limited term license, suspend/revoke driving privilege, or take no action", "isCorrect": true },
+        { "text": "Only suspend or revoke a license", "isCorrect": false, "explanation": "DMV has multiple options beyond just suspension or revocation." },
+        { "text": "Only require a behind-the-wheel test", "isCorrect": false, "explanation": "DMV can take various actions, not just require a driving test." },
+        { "text": "Automatically revoke the license of anyone with a medical condition", "isCorrect": false, "explanation": "DMV evaluates each case individually and has multiple possible actions." }
+      ]
+    },
+    {
+      "question": "What happens if you receive a Notice of Priority Reexamination with the top box checked?",
+      "options": [
+        { "text": "You have five working days to contact DMV or your driving privilege will be automatically suspended", "isCorrect": true },
+        { "text": "You have 30 days to appear for a reexamination", "isCorrect": false, "explanation": "The handbook specifies only five working days, not 30 days." },
+        { "text": "You can continue driving with no restrictions", "isCorrect": false, "explanation": "You must contact DMV within five working days or face automatic suspension." },
+        { "text": "Your license is immediately suspended", "isCorrect": false, "explanation": "Suspension occurs only if you fail to contact DMV within five working days." }
+      ]
+    },
+    {
+      "question": "What is the purpose of restrictions placed on a driver's license?",
+      "options": [
+        { "text": "To ensure a driver is operating a vehicle within their ability", "isCorrect": true },
+        { "text": "To punish drivers for traffic violations", "isCorrect": false, "explanation": "Restrictions are about safety, not punishment." },
+        { "text": "To limit driving privileges based on age", "isCorrect": false, "explanation": "The handbook specifically states that restrictions are not based on age." },
+        { "text": "To collect additional fees from drivers", "isCorrect": false, "explanation": "Restrictions are imposed for safety reasons, not financial ones." }
+      ]
+    },
+    {
+      "question": "What is an example of a restriction that may be placed on a driver's license?",
+      "options": [
+        { "text": "Requiring a driver to place special mechanical devices on their vehicle, such as hand controls", "isCorrect": true },
+        { "text": "Prohibiting the driver from carrying passengers", "isCorrect": false, "explanation": "This is not listed as a standard restriction in the handbook." },
+        { "text": "Requiring the driver to pay higher insurance premiums", "isCorrect": false, "explanation": "DMV doesn't regulate insurance rates through license restrictions." },
+        { "text": "Requiring the driver to only drive electric vehicles", "isCorrect": false, "explanation": "This is not listed as a standard restriction in the handbook." }
+      ]
+    },
+    {
+      "question": "What is specifically stated about restrictions for senior drivers?",
+      "options": [
+        { "text": "There are no specific restrictions for seniors; all restrictions are based on conditions, not age", "isCorrect": true },
+        { "text": "All seniors must have daytime-only driving restrictions", "isCorrect": false, "explanation": "The handbook explicitly states there are no specific restrictions based on age." },
+        { "text": "Seniors are automatically restricted from freeway driving", "isCorrect": false, "explanation": "The handbook explicitly states there are no specific restrictions based on age." },
+        { "text": "Seniors must renew their license every year", "isCorrect": false, "explanation": "This is not stated in the handbook as a restriction for seniors." }
+      ]
+    },
+    {
+      "question": "How are restrictions or conditions placed on a driver's license determined?",
+      "options": [
+        { "text": "Based on the examiner's findings and recommendations", "isCorrect": true },
+        { "text": "Based solely on the driver's age", "isCorrect": false, "explanation": "The handbook states restrictions are not based on age." },
+        { "text": "Based only on the vehicle type", "isCorrect": false, "explanation": "Restrictions are based on a driver's abilities, not just vehicle type." },
+        { "text": "Based only on self-reported limitations", "isCorrect": false, "explanation": "Restrictions are determined by DMV examiners based on their findings." }
+      ]
+    },
+    {
+      "question": "What should a driver do if they are concerned about their driving skills?",
+      "options": [
+        { "text": "Ask a trusted driver with a valid license to observe their driving and give feedback", "isCorrect": true },
+        { "text": "Continue driving as usual but avoid freeways", "isCorrect": false, "explanation": "This isn't the recommended approach for addressing safety concerns." },
+        { "text": "Immediately stop driving without seeking evaluation", "isCorrect": false, "explanation": "The handbook suggests getting feedback before making decisions." },
+        { "text": "Only drive at night when there's less traffic", "isCorrect": false, "explanation": "Driving at night can be more challenging and isn't recommended for those with concerns." }
+      ]
+    },
+    {
+      "question": "What is the purpose of the Driver Safety team at DMV?",
+      "options": [
+        { "text": "To schedule reexaminations for drivers with cognitive impairments", "isCorrect": true },
+        { "text": "To issue traffic tickets", "isCorrect": false, "explanation": "Issuing tickets is a law enforcement function, not DMV's Driver Safety team." },
+        { "text": "To teach driving classes", "isCorrect": false, "explanation": "Teaching driving classes is not the function of DMV's Driver Safety team." },
+        { "text": "To sell insurance", "isCorrect": false, "explanation": "Selling insurance is not a function of any DMV department." }
+      ]
+    },
+    {
+      "question": "What is stated about restrictions for drivers with physical or mental conditions?",
+      "options": [
+        { "text": "Restrictions will be reasonable and necessary for safety", "isCorrect": true },
+        { "text": "All drivers with medical conditions will lose their license", "isCorrect": false, "explanation": "The handbook states restrictions are reasonable and necessary, not automatic revocation." },
+        { "text": "No accommodations are possible for physical limitations", "isCorrect": false, "explanation": "The handbook mentions accommodations like special mechanical devices on vehicles." },
+        { "text": "Restrictions are permanent and cannot be amended", "isCorrect": false, "explanation": "This is not stated in the handbook, and restrictions can change based on condition changes." }
+      ]
+    },
+    {
+      "question": "What information might DMV request during a reexamination?",
+      "options": [
+        { "text": "Medical information from you or your physician", "isCorrect": true },
+        { "text": "Your employment history", "isCorrect": false, "explanation": "Employment history is not mentioned as information requested during reexamination." },
+        { "text": "Your criminal record", "isCorrect": false, "explanation": "Criminal record is not mentioned as information requested during reexamination." },
+        { "text": "Your income tax returns", "isCorrect": false, "explanation": "Financial information is not mentioned as information requested during reexamination." }
+      ]
+    },
+    {
+      "question": "What tests might DMV require during a reexamination?",
+      "options": [
+        { "text": "Knowledge, vision, or driving tests", "isCorrect": true },
+        { "text": "Blood tests", "isCorrect": false, "explanation": "Blood tests are not mentioned as part of DMV reexaminations." },
+        { "text": "Psychological evaluations", "isCorrect": false, "explanation": "While mental conditions are considered, specific psychological evaluations are not mentioned." },
+        { "text": "Physical fitness tests", "isCorrect": false, "explanation": "Physical fitness tests are not mentioned as part of DMV reexaminations." }
+      ]
+    },
+    {
+      "question": "Under what circumstances might DMV immediately suspend a driving privilege?",
+      "options": [
+        { "text": "If a physical or mental condition presents an immediate threat to public safety", "isCorrect": true },
+        { "text": "If the driver is over a certain age", "isCorrect": false, "explanation": "The handbook explicitly states that restrictions are not based on age." },
+        { "text": "If the driver has not paid registration fees", "isCorrect": false, "explanation": "Registration fees are not mentioned as a reason for immediate suspension in this section." },
+        { "text": "If the driver needs corrective lenses", "isCorrect": false, "explanation": "Needing corrective lenses typically results in a restriction, not a suspension." }
+      ]
+    },
+    {
+      "question": "What is the purpose of a limited term driver's license?",
+      "options": [
+        { "text": "To monitor drivers with physical or mental conditions", "isCorrect": true },
+        { "text": "Only for foreign visitors", "isCorrect": false, "explanation": "Limited term licenses are issued to monitor drivers with conditions, not specifically for visitors." },
+        { "text": "Only for new drivers", "isCorrect": false, "explanation": "Limited term licenses can be issued to any driver with conditions requiring monitoring." },
+        { "text": "Only for commercial drivers", "isCorrect": false, "explanation": "Limited term licenses are not restricted to just commercial drivers." }
+      ]
+    },
+    {
+      "question": "What are warning signs that might indicate an unsafe driver?",
+      "options": [
+        { "text": "Getting lost in familiar places, dents and scrapes on the car, frequent close calls or collisions", "isCorrect": true },
+        { "text": "Only driving during daylight hours", "isCorrect": false, "explanation": "Limiting driving to daylight is often a good safety practice, not a warning sign." },
+        { "text": "Using corrective lenses", "isCorrect": false, "explanation": "Using prescribed corrective lenses is a responsible practice, not a warning sign." },
+        { "text": "Asking for directions", "isCorrect": false, "explanation": "Asking for directions shows awareness, not an inability to drive safely." }
+      ]
+    },
+    {
+      "question": "What options might a senior driver consider to improve safety?",
+      "options": [
+        { "text": "Limiting night driving, driving during light traffic, avoiding difficult intersections, or limiting distances", "isCorrect": true },
+        { "text": "Only driving sports cars", "isCorrect": false, "explanation": "Vehicle type is not mentioned as a safety consideration for senior drivers." },
+        { "text": "Driving faster than the flow of traffic", "isCorrect": false, "explanation": "Driving faster than traffic flow would increase risk, not improve safety." },
+        { "text": "Removing all mirrors from the vehicle", "isCorrect": false, "explanation": "Removing mirrors would reduce visibility and safety." }
+      ]
+    },
+    {
+      "question": "What actions might DMV take after receiving a referral about a driver with mild cognitive impairment?",
+      "options": [
+        { "text": "Schedule a reexamination", "isCorrect": true },
+        { "text": "Automatically revoke the license", "isCorrect": false, "explanation": "DMV schedules a reexamination first rather than automatic revocation." },
+        { "text": "Issue a fine", "isCorrect": false, "explanation": "Issuing fines is not mentioned as a DMV response to cognitive impairment." },
+        { "text": "Take no action unless there has been a collision", "isCorrect": false, "explanation": "DMV schedules reexaminations based on the referral, not only after collisions." }
+      ]
+    }
+  ]
+}
