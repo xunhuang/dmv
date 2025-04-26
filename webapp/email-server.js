@@ -118,7 +118,7 @@ const server = http.createServer(async (req, res) => {
 });
 
 // Start the server
-const PORT = process.env.EMAIL_PORT || 5001;
+const PORT = process.env.PORT || 8080;
 server.listen(PORT, () => {
   console.log(`Email server running on port ${PORT}`);
 });

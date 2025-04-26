@@ -6,7 +6,8 @@
   "scripts": {
     "start": "node email-server.js",
     "dev": "nodemon email-server.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "ENV_VARS=$(grep -v '^#' .env.production | tr '\\n' ',' | sed 's/,$//') && gcloud run deploy p5 --source . --region us-central1 --allow-unauthenticated --set-env-vars \"$ENV_VARS\""
   },
   "dependencies": {
     "dotenv": "^16.0.3",
