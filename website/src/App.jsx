@@ -21,11 +21,8 @@ const App = () => {
     return savedCount ? parseInt(savedCount, 10) : 100;
   });
   const [showProfileMenu, setShowProfileMenu] = useState(false);
-  const [darkMode, setDarkMode] = useState(() => {
-    // Load dark mode setting from localStorage
-    const savedMode = localStorage.getItem("darkMode");
-    return savedMode ? JSON.parse(savedMode) : true;
-  });
+  // Force light mode only
+  const darkMode = false;
   const [comprehensiveTestScores, setComprehensiveTestScores] = useState(() => {
     // Load comprehensive test scores from localStorage
     const savedScores = localStorage.getItem("comprehensiveTestScores");
@@ -47,10 +44,6 @@ const App = () => {
     localStorage.setItem("questionCount", questionCount.toString());
   }, [questionCount]);
 
-  // Save darkMode to localStorage whenever it changes
-  useEffect(() => {
-    localStorage.setItem("darkMode", JSON.stringify(darkMode));
-  }, [darkMode]);
 
   // Save email preferences to localStorage whenever they change
   useEffect(() => {
@@ -383,7 +376,7 @@ const App = () => {
                         ? "bg-green-100 border-green-500"
                         : "bg-red-100 border-red-500"
                       : option.isCorrect
-                      ? "bg-green-900 border-green-600"
+                      ? "bg-green-900 border-green-600 text-white"
                       : "bg-gray-100 border-gray-300"
                   }`}
                 >
@@ -391,7 +384,7 @@ const App = () => {
                     <div className="mr-2 font-bold">
                       {String.fromCharCode(65 + optIndex)}.
                     </div>
-                    <div className={darkMode ? "" : "text-gray-900"}>
+                    <div>
                       {option.text}
                     </div>
                   </div>
@@ -479,41 +472,6 @@ const App = () => {
                     <option value={15}>15 questions</option>
                     <option value={100}>All questions</option>
                   </select>
-                </div>
-                <div>
-                  <label
-                    className={`text-sm ${
-                      darkMode ? "text-gray-300" : "text-gray-600"
-                    } mb-1`}
-                  >
-                    Display Mode:
-                  </label>
-                  <div className="flex items-center space-x-2 mt-1">
-                    <button
-                      onClick={() => setDarkMode(false)}
-                      className={`px-3 py-1 rounded ${
-                        !darkMode
-                          ? "bg-blue-500 text-white"
-                          : darkMode
-                          ? "bg-gray-600 text-gray-300"
-                          : "bg-gray-200 text-gray-700"
-                      }`}
-                    >
-                      Light
-                    </button>
-                    <button
-                      onClick={() => setDarkMode(true)}
-                      className={`px-3 py-1 rounded ${
-                        darkMode
-                          ? "bg-blue-500 text-white"
-                          : darkMode
-                          ? "bg-gray-600 text-gray-300"
-                          : "bg-gray-200 text-gray-700"
-                      }`}
-                    >
-                      Dark
-                    </button>
-                  </div>
                 </div>
                 <div className="mt-2">
                   <label
@@ -803,9 +761,9 @@ const App = () => {
                     selectedAnswers[questionIndex] === optionIndex
                       ? quizSubmitted
                         ? option.isCorrect
-                          ? "bg-green-900 border-green-500"
-                          : "bg-red-900 border-red-500"
-                        : "bg-blue-900 border-blue-500"
+                          ? "bg-green-500 border-green-500 text-white"
+                          : "bg-red-500 border-red-500 text-white"
+                        : "bg-blue-500 border-blue-500 text-white"
                       : "bg-gray-100 border-gray-300 hover:bg-gray-200"
                   }`}
                 >
@@ -813,7 +771,7 @@ const App = () => {
                     <div className="mr-2 font-bold">
                       {String.fromCharCode(65 + optionIndex)}.
                     </div>
-                    <div className={darkMode ? "" : "text-gray-900"}>
+                    <div>
                       {option.text}
                     </div>
                   </div>
@@ -821,7 +779,7 @@ const App = () => {
                   {quizSubmitted &&
                     selectedAnswers[questionIndex] === optionIndex &&
                     !option.isCorrect && (
-                      <div className="mt-2 text-red-400 text-sm">
+                      <div className="mt-2 text-white text-sm">
                         {option.explanation}
                       </div>
                     )}
