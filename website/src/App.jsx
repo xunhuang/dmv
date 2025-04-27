@@ -44,7 +44,6 @@ const App = () => {
     localStorage.setItem("questionCount", questionCount.toString());
   }, [questionCount]);
 
-
   // Save email preferences to localStorage whenever they change
   useEffect(() => {
     localStorage.setItem("userEmail", emailAddress);
@@ -356,15 +355,22 @@ const App = () => {
               Question {index + 1}: {question.question}
             </h3>
 
-            {question.imgFileName && (
-              <div className="mb-4">
-                <img
-                  src={`/images/${question.imgFileName}`}
-                  alt={`Question ${index + 1} diagram`}
-                  className="max-w-full rounded-md border border-gray-300 mx-auto"
-                />
-              </div>
-            )}
+            {question.imgFileName &&
+              !question.imgFileName.startsWith(
+                "https://www.dmv-written-test."
+              ) && (
+                <div className="mb-4">
+                  <img
+                    src={
+                      question.imgFileName.startsWith("https://")
+                        ? question.imgFileName
+                        : `/images/${question.imgFileName}`
+                    }
+                    alt={`Question ${index + 1} diagram`}
+                    className="max-w-full rounded-md border border-gray-300 mx-auto"
+                  />
+                </div>
+              )}
 
             <div className="space-y-3">
               {question.options.map((option, optIndex) => (
@@ -384,9 +390,7 @@ const App = () => {
                     <div className="mr-2 font-bold">
                       {String.fromCharCode(65 + optIndex)}.
                     </div>
-                    <div>
-                      {option.text}
-                    </div>
+                    <div>{option.text}</div>
                   </div>
                   {question.selectedAnswer === optIndex &&
                     !option.isCorrect && (
@@ -742,15 +746,22 @@ const App = () => {
               Question {questionIndex + 1}: {question.question}
             </h3>
 
-            {question.imgFileName && (
-              <div className="mb-4">
-                <img
-                  src={`/images/${question.imgFileName}`}
-                  alt={`Question ${questionIndex + 1} diagram`}
-                  className="max-w-full rounded-md border border-gray-300 mx-auto"
-                />
-              </div>
-            )}
+            {question.imgFileName &&
+              !question.imgFileName.startsWith(
+                "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+              ) && (
+                <div className="mb-4">
+                  <img
+                    src={
+                      question.imgFileName.startsWith("https://")
+                        ? question.imgFileName
+                        : `/images/${question.imgFileName}`
+                    }
+                    alt={`Question ${questionIndex + 1} diagram`}
+                    className="max-w-full rounded-md border border-gray-300 mx-auto"
+                  />
+                </div>
+              )}
 
             <div className="space-y-3">
               {question.options.map((option, optionIndex) => (
@@ -771,9 +782,7 @@ const App = () => {
                     <div className="mr-2 font-bold">
                       {String.fromCharCode(65 + optionIndex)}.
                     </div>
-                    <div>
-                      {option.text}
-                    </div>
+                    <div>{option.text}</div>
                   </div>
 
                   {quizSubmitted &&

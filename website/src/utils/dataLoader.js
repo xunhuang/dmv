@@ -11,20 +11,21 @@ export const loadData = async () => {
   try {
     // First try importing the JSON directly (works in development with Vite)
     // Use dynamic import for JSON files
-    const importedData = await import('../data/california-combined-questions.json');
+    // const importedData = await import('../data/california-combined-questions.json');
+    const importedData = await import("../data/dmvtest24.json");
     combinedData = importedData.default || importedData;
   } catch (err) {
-    console.error('Failed to import JSON directly:', err);
+    console.error("Failed to import JSON directly:", err);
     // If import fails, try fetching it as a file (works in production)
     try {
-      const response = await fetch('/combined-questions.json');
+      const response = await fetch("/combined-questions.json");
       combinedData = await response.json();
     } catch (fetchErr) {
-      console.error('Failed to load data:', fetchErr);
+      console.error("Failed to load data:", fetchErr);
       // Provide a fallback empty structure
-      combinedData = { 
-        chapters: [], 
-        questionsByChapter: {} 
+      combinedData = {
+        chapters: [],
+        questionsByChapter: {},
       };
     }
   }
@@ -42,24 +43,30 @@ export const api = {
       }, 300);
     });
   },
-  
+
   getQuestionsByChapter: async (chapterId, userPreferences = {}) => {
     const data = await loadData();
     return new Promise((resolve) => {
       setTimeout(() => {
-        const questions = (data.questionsByChapter && data.questionsByChapter[chapterId]) || [];
+        const questions =
+          (data.questionsByChapter && data.questionsByChapter[chapterId]) || [];
         // Use questionsLimit from userPreferences, with fallbacks
-        const questionsLimit = userPreferences.questionsLimit ||
+        const questionsLimit =
+          userPreferences.questionsLimit ||
           (import.meta.env.DEV ? 2 : Infinity); // Use Vite's import.meta.env.DEV instead of process.env
 
         // Randomly shuffle the questions array
-        const shuffledQuestions = [...questions].sort(() => Math.random() - 0.5);
+        const shuffledQuestions = [...questions].sort(
+          () => Math.random() - 0.5
+        );
 
         // Randomize the options order for each question
-        const questionsWithRandomizedOptions = shuffledQuestions.slice(0, questionsLimit).map(question => ({
-          ...question,
-          options: [...question.options].sort(() => Math.random() - 0.5)
-        }));
+        const questionsWithRandomizedOptions = shuffledQuestions
+          .slice(0, questionsLimit)
+          .map((question) => ({
+            ...question,
+            options: [...question.options].sort(() => Math.random() - 0.5),
+          }));
         resolve(questionsWithRandomizedOptions);
       }, 500);
     });
@@ -72,19 +79,19 @@ export const api = {
       setTimeout(() => {
         try {
           // Log the data that would be saved to the backend
-          console.log('Saving quiz results:', quizData);
+          console.log("Saving quiz results:", quizData);
 
           // Simulate successful save
           resolve({
             success: true,
-            message: 'Quiz results saved successfully',
+            message: "Quiz results saved successfully",
             timestamp: new Date().toISOString(),
           });
         } catch (error) {
           reject({
             success: false,
-            message: 'Failed to save quiz results',
-            error: error.message
+            message: "Failed to save quiz results",
+            error: error.message,
           });
         }
       }, 600);
@@ -95,9 +102,9 @@ export const api = {
   getComprehensiveQuestions: async ({ questionsLimit, chapters }) => {
     try {
       // Create an array of promises for all chapter question requests
-      const questionPromises = chapters.map(chapter =>
+      const questionPromises = chapters.map((chapter) =>
         api.getQuestionsByChapter(chapter.id, {
-          questionsLimit: Math.ceil(questionsLimit / chapters.length)
+          questionsLimit: Math.ceil(questionsLimit / chapters.length),
         })
       );
 
@@ -116,5 +123,5 @@ export const api = {
       console.error("Error in getComprehensiveQuestions:", error);
       return [];
     }
-  }
+  },
 };
