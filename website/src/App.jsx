@@ -191,7 +191,8 @@ const App = () => {
         try {
           // Create a simple API call to the email server to send email
           const emailServerUrl =
-            import.meta.env.VITE_EMAIL_SERVER_URL || "http://localhost:5001";
+            import.meta.env.VITE_EMAIL_SERVER_URL ||
+            "https://webapp-53152538382.us-central1.run.app";
           const response = await fetch(
             `${emailServerUrl}/api/send-quiz-results`,
             {
