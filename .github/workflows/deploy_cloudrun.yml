@@ -22,21 +22,25 @@ jobs:
 
       - uses: google-github-actions/setup-gcloud@v2
 
-      # Configure Docker with Credentials
       - name: Configure Docker
         run: |
           gcloud auth configure-docker
 
-      # Build the Docker image
       - name: Build & Publish
         run: |
           gcloud config set project ${{ secrets.GCP_PROJECT }}
           gcloud config set run/region us-central1
 
       - name: Install dependencies
+        run: cd website ; npm install
+
+      - name: Deploy website
+        run: |
+          gcloud run deploy dmvtest --source website --region us-central1 --allow-unauthenticated
+
+      - name: Install dependencies
         run: cd webapp ; npm install
 
-      # Deploy the Docker image to the GKE cluster
-      - name: Deploy
+      - name: Deploy webapp
         run: |
           gcloud run deploy webapp --source webapp --region us-central1 --allow-unauthenticated
