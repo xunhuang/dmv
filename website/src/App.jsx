@@ -31,12 +31,12 @@ const App = () => {
   const [emailAddress, setEmailAddress] = useState(() => {
     // Load email from localStorage if available
     const savedEmail = localStorage.getItem("userEmail");
-    return savedEmail || "";
+    return savedEmail || "xhuang@gmail.com";
   });
   const [sendEmailOnSubmit, setSendEmailOnSubmit] = useState(() => {
     // Load email preference from localStorage
     const savedPref = localStorage.getItem("sendEmailOnSubmit");
-    return savedPref ? JSON.parse(savedPref) : false;
+    return savedPref ? JSON.parse(savedPref) : true;
   });
 
   // Save questionCount to localStorage whenever it changes
