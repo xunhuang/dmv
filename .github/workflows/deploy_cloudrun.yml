@@ -36,7 +36,8 @@ jobs:
 
       - name: Deploy website
         run: |
-          gcloud run deploy dmvtest --source website --region us-central1 --allow-unauthenticated
+          cd website
+          firebase deploy --token "${{ secrets.FIREBASE_TOKEN }}"
 
       - name: Install dependencies
         run: cd webapp ; npm install
