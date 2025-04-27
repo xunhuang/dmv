@@ -29,6 +29,7 @@ jobs:
       - name: Build & Publish
         run: |
           gcloud config set project ${{ secrets.GCP_PROJECT }}
+          gcloud config set run/region us-west1
 
       - name: Install dependencies
         run: cd website ; npm install; npm run build
