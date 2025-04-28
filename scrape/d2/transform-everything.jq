@@ -5,12 +5,12 @@
   . as $in
   | $in.acceptedAnswer[0]    as $acc
   | {
-      question: $in.text,
+      question: $in.name,
       imgFileName:   $in.thumbnailUrl,
       options:  (
         $in.suggestedAnswer
         | map(
-            { answer: .text,
+            { text: .text,
               isCorrect: (.position == $acc.position)
             }
             + ( if .position == $acc.position
