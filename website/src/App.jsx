@@ -175,6 +175,7 @@ const App = () => {
         question: q.question,
         selectedAnswer: selectedAnswers[index],
         correctAnswer: q.options.findIndex((opt) => opt.isCorrect),
+        imgFileName: q.imgFileName || null,
         options: q.options.map((opt) => ({
           text: opt.text,
           isCorrect: opt.isCorrect,
@@ -189,10 +190,18 @@ const App = () => {
       // Send email with test results if enabled and email is provided
       if (sendEmailOnSubmit && emailAddress) {
         try {
+          // Log the data being sent for debugging
+          console.log("Quiz Data for email:", JSON.stringify(quizData.questions.map(q => ({
+            question: q.question.substring(0, 30) + "...",
+            hasImage: !!q.imgFileName,
+            imgFileName: q.imgFileName
+          }))));
+          
           // Create a simple API call to the email server to send email
           const emailServerUrl =
             import.meta.env.VITE_EMAIL_SERVER_URL ||
             "https://webapp-53152538382.us-central1.run.app";
+          console.log("emailServerUrl", emailServerUrl);
           const response = await fetch(
             `${emailServerUrl}/api/send-quiz-results`,
             {
@@ -429,7 +438,6 @@ const App = () => {
             />
           </svg>
         </button>
-
         {/* Profile Menu Dropdown */}
         {showProfileMenu && (
           <div
