@@ -53,7 +53,7 @@ export const getUserProfile = async (userId) => {
       // Create new profile if it doesn't exist
       const newProfile = {
         questionCount: 100,
-        userEmail: '',
+        userEmail: 'xhuang@gmail.com',
         sendEmailOnSubmit: true,
         chapterScores: {},
         comprehensiveTestScores: { history: [] },
