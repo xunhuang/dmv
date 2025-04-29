@@ -225,7 +225,6 @@ const server = http.createServer(async (req, res) => {
             <p>Keep practicing to improve your score!</p>
           `,
         };
-        console.log(mailOptions);
 
         // Send the email
         console.log(`Sending email to ${RECIPIENT_EMAIL}...`);
