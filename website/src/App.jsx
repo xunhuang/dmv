@@ -172,9 +172,8 @@ const App = () => {
 
     try {
       await api.saveQuizResults(quizData);
-
       // Send email with test results if enabled and email is provided
-      if (sendEmailOnSubmit && emailAddress) {
+      if (sendEmailOnSubmit ) {
         try {
           // Log the data being sent for debugging
           console.log("Quiz Data for email:", JSON.stringify(quizData.questions.map(q => ({
