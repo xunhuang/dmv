@@ -1,62 +1,58 @@
 import React, { useState, useEffect, useCallback } from "react";
 import { useParams, useNavigate } from "react-router-dom";
 import { api } from "./mockData";
+import { useUser } from "./contexts/UserContext";
 
 const App = () => {
   const { id } = useParams();
   const navigate = useNavigate();
+  
+  // User context for profile data
+  const { 
+    profile, 
+    loading: profileLoading, 
+    updateQuestionCount, 
+    updateEmail, 
+    updateEmailPreference,
+    updateChapterScores,
+    updateComprehensiveTestScores,
+    usingLocalStorage
+  } = useUser();
 
   const [currentView, setCurrentView] = useState(id ? "quiz" : "home");
   const [currentChapter, setCurrentChapter] = useState(id || null);
   const [selectedAnswers, setSelectedAnswers] = useState({});
   const [quizSubmitted, setQuizSubmitted] = useState(false);
-  const [chapterScores, setChapterScores] = useState({});
   const [chapters, setChapters] = useState([]);
   const [questions, setQuestions] = useState([]);
   const [loading, setLoading] = useState(false);
   const [reviewAttempt, setReviewAttempt] = useState(null);
-  const [questionCount, setQuestionCount] = useState(() => {
-    // Try to get saved question count from localStorage, default to 100 if not found
-    const savedCount = localStorage.getItem("questionCount");
-    return savedCount ? parseInt(savedCount, 10) : 100;
-  });
   const [showProfileMenu, setShowProfileMenu] = useState(false);
   // Force light mode only
   const darkMode = false;
-  const [comprehensiveTestScores, setComprehensiveTestScores] = useState(() => {
-    // Load comprehensive test scores from localStorage
-    const savedScores = localStorage.getItem("comprehensiveTestScores");
-    return savedScores ? JSON.parse(savedScores) : { history: [] };
-  });
-  const [emailAddress, setEmailAddress] = useState(() => {
-    // Load email from localStorage if available
-    const savedEmail = localStorage.getItem("userEmail");
-    return savedEmail || "xhuang@gmail.com";
-  });
-  const [sendEmailOnSubmit, setSendEmailOnSubmit] = useState(() => {
-    // Load email preference from localStorage
-    const savedPref = localStorage.getItem("sendEmailOnSubmit");
-    return savedPref ? JSON.parse(savedPref) : true;
-  });
 
-  // Save questionCount to localStorage whenever it changes
-  useEffect(() => {
-    localStorage.setItem("questionCount", questionCount.toString());
-  }, [questionCount]);
+  // Get values from profile when available
+  const questionCount = profile?.questionCount || 100;
+  const emailAddress = profile?.userEmail || "";
+  const sendEmailOnSubmit = profile?.sendEmailOnSubmit || true;
+  const chapterScores = profile?.chapterScores || {};
+  const comprehensiveTestScores = profile?.comprehensiveTestScores || { history: [] };
 
-  // Save email preferences to localStorage whenever they change
-  useEffect(() => {
-    localStorage.setItem("userEmail", emailAddress);
-  }, [emailAddress]);
+  // Update questionCount when changed by user
+  const handleQuestionCountChange = (count) => {
+    updateQuestionCount(parseInt(count, 10));
+  };
 
-  useEffect(() => {
-    localStorage.setItem(
-      "sendEmailOnSubmit",
-      JSON.stringify(sendEmailOnSubmit)
-    );
-  }, [sendEmailOnSubmit]);
+  // Update email when changed by user
+  const handleEmailChange = (email) => {
+    updateEmail(email);
+  };
 
-  // Handle initial chapter loading when coming directly to a chapter URL
+  // Update email preference when changed by user
+  const handleEmailPreferenceChange = (sendEmail) => {
+    updateEmailPreference(sendEmail);
+  };
+
   // Define function to handle quiz starting
   const startQuiz = useCallback(
     async (chapterId) => {
@@ -142,16 +138,6 @@ const App = () => {
     };
 
     fetchChapters();
-
-    // Load saved chapter scores from localStorage
-    const savedScores = localStorage.getItem("chapterScores");
-    if (savedScores) {
-      try {
-        setChapterScores(JSON.parse(savedScores));
-      } catch (error) {
-        console.error("Error parsing saved scores:", error);
-      }
-    }
   }, [currentChapter, currentView, initialChapterLoad]);
 
   const handleAnswerSelect = (questionIndex, optionIndex) => {
@@ -227,9 +213,29 @@ const App = () => {
 
       if (currentChapter === "comprehensive") {
         // Handle comprehensive test scores
-        setComprehensiveTestScores((prevScores) => {
-          const currentHistory = prevScores.history || [];
-          const updatedScores = {
+        const currentHistory = comprehensiveTestScores.history || [];
+        const updatedScores = {
+          score: score,
+          total: questions.length,
+          history: [
+            {
+              date: new Date(),
+              score: score,
+              total: questions.length,
+              questions: quizData.questions,
+            },
+            ...currentHistory,
+          ].slice(0, 5), // Keep only the last 5 attempts
+        };
+
+        // Update comprehensive test scores in context
+        updateComprehensiveTestScores(updatedScores);
+      } else {
+        // Handle chapter-specific scores
+        const currentHistory = chapterScores[currentChapter]?.history || [];
+        const updatedScores = {
+          ...chapterScores,
+          [currentChapter]: {
             score: score,
             total: questions.length,
             history: [
@@ -241,42 +247,11 @@ const App = () => {
               },
               ...currentHistory,
             ].slice(0, 5), // Keep only the last 5 attempts
-          };
+          },
+        };
 
-          // Save updated scores to localStorage
-          localStorage.setItem(
-            "comprehensiveTestScores",
-            JSON.stringify(updatedScores)
-          );
-
-          return updatedScores;
-        });
-      } else {
-        // Handle chapter-specific scores (existing code)
-        setChapterScores((prevScores) => {
-          const currentHistory = prevScores[currentChapter]?.history || [];
-          const updatedScores = {
-            ...prevScores,
-            [currentChapter]: {
-              score: score,
-              total: questions.length,
-              history: [
-                {
-                  date: new Date(),
-                  score: score,
-                  total: questions.length,
-                  questions: quizData.questions,
-                },
-                ...currentHistory,
-              ].slice(0, 5), // Keep only the last 5 attempts
-            },
-          };
-
-          // Save updated scores to localStorage
-          localStorage.setItem("chapterScores", JSON.stringify(updatedScores));
-
-          return updatedScores;
-        });
+        // Update chapter scores in context
+        updateChapterScores(updatedScores);
       }
     } catch (error) {
       console.error("Error saving quiz results:", error);
@@ -472,7 +447,7 @@ const App = () => {
                   <select
                     id="questionCount"
                     value={questionCount}
-                    onChange={(e) => setQuestionCount(Number(e.target.value))}
+                    onChange={(e) => handleQuestionCountChange(e.target.value)}
                     className={`border ${
                       darkMode
                         ? "border-gray-600 bg-gray-700 text-white"
@@ -499,7 +474,7 @@ const App = () => {
                     type="email"
                     id="emailAddress"
                     value={emailAddress}
-                    onChange={(e) => setEmailAddress(e.target.value)}
+                    onChange={(e) => handleEmailChange(e.target.value)}
                     placeholder="Enter your email"
                     className={`border ${
                       darkMode
@@ -513,7 +488,7 @@ const App = () => {
                     <input
                       type="checkbox"
                       checked={sendEmailOnSubmit}
-                      onChange={(e) => setSendEmailOnSubmit(e.target.checked)}
+                      onChange={(e) => handleEmailPreferenceChange(e.target.checked)}
                       className="rounded text-blue-500 focus:ring-blue-500"
                     />
                     <span
@@ -525,6 +500,12 @@ const App = () => {
                       {emailAddress ? ` ${emailAddress}` : " your email"}
                     </span>
                   </label>
+                </div>
+                {/* Storage indicator */}
+                <div className="mt-3 text-xs text-gray-500 italic">
+                  {usingLocalStorage 
+                    ? "Data stored locally" 
+                    : "Data synced with cloud"}
                 </div>
               </div>
             </div>
@@ -547,14 +528,87 @@ const App = () => {
       >
         Select a chapter to start a practice test:
       </p>
-      <div className="grid md:grid-cols-1 gap-4">
-        {chapters.map((chapter) => (
+      
+      {/* Loading indicator for profile data */}
+      {profileLoading ? (
+        <div className="flex justify-center items-center p-8">
+          <div className="text-xl">Loading your profile data...</div>
+        </div>
+      ) : (
+        <div className="grid md:grid-cols-1 gap-4">
+          {chapters.map((chapter) => (
+            <div
+              key={chapter.id}
+              className={`p-4 rounded-lg shadow-md border ${
+                darkMode
+                  ? "bg-gray-800 border-gray-700"
+                  : "bg-white border-gray-300"
+              }`}
+            >
+              <div className="flex justify-between items-center mb-4">
+                <div className="flex flex-col">
+                  <div
+                    className={`text-lg font-semibold ${
+                      darkMode ? "text-blue-300" : "text-blue-700"
+                    }`}
+                  >
+                    Chapter {chapter.id}: {chapter.title || ""}
+                  </div>
+                  {chapterScores[chapter.id] && (
+                    <div
+                      className={`text-sm mt-1 ${
+                        darkMode ? "text-gray-400" : "text-gray-600"
+                      }`}
+                    >
+                      Latest score: {chapterScores[chapter.id].score}/
+                      {chapterScores[chapter.id].total}
+                    </div>
+                  )}
+                </div>
+                <button
+                  onClick={() => startQuiz(chapter.id)}
+                  className="bg-blue-500 hover:bg-blue-600 text-white font-semibold py-2 px-4 rounded transition duration-300"
+                >
+                  Start Quiz
+                </button>
+              </div>
+
+              {/* Quiz History Section */}
+              {chapterScores[chapter.id]?.history && (
+                <div className="mt-2 border-t pt-2">
+                  <div className="text-sm font-medium mb-1">
+                    Previous Attempts:
+                  </div>
+                  <div className="space-y-1">
+                    {chapterScores[chapter.id].history.map((attempt, index) => (
+                      <div
+                        key={index}
+                        className="text-sm text-gray-600 flex justify-between items-center"
+                      >
+                        <span>{new Date(attempt.date).toLocaleString()}</span>
+                        <div>
+                          <span className="mr-4">
+                            Score: {attempt.score}/{attempt.total}
+                          </span>
+                          <button
+                            onClick={() => viewAttemptReview(chapter.id, attempt)}
+                            className="text-blue-500 hover:text-blue-600 underline"
+                          >
+                            Review
+                          </button>
+                        </div>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              )}
+            </div>
+          ))}
+
+          {/* Comprehensive Test Section */}
           <div
-            key={chapter.id}
-            className={`p-4 rounded-lg shadow-md border ${
-              darkMode
-                ? "bg-gray-800 border-gray-700"
-                : "bg-white border-gray-300"
+            className={`p-4 rounded-lg shadow-md border-2 border-blue-500 mt-8 ${
+              darkMode ? "bg-gray-800" : "bg-white"
             }`}
           >
             <div className="flex justify-between items-center mb-4">
@@ -564,134 +618,69 @@ const App = () => {
                     darkMode ? "text-blue-300" : "text-blue-700"
                   }`}
                 >
-                  Chapter {chapter.id}: {chapter.title || ""}
+                  Comprehensive DMV Test
                 </div>
-                {chapterScores[chapter.id] && (
+                <div
+                  className={`text-sm ${
+                    darkMode ? "text-gray-400" : "text-gray-600"
+                  }`}
+                >
+                  Test your knowledge across all chapters
+                </div>
+                {comprehensiveTestScores.score !== undefined && (
                   <div
                     className={`text-sm mt-1 ${
                       darkMode ? "text-gray-400" : "text-gray-600"
                     }`}
                   >
-                    Latest score: {chapterScores[chapter.id].score}/
-                    {chapterScores[chapter.id].total}
+                    Latest score: {comprehensiveTestScores.score}/
+                    {comprehensiveTestScores.total}
                   </div>
                 )}
               </div>
               <button
-                onClick={() => startQuiz(chapter.id)}
-                className="bg-blue-500 hover:bg-blue-600 text-white font-semibold py-2 px-4 rounded transition duration-300"
+                onClick={startComprehensiveTest}
+                className="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded transition duration-300"
               >
-                Start Quiz
+                Start Test
               </button>
             </div>
 
-            {/* Quiz History Section */}
-            {chapterScores[chapter.id]?.history && (
-              <div className="mt-2 border-t pt-2">
-                <div className="text-sm font-medium mb-1">
-                  Previous Attempts:
-                </div>
-                <div className="space-y-1">
-                  {chapterScores[chapter.id].history.map((attempt, index) => (
-                    <div
-                      key={index}
-                      className="text-sm text-gray-600 flex justify-between items-center"
-                    >
-                      <span>{new Date(attempt.date).toLocaleString()}</span>
-                      <div>
-                        <span className="mr-4">
-                          Score: {attempt.score}/{attempt.total}
-                        </span>
-                        <button
-                          onClick={() => viewAttemptReview(chapter.id, attempt)}
-                          className="text-blue-500 hover:text-blue-600 underline"
-                        >
-                          Review
-                        </button>
+            {/* Comprehensive Test History Section */}
+            {comprehensiveTestScores.history &&
+              comprehensiveTestScores.history.length > 0 && (
+                <div className="mt-2 border-t pt-2">
+                  <div className="text-sm font-medium mb-1">
+                    Previous Attempts:
+                  </div>
+                  <div className="space-y-1">
+                    {comprehensiveTestScores.history.map((attempt, index) => (
+                      <div
+                        key={index}
+                        className="text-sm text-gray-600 flex justify-between items-center"
+                      >
+                        <span>{new Date(attempt.date).toLocaleString()}</span>
+                        <div>
+                          <span className="mr-4">
+                            Score: {attempt.score}/{attempt.total}
+                          </span>
+                          <button
+                            onClick={() =>
+                              viewAttemptReview("comprehensive", attempt)
+                            }
+                            className="text-blue-500 hover:text-blue-600 underline"
+                          >
+                            Review
+                          </button>
+                        </div>
                       </div>
-                    </div>
-                  ))}
-                </div>
-              </div>
-            )}
-          </div>
-        ))}
-
-        {/* Comprehensive Test Section */}
-        <div
-          className={`p-4 rounded-lg shadow-md border-2 border-blue-500 mt-8 ${
-            darkMode ? "bg-gray-800" : "bg-white"
-          }`}
-        >
-          <div className="flex justify-between items-center mb-4">
-            <div className="flex flex-col">
-              <div
-                className={`text-lg font-semibold ${
-                  darkMode ? "text-blue-300" : "text-blue-700"
-                }`}
-              >
-                Comprehensive DMV Test
-              </div>
-              <div
-                className={`text-sm ${
-                  darkMode ? "text-gray-400" : "text-gray-600"
-                }`}
-              >
-                Test your knowledge across all chapters
-              </div>
-              {comprehensiveTestScores.score !== undefined && (
-                <div
-                  className={`text-sm mt-1 ${
-                    darkMode ? "text-gray-400" : "text-gray-600"
-                  }`}
-                >
-                  Latest score: {comprehensiveTestScores.score}/
-                  {comprehensiveTestScores.total}
+                    ))}
+                  </div>
                 </div>
               )}
-            </div>
-            <button
-              onClick={startComprehensiveTest}
-              className="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded transition duration-300"
-            >
-              Start Test
-            </button>
           </div>
-
-          {/* Comprehensive Test History Section */}
-          {comprehensiveTestScores.history &&
-            comprehensiveTestScores.history.length > 0 && (
-              <div className="mt-2 border-t pt-2">
-                <div className="text-sm font-medium mb-1">
-                  Previous Attempts:
-                </div>
-                <div className="space-y-1">
-                  {comprehensiveTestScores.history.map((attempt, index) => (
-                    <div
-                      key={index}
-                      className="text-sm text-gray-600 flex justify-between items-center"
-                    >
-                      <span>{new Date(attempt.date).toLocaleString()}</span>
-                      <div>
-                        <span className="mr-4">
-                          Score: {attempt.score}/{attempt.total}
-                        </span>
-                        <button
-                          onClick={() =>
-                            viewAttemptReview("comprehensive", attempt)
-                          }
-                          className="text-blue-500 hover:text-blue-600 underline"
-                        >
-                          Review
-                        </button>
-                      </div>
-                    </div>
-                  ))}
-                </div>
-              </div>
-            )}
         </div>
-      </div>
+      )}
     </div>
   );
 
@@ -830,6 +819,15 @@ const App = () => {
       </div>
     );
   };
+
+  // Show an overall loading state while profile is loading
+  if (profileLoading) {
+    return (
+      <div className="min-h-screen bg-gray-100 flex justify-center items-center">
+        <div className="text-xl">Loading your data...</div>
+      </div>
+    );
+  }
 
   return (
     <div
