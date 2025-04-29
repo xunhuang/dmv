@@ -201,7 +201,7 @@ const server = http.createServer(async (req, res) => {
         const mailOptions = {
           from: process.env.EMAIL_USER || "app-email@gmail.com",
           to: RECIPIENT_EMAIL, // Always send to this fixed email
-          subject: `DMV Practice Test Results - ${percentScore}% Score`,
+          subject: `DMV ${quizData.chapterId} Test Results - ${percentScore}% Score`,
           html: `
             <h1>Your DMV Practice Test Results</h1>
             <p><strong>Score:</strong> ${quizData.score}/${
