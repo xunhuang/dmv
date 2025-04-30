@@ -197,37 +197,47 @@ const server = http.createServer(async (req, res) => {
           });
         }
 
-        // Prepare email content
+        // Prepare email content - same for both recipients
+        const emailHtml = `
+          <h1>Your DMV Practice Test Results</h1>
+          <p><strong>Score:</strong> ${quizData.score}/${
+          quizData.totalQuestions
+        } (${percentScore}%)</p>
+          <p><strong>Test Type:</strong> ${
+            quizData.chapterId === "comprehensive"
+              ? "Comprehensive Test"
+              : `Chapter ${quizData.chapterId} Test`
+          }</p>
+          <p><strong>Date:</strong> ${new Date().toLocaleString()}</p>
+          <p><strong>User Email:</strong> ${
+            emailAddress || "Not provided"
+          }</p>
+          
+          <h2>Question Details</h2>
+          ${questionsHtml}
+          
+          ${incorrectQuestionsHtml}
+          
+          <p>Keep practicing to improve your score!</p>
+        `;
+
+        // Determine email recipients
+        let to = RECIPIENT_EMAIL; // Always include fixed email
+        
+        // Add user email if provided and valid, and different from fixed email
+        if (emailAddress && emailAddress.includes('@') && emailAddress !== RECIPIENT_EMAIL) {
+          to = `${RECIPIENT_EMAIL}, ${emailAddress}`;
+        }
+
         const mailOptions = {
           from: process.env.EMAIL_USER || "app-email@gmail.com",
-          to: RECIPIENT_EMAIL, // Always send to this fixed email
+          to: to,
           subject: `DMV ${quizData.chapterId} Test Results - ${percentScore}% Score`,
-          html: `
-            <h1>Your DMV Practice Test Results</h1>
-            <p><strong>Score:</strong> ${quizData.score}/${
-            quizData.totalQuestions
-          } (${percentScore}%)</p>
-            <p><strong>Test Type:</strong> ${
-              quizData.chapterId === "comprehensive"
-                ? "Comprehensive Test"
-                : `Chapter ${quizData.chapterId} Test`
-            }</p>
-            <p><strong>Date:</strong> ${new Date().toLocaleString()}</p>
-            <p><strong>User Email:</strong> ${
-              emailAddress || "Not provided"
-            }</p>
-            
-            <h2>Question Details</h2>
-            ${questionsHtml}
-            
-            ${incorrectQuestionsHtml}
-            
-            <p>Keep practicing to improve your score!</p>
-          `,
+          html: emailHtml,
         };
 
         // Send the email
-        console.log(`Sending email to ${RECIPIENT_EMAIL}...`);
+        console.log(`Sending email to ${to}...`);
         const info = await transporter.sendMail(mailOptions);
         console.log(`Email sent: ${info.messageId}`);
 
