@@ -218,7 +218,7 @@ const App = () => {
           total: questions.length,
           history: [
             {
-              date: new Date(),
+              date: new Date().toISOString(), // Use ISO format for better Firebase compatibility
               score: score,
               total: questions.length,
               questions: quizData.questions,
@@ -239,7 +239,7 @@ const App = () => {
             total: questions.length,
             history: [
               {
-                date: new Date(),
+                date: new Date().toISOString(), // Use ISO format for better Firebase compatibility
                 score: score,
                 total: questions.length,
                 questions: quizData.questions,
