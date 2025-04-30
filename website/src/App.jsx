@@ -12,7 +12,8 @@ const App = () => {
     user,
     profile, 
     loading: profileLoading, 
-    updateQuestionCount, 
+    updateQuestionCount,
+    updateUserName,
     updateEmail, 
     updateEmailPreference,
     updateChapterScores,
@@ -38,6 +39,7 @@ const App = () => {
 
   // Get values from profile when available
   const questionCount = profile?.questionCount || 100;
+  const userName = profile?.userName || "";
   const emailAddress = profile?.userEmail || "";
   const sendEmailOnSubmit = profile?.sendEmailOnSubmit || true;
   const chapterScores = profile?.chapterScores || {};
@@ -46,6 +48,11 @@ const App = () => {
   // Update questionCount when changed by user
   const handleQuestionCountChange = (count) => {
     updateQuestionCount(parseInt(count, 10));
+  };
+
+  // Update username when changed by user
+  const handleUserNameChange = (name) => {
+    updateUserName(name);
   };
 
   // Update email when changed by user
@@ -561,6 +568,29 @@ const App = () => {
                     <option value={100}>All questions</option>
                   </select>
                 </div>
+                <div className="mt-2">
+                  <label
+                    htmlFor="userName"
+                    className={`text-sm ${
+                      darkMode ? "text-gray-300" : "text-gray-600"
+                    } mb-1 block`}
+                  >
+                    Your Name:
+                  </label>
+                  <input
+                    type="text"
+                    id="userName"
+                    value={userName}
+                    onChange={(e) => handleUserNameChange(e.target.value)}
+                    placeholder="Enter your name"
+                    className={`border ${
+                      darkMode
+                        ? "border-gray-600 bg-gray-700 text-white"
+                        : "border-gray-300 bg-white text-gray-900"
+                    } rounded-md px-3 py-2 focus:outline-none focus:ring-2 focus:ring-blue-500 w-full mt-1`}
+                  />
+                </div>
+                
                 <div className="mt-2">
                   <label
                     htmlFor="emailAddress"

@@ -70,6 +70,7 @@ export const UserProvider = ({ children }) => {
       // Set profile with localStorage data
       setProfile({
         questionCount: questionCount ? parseInt(questionCount, 10) : 100,
+        userName: localStorage.getItem('userName') || '',
         userEmail: userEmail || '',
         sendEmailOnSubmit: sendEmailOnSubmit ? JSON.parse(sendEmailOnSubmit) : true,
         chapterScores: chapterScores ? JSON.parse(chapterScores) : {},
@@ -84,6 +85,7 @@ export const UserProvider = ({ children }) => {
       // Initialize with default values if localStorage fails
       setProfile({
         questionCount: 100,
+        userName: '',
         userEmail: '',
         sendEmailOnSubmit: true,
         chapterScores: {},
@@ -125,6 +127,10 @@ export const UserProvider = ({ children }) => {
         localStorage.setItem('questionCount', data.questionCount.toString());
       }
       
+      if (data.userName !== undefined) {
+        localStorage.setItem('userName', data.userName);
+      }
+      
       if (data.userEmail !== undefined) {
         localStorage.setItem('userEmail', data.userEmail);
       }
@@ -148,6 +154,10 @@ export const UserProvider = ({ children }) => {
   // Update specific profile fields
   const updateQuestionCount = (count) => {
     return updateProfile({ questionCount: count });
+  };
+  
+  const updateUserName = (name) => {
+    return updateProfile({ userName: name });
   };
 
   const updateEmail = (email) => {
@@ -181,9 +191,18 @@ export const UserProvider = ({ children }) => {
       if (profile) {
         const mergedProfile = mergeProfiles(profile, userProfile);
         
+        // Update user info from Google account
+        mergedProfile.userName = googleUser.displayName || mergedProfile.userName;
+        mergedProfile.userEmail = googleUser.email || mergedProfile.userEmail;
+        
         // Update the cloud with merged data
         await updateUserProfile(googleUser.uid, mergedProfile);
         userProfile = mergedProfile;
+      } else {
+        // Just update the Google info
+        userProfile.userName = googleUser.displayName || userProfile.userName;
+        userProfile.userEmail = googleUser.email || userProfile.userEmail;
+        await updateUserProfile(googleUser.uid, userProfile);
       }
       
       setProfile(userProfile);
@@ -350,6 +369,7 @@ export const UserProvider = ({ children }) => {
         isAuthenticated,
         updateProfile,
         updateQuestionCount,
+        updateUserName,
         updateEmail,
         updateEmailPreference,
         updateChapterScores,
