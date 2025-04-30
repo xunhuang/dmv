@@ -352,12 +352,14 @@ const App = () => {
             <div className="text-xl font-bold">
               Score: {reviewAttempt.score}/{reviewAttempt.total}
             </div>
-            <button
-              onClick={() => retryMissedQuestions(currentChapter, reviewAttempt)}
-              className="bg-orange-500 hover:bg-orange-600 text-white font-semibold py-2 px-4 rounded transition duration-300"
-            >
-              Retry Missed Questions
-            </button>
+            {reviewAttempt.score < reviewAttempt.total && (
+              <button
+                onClick={() => retryMissedQuestions(currentChapter, reviewAttempt)}
+                className="bg-orange-500 hover:bg-orange-600 text-white font-semibold py-2 px-4 rounded transition duration-300"
+              >
+                Retry Missed Questions
+              </button>
+            )}
           </div>
         </div>
 
@@ -650,12 +652,14 @@ const App = () => {
                           >
                             Review
                           </button>
-                          <button
-                            onClick={() => retryMissedQuestions(chapter.id, attempt)}
-                            className="text-orange-500 hover:text-orange-600 underline"
-                          >
-                            Retry Missed
-                          </button>
+                          {attempt.score < attempt.total && (
+                            <button
+                              onClick={() => retryMissedQuestions(chapter.id, attempt)}
+                              className="text-orange-500 hover:text-orange-600 underline"
+                            >
+                              Retry Missed
+                            </button>
+                          )}
                         </div>
                       </div>
                     ))}
@@ -730,12 +734,14 @@ const App = () => {
                           >
                             Review
                           </button>
-                          <button
-                            onClick={() => retryMissedQuestions("comprehensive", attempt)}
-                            className="text-orange-500 hover:text-orange-600 underline"
-                          >
-                            Retry Missed
-                          </button>
+                          {attempt.score < attempt.total && (
+                            <button
+                              onClick={() => retryMissedQuestions("comprehensive", attempt)}
+                              className="text-orange-500 hover:text-orange-600 underline"
+                            >
+                              Retry Missed
+                            </button>
+                          )}
                         </div>
                       </div>
                     ))}
