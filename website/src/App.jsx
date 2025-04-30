@@ -55,7 +55,7 @@ const App = () => {
 
   // Define function to handle quiz starting
   const startQuiz = useCallback(
-    async (chapterId) => {
+    async (chapterId, customQuestions = null) => {
       setCurrentChapter(chapterId);
       setCurrentView("quiz");
       setSelectedAnswers({});
@@ -66,10 +66,22 @@ const App = () => {
       navigate(`/chapter/${chapterId}`);
 
       try {
-        const questionData = await api.getQuestionsByChapter(chapterId, {
-          questionsLimit: questionCount,
-        });
-        setQuestions(questionData);
+        if (customQuestions) {
+          // Use the provided custom questions (for retry missed questions feature)
+          setQuestions(customQuestions);
+          
+          // Also save these questions in state for persistence during navigation
+          setCustomQuestionsState(customQuestions);
+        } else {
+          // Reset custom questions state if we're not using them
+          setCustomQuestionsState(null);
+          
+          // Fetch normal questions from API
+          const questionData = await api.getQuestionsByChapter(chapterId, {
+            questionsLimit: questionCount,
+          });
+          setQuestions(questionData);
+        }
       } catch (error) {
         console.error("Error fetching questions:", error);
       } finally {
@@ -109,16 +121,24 @@ const App = () => {
     }
   }, [navigate, questionCount, chapters]);
 
+  // State to preserve custom questions when navigating
+  const [customQuestionsState, setCustomQuestionsState] = useState(null);
+  
   // Create initial load handler that depends on the above functions
   const initialChapterLoad = useCallback(
     async (chapterId) => {
       if (chapterId === "comprehensive") {
         await startComprehensiveTest();
       } else {
-        await startQuiz(chapterId);
+        // If we have custom questions saved in state, use them
+        if (customQuestionsState && currentChapter === chapterId) {
+          await startQuiz(chapterId, customQuestionsState);
+        } else {
+          await startQuiz(chapterId);
+        }
       }
     },
-    [startComprehensiveTest, startQuiz]
+    [startComprehensiveTest, startQuiz, customQuestionsState, currentChapter]
   );
 
   // Fetch chapters on component mount
@@ -152,11 +172,16 @@ const App = () => {
   const submitQuiz = async () => {
     setQuizSubmitted(true);
     const score = calculateScore();
+    
+    // Determine if this is a "Retry Missed Questions" quiz
+    const isRetryQuiz = customQuestionsState !== null;
+    
     const quizData = {
       chapterId: currentChapter,
       score: score,
       totalQuestions: questions.length,
       answers: selectedAnswers,
+      isRetryQuiz: isRetryQuiz, // Flag to indicate this was a retry quiz
       questions: questions.map((q, index) => ({
         question: q.question,
         selectedAnswer: selectedAnswers[index],
@@ -265,6 +290,7 @@ const App = () => {
   const returnToChapters = useCallback(() => {
     setCurrentView("home");
     setCurrentChapter(null);
+    setCustomQuestionsState(null); // Clear custom questions when returning to home
     navigate("/");
   }, [navigate]);
 
@@ -288,6 +314,27 @@ const App = () => {
     setReviewAttempt(attempt);
     setCurrentView("review");
   };
+  
+  const retryMissedQuestions = (chapterId, attempt) => {
+    // Filter for questions the user answered incorrectly from this specific attempt
+    const missedQuestions = attempt.questions.filter((question) => {
+      const selectedAnswer = question.selectedAnswer;
+      const correctAnswerIndex = question.options.findIndex(opt => opt.isCorrect);
+      return selectedAnswer !== correctAnswerIndex;
+    });
+    
+    // If there are no missed questions, show a message and return
+    if (missedQuestions.length === 0) {
+      alert("Great job! You didn't miss any questions in this attempt.");
+      return;
+    }
+    
+    // Store custom questions in state to preserve them during navigation
+    setCustomQuestionsState(missedQuestions);
+    
+    // Start a quiz with only the exact missed questions from this attempt
+    startQuiz(chapterId, missedQuestions);
+  };
 
   const renderReview = () => {
     if (!reviewAttempt) return null;
@@ -301,8 +348,16 @@ const App = () => {
           >
             ← Back to Chapters
           </button>
-          <div className="text-xl font-bold">
-            Score: {reviewAttempt.score}/{reviewAttempt.total}
+          <div className="flex items-center gap-4">
+            <div className="text-xl font-bold">
+              Score: {reviewAttempt.score}/{reviewAttempt.total}
+            </div>
+            <button
+              onClick={() => retryMissedQuestions(currentChapter, reviewAttempt)}
+              className="bg-orange-500 hover:bg-orange-600 text-white font-semibold py-2 px-4 rounded transition duration-300"
+            >
+              Retry Missed Questions
+            </button>
           </div>
         </div>
 
@@ -585,15 +640,21 @@ const App = () => {
                         className="text-sm text-gray-600 flex justify-between items-center"
                       >
                         <span>{new Date(attempt.date).toLocaleString()}</span>
-                        <div>
+                        <div className="flex items-center">
                           <span className="mr-4">
                             Score: {attempt.score}/{attempt.total}
                           </span>
                           <button
                             onClick={() => viewAttemptReview(chapter.id, attempt)}
-                            className="text-blue-500 hover:text-blue-600 underline"
+                            className="text-blue-500 hover:text-blue-600 underline mr-3"
                           >
                             Review
+                          </button>
+                          <button
+                            onClick={() => retryMissedQuestions(chapter.id, attempt)}
+                            className="text-orange-500 hover:text-orange-600 underline"
+                          >
+                            Retry Missed
                           </button>
                         </div>
                       </div>
@@ -659,17 +720,21 @@ const App = () => {
                         className="text-sm text-gray-600 flex justify-between items-center"
                       >
                         <span>{new Date(attempt.date).toLocaleString()}</span>
-                        <div>
+                        <div className="flex items-center">
                           <span className="mr-4">
                             Score: {attempt.score}/{attempt.total}
                           </span>
                           <button
-                            onClick={() =>
-                              viewAttemptReview("comprehensive", attempt)
-                            }
-                            className="text-blue-500 hover:text-blue-600 underline"
+                            onClick={() => viewAttemptReview("comprehensive", attempt)}
+                            className="text-blue-500 hover:text-blue-600 underline mr-3"
                           >
                             Review
+                          </button>
+                          <button
+                            onClick={() => retryMissedQuestions("comprehensive", attempt)}
+                            className="text-orange-500 hover:text-orange-600 underline"
+                          >
+                            Retry Missed
                           </button>
                         </div>
                       </div>
@@ -718,7 +783,13 @@ const App = () => {
             darkMode ? "" : "text-gray-900"
           }`}
         >
-          {currentChapter === "comprehensive"
+          {customQuestionsState 
+            ? `Practice on Missed Questions - ${
+                currentChapter === "comprehensive"
+                  ? "Comprehensive Test"
+                  : `Chapter ${currentChapter}`
+              }`
+            : currentChapter === "comprehensive"
             ? "Comprehensive DMV Test"
             : `Chapter ${currentChapter}: ${
                 chapters.find((c) => c.id === parseInt(currentChapter))
