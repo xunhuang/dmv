@@ -41,7 +41,7 @@ const server = http.createServer(async (req, res) => {
     // Process the request once we have the complete body
     req.on("end", async () => {
       try {
-        const { quizData, emailAddress } = JSON.parse(body);
+        const { quizData, emailAddress, userName } = JSON.parse(body);
 
         if (!quizData) {
           res.writeHead(400, { "Content-Type": "application/json" });
@@ -209,9 +209,8 @@ const server = http.createServer(async (req, res) => {
               : `Chapter ${quizData.chapterId} Test`
           }</p>
           <p><strong>Date:</strong> ${new Date().toLocaleString()}</p>
-          <p><strong>User Email:</strong> ${
-            emailAddress || "Not provided"
-          }</p>
+          <p><strong>Name:</strong> ${userName || "Not provided"}</p>
+          <p><strong>Email:</strong> ${emailAddress || "Not provided"}</p>
           
           <h2>Question Details</h2>
           ${questionsHtml}
@@ -229,10 +228,14 @@ const server = http.createServer(async (req, res) => {
           to = `${RECIPIENT_EMAIL}, ${emailAddress}`;
         }
 
+        // Create subject line with userName if available
+        const subjectLine = (userName
+          ? `${userName}'s :` : " ") + `${quizData.chapterId} Results - ${percentScore}% Score (${quizData.totalQuestions} questions)`
+
         const mailOptions = {
           from: process.env.EMAIL_USER || "app-email@gmail.com",
           to: to,
-          subject: `DMV ${quizData.chapterId} Test Results - ${percentScore}% Score`,
+          subject: subjectLine,
           html: emailHtml,
         };
 

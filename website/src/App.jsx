@@ -273,6 +273,7 @@ const App = () => {
               body: JSON.stringify({
                 quizData,
                 emailAddress,
+                userName,
               }),
             }
           );
