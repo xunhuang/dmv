@@ -1,5 +1,12 @@
 import React, { createContext, useState, useContext, useEffect } from 'react';
-import { isFirebaseInitialized, getOrCreateUser, getUserProfile, updateUserProfile } from '../firebase/firebase';
+import { 
+  isFirebaseInitialized, 
+  getOrCreateUser, 
+  getUserProfile, 
+  updateUserProfile,
+  signInWithGoogle,
+  signOutUser
+} from '../firebase/firebase';
 
 // Create the UserContext
 const UserContext = createContext();
@@ -10,6 +17,7 @@ export const UserProvider = ({ children }) => {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
   const [usingLocalStorage, setUsingLocalStorage] = useState(false);
+  const [isAuthenticated, setIsAuthenticated] = useState(false);
 
   // Initialize user and load profile
   useEffect(() => {
@@ -23,6 +31,7 @@ export const UserProvider = ({ children }) => {
           // Get or create anonymous user
           const firebaseUser = await getOrCreateUser();
           setUser(firebaseUser);
+          setIsAuthenticated(firebaseUser.isAnonymous === false);
           
           // Get user profile from Firestore
           const userProfile = await getUserProfile(firebaseUser.uid);
@@ -157,6 +166,179 @@ export const UserProvider = ({ children }) => {
     return updateProfile({ comprehensiveTestScores });
   };
 
+  // Sign in with Google and migrate local data if needed
+  const handleGoogleSignIn = async () => {
+    try {
+      setLoading(true);
+      const googleUser = await signInWithGoogle();
+      setUser(googleUser);
+      setIsAuthenticated(true);
+      
+      // Get existing profile or create new one
+      let userProfile = await getUserProfile(googleUser.uid);
+      
+      // If we have local data, merge it properly with cloud data
+      if (profile) {
+        const mergedProfile = mergeProfiles(profile, userProfile);
+        
+        // Update the cloud with merged data
+        await updateUserProfile(googleUser.uid, mergedProfile);
+        userProfile = mergedProfile;
+      }
+      
+      setProfile(userProfile);
+      setUsingLocalStorage(false);
+      return googleUser;
+    } catch (error) {
+      console.error("Error signing in with Google:", error);
+      setError(error);
+      return null;
+    } finally {
+      setLoading(false);
+    }
+  };
+  
+  // Helper function to intelligently merge profiles
+  // Prioritizes keeping the most data and best scores
+  const mergeProfiles = (localProfile, cloudProfile) => {
+    // Start with base preferences from cloud, fallback to local
+    const merged = {
+      ...localProfile,
+      ...cloudProfile,
+    };
+    
+    // Special handling for chapter scores - merge histories
+    merged.chapterScores = mergeChapterScores(
+      localProfile.chapterScores || {}, 
+      cloudProfile.chapterScores || {}
+    );
+    
+    // Merge comprehensive test scores
+    merged.comprehensiveTestScores = mergeComprehensiveScores(
+      localProfile.comprehensiveTestScores || { history: [] },
+      cloudProfile.comprehensiveTestScores || { history: [] }
+    );
+    
+    return merged;
+  };
+  
+  // Helper to merge chapter scores intelligently
+  const mergeChapterScores = (localScores, cloudScores) => {
+    const mergedScores = { ...cloudScores };
+    
+    // Process each chapter in local scores
+    Object.keys(localScores).forEach(chapterId => {
+      if (!mergedScores[chapterId]) {
+        // If chapter doesn't exist in cloud, use local data
+        mergedScores[chapterId] = localScores[chapterId];
+      } else {
+        // Merge histories, keeping the best scores and most attempts
+        const localHistory = localScores[chapterId].history || [];
+        const cloudHistory = mergedScores[chapterId].history || [];
+        
+        // Combine histories and keep the latest 5 unique attempts
+        const combinedHistory = [...localHistory, ...cloudHistory]
+          // Sort by date descending (newest first)
+          .sort((a, b) => new Date(b.date) - new Date(a.date))
+          // Remove duplicates by date (simplified approach)
+          .filter((attempt, index, self) => 
+            index === self.findIndex(a => a.date === attempt.date)
+          )
+          // Keep only the latest 5
+          .slice(0, 5);
+        
+        // Find best score across all attempts
+        let bestScore = 0;
+        let bestTotal = 0;
+        
+        if (combinedHistory.length > 0) {
+          const bestAttempt = combinedHistory.reduce((best, current) => {
+            const bestRatio = best.score / best.total;
+            const currentRatio = current.score / current.total;
+            return currentRatio > bestRatio ? current : best;
+          }, combinedHistory[0]);
+          
+          bestScore = bestAttempt.score;
+          bestTotal = bestAttempt.total;
+        }
+        
+        // Update merged scores for this chapter
+        mergedScores[chapterId] = {
+          score: bestScore,
+          total: bestTotal,
+          history: combinedHistory
+        };
+      }
+    });
+    
+    return mergedScores;
+  };
+  
+  // Helper to merge comprehensive test scores
+  const mergeComprehensiveScores = (localScores, cloudScores) => {
+    // Start with whichever has the best score
+    const localRatio = localScores.score && localScores.total 
+      ? localScores.score / localScores.total 
+      : 0;
+    const cloudRatio = cloudScores.score && cloudScores.total 
+      ? cloudScores.score / cloudScores.total 
+      : 0;
+    
+    // Combine histories like we did with chapter scores
+    const combinedHistory = [...(localScores.history || []), ...(cloudScores.history || [])]
+      .sort((a, b) => new Date(b.date) - new Date(a.date))
+      .filter((attempt, index, self) => 
+        index === self.findIndex(a => a.date === attempt.date)
+      )
+      .slice(0, 5);
+    
+    // Get best total score
+    let bestScore = 0;
+    let bestTotal = 0;
+    
+    if (combinedHistory.length > 0) {
+      const bestAttempt = combinedHistory.reduce((best, current) => {
+        const bestRatio = best.score / best.total;
+        const currentRatio = current.score / current.total;
+        return currentRatio > bestRatio ? current : best;
+      }, combinedHistory[0]);
+      
+      bestScore = bestAttempt.score;
+      bestTotal = bestAttempt.total;
+    }
+    
+    return {
+      score: bestScore,
+      total: bestTotal,
+      history: combinedHistory
+    };
+  };
+  
+  // Sign out the user
+  const handleSignOut = async () => {
+    try {
+      setLoading(true);
+      await signOutUser();
+      
+      // Switch to anonymous user
+      const anonUser = await getOrCreateUser();
+      setUser(anonUser);
+      setIsAuthenticated(false);
+      
+      // Get anonymous profile data
+      const anonProfile = await getUserProfile(anonUser.uid);
+      setProfile(anonProfile);
+      
+      return true;
+    } catch (error) {
+      console.error("Error signing out:", error);
+      setError(error);
+      return false;
+    } finally {
+      setLoading(false);
+    }
+  };
+
   return (
     <UserContext.Provider
       value={{
@@ -165,12 +347,15 @@ export const UserProvider = ({ children }) => {
         loading,
         error,
         usingLocalStorage,
+        isAuthenticated,
         updateProfile,
         updateQuestionCount,
         updateEmail,
         updateEmailPreference,
         updateChapterScores,
-        updateComprehensiveTestScores
+        updateComprehensiveTestScores,
+        signInWithGoogle: handleGoogleSignIn,
+        signOut: handleSignOut
       }}
     >
       {children}

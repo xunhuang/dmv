@@ -1,6 +1,6 @@
 import { initializeApp } from 'firebase/app';
 import { getFirestore, doc, getDoc, setDoc, updateDoc } from 'firebase/firestore';
-import { getAuth, signInAnonymously } from 'firebase/auth';
+import { getAuth, signInAnonymously, GoogleAuthProvider, signInWithPopup, signOut } from 'firebase/auth';
 import { firebaseConfig } from './config';
 
 // Initialize Firebase app
@@ -33,6 +33,37 @@ export const getOrCreateUser = async () => {
     return userCredential.user;
   } catch (error) {
     console.error('Error signing in anonymously:', error);
+    throw error;
+  }
+};
+
+// Sign in with Google
+export const signInWithGoogle = async () => {
+  if (!isFirebaseInitialized()) {
+    throw new Error('Firebase not initialized');
+  }
+
+  try {
+    const provider = new GoogleAuthProvider();
+    const userCredential = await signInWithPopup(auth, provider);
+    return userCredential.user;
+  } catch (error) {
+    console.error('Error signing in with Google:', error);
+    throw error;
+  }
+};
+
+// Sign out current user
+export const signOutUser = async () => {
+  if (!isFirebaseInitialized()) {
+    throw new Error('Firebase not initialized');
+  }
+
+  try {
+    await signOut(auth);
+    return true;
+  } catch (error) {
+    console.error('Error signing out:', error);
     throw error;
   }
 };
