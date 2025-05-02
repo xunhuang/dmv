@@ -288,13 +288,37 @@ const App = () => {
               total: attemptInfo.attempt.total
             }));
             
-            // Reset the questions for retaking
-            const resetQuestions = attemptInfo.attempt.questions.map(question => {
+            // Check if we should only retry missed questions (from the missed=true parameter)
+            const shouldRetryMissed = searchParams.get('missed') === 'true';
+            let questionsToUse = [];
+            
+            if (shouldRetryMissed) {
+              // Filter only the questions that were answered incorrectly
+              questionsToUse = attemptInfo.attempt.questions.filter(question => {
+                const selectedAnswer = question.selectedAnswer;
+                const correctAnswerIndex = question.options.findIndex(opt => opt.isCorrect);
+                return selectedAnswer !== correctAnswerIndex;
+              });
+              
+              // If there are no missed questions, use all questions
+              if (questionsToUse.length === 0) {
+                console.log("No missed questions found, using all questions");
+                questionsToUse = attemptInfo.attempt.questions;
+              } else {
+                console.log(`Found ${questionsToUse.length} missed questions to retry`);
+              }
+            } else {
+              // Use all questions for normal retake
+              questionsToUse = attemptInfo.attempt.questions;
+            }
+            
+            // Reset the questions for retaking (remove selected answers)
+            const resetQuestions = questionsToUse.map(question => {
               const { selectedAnswer, ...questionWithoutAnswer } = question;
               return questionWithoutAnswer;
             });
             
-            // Set up the quiz with these exact questions
+            // Set up the quiz with these questions
             setCurrentChapter(attemptInfo.chapterId);
             setQuestions(resetQuestions);
             setCustomQuestionsState(resetQuestions);
@@ -302,7 +326,7 @@ const App = () => {
             setSelectedAnswers({});
             setQuizSubmitted(false);
             
-            // Remove the attempt ID from URL to prevent repeated loading on refresh
+            // Remove the parameters from URL to prevent repeated loading on refresh
             const newUrl = location.pathname;
             navigate(newUrl, { replace: true });
             
@@ -1118,11 +1142,17 @@ const App = () => {
           }`}
         >
           {customQuestionsState 
-            ? `Practice on Missed Questions - ${
-                currentChapter === "comprehensive"
-                  ? "Comprehensive Test"
-                  : `Chapter ${currentChapter}`
-              }`
+            ? searchParams.get('missed') === 'true' || location.search.includes('missed=true')
+              ? `Retry Missed Questions - ${
+                  currentChapter === "comprehensive"
+                    ? "Comprehensive Test"
+                    : `Chapter ${currentChapter}`
+                }`
+              : `Practice on Missed Questions - ${
+                  currentChapter === "comprehensive"
+                    ? "Comprehensive Test"
+                    : `Chapter ${currentChapter}`
+                }`
             : currentChapter === "comprehensive"
             ? "Comprehensive DMV Test"
             : `Chapter ${currentChapter}: ${

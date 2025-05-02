@@ -204,6 +204,11 @@ const server = http.createServer(async (req, res) => {
         const retakeQuizUrl = quizData.chapterId === "comprehensive" 
           ? `${WEBSITE_URL}/chaptercomprehensive?attempt=${quizData.attemptId}`
           : `${WEBSITE_URL}/chapter/${quizData.chapterId}?attempt=${quizData.attemptId}`;
+        
+        // Generate retry missed questions URL with attempt ID and additional 'missed=true' parameter
+        const retryMissedUrl = quizData.chapterId === "comprehensive" 
+          ? `${WEBSITE_URL}/chaptercomprehensive?attempt=${quizData.attemptId}&missed=true`
+          : `${WEBSITE_URL}/chapter/${quizData.chapterId}?attempt=${quizData.attemptId}&missed=true`;
           
         // Prepare email content - same for both recipients
         const emailHtml = `
@@ -221,8 +226,12 @@ const server = http.createServer(async (req, res) => {
           <p><strong>Email:</strong> ${emailAddress || "Not provided"}</p>
           
           <div style="margin: 20px 0; padding: 15px; background-color: #f8f9fa; border-radius: 5px; text-align: center;">
-            <p style="margin-bottom: 15px;"><strong>Want to try again with the exact same questions?</strong></p>
-            <a href="${retakeQuizUrl}" style="display: inline-block; background-color: #007bff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;">Retake This Exact Quiz</a>
+            <p style="margin-bottom: 15px;"><strong>Practice options:</strong></p>
+            <a href="${retakeQuizUrl}" style="display: inline-block; background-color: #007bff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold; margin-right: 10px;">Retake This Exact Quiz</a>
+            ${quizData.score < quizData.totalQuestions ? 
+              `<a href="${retryMissedUrl}" style="display: inline-block; background-color: #fd7e14; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;">Retry Missed Questions</a>` 
+              : '<span style="display: inline-block; background-color: #28a745; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;">Perfect Score!</span>'
+            }
           </div>
           
           <h2>Question Details</h2>
