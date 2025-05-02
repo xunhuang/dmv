@@ -1,6 +1,6 @@
 import { initializeApp } from 'firebase/app';
 import { getFirestore, doc, getDoc, setDoc, updateDoc } from 'firebase/firestore';
-import { getAuth, signInAnonymously, GoogleAuthProvider, signInWithPopup, signOut } from 'firebase/auth';
+import { getAuth, signInAnonymously, GoogleAuthProvider, signInWithPopup, signOut, onAuthStateChanged, setPersistence, browserLocalPersistence } from 'firebase/auth';
 import { firebaseConfig } from './config';
 
 // Initialize Firebase app
@@ -12,10 +12,23 @@ try {
   app = initializeApp(firebaseConfig);
   firestore = getFirestore(app);
   auth = getAuth(app);
+  
+  // Set persistence to LOCAL (this persists the auth state even when the browser is closed)
+  setPersistence(auth, browserLocalPersistence)
+    .then(() => {
+      console.log('Firebase persistence set to LOCAL');
+    })
+    .catch(error => {
+      console.error('Error setting persistence:', error);
+    });
+    
   console.log('Firebase initialized');
 } catch (error) {
   console.error('Error initializing Firebase:', error);
 }
+
+// Export Firebase auth functions
+export { getAuth, onAuthStateChanged };
 
 // Helper function to check if Firebase is correctly initialized
 export const isFirebaseInitialized = () => {
@@ -44,7 +57,15 @@ export const signInWithGoogle = async () => {
   }
 
   try {
+    // First set persistence to LOCAL
+    await setPersistence(auth, browserLocalPersistence);
+    
+    // Then sign in with Google popup
     const provider = new GoogleAuthProvider();
+    // Add scopes for additional access if needed
+    provider.addScope('https://www.googleapis.com/auth/userinfo.email');
+    provider.addScope('https://www.googleapis.com/auth/userinfo.profile');
+    
     const userCredential = await signInWithPopup(auth, provider);
     return userCredential.user;
   } catch (error) {

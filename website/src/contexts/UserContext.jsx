@@ -5,7 +5,9 @@ import {
   getUserProfile, 
   updateUserProfile,
   signInWithGoogle,
-  signOutUser
+  signOutUser,
+  getAuth,
+  onAuthStateChanged
 } from '../firebase/firebase';
 
 // Create the UserContext
@@ -28,20 +30,42 @@ export const UserProvider = ({ children }) => {
       try {
         // Try to use Firebase if initialized
         if (isFirebaseInitialized()) {
-          // Get or create anonymous user
-          const firebaseUser = await getOrCreateUser();
-          setUser(firebaseUser);
-          setIsAuthenticated(firebaseUser.isAnonymous === false);
+          // Set up auth state listener to handle automatically signing in
+          const auth = getAuth();
+          const unsubscribe = onAuthStateChanged(auth, async (firebaseUser) => {
+            if (firebaseUser) {
+              // User is signed in (could be anonymous or with Google)
+              console.log('User is already signed in:', firebaseUser.isAnonymous ? 'anonymously' : 'with Google');
+              setUser(firebaseUser);
+              setIsAuthenticated(firebaseUser.isAnonymous === false);
+              
+              // Get user profile from Firestore
+              const userProfile = await getUserProfile(firebaseUser.uid);
+              setProfile(userProfile);
+              setUsingLocalStorage(false);
+            } else {
+              // No user is signed in, create an anonymous user
+              console.log('No user signed in, creating anonymous user');
+              const newUser = await getOrCreateUser();
+              setUser(newUser);
+              setIsAuthenticated(false);
+              
+              // Get user profile from Firestore
+              const userProfile = await getUserProfile(newUser.uid);
+              setProfile(userProfile);
+              setUsingLocalStorage(false);
+            }
+            setLoading(false);
+          });
           
-          // Get user profile from Firestore
-          const userProfile = await getUserProfile(firebaseUser.uid);
-          setProfile(userProfile);
-          setUsingLocalStorage(false);
+          // Return cleanup function
+          return () => unsubscribe();
         } else {
           // Fall back to localStorage
           console.log('Firebase not initialized, using localStorage');
           setUsingLocalStorage(true);
           loadFromLocalStorage();
+          setLoading(false);
         }
       } catch (err) {
         console.error('Error initializing user:', err);
@@ -49,7 +73,6 @@ export const UserProvider = ({ children }) => {
         // Fall back to localStorage on error
         setUsingLocalStorage(true);
         loadFromLocalStorage();
-      } finally {
         setLoading(false);
       }
     };
