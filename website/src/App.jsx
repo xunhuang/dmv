@@ -1,11 +1,17 @@
 import React, { useState, useEffect, useCallback } from "react";
-import { useParams, useNavigate } from "react-router-dom";
+import { useParams, useNavigate, useLocation } from "react-router-dom";
 import { api } from "./mockData";
 import { useUser } from "./contexts/UserContext";
+import { v4 as uuidv4 } from 'uuid';
 
 const App = () => {
   const { id } = useParams();
   const navigate = useNavigate();
+  const location = useLocation();
+  
+  // Get attempt ID from URL query param if present
+  const searchParams = new URLSearchParams(location.search);
+  const attemptId = searchParams.get('attempt');
   
   // User context for profile data
   const { 
@@ -114,11 +120,13 @@ const App = () => {
       setLoading(true);
 
       // Update URL without reloading the page
-      navigate(`/chapter/${chapterId}`);
+      if (chapterId !== id) {
+        navigate(`/chapter/${chapterId}`);
+      }
 
       try {
         if (customQuestions) {
-          // Use the provided custom questions (for retry missed questions feature)
+          // Use the provided custom questions (for retry missed questions or exact retake)
           setQuestions(customQuestions);
           
           // Also save these questions in state for persistence during navigation
@@ -139,7 +147,7 @@ const App = () => {
         setLoading(false);
       }
     },
-    [navigate, questionCount]
+    [navigate, questionCount, id]
   );
 
   // Define function to handle comprehensive test starting
@@ -151,7 +159,9 @@ const App = () => {
     setLoading(true);
 
     // Update URL for comprehensive test
-    navigate("/chaptercomprehensive");
+    if (location.pathname !== "/chaptercomprehensive") {
+      navigate("/chaptercomprehensive");
+    }
 
     try {
       // Wait for chapters to be loaded if needed
@@ -175,9 +185,45 @@ const App = () => {
   // State to preserve custom questions when navigating
   const [customQuestionsState, setCustomQuestionsState] = useState(null);
   
+  // Function to find an attempt by its ID
+  const findAttemptById = useCallback((attemptId) => {
+    if (!attemptId) return null;
+    
+    // Check comprehensive test attempts
+    if (comprehensiveTestScores && comprehensiveTestScores.history) {
+      const comprehensiveAttempt = comprehensiveTestScores.history.find(
+        attempt => attempt.attemptId && attempt.attemptId === attemptId
+      );
+      if (comprehensiveAttempt) {
+        return { 
+          attempt: comprehensiveAttempt, 
+          chapterId: "comprehensive" 
+        };
+      }
+    }
+    
+    // Check chapter-specific attempts
+    for (const chapterId in chapterScores) {
+      if (chapterScores[chapterId] && chapterScores[chapterId].history) {
+        const chapterAttempt = chapterScores[chapterId].history.find(
+          attempt => attempt.attemptId && attempt.attemptId === attemptId
+        );
+        if (chapterAttempt) {
+          return { 
+            attempt: chapterAttempt, 
+            chapterId 
+          };
+        }
+      }
+    }
+    
+    return null;
+  }, [chapterScores, comprehensiveTestScores]);
+  
   // Create initial load handler that depends on the above functions
   const initialChapterLoad = useCallback(
     async (chapterId) => {
+      // Simple router - just handle chapter ID routing
       if (chapterId === "comprehensive") {
         await startComprehensiveTest();
       } else {
@@ -192,24 +238,121 @@ const App = () => {
     [startComprehensiveTest, startQuiz, customQuestionsState, currentChapter]
   );
 
-  // Fetch chapters on component mount
+  // Fetch chapters and handle initial routing on component mount
   useEffect(() => {
-    const fetchChapters = async () => {
+    const fetchChaptersAndInitialize = async () => {
       try {
-        const data = await api.getChapters();
-        setChapters(data);
+        // Only set loading true if we don't already have chapters
+        if (chapters.length === 0) {
+          setLoading(true);
+        }
+        
+        // Load chapters if needed
+        if (chapters.length === 0) {
+          const data = await api.getChapters();
+          setChapters(data);
+        }
+        
+        // If we have an attempt ID in the URL but user isn't authenticated,
+        // we might want to sign in first to access attempt history
 
-        // If the URL includes a chapter ID, load that chapter
-        if (currentChapter && currentView === "quiz") {
-          await initialChapterLoad(currentChapter);
+        // Check for attempt ID in URL
+        if (attemptId && profile) {
+          console.log("Found attempt ID in URL:", attemptId);
+          console.log("Current chapter ID from URL:", id);
+          console.log("Current chapters in profile:", 
+            profile.chapterScores ? Object.keys(profile.chapterScores) : "none", 
+            "comprehensive scores:", profile.comprehensiveTestScores ? "exists" : "none");
+          
+          // Check if user is authenticated before attempting to load from history
+          if (!isAuthenticated) {
+            console.log("User not authenticated, signing in first before accessing attempt");
+            try {
+              await signInWithGoogle();
+              // After sign-in, we'll refresh the page which will reload the URL with attemptId
+              return;
+            } catch (error) {
+              console.error("Failed to sign in:", error);
+              // Still try to load without authentication, as a fallback
+            }
+          }
+          
+          // Find the attempt in the user's history
+          const attemptInfo = findAttemptById(attemptId);
+          
+          if (attemptInfo) {
+            console.log("Found matching attempt for chapter:", attemptInfo.chapterId);
+            console.log("Attempt data:", JSON.stringify({
+              questions: attemptInfo.attempt.questions.length,
+              score: attemptInfo.attempt.score,
+              total: attemptInfo.attempt.total
+            }));
+            
+            // Reset the questions for retaking
+            const resetQuestions = attemptInfo.attempt.questions.map(question => {
+              const { selectedAnswer, ...questionWithoutAnswer } = question;
+              return questionWithoutAnswer;
+            });
+            
+            // Set up the quiz with these exact questions
+            setCurrentChapter(attemptInfo.chapterId);
+            setQuestions(resetQuestions);
+            setCustomQuestionsState(resetQuestions);
+            setCurrentView("quiz");
+            setSelectedAnswers({});
+            setQuizSubmitted(false);
+            
+            // Remove the attempt ID from URL to prevent repeated loading on refresh
+            const newUrl = location.pathname;
+            navigate(newUrl, { replace: true });
+            
+            console.log("Successfully loaded attempt questions, total:", resetQuestions.length);
+            return;
+          } else {
+            // If this is the first time visiting with this attempt ID, it might not be 
+            // in history yet. Use the chapter ID from the URL to load standard questions
+            console.log("Could not find matching attempt with ID:", attemptId);
+            if (id) {
+              console.log("Loading standard questions for chapter:", id);
+              
+              // Create a placeholder attempt to be filled in when quiz is submitted
+              if (id === "comprehensive") {
+                await initialChapterLoad("comprehensive");
+              } else {
+                await initialChapterLoad(id);
+              }
+              
+              // Still remove the attempt ID to prevent confusion
+              navigate(location.pathname, { replace: true });
+              return;
+            }
+          }
+        }
+
+        // Handle comprehensive test route (if no attempt ID handling)
+        if (location.pathname === '/chaptercomprehensive') {
+          await initialChapterLoad("comprehensive");
+        }
+        // Handle normal chapter routes (if no attempt ID handling)
+        else if (id) {
+          await initialChapterLoad(id);
+        }
+        // If we have a current chapter already in state
+        else if (currentChapter && currentView === "quiz") {
+          // No need to reload if we're already there
         }
       } catch (error) {
-        console.error("Error fetching chapters:", error);
+        console.error("Error during initialization:", error);
+      } finally {
+        setLoading(false);
       }
     };
 
-    fetchChapters();
-  }, [currentChapter, currentView, initialChapterLoad]);
+    // Only run this effect when profile is loaded, search params change, or location changes
+    if (profile) {
+      fetchChaptersAndInitialize();
+    }
+  }, [location.pathname, location.search, id, attemptId, initialChapterLoad, chapters.length, profile, findAttemptById]);
 
   const handleAnswerSelect = (questionIndex, optionIndex) => {
     if (quizSubmitted) return;
@@ -227,12 +370,16 @@ const App = () => {
     // Determine if this is a "Retry Missed Questions" quiz
     const isRetryQuiz = customQuestionsState !== null;
     
+    // Generate a unique ID for this attempt
+    const newAttemptId = uuidv4();
+    
     const quizData = {
       chapterId: currentChapter,
       score: score,
       totalQuestions: questions.length,
       answers: selectedAnswers,
       isRetryQuiz: isRetryQuiz, // Flag to indicate this was a retry quiz
+      attemptId: newAttemptId, // Add the unique attempt ID
       questions: questions.map((q, index) => ({
         question: q.question,
         selectedAnswer: selectedAnswers[index],
@@ -298,6 +445,7 @@ const App = () => {
               date: new Date().toISOString(), // Use ISO format for better Firebase compatibility
               score: score,
               total: questions.length,
+              attemptId: quizData.attemptId, // Include the attempt ID
               questions: quizData.questions,
             },
             ...currentHistory,
@@ -319,6 +467,7 @@ const App = () => {
                 date: new Date().toISOString(), // Use ISO format for better Firebase compatibility
                 score: score,
                 total: questions.length,
+                attemptId: quizData.attemptId, // Include the attempt ID
                 questions: quizData.questions,
               },
               ...currentHistory,
@@ -387,6 +536,39 @@ const App = () => {
     // Start a quiz with only the exact missed questions from this attempt
     startQuiz(chapterId, missedQuestions);
   };
+  
+  // Function to retake the exact same quiz with the same questions
+  const retakeExactQuiz = (chapterId, attempt) => {
+    // Get the exact questions from the attempt
+    const exactQuestions = attempt.questions;
+    
+    // Reset the selected answers from the previous attempt
+    const resetQuestions = exactQuestions.map(question => {
+      // Create a new question object without the selectedAnswer property
+      const { selectedAnswer, ...questionWithoutAnswer } = question;
+      return questionWithoutAnswer;
+    });
+    
+    // Store custom questions in state to preserve them during navigation
+    setCustomQuestionsState(resetQuestions);
+    
+    // Start a quiz with the exact same questions
+    if (chapterId === "comprehensive") {
+      setCurrentChapter("comprehensive");
+      setQuestions(resetQuestions);
+      setCurrentView("quiz");
+      setSelectedAnswers({});
+      setQuizSubmitted(false);
+      navigate("/chaptercomprehensive");
+    } else {
+      setCurrentChapter(chapterId);
+      setQuestions(resetQuestions);
+      setCurrentView("quiz");
+      setSelectedAnswers({});
+      setQuizSubmitted(false);
+      navigate(`/chapter/${chapterId}`);
+    }
+  };
 
   const renderReview = () => {
     if (!reviewAttempt) return null;
@@ -404,14 +586,22 @@ const App = () => {
             <div className="text-xl font-bold">
               Score: {reviewAttempt.score}/{reviewAttempt.total}
             </div>
-            {reviewAttempt.score < reviewAttempt.total && (
+            <div className="space-x-2">
               <button
-                onClick={() => retryMissedQuestions(currentChapter, reviewAttempt)}
-                className="bg-orange-500 hover:bg-orange-600 text-white font-semibold py-2 px-4 rounded transition duration-300"
+                onClick={() => retakeExactQuiz(currentChapter, reviewAttempt)}
+                className="bg-blue-500 hover:bg-blue-600 text-white font-semibold py-2 px-4 rounded transition duration-300"
               >
-                Retry Missed Questions
+                Retake Same Quiz
               </button>
-            )}
+              {reviewAttempt.score < reviewAttempt.total && (
+                <button
+                  onClick={() => retryMissedQuestions(currentChapter, reviewAttempt)}
+                  className="bg-orange-500 hover:bg-orange-600 text-white font-semibold py-2 px-4 rounded transition duration-300"
+                >
+                  Retry Missed Questions
+                </button>
+              )}
+            </div>
           </div>
         </div>
 
@@ -778,6 +968,12 @@ const App = () => {
                           >
                             Review
                           </button>
+                          <button
+                            onClick={() => retakeExactQuiz(chapter.id, attempt)}
+                            className="text-green-500 hover:text-green-600 underline mr-3"
+                          >
+                            Retake Same
+                          </button>
                           {attempt.score < attempt.total && (
                             <button
                               onClick={() => retryMissedQuestions(chapter.id, attempt)}
@@ -859,6 +1055,12 @@ const App = () => {
                             className="text-blue-500 hover:text-blue-600 underline mr-3"
                           >
                             Review
+                          </button>
+                          <button
+                            onClick={() => retakeExactQuiz("comprehensive", attempt)}
+                            className="text-green-500 hover:text-green-600 underline mr-3"
+                          >
+                            Retake Same
                           </button>
                           {attempt.score < attempt.total && (
                             <button

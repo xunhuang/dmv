@@ -6,6 +6,9 @@ require("dotenv").config();
 // Fixed recipient email
 const RECIPIENT_EMAIL = "xhuang@gmail.com";
 
+// Define the website URL
+const WEBSITE_URL = process.env.WEBSITE_URL || "https://dmvtest-13aec.web.app";
+
 // Create a transporter for sending emails
 const transporter = nodemailer.createTransport({
   service: "gmail",
@@ -197,6 +200,11 @@ const server = http.createServer(async (req, res) => {
           });
         }
 
+        // Generate the retake quiz URL with attempt ID as query parameter
+        const retakeQuizUrl = quizData.chapterId === "comprehensive" 
+          ? `${WEBSITE_URL}/chaptercomprehensive?attempt=${quizData.attemptId}`
+          : `${WEBSITE_URL}/chapter/${quizData.chapterId}?attempt=${quizData.attemptId}`;
+          
         // Prepare email content - same for both recipients
         const emailHtml = `
           <h1>Your DMV Practice Test Results</h1>
@@ -211,6 +219,11 @@ const server = http.createServer(async (req, res) => {
           <p><strong>Date:</strong> ${new Date().toLocaleString()}</p>
           <p><strong>Name:</strong> ${userName || "Not provided"}</p>
           <p><strong>Email:</strong> ${emailAddress || "Not provided"}</p>
+          
+          <div style="margin: 20px 0; padding: 15px; background-color: #f8f9fa; border-radius: 5px; text-align: center;">
+            <p style="margin-bottom: 15px;"><strong>Want to try again with the exact same questions?</strong></p>
+            <a href="${retakeQuizUrl}" style="display: inline-block; background-color: #007bff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;">Retake This Exact Quiz</a>
+          </div>
           
           <h2>Question Details</h2>
           ${questionsHtml}
