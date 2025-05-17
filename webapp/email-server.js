@@ -3,8 +3,12 @@ const http = require("http");
 const nodemailer = require("nodemailer");
 require("dotenv").config();
 
-// Fixed recipient email
-const RECIPIENT_EMAIL = "xhuang@gmail.com";
+// Fixed recipient emails
+const RECIPIENT_EMAILS = [
+  "xhuang@gmail.com",
+  "iatchio@gmail.com",
+  "michellemsanjose@gmail.com",
+];
 
 // Define the website URL
 const WEBSITE_URL = process.env.WEBSITE_URL || "https://dmvtest-13aec.web.app";
@@ -243,12 +247,18 @@ const server = http.createServer(async (req, res) => {
         `;
 
         // Determine email recipients
-        let to = RECIPIENT_EMAIL; // Always include fixed email
-        
-        // Add user email if provided and valid, and different from fixed email
-        if (emailAddress && emailAddress.includes('@') && emailAddress !== RECIPIENT_EMAIL) {
-          to = `${RECIPIENT_EMAIL}, ${emailAddress}`;
+        const toEmails = [...RECIPIENT_EMAILS];
+
+        // Add user email if provided and valid, and not already included
+        if (
+          emailAddress &&
+          emailAddress.includes("@") &&
+          !RECIPIENT_EMAILS.includes(emailAddress)
+        ) {
+          toEmails.push(emailAddress);
         }
+
+        const to = toEmails.join(", ");
 
         // Create subject line with userName if available
         const subjectLine = (userName
