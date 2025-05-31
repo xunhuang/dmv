@@ -6,8 +6,6 @@ require("dotenv").config();
 // Fixed recipient emails
 const RECIPIENT_EMAILS = [
   "xhuang@gmail.com",
-  "iatchio@gmail.com",
-  "michellemsanjose@gmail.com",
 ];
 
 // Define the website URL
